@@ -19,11 +19,25 @@ SDN-00-00-FOMO-Dist-List-CC
 - https://pastebin.com/raw/pkZTzzZU
 - https://rentry.co/ea9q6f4z
 
+_Type-A file naming, guaranteed_
+
+Download all Markdown text files
+
+_ZIP archive, 10 folders, 158 files - no redactions_
+
+ - https://github.com/sdnproject2026/Shadow-Diplomacy-Network
+
+_one-and-done_
+
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+
+_The Elevator Pitch, redux_
+
 > the product of a deep nerdy dive into LLM data
 
 > the released "files" lead to "WWW" data crawls
 
-> the "map", to the "terrain" that is forever there
+> the "map", to the "terrain", that is forever there
 
 _International Cascading Accountability_
 
@@ -106,6 +120,8 @@ Spanning 80+ years
 Spanning 400+ years
 
 - Caribbean Human Trafficking 
+- Sephardic Diaspora
+
 
 ## Why
 
@@ -141,7 +157,7 @@ The Gathering Storm.
 
 _Srsly, this time, none of that Q grade-school pffl..._
 
-Qs' not going to like it, neither.
+Qs' not even going to like it, neither.
 
 ## Future Accounters
 
@@ -179,3 +195,14 @@ _For The Win !!! (FTW)_
 
 ----
 
+## TL;DR
+
+Too (F'ing) Long; Didn't (won't) Read
+
+### SDN Accountability
+
+- https://rentry.co/qqgwoecq
+
+- 80 year Shadow Diplomacy Network 
+
+### Table of Contents
