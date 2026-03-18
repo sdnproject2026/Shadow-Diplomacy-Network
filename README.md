@@ -1,3 +1,5 @@
+> Note: see "Breaking News" for "pre-release" additions
+
 # RE: Forget Epstein
 
 ... 1940s-2020s
