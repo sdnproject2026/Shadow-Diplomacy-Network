@@ -1,5 +1,7 @@
 > Note: see "Breaking News" for "pre-release" additions
 
+> See sub-directories for "Fellow Travelers" content and references.
+
 # RE: Forget Epstein
 
 ... 1940s-2020s
