@@ -24,7 +24,7 @@ SDN-00-04-List-Of-Names
 SDN-00-00-FOMO-Dist-List-CC
 
 - anon ASCII text-only file in Markdown
-- CSV / CC formatted email recipients
+- CSV / CC formatted email recipient lists
 - https://pastebin.com/raw/pkZTzzZU
 - https://rentry.co/ea9q6f4z
 
