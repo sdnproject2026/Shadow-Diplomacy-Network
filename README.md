@@ -16,18 +16,21 @@
 
 SDN-00-04-List-Of-Names
 
+- anon ASCII text-only file in Markdown
 - grouped by occupation
 - https://rentry.co/at4v3s75
 - https://pastes.io/sdn-00-04-/
  
 SDN-00-00-FOMO-Dist-List-CC
+
+- anon ASCII text-only file in Markdown
 - CSV / CC formatted email recipients
 - https://pastebin.com/raw/pkZTzzZU
 - https://rentry.co/ea9q6f4z
 
 _Type-A file naming, guaranteed_
 
-Download all Markdown text files
+### Download all Markdown text files
 
 _ZIP archive, 10 folders, 158 files - no redactions_
 
@@ -44,6 +47,10 @@ _The Elevator Pitch, redux_
 > the released "files" lead to "WWW" data crawls
 
 > the "map", to the "terrain", that is forever there
+
+### Breaking-News
+
+https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Breaking-News
 
 _International Cascading Accountability_
 
