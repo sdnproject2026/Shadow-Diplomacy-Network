@@ -2,6 +2,8 @@
 
 > See sub-directories for "Fellow Travelers" content and references.
 
+- https://github.com/sdnproject2026/Shadow-Diplomacy-Network
+
 # RE: Forget Epstein
 
 ... 1940s-2020s
