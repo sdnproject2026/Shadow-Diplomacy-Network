@@ -56,7 +56,7 @@ _International Cascading Accountability_
 
 Proverbial F'ing House of Proverbial F'ing Cards
 
-2026 Unsealed Bear Sterns “_Special Products”_ files
+It all started with the 2026 Unsealed Bear Sterns “_Special Products”_ files
 
 > International Shadow Diplomacy Network
 
