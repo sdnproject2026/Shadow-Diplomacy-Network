@@ -2,7 +2,7 @@
 
 ## Metadata
 
-- https://pastebin.com/ZeVnngG3
+- https://pastebin.com/raw/ZeVnngG3
 - https://pastes.io/YvhriyLl (2026-04-22)
 - PE NA
 - https://rentry.co/g3chmzqg
