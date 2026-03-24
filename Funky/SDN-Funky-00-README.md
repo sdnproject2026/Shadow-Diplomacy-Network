@@ -1,4 +1,4 @@
-> **Start here →** [`analysis/complete-findings-english.md`](analysis/complete-findings-english.md) — the single document presenting all verified results.
+> See SDN-Funky-01-Findings.md
 
 # Epstein Files Transparency Act — Primary Source Analysis
 
