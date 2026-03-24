@@ -2,6 +2,8 @@
 
 > See sub-directories for "Fellow Travelers" content and references.
 
+> See "Sent" for email distribution campaign history and lists
+
 - https://github.com/sdnproject2026/Shadow-Diplomacy-Network
 
 # RE: Forget Epstein
