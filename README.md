@@ -1,6 +1,10 @@
-> Note: see "Breaking News" for "pre-release" additions
+> Notes:
+
+> See "Breaking News" for "pre-release" (ZIP) additions
 
 > See sub-directories for "Fellow Travelers" content and references.
+
+> Create an "Issue" to get your data processed, listed, referenced.
 
 > See "Sent" for email distribution campaign history and lists
 
