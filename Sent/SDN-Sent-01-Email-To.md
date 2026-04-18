@@ -18,12 +18,7 @@ sdnproject2026@mailnesia.com
 
 ----
 
-## Next Batch
-
-
-----
-
-## 2026-03 99
+## 2026-04-18
 
 ### US-State-AGs - C
 
@@ -45,6 +40,48 @@ consumerprotection@law.ga.gov, hawaiiag@hawaii.gov, idahoag@ag.idaho.gov,
 miag@michigan.gov, attorney.general@ag.state.mn.us, info@ago.state.ms.us
 ```
 
+### Email Counts
+
+- 10 - US-State-AGs - C
+- 14 - US-State-AGs - D
+- 24 - Total
+
+----
+
+## 2026-04-08
+
+### US-Media - A
+
+Protonmail
+
+^ ron@meidastouch.com
+
+^ kaia.hubbard@cbsinteractive.com
+
+^ adurbin@ap.org
+
+```
+msisak@ap.org, etucker@ap.org, ben@meidastouch.com, brett@meidastouch.com, macfarlanes@cbsnews.com, melissa.quinn@cbsinteractive.com, sfowler@npr.org, jdiaz@npr.org, sneuman@npr.org, llanders@newshour.org, ldesjardins@newshour.org
+```
+
+### US-Media - B
+
+Protonmail
+
+```
+mfinnegan@newshour.org, john@other98.com, andy@other98.com, action@other98.com, omar@occupydemocrats.com, omar@tribel.com, rafael@occupydemocrats.com, grant@occupydemocrats.com, news@axios.com, info@axios.com, pips@axios.com, press@axios.com
+```
+
+### Email Counts
+
+- 14 - US-Media - A
+- 12 - US-Media - B
+- 26 - Total
+
+----
+
+## 2026-04-09
+
 ### US-Govt-Cabinet - A
 
 Protonmail
@@ -52,17 +89,6 @@ Protonmail
 ```
 press@dol.gov, press@hhs.gov, hudpressoffice@hud.gov, pressoffice@dot.gov
 ```
-
-### Email Counts
-
-- 10 - US-State-AGs - C
-- 14 - US-State-AGs - D
-- 04 - US-Govt-Cabinet
-- 28 - Total
-
-----
-
-## 2026-03 99
 
 ### US-Govt-Cabinet - B
 
@@ -86,39 +112,10 @@ info@theabrahamgroup.com, info@ashcroftlawfirm.com, info@baucusinstitute.org, pr
 
 ### Email Counts
 
-- 12 - US-Govt-Cabinet
+- 04 - US-Govt-Cabinet A
+- 12 - US-Govt-Cabinet B
 - 20 - Legacy Senators
-- 32 - Total
-
-----
-
-## RE DO
-
-## 2026-04-03
-
-### US-Media - A
-
-Protonmail
-
-^ ron@meidastouch.com
-
-```
-msisak@ap.org, adurbin@ap.org, etucker@ap.org, ben@meidastouch.com, brett@meidastouch.com, macfarlanes@cbsnews.com, kaia.hubbard@cbsinteractive.com, melissa.quinn@cbsinteractive.com, sfowler@npr.org, jdiaz@npr.org, sneuman@npr.org, llanders@newshour.org, ldesjardins@newshour.org
-```
-
-### US-Media - B
-
-Protonmail
-
-```
-mfinnegan@newshour.org, john@other98.com, andy@other98.com, action@other98.com, omar@occupydemocrats.com, omar@tribel.com, rafael@occupydemocrats.com, grant@occupydemocrats.com, news@axios.com, info@axios.com, pips@axios.com, press@axios.com
-```
-
-### Email Counts
-
-- 14 - US-Media - A
-- 12 - US-Media - B
-- 26 - Total
+- 36 - Total
 
 ----
 
