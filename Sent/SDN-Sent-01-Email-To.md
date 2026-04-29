@@ -1,4 +1,4 @@
-# SDN Sent 01 Email To
+### SDN-Sent-01-Email-To
 
 ## BCC
 
@@ -16,7 +16,139 @@ sdnproject2026@mailnesia.com
 
 ----
 
+# New Batches
+
+## Weekly News
+
+### E
+
+```
+info@alternet.org, tips@alternet.org, press@alternet.org, tips@meidasnews.com, press@meidasnews.com, info@meidasnews.com, tips@breitbart.com, press@breitbart.com, contact@breitbart.com, info@thebulwark.com, press@thebulwark.com, tips@thebulwark.com, letters@dailysignal.com, press@dailysignal.com, tips@dailysignal.com, info@theonion.com, press@theonion.com, tips@theonion.com, nprnews@npr.org, ombudsman@npr.org, press@npr.org, tips@infowars.com, press@infowars.com, contact@infowars.com, info@federalnewsnetwork.com, press@federalnewsnetwork.com, tips@federalnewsnetwork.com
+```
+
+### F
+
+```
+tips@newsmax.com, press@newsmax.com, info@newsmax.com, tips@rollcall.com, press@cqrollcall.com, info@rollcall.com, tips@thehill.com, press@thehill.com, editor@thehill.com, tips@variety.com, press@variety.com, newsroom@variety.com, letters@time.com, press@time.com, tips@time.com, tips@newsweek.com, press@newsweek.com, letters@newsweek.com
+```
+
+## Monthly News
+
+### G
+
+```
+info@notus.org, press@notus.org, tips@notus.org, info@mediamatters.org, press@mediamatters.org, tips@mediamatters.org, tips@propublica.org, press@propublica.org, info@propublica.org, letters@reason.com, press@reason.com, tips@reason.com, tips@politico.com, press@politico.com, newsroom@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@theatlantic.com, tips@mashable.com, press@mashable.com, info@mashable.com, tips@motherjones.com, press@motherjones.com, info@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com
+```
+
+### H
+
+```
+letters@newyorker.com, press@newyorker.com, tips@newyorker.com, tips@oann.com, press@oann.com, info@oann.com, letters@nationalreview.com, press@nationalreview.com, tips@nationalreview.com, letters@harpers.org, press@harpers.org, info@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, press@lrb.co.uk, letters@foreignaffairs.com, press@foreignaffairs.com, info@foreignaffairs.com, editor@nationalinterest.org, press@nationalinterest.org, info@nationalinterest.org, editors@currentaffairs.org, press@currentaffairs.org, info@currentaffairs.org
+```
+
+## Financial News
+
+### I
+
+```
+tips@cnbc.com, press@cnbc.com, info@cnbc.com, apbusiness@ap.org, tips@ap.org, press@ap.org, tips@qz.com, press@qz.com, info@qz.com, tips@thestreet.com, press@thestreet.com, info@thestreet.com, editors@barrons.com, press@barrons.com, tips@barrons.com, tips@ibtimes.com, press@ibtimes.com, info@ibtimes.com, tips@wsj.com, press@wsj.com, news@wsj.com, tips@dailyhodl.com, press@dailyhodl.com, info@dailyhodl.com, tips@marketwatch.com, press@marketwatch.com, editors@marketwatch.com
+```
+
+### J
+
+```
+tips@bloomberg.net, press@bloomberg.net, markets@bloomberg.net, tips@thomsonreuters.com, press@reuters.com, finance@reuters.com, markets@ft.com, press.office@ft.com, letters@ft.com, support@investing.com, press@investing.com, info@investing.com, support@seekingalpha.com, press@seekingalpha.com, editors@seekingalpha.com
+```
+
 ----
+
+----
+
+# Old Batches
+
+## 2026-04-29
+
+### Foreign News C
+
+Protonmail
+
+^ press.office@ft.com
+
+^ letters@ft.com
+
+^ newsonline@bbc.co.uk
+
+^ contact@france24.com
+
+^ press@france24.com
+
+^ press@bbc.co.uk
+
+^ press@bbc.co.uk
+
+^ press@timesofisrael.com
+
+^ tips@timesofisrael.com
+
+^ press@economist.com
+
+^ info@jpost.com
+
+^ news@jpost.com
+
+^ press@jpost.com
+
+^ press@independent.co.uk
+
+^ tips@independent.co.uk
+
+```
+tips@theguardian.com, guardian.readers@theguardian.com, press@theguardian.com, newsonline@bbc.co.uk, yourpics@bbc.co.uk, press@bbc.co.uk, newsdesk@independent.co.uk, tips@independent.co.uk, press@independent.co.uk, info@jpost.com, news@jpost.com, press@jpost.com, tips@timesofisrael.com, info@timesofisrael.com, press@timesofisrael.com, letters@economist.com, press@economist.com, info@economist.com, info@rbc.ua, news@rbc.ua, press@rbc.ua, observers@france24.com, contact@france24.com, press@france24.com, letters@ft.com, press.office@ft.com, tips@ft.com
+```
+
+## Foreign News D
+
+```
+feedback@skynews.com.au, news@skynews.com.au, press@skynews.com.au, yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net, info@dw.com, press@dw.com, english@dw.com, letters@scmp.com, press@scmp.com, tips@scmp.com, letters@japantimes.co.jp, info@japantimes.co.jp, press@japantimes.co.jp, courrier@lemonde.fr, mediateur@lemonde.fr, presse@lemonde.fr, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au
+```
+
+### Email Counts
+
+- 27 - Foreign News - C
+- 21 - Foreign News - D
+
+## 2026-04-20
+
+### Daily News
+
+See bounce-01
+
+^ press@usatoday.com
+
+^ tips@usatoday.com
+
+^ usatodaynews@usatoday.com
+
+
+```
+tips@cnn.com, cnn.feedback@cnn.com, press@cnn.com, newsmanager@foxnews.com, tips@foxnews.com, foxnewsinsider@foxnews.com, tips@axios.com, media@axios.com, info@axios.com, tips@huffpost.com, editors@huffpost.com, press@huffpost.com, drudge@drudgereport.com, tips@drudgereport.com, editor@drudgereport.com, support@ground.news, press@ground.news, info@ground.news, tips@thegatewaypundit.com, contact@thegatewaypundit.com, editor@thegatewaypundit.com, info@ap.org, apnewsroom@ap.org, tips@ap.org
+```
+
+```
+tips@nbcuni.com, press@nbcnews.com, viewer@nbcuni.com, support@onenewspage.com, press@onenewspage.com, info@onenewspage.com, tips@dailywire.com, press@dailywire.com, info@dailywire.com, tips@newsnationnow.com, feedback@newsnationnow.com, press@newsnationnow.com, info@upi.com, press@upi.com, tips@upi.com
+```
+
+### New
+
+```
+tips@thomsonreuters.com, press@reuters.com, editor@reuters.com, abc.news.tips@abc.com, press@abcnews.com, feedback@abc.com, tips@cbsnews.com, press@cbsnews.com, viewer@cbs.com, tips@bloomberg.net, press@bloomberg.net, info@bloomberg.net, contact@usnews.com, press@usnews.com, tips@usnews.com
+```
+
+### Email Counts
+
+- 30 - Daily News - A
+- 15 - Daily News - B
+- 15 - Daily News - New
 
 ## 2026-04-18
 
@@ -26,8 +158,14 @@ Protonmail
 
 ^ nmag@nmag.gov
 
+^ idahoag@ag.idaho.gov
+
+^ consumerprotection@law.ga.gov
+
+^ attorney.general@ag.state.mn.us
+
 ```
-attorney.general@ago.mo.gov, consumer.help@ago.mo.gov, ago.info.help@nebraska.gov, ago.consumer@nebraska.gov, AGInfo@ag.nv.gov, DOJ-CPB@doj.nh.gov, ndag@nd.gov, ConsumerProtection@oag.ok.gov, AttorneyGeneral@doj.state.or.us
+attorney.general@ago.mo.gov, consumer.help@ago.mo.gov, ago.info.help@nebraska.gov, ago.consumer@nebraska.gov, AGInfo@ag.nv.gov, DOJ-CPB@doj.nh.gov, ndag@nd.gov, AttorneyGeneral@doj.state.or.us
 ```
 
 ### US-State-AGs - D
@@ -35,9 +173,8 @@ attorney.general@ago.mo.gov, consumer.help@ago.mo.gov, ago.info.help@nebraska.go
 Protonmail
 
 ```
-consumerhelp@state.sd.us, scdca@scconsumer.gov, consumerhelp@state.sd.us, uag@agutah.gov, ago.info@vermont.gov, CRC@atg.wa.gov, consumer@wvago.gov, ag.consumer@wyo.gov,
-consumerprotection@law.ga.gov, hawaiiag@hawaii.gov, idahoag@ag.idaho.gov,
-miag@michigan.gov, attorney.general@ag.state.mn.us, info@ago.state.ms.us
+consumerhelp@state.sd.us, scdca@scconsumer.gov, consumerhelp@state.sd.us, uag@agutah.gov, ago.info@vermont.gov, CRC@atg.wa.gov, consumer@wvago.gov, ag.consumer@wyo.gov, hawaiiag@hawaii.gov,
+miag@michigan.gov, info@ago.state.ms.us
 ```
 
 ### Email Counts
@@ -98,8 +235,10 @@ Protonmail
 
 ^ comments@whitehouse.gov
 
+^ press@state.gov
+
 ```
-president@whitehouse.gov, newsadmin@whitehouse.gov, press@who.eop.gov, press@state.gov, osd.pa.dutyofficer@mail.mil, press@treasury.gov, press@usdoj.gov, interior_press@ios.doi.gov, press@usda.gov, publicaffairs@doc.gov
+president@whitehouse.gov, newsadmin@whitehouse.gov, press@who.eop.gov, osd.pa.dutyofficer@mail.mil, press@treasury.gov, press@usdoj.gov, interior_press@ios.doi.gov, press@usda.gov, publicaffairs@doc.gov
 ```
 
 ### Legacy Senators
