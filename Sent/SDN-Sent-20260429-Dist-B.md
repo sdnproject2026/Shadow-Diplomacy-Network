@@ -8,9 +8,26 @@ SDN-Sent-04-Email-To-News-CSV
 
 ### Foreign D
 
+> info@japantimes.co.jp
+
+> press@japantimes.co.jp
+
+> letters@japantimes.co.jp
+
+> press@scmp.com
+
+> tips@scmp.com
+
+> press@dw.com
+
+> feedback@skynews.com.au
+
+> press@skynews.com.au
+
+> news@skynews.com.au
 
 ```
-feedback@skynews.com.au, news@skynews.com.au, press@skynews.com.au, yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net, info@dw.com, press@dw.com, english@dw.com, letters@scmp.com, press@scmp.com, tips@scmp.com, letters@japantimes.co.jp, info@japantimes.co.jp, press@japantimes.co.jp, courrier@lemonde.fr, mediateur@lemonde.fr, presse@lemonde.fr, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au
+yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net, info@dw.com, english@dw.com, letters@scmp.com, courrier@lemonde.fr, mediateur@lemonde.fr, presse@lemonde.fr, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au
 ```
 
 ### Email Counts
