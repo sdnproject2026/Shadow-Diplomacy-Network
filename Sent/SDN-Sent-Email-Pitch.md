@@ -1,5 +1,7 @@
 Forget Epstein - 1940s-2020s - Barr - Bear - Khashoggi - Kirkland - Maxwell
 
+Forget Epstein - 1940s-2020s - Melania - Pam- Barr - Bear - Khashoggi - Kirkland - Maxwell
+
 # Elevator Pitch
 
 SDN-00-04-List-Of-Names

@@ -18,20 +18,6 @@ sdnproject2026@mailnesia.com
 
 # New Batches
 
-## Weekly News
-
-### E
-
-```
-info@alternet.org, tips@alternet.org, press@alternet.org, tips@meidasnews.com, press@meidasnews.com, info@meidasnews.com, tips@breitbart.com, press@breitbart.com, contact@breitbart.com, info@thebulwark.com, press@thebulwark.com, tips@thebulwark.com, letters@dailysignal.com, press@dailysignal.com, tips@dailysignal.com, info@theonion.com, press@theonion.com, tips@theonion.com, nprnews@npr.org, ombudsman@npr.org, press@npr.org, tips@infowars.com, press@infowars.com, contact@infowars.com, info@federalnewsnetwork.com, press@federalnewsnetwork.com, tips@federalnewsnetwork.com
-```
-
-### F
-
-```
-tips@newsmax.com, press@newsmax.com, info@newsmax.com, tips@rollcall.com, press@cqrollcall.com, info@rollcall.com, tips@thehill.com, press@thehill.com, editor@thehill.com, tips@variety.com, press@variety.com, newsroom@variety.com, letters@time.com, press@time.com, tips@time.com, tips@newsweek.com, press@newsweek.com, letters@newsweek.com
-```
-
 ## Monthly News
 
 ### G
@@ -65,6 +51,27 @@ tips@bloomberg.net, press@bloomberg.net, markets@bloomberg.net, tips@thomsonreut
 ----
 
 # Old Batches
+
+## 2026-05-03 B
+
+### Weekly News - F
+
+```
+tips@newsmax.com, press@newsmax.com, info@newsmax.com, tips@rollcall.com, press@cqrollcall.com, info@rollcall.com, tips@thehill.com, press@thehill.com, editor@thehill.com, tips@variety.com, press@variety.com, newsroom@variety.com, letters@time.com, press@time.com, tips@time.com, tips@newsweek.com, press@newsweek.com, letters@newsweek.com
+```
+
+## 2026-05-03 A
+
+### Weekly News - E
+
+```
+info@alternet.org, tips@alternet.org, press@alternet.org, tips@meidasnews.com, press@meidasnews.com, info@meidasnews.com, tips@breitbart.com, press@breitbart.com, contact@breitbart.com, info@thebulwark.com, press@thebulwark.com, tips@thebulwark.com, letters@dailysignal.com, press@dailysignal.com, tips@dailysignal.com, info@theonion.com, press@theonion.com, tips@theonion.com, nprnews@npr.org, ombudsman@npr.org, press@npr.org, tips@infowars.com, press@infowars.com, contact@infowars.com, info@federalnewsnetwork.com, press@federalnewsnetwork.com, tips@federalnewsnetwork.com
+```
+
+### Email Counts
+
+- 27 - Weekly News - E
+- 17 - Weekly News - F
 
 ## 2026-04-29
 
