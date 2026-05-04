@@ -8,6 +8,28 @@ SDN-Sent-04-Email-To-News-CSV
 
 ### Weekly - F
 
+^ tips@time.com
+
+^ info@rollcall.com
+
+^ press@cqrollcall.com
+
+^ press@time.com
+
+^ press@thehill.com
+
+^ tips@thehill.com
+
+^ letters@newsweek.com
+
+^ press@variety.com
+
+^ press@newsweek.com
+
+^ tips@newsweek.com
+
+^ newsroom@variety.com
+
 ```
 tips@newsmax.com, press@newsmax.com, info@newsmax.com, tips@rollcall.com, press@cqrollcall.com, info@rollcall.com, tips@thehill.com, press@thehill.com, editor@thehill.com, tips@variety.com, press@variety.com, newsroom@variety.com, letters@time.com, press@time.com, tips@time.com, tips@newsweek.com, press@newsweek.com, letters@newsweek.com
 ```
