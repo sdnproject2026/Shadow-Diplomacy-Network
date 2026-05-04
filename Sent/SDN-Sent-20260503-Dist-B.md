@@ -8,6 +8,10 @@ SDN-Sent-04-Email-To-News-CSV
 
 ### Weekly - F
 
+^ info@newsmax.com
+
+^ press@newsmax.com
+
 ^ tips@time.com
 
 ^ info@rollcall.com
