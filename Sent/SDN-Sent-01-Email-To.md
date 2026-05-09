@@ -18,20 +18,6 @@ sdnproject2026@mailnesia.com
 
 # New Batches
 
-## Monthly News
-
-### G
-
-```
-info@notus.org, press@notus.org, tips@notus.org, info@mediamatters.org, press@mediamatters.org, tips@mediamatters.org, tips@propublica.org, press@propublica.org, info@propublica.org, letters@reason.com, press@reason.com, tips@reason.com, tips@politico.com, press@politico.com, newsroom@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@theatlantic.com, tips@mashable.com, press@mashable.com, info@mashable.com, tips@motherjones.com, press@motherjones.com, info@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com
-```
-
-### H
-
-```
-letters@newyorker.com, press@newyorker.com, tips@newyorker.com, tips@oann.com, press@oann.com, info@oann.com, letters@nationalreview.com, press@nationalreview.com, tips@nationalreview.com, letters@harpers.org, press@harpers.org, info@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, press@lrb.co.uk, letters@foreignaffairs.com, press@foreignaffairs.com, info@foreignaffairs.com, editor@nationalinterest.org, press@nationalinterest.org, info@nationalinterest.org, editors@currentaffairs.org, press@currentaffairs.org, info@currentaffairs.org
-```
-
 ## Financial News
 
 ### I
@@ -51,6 +37,22 @@ tips@bloomberg.net, press@bloomberg.net, markets@bloomberg.net, tips@thomsonreut
 ----
 
 # Old Batches
+
+## 2026-05-09 B
+
+## Monthly News G
+
+```
+info@notus.org, press@notus.org, tips@notus.org, info@mediamatters.org, press@mediamatters.org, tips@mediamatters.org, tips@propublica.org, press@propublica.org, info@propublica.org, letters@reason.com, press@reason.com, tips@reason.com, tips@politico.com, press@politico.com, newsroom@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@theatlantic.com, tips@mashable.com, press@mashable.com, info@mashable.com, tips@motherjones.com, press@motherjones.com, info@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com
+```
+
+## 2026-05-09 A
+
+## Monthly News H
+
+```
+letters@newyorker.com, press@newyorker.com, tips@newyorker.com, tips@oann.com, press@oann.com, info@oann.com, letters@nationalreview.com, press@nationalreview.com, tips@nationalreview.com, letters@harpers.org, press@harpers.org, info@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, press@lrb.co.uk, letters@foreignaffairs.com, press@foreignaffairs.com, info@foreignaffairs.com, editor@nationalinterest.org, press@nationalinterest.org, info@nationalinterest.org, editors@currentaffairs.org, press@currentaffairs.org, info@currentaffairs.org
+```
 
 ## 2026-05-03 B
 

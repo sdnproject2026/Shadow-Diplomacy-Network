@@ -2,16 +2,54 @@
 
 ## To
 
-## 2026-05-03 - E
+## 2026-05-03 - A
 
 SDN-Sent-04-Email-To-News-CSV
 
 ### Weekly - E
 
-^ tips@newsmax.com
+^  tips@alternet.org
+
+^ press@alternet.org
+
+^ press@thebulwark.com
+
+^ tips@thebulwark.com
+
+^ tips@meidasnews.com
+
+^ press@meidasnews.com
+
+^ info@meidasnews.com
+
+^ tips@breitbart.com
+
+^ press@breitbart.com
+
+^ press@dailysignal.com
+
+^ tips@dailysignal.com
+
+^ info@theonion.com
+
+^ tips@theonion.com
+
+^ ombudsman@npr.org
+
+^ press@npr.org
+
+^ tips@infowars.com
+
+^ press@infowars.com
+
+^ contact@infowars.com
+
+^ press@federalnewsnetwork.com
+
+^ tips@federalnewsnetwork.com
 
 ```
-info@alternet.org, tips@alternet.org, press@alternet.org, tips@meidasnews.com, press@meidasnews.com, info@meidasnews.com, tips@breitbart.com, press@breitbart.com, contact@breitbart.com, info@thebulwark.com, press@thebulwark.com, tips@thebulwark.com, letters@dailysignal.com, press@dailysignal.com, tips@dailysignal.com, info@theonion.com, press@theonion.com, tips@theonion.com, nprnews@npr.org, ombudsman@npr.org, press@npr.org, tips@infowars.com, press@infowars.com, contact@infowars.com, info@federalnewsnetwork.com, press@federalnewsnetwork.com, tips@federalnewsnetwork.com
+info@alternet.org, contact@breitbart.com, info@thebulwark.com, letters@dailysignal.com, press@theonion.com, nprnews@npr.org, info@federalnewsnetwork.com
 ```
 
 ### Email Counts
@@ -29,7 +67,9 @@ sdnproject2026@onionmail.org
 ## Topics
 
 Re: Melania
+
 Re: Pam
+
 Re: Elevator Pitch
 
 ----
