@@ -18,25 +18,27 @@ sdnproject2026@mailnesia.com
 
 # New Batches
 
-## Financial News
-
-### I
-
-```
-tips@cnbc.com, press@cnbc.com, info@cnbc.com, apbusiness@ap.org, tips@ap.org, press@ap.org, tips@qz.com, press@qz.com, info@qz.com, tips@thestreet.com, press@thestreet.com, info@thestreet.com, editors@barrons.com, press@barrons.com, tips@barrons.com, tips@ibtimes.com, press@ibtimes.com, info@ibtimes.com, tips@wsj.com, press@wsj.com, news@wsj.com, tips@dailyhodl.com, press@dailyhodl.com, info@dailyhodl.com, tips@marketwatch.com, press@marketwatch.com, editors@marketwatch.com
-```
-
-### J
-
-```
-tips@bloomberg.net, press@bloomberg.net, markets@bloomberg.net, tips@thomsonreuters.com, press@reuters.com, finance@reuters.com, markets@ft.com, press.office@ft.com, letters@ft.com, support@investing.com, press@investing.com, info@investing.com, support@seekingalpha.com, press@seekingalpha.com, editors@seekingalpha.com
-```
-
 ----
 
 ----
 
 # Old Batches
+
+## 2026-05-12 B
+
+## Monthly News J
+
+```
+tips@bloomberg.net, press@bloomberg.net, markets@bloomberg.net, tips@thomsonreuters.com, press@reuters.com, finance@reuters.com, markets@ft.com, press.office@ft.com, letters@ft.com, support@investing.com, press@investing.com, info@investing.com, support@seekingalpha.com, press@seekingalpha.com, editors@seekingalpha.com
+```
+
+## 2026-05-12 A
+
+## Monthly News I
+
+```
+tips@cnbc.com, press@cnbc.com, info@cnbc.com, apbusiness@ap.org, tips@ap.org, press@ap.org, tips@qz.com, press@qz.com, info@qz.com, tips@thestreet.com, press@thestreet.com, info@thestreet.com, editors@barrons.com, press@barrons.com, tips@barrons.com, tips@ibtimes.com, press@ibtimes.com, info@ibtimes.com, tips@wsj.com, press@wsj.com, news@wsj.com, tips@dailyhodl.com, press@dailyhodl.com, info@dailyhodl.com, tips@marketwatch.com, press@marketwatch.com, editors@marketwatch.com
+```
 
 ## 2026-05-09 B
 

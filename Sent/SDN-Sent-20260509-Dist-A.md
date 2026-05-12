@@ -29,8 +29,10 @@ SDN-Sent-04-Email-To-News-CSV
 
 ^- newsroom@politico.com
 
+^ - tips@theatlantic.com
+
 ```
-tips@notus.org, press@mediamatters.org, tips@propublica.org, info@propublica.org, tips@reason.com, tips@politico.com, press@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@theatlantic.com, tips@mashable.com, press@mashable.com, press@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com
+tips@notus.org, press@mediamatters.org, tips@propublica.org, info@propublica.org, tips@reason.com, tips@politico.com, press@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@mashable.com, press@mashable.com, press@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com
 
 ```
 

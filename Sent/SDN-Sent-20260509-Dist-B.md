@@ -26,10 +26,12 @@ SDN-Sent-04-Email-To-News-CSV
 
 ^ press@lrb.co.uk
 
+^ info@oann.com
 
+^ letters@newyorker.com
 
 ```
-letters@newyorker.com , press@newyorker.com , tips@newyorker.com , tips@oann.com , press@oann.com , info@oann.com , letters@nationalreview.com , tips@nationalreview.com , letters@harpers.org , letters@lrb.co.uk , info@lrb.co.uk , letters@foreignaffairs.com , press@foreignaffairs.com , info@foreignaffairs.com , editor@nationalinterest.org  
+press@newyorker.com , tips@newyorker.com , tips@oann.com , press@oann.com , letters@nationalreview.com , tips@nationalreview.com , letters@harpers.org , letters@lrb.co.uk , info@lrb.co.uk , letters@foreignaffairs.com , press@foreignaffairs.com , info@foreignaffairs.com , editor@nationalinterest.org  
 ```
 
 ### Email Counts
