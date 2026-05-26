@@ -10,7 +10,6 @@
 
 ^ letters@economist.com
 
-
 ^ press@thebulwark.com
 
 ^ info@theonion.com
@@ -25,15 +24,9 @@
 
 ^ contact@infowars.com
 
-^ contact@infowars.com
-
 ^ tips@dailysignal.com
 
 ^ press@infowars.com
-
-^ press@infowars.com
-
-^ tips@infowars.com
 
 ^ tips@infowars.com
 
