@@ -1,5 +1,29 @@
 # SDN Metadata
 
+## SDN Project Chapter Pastes
+
+### International Shadow Diplomacy Network
+
+## Note
+
+"NA" Not Available
+- failed "purity test"
+
+Markdown formatted displays:
+- <code>i</code> | https://pastes.io
+- <code>r</code> | https://rentry.co
+
+30 day expirations:
+- <code>i</code> | https://pastes.io
+- <code>e</code> | https://pastee.dev
+
+HASH
+- work in progress
+- chksum'ish content tampering detection
+- all HASH values are missing
+
+### Encouraging everyone to repaste !
+
 ## SDN-00-00-FOMO-Dist-List-CC-01-Counts-Meta
 
 - https://pastebin.com/raw/ww3mtsjE
