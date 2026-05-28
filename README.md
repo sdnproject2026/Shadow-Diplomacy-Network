@@ -2,9 +2,9 @@
 
 > See "Breaking News" for "pre-release" (ZIP) additions
 
-  > Sarah Keller
+  - Sarah Keller
  
-  > Linda McMahon
+  - Linda McMahon
 
 > See sub-directories for "Fellow Travelers" content and references.
 
