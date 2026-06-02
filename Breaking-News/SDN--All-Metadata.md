@@ -1,292 +1,339 @@
-# SDN Metadata
-
-## SDN Project Chapter Pastes
-
-### International Shadow Diplomacy Network
-
-## Note
-
-"NA" Not Available
-- failed "purity test"
-
-Markdown formatted displays:
-- <code>i</code> | https://pastes.io
-- <code>r</code> | https://rentry.co
-
-30 day expirations:
-- <code>i</code> | https://pastes.io
-- <code>e</code> | https://pastee.dev
-
-HASH
-- work in progress
-- chksum'ish content tampering detection
-- all HASH values are missing
-
-### Encouraging everyone to repaste !
-
-## SDN-00-00-FOMO-Dist-List-CC-01-Counts-Meta
-
-- https://pastebin.com/raw/ww3mtsjE
-- https://pastes.io/tVdgz8gM
-- PE NA
-- https://rentry.co/h92kc4w9
-
-## SDN-00-00-FOMO-Dist-List-CC-Meta
-
-- https://pastebin.com/raw/pkZTzzZU
-- https://pastes.io/sdn-00-00-66689
-- https://pastee.dev/p/4ZrXqCFJ
-- https://rentry.co/ea9q6f4z
-
-## SDN-00-00-FOMO-Dist-List-TOC-Meta
-
-- https://pastebin.com/raw/LdmpArVa
-- https://pastes.io/sdn-00-00-/?raw=1
-- https://pastee.dev/p/1sxZDZs5
-- https://rentry.co/fkuyha2q
-
-## SDN-00-00-Metadata-Meta
+# SDN-00-00-Metadata-Meta
 
 - https://pastebin.com/raw/C4sta9qt
-- https://pastes.io/jYi5RJjl
-- PE NA
+- https://pastes.io/jYi5RJjl 
+- PE NE
 - https://rentry.co/6ip3g4xf
 
-## SDN-00-Elevator-Pitch-Meta
+# SDN-00-Elevator-Pitch-Meta
 
 - https://pastebin.com/raw/Zgx2VFxK
-- https://pastes.io/VxJAgjVK
+- https://pastes.io/VxJAgjVK 
 - PE NA
 - https://rentry.co/o2hkaid5
 
-## SDN-00-02-Familia-Wiki-Meta
+# SDN-00-02-Familia-Wiki-Meta
 
 - PB NA
 - https://pastes.io/sdn-00-02-
 - https://pastee.dev/p/m2VjEHOS
 - https://rentry.co/xfuyt2a8
 
-## SDN-00-03-Familia-Shadows-Meta
+# SDN-00-03-Familia-Shadows-Meta
 
 - PB NA
 - https://pastes.io/4ugxLqA7
 - PE NA
 - https://rentry.co/rpnfrqop
 
-## SDN-00-04-List-Of-Names-Meta
+# SDN-00-04-List-Of-Names-Meta
 
 - PB NA
 - https://pastes.io/sdn-00-04-/?raw=1
 - https://pastee.dev/p/oY8gZC7S
 - https://rentry.co/at4v3s75
 
-## SDN-00-Purpose-Meta
+# SDN-00-04-List-Of-Names-Wiki-URL-Meta
+
+- https://pastebin.com/raw/ZHZhJiPP
+- https://pastes.io/F3wURi1M
+- https://controlc.com/p2sajilf
+- https://rentry.co/i2d43tsn
+
+# SDN-00-Purpose-Meta
 
 - https://pastebin.com/raw/t35dSeja
 - https://pastes.io/9guFqLsZ
 - PE NA
 - https://rentry.co/h3e8vu56
 
-## SDN-01-Accounts-Meta
+# SDN-01-Accounts-Meta
 
 - https://pastebin.com/raw/L9hvaKye
-- https://pastes.io/sdn-01-acc-23714
-- https://pastee.dev/p/FbMN409q
+- https://pastes.io/sdn-01-acc-23714 
+- https://pastee.dev/p/FbMN409q 
 - https://rentry.co/qqgwoecq
 
-## SDN-02-Shadows-Meta
+# SDN-02-Shadows-01-Power-Pyramid-Meta
+
+^ x
+
+- https://controlc.com/063x12vb
+
+# SDN-02-Shadows-02-Bible-Study-Meta
+
+- https://pastebin.com/yRTWXvPL
+- https://pastes.io/T1JXotKw
+- https://controlc.com/oiccj31v
+- https://rentry.co/viy4m48e
+
+# SDN-02-Shadows-03-Leventine-Meta
+
+- https://pastebin.com/raw/HE3HL8fB
+- https://pastes.io/VuIEnkIp
+- https://controlc.com/5dub0rni
+- https://rentry.co/82vhp9f3
+
+
+# SDN-02-Shadows-04-Bible-Study-2026-Meta
+
+- https://pastebin.com/raw/E5JqbsRa
+- https://pastes.io/Sya0Xjv4
+- https://controlc.com/jaqqgnbq
+- https://rentry.co/yg933ghf
+
+# SDN-02-Shadows-Meta
 
 - https://pastebin.com/raw/cSTnyCrv
-- https://pastes.io/sdn-02-sha-58259
-- https://pastee.dev/p/8xsDeDDC
+- https://pastes.io/sdn-02-sha-58259 
+- https://pastee.dev/p/8xsDeDDC 
 - https://rentry.co/w9nwhkwv
 
-## SDN-03-1940s-Meta
+# SDN-03-1940s-Meta
 
 - https://pastebin.com/raw/2TQhUC5T
-- https://pastes.io/sdn-03-194
+- https://pastes.io/sdn-03-194 
 - PE NA
-- PR NA
+- PR
 
-## SDN-04-1950s-Meta
+# SDN-04-1950s-Meta
 
 - https://pastebin.com/raw/M2WeByzh
-- https://pastes.io/sdn-04-195
+- https://pastes.io/sdn-04-195 
 - PE NA
-- PR NA
+- PR
 
-## SDN-05-1960s-Meta
+# SDN-05-1960s-Meta
 
 - https://pastebin.com/raw/UxU6d5he
-- https://pastes.io/sdn-05-196
+- https://pastes.io/sdn-05-196 
 - PE NA
-- PR NA
+- PR
 
-## SDN-06-1970s-Meta
+# SDN-06-1970s-Meta
 
 - https://pastebin.com/raw/2vFgZX9Q
-- https://pastes.io/sdn-06-197
-- https://pastee.dev/p/jDmH8lUu
-- PR NA
+- https://pastes.io/sdn-06-197 
+- https://pastee.dev/p/jDmH8lUu 
+- PR
 
-## SDN-07-Next-Gen-Meta
+# SDN-07-Next-Gen-Meta
 
 - https://pastebin.com/raw/inEELVfc
-- https://pastes.io/sdn-07-nex
-- https://pastee.dev/p/HCrEBx2z
-- PR NA
+- https://pastes.io/sdn-07-nex 
+- https://pastee.dev/p/HCrEBx2z 
+- PR
 
-## SDN-08-Epstein-Family-Meta
-
-- PB NA
-- https://pastes.io/sdn-08-eps
-- https://pastee.dev/p/IH7IM6ue
-- PR NA
-
-## SDN-09-Maxwell-Family-Meta
+# SDN-08-Epstein-Family-Meta
 
 - PB NA
-- https://pastes.io/sdn-09-max-35769
-- https://pastee.dev/p/B8KciEcn
+- https://pastes.io/sdn-08-eps 
+- https://pastee.dev/p/IH7IM6ue 
+- PR
+
+# SDN-09-Maxwell-Family-Meta
+
+- PB NA
+- https://pastes.io/sdn-09-max-35769 
+- https://pastee.dev/p/B8KciEcn 
 - https://rentry.co/iagb9a9y
-- PR NA
+- PR
 
-## SDN-10-Barr-Family-Meta
+# SDN-10-Barr-Family-Meta
 
 - https://pastebin.com/raw/NfHE41xC
-- https://pastes.io/sdn-10-bar
-- https://pastee.dev/p/AvBbdT0w
-- PR NA
+- https://pastes.io/sdn-10-bar 
+- https://pastee.dev/p/AvBbdT0w 
+- PR
 
-## SDN-11-Kushner-Family-01-Corruption-2026-Meta
+# SDN-11-Kushner-Family-01-Corruption-2026-Meta
 
 - https://pastebin.com/raw/PwzsGUBj
-- https://pastes.io/wsFhWQ4e
+- https://pastes.io/wsFhWQ4e 
 - PE
 - https://rentry.co/sexdh3b8
 
-## SDN-11-Kushner-Family-02-Charities-Meta
+
+# SDN-11-Kushner-Family-02-Charities-Meta
 
 - PB NA
-- https://pastes.io/raw/G2kA76YV
+- https://pastes.io/raw/G2kA76YV 
 - PE NA
 - https://rentry.co/fwei68br
 
-## SDN-11-Kushner-Family-03-Orthodox-Networks-Meta
+# SDN-11-Kushner-Family-03-Orthodox-Networks-Meta
 
 - PB NA
-- https://pastes.io/CeYCRvMP
+- https://pastes.io/CeYCRvMP 
 - PE NA
 - https://rentry.co/mcchqgkp
 
-## SDN-11-Kushner-Family-Meta
+# SDN-11-Kushner-Family-Meta
 
 - PB NA
-- https://pastes.io/sdn-11-kus-59677
-- https://pastee.dev/p/X2siv2JC
+- https://pastes.io/sdn-11-kus-59677 
+- https://pastee.dev/p/X2siv2JC 
 - https://rentry.co/9zwmvak5
 
-## SDN-12-Khashoggi-Family-Meta
+
+# SDN-12-Khashoggi-Family-Meta
 
 - https://pastebin.com/raw/R7UdBEcg
-- https://pastes.io/sdn-12-kha
-- https://pastee.dev/p/iMQlntAR
-- PR NA
+- https://pastes.io/sdn-12-kha 
+- https://pastee.dev/p/iMQlntAR 
+- PR
 
-## SDN-13-Legal-01-Zoro-Ranch-Meta
+# SDN-13-Legal-01-Zoro-Ranch-Meta
 
 - https://pastebin.com/raw/tLsf4jNy
-- https://pastes.io/rNrweJmA
+- https://pastes.io/rNrweJmA 
 - PE NA
 - https://rentry.co/24odtisv
 
-## SDN-13-Legal-02-Ruemmler-2018-Meta
+# SDN-13-Legal-02-Ruemmler-2018-Meta
 
 - https://pastebin.com/inFWCFuZ
-- https://pastes.io/QzRE4Xab
+- https://pastes.io/QzRE4Xab 
 - PE NA
 - https://rentry.co/5ip4gq79
 
-## SDN-13-Legal-04-Pizzagate-2026-Meta
+# SDN-16-Bondi-Nothing-03-Impeachment-Meta
 
 - PB NA
-- https://pastes.io/9mryP7XO
+- PI NA
+- PE NA
+- https://rentry.co/8aickg8w
+
+# SDN-13-Legal-04-Pizzagate-2026-Meta
+
+- PB NA
+- https://pastes.io/9mryP7XO 
 - PE NA
 - https://rentry.co/uq9iyrh3
 
-## SDN-13-Legal-05-No-Civil-Immunity-Meta
+# SDN-13-Legal-05-No-Civil-Immunity-Meta
 
 - PB NA
-- https://pastes.io/kb40RJh8
+- https://pastes.io/kb40RJh8 
 - PE NA
 - https://rentry.co/db9q58py
 
-## SDN-13-Legal-05-No-Civil-Immunity-Epstein-Meta
+# SDN-13-Legal-05-No-Civil-Immunity-Epstein-Meta
 
 - PB NA
-- https://pastes.io/yRmVkmar
+- https://pastes.io/yRmVkmar 
 - PE NA
 - https://rentry.co/53cntzn7
 
-## SDN-13-Legal-08-Should-Have-Known-Meta
+# SDN-13-Legal-07-Trafficking-v-Assault-Meta
+
+- https://pastebin.com/raw/qV5Pg1mr
+- https://pastes.io/a3Jr9sav
+- https://controlc.com/ysxdjhqh
+- https://rentry.co/46w8drwp
+
+# SDN-13-Legal-08-Should-Have-Known-Meta
 
 - https://pastebin.com/raw/kJ5Z8vSz
 - https://pastes.io/UKb1HhKH
 - https://controlc.com/uv4awv3u
 - https://rentry.co/k9royq3f
 
-## SDN-13-Legal-Meta
+# SDN-13-Legal-09-2007-FBI-Draft-Indictment-Meta
+
+- https://pastebin.com/raw/fQw3VHZP
+- https://pastes.io/P7OFEiN4
+- CC
+- https://rentry.co/ha4uefvq
+
+# SDN-13-Legal-10-Watchdog-Groups-Meta
+
+- https://pastebin.com/raw/6ceaNAPM
+- https://pastes.io/uJvsILUn
+- https://controlc.com/xbzwfnay
+- https://rentry.co/mupzmwrd
+
+# SDN-13-Legal-Meta
 
 - https://pastebin.com/raw/sVWL1KcY
-- https://pastes.io/legal-web-
+- https://pastes.io/legal-web- 
 - PE NA
 - https://rentry.co/35ymf65a
 
-## SDN-14-Financial-Meta
+# SDN-14-Financial-01-Emmy-Tayler-Meta
 
 - PB NA
-- https://pastes.io/sdn-14-fin
-- https://pastee.dev/p/2ztrcTmG
+- https://pastes.io/bvGN5rAB
+- https://controlc.com/gq0oa1dj
+- https://rentry.co/bhke6c3v
+
+# SDN-14-Financial-02-Bondi-Wire-Transfer-Meta
+
+- https://pastebin.com/raw/DKKqc5zD
+- https://pastes.io/LgmkBulS
+- https://controlc.com/96rw7sqm
+- https://rentry.co/3ic45ome
+
+
+# SDN-14-Financial-03-Bank-SARs-Mata
+
+- https://pastebin.com/raw/3Az9sAM4
+- https://pastes.io/jMhnUZmE
+- https://controlc.com/ca0pu04m
+- https://rentry.co/4oigmqr9
+
+# SDN-14-Financial
+
+- PB NA
+- https://pastes.io/sdn-14-fin 
+- https://pastee.dev/p/2ztrcTmG 
 - https://rentry.co/5m7iqgmh
 
-## SDN-15-Xd-Files-Meta
+# SDN-15-Xd-Files-Meta
 
 - https://pastebin.com/raw/CpFzBq1M
-- https://pastes.io/sdn-15-xd-
-- https://pastee.dev/p/gky4uUb1
-- PR NA
+- https://pastes.io/sdn-15-xd- 
+- https://pastee.dev/p/gky4uUb1 
+- PR
 
-## SDN-16-Bondi-Nothing-01-Blanche-Interview-Meta
+# SDN-16-Bondi-Nothing-01-Blanche-Interview-Meta
 
-- https://pastebin.com/raw/fjehGUnw
-- https://pastes.io/cfeNH6dn
+- https://pastebin.com/raw/fjehGUnw NA
+- https://pastes.io/cfeNH6dn 
 - PE NA
 - https://rentry.co/x6ock6gh
 
-## SDN-16-Bondi-Nothing-03-Impeachment-Meta
+# SDN-16-Bondi-Nothing-02-Missing-Serial-Docs-Meta
+
+- https://pastebin.com/q9wumt7K
+- https://pastes.io/vL2RWrmR
+- https://controlc.com/acatoude
+- https://rentry.co/46tya7mx
+
+# SDN-16-Bondi-Nothing-03-Impeachment-Meta
 
 - https://pastebin.com/raw/2TUrCTNF
-- https://pastes.io/uMIhODJ3
+- https://pastes.io/uMIhODJ3 
 - PE NA
 - https://rentry.co/oqcxydcs
 
-## SDN-16-Bondi-Nothing-04-Oversight-Meta
+# SDN-16-Bondi-Nothing-04-Oversight-Meta
 
 - https://pastebin.com/raw/BkX8DaTe
-- https://pastes.io/RJA5c633
+- https://pastes.io/RJA5c633 
 - PE NA
 - https://rentry.co/rguuiuyh
 
-## SDN-16-Bondi-Nothing-05-FL-Bar-Meta
+# SDN-16-Bondi-Nothing-05-FL-Bar-Meta
 
 - PB NA
-- PI
+- PI 
 - https://controlc.com/7c92fefc
 - https://rentry.co/53xxp6k9
 - https://hastebin.com/share/oxiwuyiqor.shell
 - https://pastelink.net/60gm86v4
 
-## SDN-16-Bondi-Nothing-06-April-2026-Meta
+# SDN-16-Bondi-Nothing-06-April-2026-Meta
 
 - https://pastebin.com/raw/JKwr3tqv
 - https://pastes.io/7V4wUXKD
@@ -295,162 +342,218 @@ HASH
 - HB
 - PL
 
-## SDN-16-Bondi-Nothing-Meta
+# SDN-16-Bondi-Nothing
 
 - PB NA
-- https://pastes.io/sdn-16-bon-78467
-- https://pastee.dev/p/L3ZbT1u3
+- https://pastes.io/sdn-16-bon-78467 
+- https://pastee.dev/p/L3ZbT1u3 
 - https://rentry.co/5z4zbk2k
 
-## SDN-17-Government-Officials-Meta
+# SDN-17-Government-Officials-Meta
 
 - https://pastebin.com/raw/Aesvu68F
-- https://pastes.io/sdn-17-gov
-- https://pastee.dev/p/2HzC4z5K
+- https://pastes.io/sdn-17-gov 
+- https://pastee.dev/p/2HzC4z5K 
 - https://rentry.co/kxcafr5k
 
-## SDN-18-Miss-Teen-Pageants-Meta
+# SDN-18-Miss-Teen-Pageants-Meta
 
 - https://pastebin.com/raw/zcm7b1fy
-- https://pastes.io/sdn-18-mis
-- https://pastee.dev/p/PFkngF6n
-- PR NA
+- https://pastes.io/sdn-18-mis 
+- https://pastee.dev/p/PFkngF6n 
+- PR
 
-## SDN-19-Eugenics-01-Theil-Anti-Christ-Meta
+# SDN-19-Eugenics-01-Theil-Anti-Christ-Meta
 
-- PB NA
-- https://pastes.io/HvjEa60H
+- https://pastebin.com/raw/RkmJDbGr
+- https://pastes.io/HvjEa60H 
 - PE NA
 - https://rentry.co/awgqirbh
 
-## SDN-19-Eugenics-Meta
+# SDN-19-Eugenics
+^
+## Metadata
 
-- PB NA
-- https://pastes.io/eugenics-h
-- https://pastee.dev/p/79bqYTWG
+- https://pastebin.com/raw/zcm7b1fy
+- https://pastes.io/eugenics-h 
+- https://pastee.dev/p/79bqYTWG 
 - https://rentry.co/w3q5in3h
 
-## SDN-20-Heritage-Foundation-Meta
+# SDN-20-Heritage-Foundation-Meta
 
 - https://pastebin.com/raw/BHyYYGyA
-- https://pastes.io/sdn-20-her
-- https://pastee.dev/p/hySxMrdE
+- https://pastes.io/sdn-20-her 
+- https://pastee.dev/p/hySxMrdE 
 - https://rentry.co/aoabisdk
 
-## SDN-21-Victim-Litigation-Meta
+# SDN-21-Victim-Litigation-01-Lawyers-Meta
+
+- https://pastebin.com/raw/HyPgtb2e
+- https://pastes.io/aHG5EBXi
+- https://controlc.com/qgldrg7o
+- https://rentry.co/78696qn8
+
+# SDN-21-Victim-Litigation-02-Farmer-Meta
+
+- PB NA
+- https://pastes.io/DMwQyhkl
+- https://controlc.com/tarmiodr
+- https://rentry.co/e747rm6v
+
+# SDN-21-Victim-Litigation-03-Perp-Names-Meta
+
+- https://pastebin.com/raw/XWfiU9yz
+- https://pastes.io/7zLWybYS
+- https://controlc.com/dajs2e2r
+- https://rentry.co/qb9dks9x
+
+# SDN-21-Victim-Litigation-04-Faith-Kates-Executive-Meta
+
+- https://pastebin.com/6WxWzVJz
+- https://pastes.io/jwVhuBCU
+- https://controlc.com/dlllxcss
+- https://rentry.co/ago68785
+
+# SDN-21-Victim-Litigation-Meta
 
 - https://pastebin.com/raw/wQ6buPD9
 - https://pastes.io/sdn-21-vic-62687
 - https://pastee.dev/p/FzJXlmjs
 - https://rentry.co/xx3828hv
 
-## SDN-22-Perjures-Meta
+# SDN-22-Perjures-Meta
 
 - https://pastebin.com/raw/ap54UuJq
-- https://pastes.io/sdn-22-per
-- https://pastee.dev/p/8zo7ynP0
+- https://pastes.io/sdn-22-per 
+- https://pastee.dev/p/8zo7ynP0 
 - https://rentry.co/94nnroto
 
-## SDN-23-Hills-Family-Meta
+# SDN-23-Hills-Family-Meta
 
 - https://pastebin.com/raw/zpF3xqcC
-- https://pastes.io/sdn-23-hil
-- https://pastee.dev/p/cJA0lEtL
+- https://pastes.io/sdn-23-hil 
+- https://pastee.dev/p/cJA0lEtL 
 - https://rentry.co/edxas365
 
-## SDN-24-Russia-01-RussianGate-2016-Meta
+# SDN-24-Russia-01-RussianGate-2016-Meta
 
 - https://pastebin.com/raw/dxmN2k7V
-- https://pastes.io/kEAKLcRB
+- https://pastes.io/kEAKLcRB 
 - PE NA
 - https://rentry.co/8dkscoft
 
-## SDN-24-Russia-Meta
+# SDN-24-Russia-Meta
 
 - https://pastebin.com/raw/Mhg210iu
-- https://pastes.io/sdn-24-rus
-- https://pastee.dev/p/TOIqsf8U
+- https://pastes.io/sdn-24-rus 
+- https://pastee.dev/p/TOIqsf8U 
 - https://rentry.co/mxmsqiqv
 
-## SDN-25-China-Meta
+
+# SDN-25-China-Meta
 
 - https://pastebin.com/raw/AKC11TKZ
-- https://pastes.io/sdn-25-chi
-- https://pastee.dev/p/aeOOArQU
+- https://pastes.io/sdn-25-chi 
+- https://pastee.dev/p/aeOOArQU 
 - https://rentry.co/apuztghf
 
-## SDN-26-Siebold-Teens-Meta
+# SDN-26-Siebold-Teens-Meta
 
 - PB NA
 - PI NA
 - https://pastee.dev/p/xbyk5gPt
 - https://rentry.co/p7vde7ks
 
-## SDN-27-Chain-Reaction-2010-Meta
+# SDN-27-Chain-Reaction-2010-Meta
 
 - PB NA
 - https://pastes.io/sdn-27-cha
 - https://pastee.dev/p/plSetqbD
-- https://rentry.co/uz4dfb87
+- https://rentry.co/uz4dfb87 
 
-## SDN-28-Lutnick-Family-Meta
+# SDN-28-Lutnick-Family-02-Bribe-Meta
+
+- https://pastebin.com/hX2K5Fnq
+- https://pastes.io/RbzbUZMb
+- https://controlc.com/create
+- https://rentry.co/zixhrsth
+
+# SDN-28-Lutnick-Family-03-Accomplices-Meta
+
+- https://pastebin.com/raw/jaNi1c1S
+- https://pastes.io/QgqbnhxP
+- https://controlc.com/1ora0b0h
+- https://rentry.co/z6mn38pd
+
+# SDN-28-Lutnick-Family-04-Nanny-Meta
+
+- https://pastebin.com/yb6A47j5
+- https://pastes.io/yQY8VtjM
+- https://controlc.com/ehn85b6y
+- https://rentry.co/idgy5ck6
+
+# SDN-28-Lutnick-Family-Meta
 
 - https://pastebin.com/raw/LaMUJweh
 - https://pastes.io/nkdgtj97
 - PE NA
 - https://rentry.co/tqzc6rmw
 
-## SDN-29-Zelnicek-Family-Meta
+# SDN-29-Zelnicek-Family-Meta
 
 - PB NA
 - https://pastes.io/sdn-29-zel
 - https://pastee.dev/p/6WUcdtgL
 - https://rentry.co/5h7bku3m
 
-## SDN-30-More-Profiles-Meta
+# SDN-30-More-Profiles-Meta
 
 - https://pastebin.com/raw/c7RMMbYC
 - https://pastes.io/sdn-30-mor
 - https://pastee.dev/p/HnnrQTle
 - https://rentry.co/qn6finpa
 
-## SDN-31-Rothschild-Family-Meta
+# SDN-31-Rothschild-Family-01-Illuminati-1990s-Meta
+
+- https://pastebin.com/raw/bRc0R4SC
+- https://pastes.io/P6Wuro8A
+- https://controlc.com/ff7wg55p
+- https://rentry.co/44foz2nz
+
+# SDN-31-Rothschild-Family-Meta
+
+- https://pastebin.com/raw/cQYeqzv7
+- https://pastes.io/Ov5qH2O1
+- https://controlc.com/akxnbplu
+- https://rentry.co/7qn7pns6
+
+# SDN-32-FedEx-Receipts-Meta
 
 - PB NA
-- PI NA
-- PE NA
-- PR NA
+- https://pastes.io/rqnGu9D5
+- https://controlc.com/1k556tug
+- https://rentry.co/v4b433u7
 
-## SDN-32-FedEx-Receipts-Meta
-
-- PB NA
-- PI NA
-- PE NA
-- PR NA
-
-## SDN-33-Melania-01-History-Meta
+# SDN-33-Melania-01-History-Meta
 
 - https://pastebin.com/raw/K723sKMa
 - https://pastes.io/hDZ1q3Nf
 - https://controlc.com/bo3bj5yo
 - https://rentry.co/op7pncst
-- PE NA
+- PE
 
-## SDN-33-Melania-02-Next-Steps-Meta
+# SDN-33-Melania-02-Next-Steps-Meta
 
 - PB NA
 - https://pastes.io/QvIUvpvK
 - https://controlc.com/dr5q7xa0
 - https://rentry.co/wanq8o77
 
-## SDN-34-Sarah-Keller-Meta
+# SDN-34-Sarah-Keller-Meta
 
 - PB NA
 - https://pastes.io/MH8fUpCy
 - https://controlc.com/53qjj2k8
 - https://rentry.co/8pupsaky
 
-----
-
-----
 
