@@ -34,48 +34,82 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 
 ## Set E
 
+^ allin@msnbc.com
+
 ```
-nightly@nbcuni.com, todaystory@nbcuni.com, evening@cbsnews.com, 60m@cbsnews.com, thefive@foxnews.com, special@foxnews.com, americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@nbcuni.com, thelastword@msnbc.com, allin@msnbc.com, rachel@msnbc.com, newsnight@bbc.co.uk, worldnews@abcnews.com, thisweek@abc.com, politics@skynews.com, washingtonweek@pbs.org, frontline@pbs.org
+nightly@nbcuni.com, todaystory@nbcuni.com, evening@cbsnews.com, 60m@cbsnews.com, thefive@foxnews.com, special@foxnews.com, americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@nbcuni.com, thelastword@msnbc.com, rachel@msnbc.com, newsnight@bbc.co.uk, worldnews@abcnews.com, thisweek@abc.com, politics@skynews.com, washingtonweek@pbs.org, frontline@pbs.org
 ```
 
 ## Set F
 
+^ ftn@cbsnews.com
+
+^ weekendedition@npr.org
+
+^ deadline@msnbc.com
+
+^ allin@msnbc.com
+
+^ powerandpolitics@cbc.ca
+
 ```
-mtp@nbcuni.com, thisweek@abc.com, ftn@cbsnews.com, gps@cnn.com, mediabuzz@foxnews.com, thelead@cnn.com, ac360@cnn.com, outfront@cnn.com, hannity@foxnews.com, ingraham@foxnews.com, thefive@foxnews.com, allin@msnbc.com, thelastword@msnbc.com, rachel@msnbc.com, deadline@msnbc.com, morningedition@npr.org, allthingsconsidered@npr.org, weekendedition@npr.org, onpoint@wbur.org, 1a@wamu.org, thecurrent@cbc.ca, powerandpolitics@cbc.ca, thehouse@cbc.ca
+mtp@nbcuni.com, thisweek@abc.com, gps@cnn.com, mediabuzz@foxnews.com, thelead@cnn.com, ac360@cnn.com, outfront@cnn.com, hannity@foxnews.com, ingraham@foxnews.com, thefive@foxnews.com, thelastword@msnbc.com, rachel@msnbc.com, morningedition@npr.org, onpoint@wbur.org, 1a@wamu.org, thecurrent@cbc.ca, thehouse@cbc.ca
 ```
 
 ## Set G
 
+^ bbcnewshour@bbc.co.uk
+
+^ bbcworldtonight@bbc.co.uk
+
+^ bbcanyanswers@bbc.co.uk
+
+^ talk@lbc.co.uk
+
+^ politicslive@bbc.co.uk,
+
 ```
-q@cbc.ca, contact@dw.com, global3000@dw.com, madeingermany@dw.com, reporters@france24.com, observateurs@france24.com, theworld@abc.net.au, lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, bbcnewshour@bbc.co.uk, bbcworldtonight@bbc.co.uk, bbcanyanswers@bbc.co.uk,
-talk@lbc.co.uk, politicslive@bbc.co.uk,
+q@cbc.ca, contact@dw.com, global3000@dw.com, madeingermany@dw.com, reporters@france24.com, observateurs@france24.com, theworld@abc.net.au, lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au,
 contactww@weta.org,
 megyn@megynkelly.com,
 louise@thomhartmann.com, THproducer@gmail.com
 ```
 
 # New
+
 ## Set H
 
+^ ftn@cbsnews.com
+
+^ allthingsconsidered@npr.org
+
+^ weekendedition@npr.org
+
+^ deadline@msnbc.com
+
+^ allin@msnbc.com
+
+^ powerandpolitics@cbc.ca
+
 ```
-thecurrent@cbc.ca, powerandpolitics@cbc.ca, thehouse@cbc.ca, q@cbc.ca,
+thecurrent@cbc.ca, thehouse@cbc.ca, q@cbc.ca,
 contact@dw.com, global3000@dw.com, madeingermany@dw.com,
 reporters@france24.com, observateurs@france24.com,
 theworld@abc.net.au, lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au,
-mtp@nbcuni.com, thisweek@abc.com, ftn@cbsnews.com, gps@cnn.com, mediabuzz@foxnews.com,
+mtp@nbcuni.com, thisweek@abc.com, gps@cnn.com, mediabuzz@foxnews.com,
 thelead@cnn.com, ac360@cnn.com, outfront@cnn.com,
-hannity@foxnews.com, ingraham@foxnews.com, thefive@foxnews.com,
-allin@msnbc.com, thelastword@msnbc.com, rachel@msnbc.com, deadline@msnbc.com,
-morningedition@npr.org, allthingsconsidered@npr.org, weekendedition@npr.org,
+hannity@foxnews.com, ingraham@foxnews.com, thefive@foxnews.com, thelastword@msnbc.com, rachel@msnbc.com,
+morningedition@npr.org,
 onpoint@wbur.org, 1a@wamu.org
 ```
 
 ## Set I
 
+^ politicslive@bbc.co.uk
+
 ```
-newsnight@bbc.co.uk,
-politicslive@bbc.co.uk,
 questiontime@bbc.co.uk,
+newsnight@bbc.co.uk,
 peston@itv.com,
 sophy.ridge@sky.uk,
 derweltspiegel@ard.de,
