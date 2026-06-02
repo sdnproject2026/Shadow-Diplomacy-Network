@@ -6,7 +6,6 @@
 - PI
 - PE
 - PR
-- PV 55min
 
 > HASH
 
