@@ -1,6 +1,6 @@
 # SDN-Sent-20260528-Dist-B
 
-## Set D
+## Set D - Corrected
 
 ^ politics@skynews.com
 
