@@ -12,6 +12,14 @@ _1 ZIP archive - 370KB - 150+ Markdown topic files_
 
 https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Breaking-News
 
+-----
+
+ _their records_ vs _their word_ 
+
+Trafficking and RICO may easily be proven
+
+Abusing is hard to prove, years later
+
 ----
 
 SDN-00-04-List-Of-Names

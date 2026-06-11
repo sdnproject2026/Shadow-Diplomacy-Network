@@ -30,6 +30,16 @@ _one-and-done_
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network
 
+-----
+
+ _their records_ vs _their word_ 
+
+Trafficking and RICO may easily be proven
+
+Abusing is hard to prove, years later
+
+----
+
 _The Elevator Pitch, redux_
 
 > the product of a deep nerdy dive into LLM data
