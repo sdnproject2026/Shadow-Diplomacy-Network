@@ -1,13 +1,35 @@
 # SDN-Sent-20260612-Dist-B
 
-## Set I
+## Set I - Corrected
 
 ### To
 
-^ ddd
+^ vfmail@vf.com
+
+^ tips@studyfinds.org
+
+^ tips@thewrap.com
+
+^ jordan@worldofreel.com
+
+^ letters@hurriyetdailynews.com
+
+^ lettere@repubblica.it
+
+^ contact@africanews.com
+
+^ cartas@clarin.com
+
+^ webmaster@people.cn
+
+^ leitor@uol.com.br
+
+^ redaktion@welt.de
+
+^ cartasdirector@elmundo.es
 
 ```
-tips@tmz.com, editor@usnews.com, vfmail@vf.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, jordan@worldofreel.com, tips@thewrap.com, tips@studyfinds.org, tips@futurism.com, contact@africanews.com, editor@arabnews.com, info@bild.de, webmaster@people.cn, cartas@clarin.com, redaktion@welt.de, leserbriefe@zeit.de, cartasdirector@elmundo.es, defensor@elpais.es, leitor@uol.com.br, listy@wyborcza.pl, news@gbnews.uk, letters@haaretz.co.il, letters@hindustantimes.com, letters@hurriyetdailynews.com, letters@jpost.com, lettere@repubblica.it
+- tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, news@gbnews.uk, letters@haaretz.co.il, letters@hindustantimes.com, letters@jpost.com
 ```
 
 ### BCC 

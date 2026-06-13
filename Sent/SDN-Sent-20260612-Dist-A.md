@@ -1,13 +1,29 @@
 # SDN-Sent-20260612-Dist-A
 
-## Set H
+## Set H - Corrected
 
 ### To
 
-^ ccc
+^ letters@ew.com
+
+^ tips@nymag.com
+
+^ letters@salon.com
+
+^ letters@stateline.org
+
+^ tips@motherjones.com
+
+^ corner@nationalreview.com
+
+^ tips@semafor.com
+
+^ feedback@marketwatch.com
+
+^ tips@thesmokinggun.com
 
 ```
-tips@dailycaller.com, cartas@elnuevodia.com, letters@ew.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, feedback@marketwatch.com, tips@mediaite.com, tips@motherjones.com, letters@thenation.com, corner@nationalreview.com, letters@tnr.com, tips@nymag.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, letters@salon.com, tips@sfgate.com, tips@semafor.com, roger@showbiz411.com, tips@thesmokinggun.com, letters@stateline.org
+tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@thenation.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com
 ```
 
 ### BCC
