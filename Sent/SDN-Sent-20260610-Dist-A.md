@@ -22,8 +22,10 @@
 
 ^ support@pressreader.com
 
+^ tips@mmafighting.com
+
 ```
-tips@thr.com, tips@mmafighting.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, newsdesk@cbsnews.com, letters@csmonitor.com, tips@thedailybeast.com
+tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, newsdesk@cbsnews.com, letters@csmonitor.com, tips@thedailybeast.com
 ```
 
 ### BCC
