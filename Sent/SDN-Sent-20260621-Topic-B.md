@@ -1,6 +1,6 @@
 # SDN-Sent-20260621-Topic-B
 
-Forget Epstein - 1940s-2020s - Zoro Ranch - Watchdog Groups - Barr - Bear - Khashoggi - Kirkland - Maxwell
+Forget Epstein - 1940s-2020s - Perps - Victim Legal Strategy - Barr - Bear - Khashoggi - Kirkland - Maxwell
 
 ## SDN Email TOC
 
