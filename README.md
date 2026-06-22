@@ -2,11 +2,17 @@
 
 > See "Breaking News" for "pre-release" (ZIP) additions
 
-  - Sarah Keller
- 
-  - Linda McMahon
+Victim's Legal Strategy
 
-  - Zoro Ranch
+Spreadsheet of Perps
+
+LLM Query
+
+  LLM Response Perplexity
+
+  LLM Response Duck AI
+
+  LLM Response ChatGPT
 
 > See sub-directories for "Fellow Travelers" content and references.
 
