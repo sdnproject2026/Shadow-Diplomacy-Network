@@ -14,6 +14,8 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.com, info@investing.com, support@seekingalpha.com, press@seekingalpha.com, tips@qz.com, press@qz.com, info@qz.com, editors@barrons.com, press@barrons.com, info@ibtimes.com, tips@notus.org, press@mediamatters.org, tips@propublica.org, info@propublica.org, tips@reason.com, tips@politico.com, press@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@mashable.com, press@mashable.com, press@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com, press@newyorker.com, tips@newyorker.com
 ```
 
+# New
+
 ## Set B
 
 ```
@@ -63,8 +65,6 @@ tips@dailycaller.com, cartas@elnuevodia.com, letters@ew.com, newsmanager@foxnews
 ```
 tips@tmz.com, editor@usnews.com, vfmail@vf.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, jordan@worldofreel.com, tips@thewrap.com, tips@studyfinds.org, tips@futurism.com, contact@africanews.com, editor@arabnews.com, info@bild.de, webmaster@people.cn, cartas@clarin.com, redaktion@welt.de, leserbriefe@zeit.de, cartasdirector@elmundo.es, defensor@elpais.es, leitor@uol.com.br, listy@wyborcza.pl, news@gbnews.uk, letters@haaretz.co.il, letters@hindustantimes.com, letters@hurriyetdailynews.com, letters@jpost.com, lettere@repubblica.it
 ```
-
-# New
 
 ## Set J
 
