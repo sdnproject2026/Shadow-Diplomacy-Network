@@ -1,11 +1,11 @@
-### SDN-Sent-09-Email-To-Meta
+### SDN-Sent-10-Email-To-Meta
 
 ## Metadata
 
-- https://pastebin.com/raw/bRxzcws9 
-- https://controlc.com/8sekiiy8 
+- https://pastebin.com/raw/XqzpKP58 
+- https://controlc.com/o7qqye43 
 - PI NA
-- https://rentry.co/cftv38ps 
+- https://rentry.co/ezinqh8q 
 
 > HASH
 
