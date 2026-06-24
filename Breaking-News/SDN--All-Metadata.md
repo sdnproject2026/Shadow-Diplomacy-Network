@@ -62,7 +62,7 @@
 
 # SDN-02-Shadows-02-Bible-Study-Meta
 
-- https://pastebin.com/yRTWXvPL
+- https://pastebin.com/raw/yRTWXvPL
 - https://pastes.io/T1JXotKw
 - https://controlc.com/oiccj31v
 - https://rentry.co/viy4m48e
@@ -73,7 +73,6 @@
 - https://pastes.io/VuIEnkIp
 - https://controlc.com/5dub0rni
 - https://rentry.co/82vhp9f3
-
 
 # SDN-02-Shadows-04-Bible-Study-2026-Meta
 
@@ -153,7 +152,6 @@
 - PE
 - https://rentry.co/sexdh3b8
 
-
 # SDN-11-Kushner-Family-02-Charities-Meta
 
 - PB NA
@@ -175,7 +173,6 @@
 - https://pastee.dev/p/X2siv2JC 
 - https://rentry.co/9zwmvak5
 
-
 # SDN-12-Khashoggi-Family-Meta
 
 - https://pastebin.com/raw/R7UdBEcg
@@ -192,7 +189,7 @@
 
 # SDN-13-Legal-02-Ruemmler-2018-Meta
 
-- https://pastebin.com/inFWCFuZ
+- https://pastebin.com/raw/inFWCFuZ
 - https://pastes.io/QzRE4Xab 
 - PE NA
 - https://rentry.co/5ip4gq79
@@ -253,6 +250,69 @@
 - https://controlc.com/xbzwfnay
 - https://rentry.co/mupzmwrd
 
+# SDN-13-Legal-11-Zoro-Ranch-Commission-Meta
+
+- https://pastebin.com/raw/uhuCs6Lk
+- https://pastes.io/fwN8jRuT
+- https://controlc.com/0utbsv41
+- https://rentry.co/abebhna8
+
+# SDN-13-Legal-12-Zoro-Ranch-Remedy-Meta
+
+- https://pastebin.com/raw/h1xhyh8g
+- https://pastes.io/z3WF95Xf
+- https://controlc.com/rqzpsgud
+- https://rentry.co/nvzak86n
+
+#  SDN-13-Legal-13-Lost-53-Docs-Meta
+
+- https://pastebin.com/raw/5k0HXQ6J
+- https://pastes.io/8G2CWzVr
+- https://controlc.com/3uim4hxn
+- https://rentry.co/dmo22ts8
+
+# SDN-13-Legal-14-Perps-LLM-Query-Meta
+
+- https://pastebin.com/raw/LYVeNBtJ 
+- https://controlc.com/z8wj5481 
+- PI NA
+- https://rentry.co/bfuppbc4 
+
+# SDN-13-Legal-15-Perps-LLM-Response-Perplexity-Meta
+
+- https://pastebin.com/raw/jKQHr32M 
+- https://controlc.com/b428oclw 
+- PI NA
+- https://rentry.co/txx3yftp 
+
+# SDN-13-Legal-16-Perps-LLM-Response-Duck-Meta
+
+- https://pastebin.com/raw/Vr1ZRPQ8 
+- https://controlc.com/qcis8i5k 
+- PI NA
+- https://rentry.co/audyoemi 
+
+# SDN-13-Legal-17-Perps-LLM-Response-ChatGPT-Meta
+
+- https://pastebin.com/raw/aF845pBJ 
+- https://controlc.com/6dnvhpso 
+- PI NA
+- https://rentry.co/5gayihtd 
+
+# SDN-13-Legal-18-Zoro-Ranch-Subpoenas-Meta
+
+- https://pastebin.com/raw/WKrNgzB7 
+- https://controlc.com/j79smrug 
+- https://pastes.io/koj2EsGs
+- https://rentry.co/k26umzwr 
+
+# SDN-13-Legal-19-EFTA-OIG-Audit-Meta
+
+- https://pastebin.com/raw/0crjQivi 
+- https://controlc.com/gu8i2wfa 
+- https://pastes.io/zz7eiml0
+- https://rentry.co/hatuctbf 
+
 # SDN-13-Legal-Meta
 
 - https://pastebin.com/raw/sVWL1KcY
@@ -273,7 +333,6 @@
 - https://pastes.io/LgmkBulS
 - https://controlc.com/96rw7sqm
 - https://rentry.co/3ic45ome
-
 
 # SDN-14-Financial-03-Bank-SARs-Mata
 
@@ -305,7 +364,7 @@
 
 # SDN-16-Bondi-Nothing-02-Missing-Serial-Docs-Meta
 
-- https://pastebin.com/q9wumt7K
+- https://pastebin.com/raw/q9wumt7K
 - https://pastes.io/vL2RWrmR
 - https://controlc.com/acatoude
 - https://rentry.co/46tya7mx
@@ -339,8 +398,13 @@
 - https://pastes.io/7V4wUXKD
 - https://controlc.com/3itvxx68
 - https://rentry.co/ch7k3fce
-- HB
-- PL
+
+# SDN-16-Bondi-Nothing-08-Susie-Wiles-Meta
+
+- https://pastebin.com/raw/gBJzCuHC 
+- https://controlc.com/6juky8zl 
+- https://pastes.io/D28EkMfo
+- https://rentry.co/32o2wu94 
 
 # SDN-16-Bondi-Nothing
 
@@ -372,7 +436,6 @@
 
 # SDN-19-Eugenics
 ^
-## Metadata
 
 - https://pastebin.com/raw/zcm7b1fy
 - https://pastes.io/eugenics-h 
@@ -409,7 +472,7 @@
 
 # SDN-21-Victim-Litigation-04-Faith-Kates-Executive-Meta
 
-- https://pastebin.com/6WxWzVJz
+- https://pastebin.com/raw/6WxWzVJz
 - https://pastes.io/jwVhuBCU
 - https://controlc.com/dlllxcss
 - https://rentry.co/ago68785
@@ -449,7 +512,6 @@
 - https://pastee.dev/p/TOIqsf8U 
 - https://rentry.co/mxmsqiqv
 
-
 # SDN-25-China-Meta
 
 - https://pastebin.com/raw/AKC11TKZ
@@ -473,7 +535,7 @@
 
 # SDN-28-Lutnick-Family-02-Bribe-Meta
 
-- https://pastebin.com/hX2K5Fnq
+- https://pastebin.com/raw/hX2K5Fnq
 - https://pastes.io/RbzbUZMb
 - https://controlc.com/create
 - https://rentry.co/zixhrsth
@@ -487,7 +549,7 @@
 
 # SDN-28-Lutnick-Family-04-Nanny-Meta
 
-- https://pastebin.com/yb6A47j5
+- https://pastebin.com/raw/yb6A47j5
 - https://pastes.io/yQY8VtjM
 - https://controlc.com/ehn85b6y
 - https://rentry.co/idgy5ck6
@@ -549,11 +611,17 @@
 - https://controlc.com/dr5q7xa0
 - https://rentry.co/wanq8o77
 
+# SDN-33-Melania-03-Ungaro-Zampolli-Meta
+
+- https://pastebin.com/raw/Q8A5SpWX 
+- https://controlc.com/8k1o1il2 
+- https://pastes.io/qIQBVH2M
+- https://rentry.co/w6a9f7ef 
+
 # SDN-34-Sarah-Keller-Meta
 
 - PB NA
 - https://pastes.io/MH8fUpCy
 - https://controlc.com/53qjj2k8
 - https://rentry.co/8pupsaky
-
 
