@@ -399,12 +399,14 @@
 - https://controlc.com/3itvxx68
 - https://rentry.co/ch7k3fce
 
-# SDN-16-Bondi-Nothing-08-Susie-Wiles-Meta
+# SDN-16-Bondi-Nothing-08-Wiles-Cannon-Meta
 
-- https://pastebin.com/raw/gBJzCuHC 
-- https://controlc.com/6juky8zl 
-- https://pastes.io/D28EkMfo
-- https://rentry.co/32o2wu94 
+## Metadata
+
+- https://pastebin.com/raw/JKZPBJa4 
+- https://controlc.com/eccxyvkz 
+- https://pastes.io/t3RhwBBn
+- https://rentry.co/7sh5h7vx 
 
 # SDN-16-Bondi-Nothing
 
