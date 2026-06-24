@@ -18,17 +18,15 @@ sdnproject2026@onionmail.org
 
 ## Topics
 
-- SDN-13-Legal-01-Zoro-Ranch
+- SDN-13-Legal-14-Perps-LLM-Query
 
-- SDN-13-Legal-11-Zoro-Ranch-Commission
+- SDN-13-Legal-15-Perps-LLM-Response-Perplexity
 
-- SDN-13-Legal-12-Zoro-Ranch-Remedy
+- SDN-13-Legal-16-Perps-LLM-Response-Duck
 
-- SDN-13-Legal-10-Watchdog-Groups
+- SDN-13-Legal-17-Perps-LLM-Response-ChatGPT
 
-- SDN-13-Legal-09-2007-FBI-Draft-Indictment
-
-- SDN-00-00-FOMO-Dist-List-CC-01-Counts
+- SDN-Sent-09-Email-To
 
 - SDN-00-05-List-Of-Docs
 
