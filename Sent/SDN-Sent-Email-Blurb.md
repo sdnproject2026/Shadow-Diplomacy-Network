@@ -2,6 +2,8 @@
 
 RE: Forget Epstein - 1940s-2020s - Maxwell - Barr - Bear - Khashoggi - Kirkland
 
+RE: Forget Epstein - 1940s-2020s - Perps - Victim Legal Strategy - Barr - Bear - Khashoggi - Kirkland - Maxwell
+
 _... starting your LLM research, for you, no strings_
 
 https://github.com/sdnproject2026/Shadow-Diplomacy-Network
@@ -14,11 +16,15 @@ https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Breaking-Ne
 
 -----
 
+## Legal Strategy
+
  _their records_ vs _their word_ 
 
-Trafficking and RICO may easily be proven
+Trafficking and RICO may easily be proven.
 
-Abusing is hard to prove, years later
+Abusing is hard to prove, years later.
+
+In 1931 the _IRS_ ultimately charged the notorious gangster _Al Capone_ with twenty-two counts of tax evasion (26 U.S.C. § 145), where no other charges were '_proven beyond a reasonable doubt_'...
 
 ----
 
