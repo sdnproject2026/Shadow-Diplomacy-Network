@@ -28,8 +28,6 @@ tips@oann.com, press@oann.com, letters@nationalreview.com, tips@nationalreview.c
 info@dw.com, english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisak@ap.org, etucker@ap.org, ben@meidastouch.com, brett@meidastouch.com, macfarlanes@cbsnews.com, melissa.quinn@cbsinteractive.com, sfowler@npr.org, jdiaz@npr.org, sneuman@npr.org, llanders@newshour.org, ldesjardins@newshour.org, mfinnegan@newshour.org, john@other98.com, andy@other98.com, action@other98.com, news@axios.com, info@axios.com, pips@axios.com, press@axios.com, nightly@nbcuni.com, evening@cbsnews.com, 60m@cbsnews.com, thefive@foxnews.com, special@foxnews.com
 ```
 
-# New
-
 ## Set D
 
 ```
@@ -41,6 +39,8 @@ americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@
 ```
 lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov
 ```
+
+# New
 
 ## Set F
 
