@@ -40,21 +40,47 @@ americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@
 lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov
 ```
 
+## Set F - Corrected
+
+^ info@nmag.gov
+
+^ jnewtonsmall@abqjournal.com
+
+^ lpeerman@abqjournal.com
+
+^ mreisen@abqjournal.com
+
+^ viewer5@newmexicopbs.org
+
+```
+andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov, Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, news@kob.com, memberservices@newmexicopbs.org, media@nmag.gov
+```
+
+## Set G - Corrected
+
+^ newsroom@suntimes.com
+
+^ tips@businessinsider.com
+
+^ dtinvestigations@telegraph.co.uk
+ 
+^ support@pressreader.com
+
+^ tips@washpost.com
+
+^ tips@deadline.com
+
+^ cnn.tips@cnn.com
+
+^ comments@c-span.org
+
+^ newsdesk@cbsnews.com
+
+```
+tips@thr.com, tips@mmafighting.com, cnn.tips@cnn.com, news@metro.co.uk, tips@washpost.com, cnbctips@nbcuni.com, tips@deadline.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, support@pressreader.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, comments@c-span.org, ctc-news@chicagotribune.com, letters@csmonitor.com, tips@thedailybeast.com
+```
+
 # New
-
-## Set F
-
-```
-andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov, Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, jnewtonsmall@abqjournal.com, mreisen@abqjournal.com, lpeerman@abqjournal.com, news@kob.com, viewer5@newmexicopbs.org, memberservices@newmexicopbs.org, info@nmag.gov, media@nmag.gov
-```
-
-# Drudge Emails
-
-## Set G
-
-```
-tips@thr.com, tips@mmafighting.com, cnn.tips@cnn.com, news@metro.co.uk, tips@washpost.com, cnbctips@nbcuni.com, tips@deadline.com, dtinvestigations@telegraph.co.uk, tips@nytimes.com, tips@nbcuni.com, press@google.com, support@pressreader.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, tips@businessinsider.com, newsdesk@cbsnews.com, comments@c-span.org, newsroom@suntimes.com, ctc-news@chicagotribune.com, letters@csmonitor.com, tips@thedailybeast.com
-```
 
 ## Set H
 
