@@ -1,0 +1,323 @@
+# SDN-Sent-20260704-Topic-B
+
+Forget Epstein - 1940s-2020s - Dozens of Chapters - Barr - Bear - Khashoggi - Kirkland - Maxwell
+
+## SDN Email TOC
+
+- Dozens of Chapters
+
+- SDN-Sent-09-Email-To
+
+- SDN-00-01-Elevator-Pitch
+
+-----
+
+# Dozens of Chapters
+
+Epstein + +
+
+Special thanks and shout-out to Bear Stearns!
+
+## ZIP archive
+
+Download all Markdown formatted text files
+
+100s of files
+
+ - https://github.com/sdnproject2026/Shadow-Diplomacy-Network
+
+one-and-done
+
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+
+no redactions
+
+## Research
+
+Each Chapter Title represents one stand-alone document.
+
+### Prescription
+
+From research to prescription, changing the focus from "abusing" to "trafficking", and international RICO - merci French Magistrate - and the UN 'crimes against humanity' determination! Very nice legal precedents.
+
+- 13 Legal 14 Perps LLM Query
+
+- 13 Legal 15 Perps LLM Response Perplexity
+
+- 13 Legal 16 Perps LLM Response Duck AI
+
+- 13 Legal 17 Perps LLM Response ChatGPT
+
+But, on the first day...
+
+### Prequel
+
+- 00 Purpose
+
+- 00 01 Elevator Pitch
+
+- 00 02 Familia Wiki
+
+- 00 03 Familia Shadows
+
+- 00 04 List Of Names Wiki URLs
+
+- 00 04 List Of Names
+
+- 00 05 List Of Docs
+
+## History
+
+### Ancient
+
+- 01 Accounts
+
+- 02 Shadows
+
+- 02 Shadows 01 Power Pyramid
+
+- 02 Shadows 02 Bible Study
+
+- 02 Shadows 03 Leventine
+
+- 02 Shadows 04 Bible Study 2026
+
+### Recent
+
+- 03 1940s
+
+- 04 1950s
+
+- 05 1960s
+
+- 06 1970s
+
+- 07 Next Gen
+
+## Families
+
+- 08 Epstein Family
+
+- 09 Maxwell Family
+
+- 10 Barr Family
+
+### Kushner Family
+
+- 11 Kushner Family
+
+- 11 Kushner Family 01 Corruption 2026
+
+- 11 Kushner Family 02 Charities
+
+- 11 Kushner Family 03 Orthodox Networks
+
+### Khashoggi Family
+
+- 12 Khashoggi Family
+
+## Audit Trails
+
+### Legal
+
+- 13 Legal
+
+- 13 Legal 01 Zoro Ranch
+
+- 13 Legal 02 Ruemmler 2018
+
+- 13 Legal 03 Sex Offenders
+
+- 13 Legal 04 Pizzagate 2026
+
+- 13 Legal 05 No Civil Immunity
+
+- 13 Legal 06 No Civil Immunity Epstein
+
+- 13 Legal 07 Trafficking v Assault
+
+- 13 Legal 08 Should Have Known
+
+- 13 Legal 09 2007 FBI Draft Indictment
+
+- 13 Legal 10 Watchdog Groups
+
+- 13 Legal 11 Zoro Ranch Commission
+
+- 13 Legal 12 Zoro Ranch Remedy
+
+- 13 Legal 13 Lost 53 Docs
+
+- 13 Legal 14 Perps LLM Query
+
+- 13 Legal 15 Perps LLM Response Perplexity
+
+- 13 Legal 16 Perps LLM Response Duck
+
+- 13 Legal 17 Perps LLM Response ChatGPT
+
+- 13 Legal 18 Zoro Ranch Subpoenas
+
+- 13 Legal 19 EFTA OIG Audit
+
+### Financial
+
+- 14 Financial
+
+- 14 Financial 01 Emmy Tayler
+
+- 14 Financial 02 Bondi Wire Transfer
+
+- 14 Financial 03 Bank SARs
+
+## Files
+
+### Deleted 
+
+- 15 Deleted Files 
+
+### Bondi
+
+- 16 Bondi Nothing
+
+- 16 Bondi Nothing 01 Blanche Interview
+
+- 16 Bondi Nothing 02 Missing Serial Docs
+
+- 16 Bondi Nothing 03 Impeachment
+
+- 16 Bondi Nothing 04 Oversight
+
+- 16 Bondi Nothing 05 FL Bar
+
+- 16 Bondi Nothing 06 April 2026
+
+- 16 Bondi Nothing 07 Blanche Perjury
+
+- 16 Bondi Nothing 08 Wiles Cannon
+
+## Organizations
+
+- 17 Government Officials
+
+- 18 Miss Teen Pageants
+
+- 19 Eugenics
+
+- 19 Eugenics 01 Theil Anti Christ
+
+- 20 Heritage Foundation
+
+## Victim Litigation
+
+- 21 Victim Litigation
+
+- 21 Victim Litigation 01 Lawyers
+
+- 21 Victim Litigation 02 Farmer
+
+- 21 Victim Litigation 03 Perp Names
+
+- 21 Victim Litigation 04 Faith Kates
+
+### Perjures
+
+- 22 Perjures
+
+## Misc
+
+- 23 Hills Family
+
+- 24 Russia
+
+- 24 Russia 01 RussianGate 2016
+
+- 25 China
+
+- 26 Siebold Teens
+
+- 27 Chain Reaction 2010
+
+### Lutnick Family
+
+- 28 Lutnick Family
+
+- 28 Lutnick Family 02 Bribe
+
+- 28 Lutnick Family 03 Accomplices
+
+- 28 Lutnick Family 04 Nanny
+
+### More Families
+
+- 29 Zelnicek Family
+
+- 30 More Profiles
+
+- 31 Rothschild Family
+
+- 31 Rothschild Family 01 Illuminati 1990s
+
+## Evidence
+
+- 32 FedEx Receipts
+
+## Melania
+
+- 33 Melania
+
+- 33 Melania 01 History
+
+- 33 Melania 02 Next Steps
+
+- 33 Melania 03 Ungaro Zampolli
+
+## Misc
+
+- 34 Sarah Keller
+
+... to be continued
+
+----
+
+# SDN-Sent-09-Email-To
+
+## Emails Sent - Campaign History
+
+- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
+
+_Who has been informed_
+
+- anon ASCII text-only files
+- Markdown formated
+- CSV / CC formatted email recipient lists
+- https://pastebin.com/raw/pkZTzzZU
+- https://rentry.co/ea9q6f4z
+
+----
+
+# SDN-00-01-Elevator-Pitch
+
+International Shadow Diplomacy Network
+
+## Epstein's Friends
+
+### PPAMs<sup>(TM)</sup>
+
+Dozens of perps / pedos / associates / mentions
+
+_This is what everyone wants_
+
+### SDN-00-04-List-Of-Names
+
+- anon ASCII text-only files
+- Markdown formated
+- grouped by occupation
+- https://rentry.co/at4v3s75
+- https://pastes.io/sdn-00-04-/
+
+_Type-A file naming, guaranteed_
+
+----
+
+----
