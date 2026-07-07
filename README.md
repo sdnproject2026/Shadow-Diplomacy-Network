@@ -10,11 +10,11 @@ Epstein Files Transparency Act
 
 Section-by-Section Analysis and Document Review
 
-## Overview
+Overview
 
 On June 25, 2026, U.S. District Judge Emmet G. Sullivan issued a memorandum opinion in _Phang v. Blanche_, granting Katie Phang’s request for a preliminary injunction against Acting Attorney General Todd Blanche.
 
-### The court ordered DOJ
+The court ordered DOJ
 
 ...
 
