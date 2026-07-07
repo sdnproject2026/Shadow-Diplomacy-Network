@@ -8,8 +8,6 @@ Corrected
 sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailnesia.com
 ```
 
-# New
-
 ## Set A
 
 ```
@@ -22,9 +20,9 @@ tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.
 tips@oann.com, press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, editor@nationalinterest.org, press@newsmax.com, tips@rollcall.com, letters@time.com, info@alternet.org, info@thebulwark.com, letters@dailysignal.com, press@theonion.com, nprnews@npr.org, info@federalnewsnetwork.com, guardian.readers@theguardian.com, yourpics@bbc.co.uk, newsdesk@independent.co.uk, info@timesofisrael.com, info@economist.com, info@rbc.ua, news@rbc.ua, press@rbc.ua, observers@france24.com, tips@ft.com, yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net
 ```
 
-## Set C - Corrected
+# New
 
-^ todaystory@nbcuni.com
+## Set C
 
 ```
 info@dw.com, english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisak@ap.org, etucker@ap.org, ben@meidastouch.com, brett@meidastouch.com, macfarlanes@cbsnews.com, melissa.quinn@cbsinteractive.com, sfowler@npr.org, jdiaz@npr.org, sneuman@npr.org, llanders@newshour.org, ldesjardins@newshour.org, mfinnegan@newshour.org, john@other98.com, andy@other98.com, action@other98.com, news@axios.com, info@axios.com, pips@axios.com, press@axios.com, nightly@nbcuni.com, evening@cbsnews.com, 60m@cbsnews.com, thefive@foxnews.com, special@foxnews.com
@@ -42,73 +40,25 @@ americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@
 lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov
 ```
 
-## Set F - Corrected
-
-^ info@nmag.gov
-
-^ jnewtonsmall@abqjournal.com
-
-^ lpeerman@abqjournal.com
-
-^ mreisen@abqjournal.com
-
-^ viewer5@newmexicopbs.org
+## Set F
 
 ```
 andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov, Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, news@kob.com, memberservices@newmexicopbs.org, media@nmag.gov
 ```
 
-## Set G - Corrected
-
-^ newsroom@suntimes.com
-
-^ tips@businessinsider.com
-
-^ dtinvestigations@telegraph.co.uk
- 
-^ support@pressreader.com
-
-^ tips@washpost.com
-
-^ tips@deadline.com
-
-^ cnn.tips@cnn.com
-
-^ comments@c-span.org
-
-^ newsdesk@cbsnews.com
-
-^ tips@mmafighting.com
+## Set G
 
 ```
 tips@thr.com, cnn.tips@cnn.com, news@metro.co.uk, tips@washpost.com, cnbctips@nbcuni.com, tips@deadline.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, support@pressreader.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, comments@c-span.org, ctc-news@chicagotribune.com, letters@csmonitor.com, tips@thedailybeast.com
 ```
 
-## Set H - Corrected
-
-^ letters@stateline.org
-
-^ corner@nationalreview.com
-
-^ tips@semafor.com
-
-^ tips@motherjones.com
-
-^ tips@thesmokinggun.com
-
-^ feedback@marketwatch.com
-
-^ letters@salon.com
-
-^ letters@ew.com
-
-^ tips@nymag.com
+## Set H
 
 ```
 tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@thenation.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com
 ```
 
-## Set I - Corrected
+## Set I
 
 ```
 tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, jordan@worldofreel.com, tips@thewrap.com, tips@studyfinds.org, tips@futurism.com, contact@africanews.com, editor@arabnews.com, info@bild.de, webmaster@people.cn, cartas@clarin.com, redaktion@welt.de, leserbriefe@zeit.de, cartasdirector@elmundo.es, defensor@elpais.es, leitor@uol.com.br, listy@wyborcza.pl, news@gbnews.uk, letters@haaretz.co.il, letters@hindustantimes.com, letters@hurriyetdailynews.com, letters@jpost.com, lettere@repubblica.it
