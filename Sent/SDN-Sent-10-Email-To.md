@@ -20,8 +20,6 @@ tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.
 tips@oann.com, press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, editor@nationalinterest.org, press@newsmax.com, tips@rollcall.com, letters@time.com, info@alternet.org, info@thebulwark.com, letters@dailysignal.com, press@theonion.com, nprnews@npr.org, info@federalnewsnetwork.com, guardian.readers@theguardian.com, yourpics@bbc.co.uk, newsdesk@independent.co.uk, info@timesofisrael.com, info@economist.com, info@rbc.ua, news@rbc.ua, press@rbc.ua, observers@france24.com, tips@ft.com, yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net
 ```
 
-# New
-
 ## Set C
 
 ```
@@ -46,6 +44,8 @@ lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, m
 andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov, Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, news@kob.com, memberservices@newmexicopbs.org, media@nmag.gov
 ```
 
+# New
+
 ## Set G
 
 ```
@@ -58,10 +58,26 @@ tips@thr.com, cnn.tips@cnn.com, news@metro.co.uk, tips@washpost.com, cnbctips@nb
 tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@thenation.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com
 ```
 
-## Set I
+## Set I - Corrected
+
+^ tips@studyfinds.org
+
+^ tips@thewrap.com
+
+^ jordan@worldofreel.com
+
+^ lettere@repubblica.it
+
+^ letters@hurriyetdailynews.com
+
+^ contact@africanews.com
+
+^ cartas@clarin.com
+
+^ webmaster@people.cn
 
 ```
-tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, jordan@worldofreel.com, tips@thewrap.com, tips@studyfinds.org, tips@futurism.com, contact@africanews.com, editor@arabnews.com, info@bild.de, webmaster@people.cn, cartas@clarin.com, redaktion@welt.de, leserbriefe@zeit.de, cartasdirector@elmundo.es, defensor@elpais.es, leitor@uol.com.br, listy@wyborcza.pl, news@gbnews.uk, letters@haaretz.co.il, letters@hindustantimes.com, letters@hurriyetdailynews.com, letters@jpost.com, lettere@repubblica.it
+tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, redaktion@welt.de, leserbriefe@zeit.de, cartasdirector@elmundo.es, defensor@elpais.es, leitor@uol.com.br, listy@wyborcza.pl, news@gbnews.uk, letters@haaretz.co.il, letters@hindustantimes.com, letters@jpost.com
 ```
 
 ## Set J
