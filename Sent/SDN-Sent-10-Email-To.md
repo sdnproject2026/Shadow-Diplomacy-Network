@@ -35,7 +35,7 @@ americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@
 ## Set E
 
 ```
-lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov
+lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov, abhola@citizen.org, aregunburg@citizen.org, dnoel@citizen.org
 ```
 
 ## Set F
@@ -43,8 +43,6 @@ lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, m
 ```
 andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov, Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, news@kob.com, memberservices@newmexicopbs.org, media@nmag.gov
 ```
-
-# New
 
 ## Set G
 
@@ -57,6 +55,8 @@ tips@thr.com, cnn.tips@cnn.com, news@metro.co.uk, tips@washpost.com, cnbctips@nb
 ```
 tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@thenation.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com
 ```
+
+# New
 
 ## Set I - Corrected
 
