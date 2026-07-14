@@ -94,13 +94,13 @@ tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp
 tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, news@gbnews.uk,, letters@hindustantimes.com, letters@jpost.com, leser@welt.de
 ```
 
-## Set J
+## Set J - Corrected
 
 ^ redazione@repubblica.it
 
 
 ```
-letters@theneweuropean.co.uk, info@theneweuropean.co.uk, editor@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei.com, editor@nikkei.com, contact@nikkei.com, help@nikkei.com, subscriptions@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr,
+letters@theneweuropean.co.uk, info@theneweuropean.co.uk, editor@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei.com, editor@nikkei.com, contact@nikkei.com, help@nikkei.com, subscriptions@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr
 ```
 
 # New
