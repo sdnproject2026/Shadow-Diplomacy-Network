@@ -50,30 +50,72 @@ andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, y
 tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, letters@csmonitor.com, tips@thedailybeast.com, tips@cnn.com, press@cnn.com, tips@washingtonpost.com, news@deadline.com, press@deadline.com, support@pressreader.io, viewer@c-span.org, events@c-span.org, tips@chicagotribune.com
 ```
 
-## Set H
+## Set H - Corrected
+
+^ letters@thenation.com
 
 ```
-tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@thenation.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com
+tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com, submissions@thenation.com
 ```
 
-# New
+## Set I - Corrected
 
-## Set I
+^ editor@thewrap.com
+
+^ press@thewrap.com
+
+^ tips@worldofreel.com
+
+^ newsroom@studyfinds.org
+
+^ posta@repubblica.it
+
+^ redazione@repubblica.it
+
+^ info@repubblica.it
+
+^ newsroom@hurriyetdailynews.com
+
+^ contact@hurriyetdailynews.com
+
+^ redazione@hurriyetdailynews.com
+
+^ info@africanews.com
+
+^ newsroom@clarin.com
+
+^ letters@haaretz.co.il
+
+^ leitor@uol.com.br
+
+^ cartas@elmundo.es
 
 ```
-info@repubblica.it, redazione@repubblica.it, posta@repubblica.it, redazione@hurriyetdailynews.com, contact@hurriyetdailynews.com, newsroom@hurriyetdailynews.com, tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, leitor@uol.com.br, listy@wyborcza.pl, news@gbnews.uk, letters@haaretz.co.il, letters@hindustantimes.com, letters@jpost.com, newsroom@studyfinds.org, editor@thewrap.com, press@thewrap.com, tips@worldofreel.com, info@africanews.com, newsroom@clarin.com, leser@welt.de, cartas@elmundo.es
+tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, news@gbnews.uk,, letters@hindustantimes.com, letters@jpost.com, leser@welt.de
 ```
 
 ## Set J
 
+^ redazione@repubblica.it
+
+
 ```
-letters@theneweuropean.co.uk, info@theneweuropean.co.uk, editor@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei.com, editor@nikkei.com, contact@nikkei.com, help@nikkei.com, subscriptions@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr, redazione@repubblica.it
+letters@theneweuropean.co.uk, info@theneweuropean.co.uk, editor@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei.com, editor@nikkei.com, contact@nikkei.com, help@nikkei.com, subscriptions@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr,
 ```
+
+# New
 
 ## Set K
 
 ```
-posta@repubblica.it, info@repubblica.it, letters@hurriyetdailynews.com, editor@hurriyetdailynews.com, contact@hurriyetdailynews.com, newsroom@hurriyetdailynews.com, courrier-des-lecteurs@lemonde.fr, courrier@lesoir.be, newsroom@themoscowtimes.com, letters@smh.com.au, toi.news@timesgroup.com, tips@dailymail.com, newsdesk@mirror.co.uk, news@dailystar.co.uk, newsdesk@express.co.uk, newsdesk@independent.co.uk, news@standard.co.uk, exclusive@the-sun.co.uk, letters@thetimes.co.uk, editor@theyeshivaworld.com, observers@france24.com, support@nordot.jp, info@dw.com, office@tass.ru, tips@thomsonreuters.com, readers@yomiuri.com, office@interfax.ru, viewers@nhk.or.jp, editor@pravda.ru
+courrier-des-lecteurs@lemonde.fr, courrier@lesoir.be, newsroom@themoscowtimes.com, letters@smh.com.au, toi.news@timesgroup.com, tips@dailymail.com, newsdesk@mirror.co.uk, news@dailystar.co.uk, newsdesk@express.co.uk, newsdesk@independent.co.uk, news@standard.co.uk, exclusive@the-sun.co.uk, letters@thetimes.co.uk, editor@theyeshivaworld.com, observers@france24.com, support@nordot.jp, info@dw.com, office@tass.ru, tips@thomsonreuters.com, readers@yomiuri.com, office@interfax.ru, viewers@nhk.or.jp, editor@pravda.ru
+```
+
+## Set L
+
+```
+inquiries@thewrap.com, guestblog@thewrap.com, memberships@thewrap.com, sales@thewrap.com, contact@worldofreel.com, editor@worldofreel.com, contact@studyfinds.org, editor@studyfinds.org, tips@studyfinds.org, contact@africanews.com, editorial@africanews.com, press@africanews.com, redaccion@clarin.com, contacto@clarin.com, cartaslector@clarin.com, atendimento@uol.com.br, editoria@uol.com.br, faleconosco@uol.com.br, contacto@elmundo.es, redaccion@elmundo.es, opinion@elmundo.es, musaf@haaretz.co.il, 
+opinions@haaretz.co.il
 ```
 
 ----
