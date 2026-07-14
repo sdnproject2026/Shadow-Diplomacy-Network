@@ -118,6 +118,61 @@ inquiries@thewrap.com, guestblog@thewrap.com, memberships@thewrap.com, sales@the
 opinions@haaretz.co.il, editor@hurriyetdailynews.com
 ```
 
+## Set M
+
+```
+elon@teslamotors.com, bezos@amazon.com, gates@microsoft.com, zuckerberg@fb.com, larry@google.com, sergey@google.com, bernard.arnault@lvmh.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, françoise.bettencourt@loreal.com, amancio.ortega@inditex.com, michael.bloomberg@bloomberg.com, jim.walton@walton.com, rob.walton@walton.com, alice.walton@walton.com, charles.koch@kochind.com, julia.flesher@kochind.com, gautam.adani@adanigroup.com
+```
+
+## Set N
+
+```
+press@teslamotors.com, media@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@microsoft.com, media@microsoft.com, press@fb.com, press@google.com, media@google.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, press@oracle.com, contact@loreal.com, info@inditex.com, info@bloomberg.com, contact@walton.com, info@kochind.com, media@adani.com
+```
+
+## Set O
+
+```
+nfaiq@afghanistan-un.org, mission@afghanistan-un.org, mission.albania@un.int, info@albaniaun.org, algeria@un.int, mission.andorra@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, new-york-ob@bmeia.gv.at, oevnewyork@bmeia.gv.at, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int, belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, bih@un.int, botswana@un.int, delbrasny@itamaraty.gov.br, imprensa.nova-york@itamaraty.gov.br, brunei@un.int
+```
+
+## Set P
+
+```
+bulgaria@un.int, burkinafaso@un.int, burundi@un.int, caboverde@un.int, cambodia@un.int, cameroon@un.int, canny@un.int, car@un.int, chad@un.int, chile@un.int, chinamissionny@gmail.com, press@china-un.org, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, cote-divoire@un.int, croatia@un.int, cuba@un.int, cyprus@un.int, czechrepublic@un.int, dprk@un.int, drc@un.int, nykonsulat@um.dk, djibouti@un.int, dominica@un.int, dominicanrepublic@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int
+```
+
+## Set Q
+
+```
+equatorialguinea@un.int, eritrea@un.int, unny@mfa.ee, eswatini@un.int, ethiopia@un.int, fiji@un.int, sanomat.nyk@formin.fi, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@new-york-un.diplo.de, ghana@un.int, gremb.un@mfa.gr, grenada@un.int, guatemala@un.int, guinea@un.int, guinea-bissau@un.int, guyana@un.int, haiti@un.int, honduras@un.int, hungary@un.int, iceland@un.int, india@un.int, indonesia@un.int, iran@un.int, iraq@un.int, ireland@un.int, israel@un.int, media@israelun.org
+```
+
+## Set R
+
+```
+italy@un.int, jamaica@un.int, japan@un.int, jordan@un.int, kazakhstan@un.int, kenya@un.int, kiribati@un.int, kuwait@un.int, kyrgyzstan@un.int, laos@un.int, latvia@un.int, lebanon@un.int, lesotho@un.int, liberia@un.int, libya@un.int, liechtenstein@un.int, lithuania@un.int, newyork.un@mae.etat.lu, madagascar@un.int, malawi@un.int, malaysia@un.int, maldives@un.int, mali@un.int, malta@un.int, marshallislands@un.int, mauritania@un.int, mauritius@un.int, mexico@un.int, micronesia@un.int, moldova@un.int
+```
+
+## Set S
+
+```
+monaco@un.int, mongolia@un.int, montenegro@un.int, morocco@un.int, mozambique@un.int, myanmar@un.int, namibia@un.int, nauru@un.int, nepal@un.int, nyv@minbuza.nl, nzmission@un.int, nicaragua@un.int, niger@un.int, nigeria@un.int, macedonia@un.int, norway@un.int, oman@un.int, pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@un.int, philippines@un.int, newyork.un@msz.gov.pl, portugal@un.int, qatar@un.int, rokny@un.int, romania@un.int, russia@un.int
+```
+
+## Set T
+
+```
+press@russiaun.ru, rwanda@un.int, stkittsnevis@un.int, stlucia@un.int, stvincent@un.int, samoa@un.int, sanmarino@un.int, saotome@un.int, saudiarabia@un.int, senegal@un.int, serbia@un.int, seychelles@un.int, sierraleone@un.int, singaporeny@un.int, slovakia@un.int, slovenia@un.int, solomonislands@un.int, somalia@un.int, southafrica@un.int, southsudan@un.int, spain@un.int, srilanka@un.int, sudan@un.int, suriname@un.int, sweden@un.int, suisse@un.int, syria@un.int, tajikistan@un.int, thailand@un.int, timorleste@un.int
+```
+
+## Set U
+
+```
+togo@un.int, tonga@un.int, trinidadandtobago@un.int, tunisia@un.int, turkey@un.int, turkmenistan@un.int, tuvalu@un.int, uganda@un.int, ukraine@un.int, uae@un.int, uk@un.int, tanzania@un.int, usun@state.gov, media@usun.usmission.gov, uruguay@un.int, uzbekistan@un.int, vanuatu@un.int, venezuela@un.int, vietnam@un.int, yemen@un.int, zambia@un.int, zimbabwe@un.int
+```
+
 ----
+
 
 ----
