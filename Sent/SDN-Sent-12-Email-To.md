@@ -98,9 +98,10 @@ tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, 
 
 ^ redazione@repubblica.it
 
+^ contact@nikkei.com
 
 ```
-letters@theneweuropean.co.uk, info@theneweuropean.co.uk, editor@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei.com, editor@nikkei.com, contact@nikkei.com, help@nikkei.com, subscriptions@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr
+info@theneweuropean.co.uk, editor@theneweuropean.co.uk, editor@nikkei.com, help@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr
 ```
 
 ## Set K - Corrected
@@ -148,6 +149,14 @@ courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, letters@smh.com.a
 ^ contacto@elmundo.es
 
 ^ opinion@elmundo.es
+
+^ letters@nikkei.com
+
+^ subscriptions@nikkei.com
+
+^ subscriptions@theneweuropean.co.uk
+
+^ letters@theneweuropean.co.uk
 
 ```
 inquiries@thewrap.com, guestblog@thewrap.com, memberships@thewrap.com, sales@thewrap.com, editor@studyfinds.org, editorial@africanews.com, contacto@clarin.com, atendimento@uol.com.br, musaf@haaretz.co.il, 
