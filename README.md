@@ -44,7 +44,7 @@ LLM Query
 
 ... 1940s-2020s
 
-... Barr - Bear - Khashoggi - Kirkland - Maxwell
+... D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
 ----
 
