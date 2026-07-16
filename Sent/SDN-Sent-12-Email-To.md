@@ -103,20 +103,58 @@ tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, 
 letters@theneweuropean.co.uk, info@theneweuropean.co.uk, editor@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei.com, editor@nikkei.com, contact@nikkei.com, help@nikkei.com, subscriptions@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr
 ```
 
+## Set K - Corrected
+
+^ editor@pravda.ru 
+
+^ readers@yomiuri.com 
+
+^ viewers@nhk.or.jp 
+
+^ office@interfax.ru
+
+^ courrier@lesoir.be
+
+```
+courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, letters@smh.com.au, toi.news@timesgroup.com, tips@dailymail.com, newsdesk@mirror.co.uk, news@dailystar.co.uk, newsdesk@express.co.uk, newsdesk@independent.co.uk, news@standard.co.uk, exclusive@the-sun.co.uk, letters@thetimes.co.uk, editor@theyeshivaworld.com, observers@france24.com, support@nordot.jp, info@dw.com, office@tass.ru, tips@thomsonreuters.com
+```
+
+## Set L - Corrected
+
+^ faleconosco@uol.com.br
+
+^ redaccion@elmundo.es
+
+^ editoria@uol.com.br
+
+^ contact@studyfinds.org
+
+^ tips@studyfinds.org
+
+^ contact@worldofreel.com
+
+^ editor@worldofreel.com
+
+^ editor@hurriyetdailynews.com
+
+^ contact@africanews.com
+
+^ press@africanews.com
+
+^ redaccion@clarin.com
+
+^ cartaslector@clarin.com
+
+^ contacto@elmundo.es
+
+^ opinion@elmundo.es
+
+```
+inquiries@thewrap.com, guestblog@thewrap.com, memberships@thewrap.com, sales@thewrap.com, editor@studyfinds.org, editorial@africanews.com, contacto@clarin.com, atendimento@uol.com.br, musaf@haaretz.co.il, 
+opinions@haaretz.co.il
+```
+
 # New
-
-## Set K
-
-```
-courrier-des-lecteurs@lemonde.fr, courrier@lesoir.be, newsroom@themoscowtimes.com, letters@smh.com.au, toi.news@timesgroup.com, tips@dailymail.com, newsdesk@mirror.co.uk, news@dailystar.co.uk, newsdesk@express.co.uk, newsdesk@independent.co.uk, news@standard.co.uk, exclusive@the-sun.co.uk, letters@thetimes.co.uk, editor@theyeshivaworld.com, observers@france24.com, support@nordot.jp, info@dw.com, office@tass.ru, tips@thomsonreuters.com, readers@yomiuri.com, office@interfax.ru, viewers@nhk.or.jp, editor@pravda.ru
-```
-
-## Set L
-
-```
-inquiries@thewrap.com, guestblog@thewrap.com, memberships@thewrap.com, sales@thewrap.com, contact@worldofreel.com, editor@worldofreel.com, contact@studyfinds.org, editor@studyfinds.org, tips@studyfinds.org, contact@africanews.com, editorial@africanews.com, press@africanews.com, redaccion@clarin.com, contacto@clarin.com, cartaslector@clarin.com, atendimento@uol.com.br, editoria@uol.com.br, faleconosco@uol.com.br, contacto@elmundo.es, redaccion@elmundo.es, opinion@elmundo.es, musaf@haaretz.co.il, 
-opinions@haaretz.co.il, editor@hurriyetdailynews.com
-```
 
 ## Set M
 
