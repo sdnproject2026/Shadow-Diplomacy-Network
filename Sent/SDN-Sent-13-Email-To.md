@@ -109,8 +109,12 @@ opinions@haaretz.co.il
 
 ^ gautam.adani@adanigroup.com
 
+^ bernard.arnault@lvmh.com
+
+^ julia.flesher@kochind.com
+
 ```
-bezos@amazon.com, zuckerberg@fb.com, larry@google.com, sergey@google.com, bernard.arnault@lvmh.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, françoise.bettencourt@loreal.com, amancio.ortega@inditex.com, charles.koch@kochind.com, julia.flesher@kochind.com
+bezos@amazon.com, zuckerberg@fb.com, larry@google.com, sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, françoise.bettencourt@loreal.com, amancio.ortega@inditex.com, charles.koch@kochind.com
 ```
 
 ## Set N
