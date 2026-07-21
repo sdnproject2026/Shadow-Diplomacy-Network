@@ -226,6 +226,15 @@ togo@un.int, tonga@un.int, trinidadandtobago@un.int, tunisia@un.int, turkey@un.i
 consumerservices@penguinrandomhouse.com, penguinpublicity@penguinrandomhouse.com, knopfpublicity@randomhouse.com, crownpublicity@randomhouse.com, Corporate.Communications@simonandschuster.com, SSPublicity@simonandschuster.com, ScribnerPublicity@simonandschuster.com, yuppublicity@yale.edu, macmillan@macmillan.com, CeladonBooks@macmillan.com, FSGPublicity@macmillan.com, FlatironPublicity@macmillan.com, TorPublicity@macmillan.com, press@brookings.edu, press@protectdemocracy.org, books-partners@google.com, press@asc.upenn.edu, media@aei.org, press@newamerica.org, publicity@press.princeton.edu, publicity@harvard.edu, media@pearson.com, publicity@bloomsbury.com, press_publicity@uchicago.edu, media@cambridge.org, media.relations@dartmouth.edu, press@mcgrawhill.com, press@sagepub.com, press@harpercollins.com, info@harpercollins.com, press@springernature.com, mediarelations@springernature.com
 ```
 
+## SET W
+
+corrections 
+
+```
+mission.newyork@mfa.gov.al, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bihun@mvp.gov.ba, mission.newyork@mfa.gov.al, missionandorraun@govern.ad, distri.delbrasonu@itamaraty.gov.br,
+cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, cotedivoiremission@yahoo.com
+```
+
 ----
 
 
