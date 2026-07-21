@@ -135,19 +135,60 @@ bezos@amazon.com, zuckerberg@fb.com, larry@google.com, sergey@google.com, mukesh
 press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, press@google.com, media@google.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, info@inditex.com, contact@walton.com, info@kochind.com, media@adani.com
 ```
 
-# New
-
 ## Set O
 
+^ info@albaniaun.org
+
+^ mission@afghanistan-un.org
+
+^ oevnewyork@bmeia.gv.at
+
+^ new-york-ob@bmeia.gv.at
+
+^ bih@un.int
+
+^ mission.albania@un.int
+
+^ mission.andorra@un.int
+
+^ delbrasny@itamaraty.gov.br
+
+^ imprensa.nova-york@itamaraty.gov.br
+
 ```
-nfaiq@afghanistan-un.org, mission@afghanistan-un.org, mission.albania@un.int, info@albaniaun.org, algeria@un.int, mission.andorra@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, new-york-ob@bmeia.gv.at, oevnewyork@bmeia.gv.at, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int, belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, bih@un.int, botswana@un.int, delbrasny@itamaraty.gov.br, imprensa.nova-york@itamaraty.gov.br, brunei@un.int
+nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int, belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, botswana@un.int, brunei@un.int
 ```
 
 ## Set P
 
+^ nykonsulat@um.dk
+
+^ chinamissionny@gmail.com
+
+^ dominicanrepublic@un.int
+
+^ drc@un.in
+
+^ caboverde@un.int
+
+^ cyprus@un.int
+
+^ dprk@un.int
+
+^ canny@un.int
+
+^ car@un.int
+
+^ chile@un.int
+
+^ cote-divoire@un.int
+
+
 ```
-bulgaria@un.int, burkinafaso@un.int, burundi@un.int, caboverde@un.int, cambodia@un.int, cameroon@un.int, canny@un.int, car@un.int, chad@un.int, chile@un.int, chinamissionny@gmail.com, press@china-un.org, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, cote-divoire@un.int, croatia@un.int, cuba@un.int, cyprus@un.int, czechrepublic@un.int, dprk@un.int, drc@un.int, nykonsulat@um.dk, djibouti@un.int, dominica@un.int, dominicanrepublic@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int
+bulgaria@un.int, burkinafaso@un.int, burundi@un.int, cambodia@un.int, cameroon@un.int, chad@un.int, press@china-un.org, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, croatia@un.int, cuba@un.int, czechrepublic@un.int, djibouti@un.int, dominica@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int
 ```
+
+# New
 
 ## Set Q
 
