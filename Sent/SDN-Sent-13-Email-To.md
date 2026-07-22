@@ -188,19 +188,43 @@ nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argenti
 bulgaria@un.int, burkinafaso@un.int, burundi@un.int, cambodia@un.int, cameroon@un.int, chad@un.int, press@china-un.org, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, croatia@un.int, cuba@un.int, czechrepublic@un.int, djibouti@un.int, dominica@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int
 ```
 
-# New
-
 ## Set Q
 
+^ media@israelun.org
+
+^ sanomat.nyk@formin.fi
+
+^ unny@mfa.ee
+
+^ equatorialguinea@un.int
+
+^ gremb.un@mfa.gr
+
 ```
-equatorialguinea@un.int, eritrea@un.int, unny@mfa.ee, eswatini@un.int, ethiopia@un.int, fiji@un.int, sanomat.nyk@formin.fi, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@new-york-un.diplo.de, ghana@un.int, gremb.un@mfa.gr, grenada@un.int, guatemala@un.int, guinea@un.int, guinea-bissau@un.int, guyana@un.int, haiti@un.int, honduras@un.int, hungary@un.int, iceland@un.int, india@un.int, indonesia@un.int, iran@un.int, iraq@un.int, ireland@un.int, israel@un.int, media@israelun.org
+eritrea@un.int, eswatini@un.int, ethiopia@un.int, fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@new-york-un.diplo.de, ghana@un.int, grenada@un.int, guatemala@un.int, guinea@un.int, guinea-bissau@un.int, guyana@un.int, haiti@un.int, honduras@un.int, hungary@un.int, iceland@un.int, india@un.int, indonesia@un.int, iran@un.int, iraq@un.int, ireland@un.int, israel@un.int
 ```
 
 ## Set R
 
+^ laos@un.int
+
+^ lithuania@un.int
+
+^ lebanon@un.int
+
+^ newyork.un@mae.etat.lu
+
+^ jordan@un.int
+
+^ kiribati@un.int
+
+^ kuwait@un.int
+
 ```
-italy@un.int, jamaica@un.int, japan@un.int, jordan@un.int, kazakhstan@un.int, kenya@un.int, kiribati@un.int, kuwait@un.int, kyrgyzstan@un.int, laos@un.int, latvia@un.int, lebanon@un.int, lesotho@un.int, liberia@un.int, libya@un.int, liechtenstein@un.int, lithuania@un.int, newyork.un@mae.etat.lu, madagascar@un.int, malawi@un.int, malaysia@un.int, maldives@un.int, mali@un.int, malta@un.int, marshallislands@un.int, mauritania@un.int, mauritius@un.int, mexico@un.int, micronesia@un.int, moldova@un.int
+italy@un.int, jamaica@un.int, japan@un.int, kazakhstan@un.int, kenya@un.int, kyrgyzstan@un.int,, latvia@un.int, lesotho@un.int, liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un.int, malaysia@un.int, maldives@un.int, mali@un.int, malta@un.int, marshallislands@un.int, mauritania@un.int, mauritius@un.int, mexico@un.int, micronesia@un.int, moldova@un.int
 ```
+
+# New
 
 ## Set S
 
@@ -228,11 +252,12 @@ consumerservices@penguinrandomhouse.com, penguinpublicity@penguinrandomhouse.com
 
 ## SET W
 
-corrections 
+UN corrections 
 
 ```
 mission.newyork@mfa.gov.al, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bihun@mvp.gov.ba, mission.newyork@mfa.gov.al, missionandorraun@govern.ad, distri.delbrasonu@itamaraty.gov.br,
-cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, cotedivoiremission@yahoo.com
+cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, cotedivoiremission@yahoo.com, 
+lao.pr.ny@gmail.com, misija.jt@urm.lt, contact@lebanonun.org, mission.newyork@mae.etat.lu, missionun@jordanmissionun.com, mission@kiribatimission-ny.org, kuwait.un@gmail.com, info@israelmissionun.org, new-york.un@gov.fi, mission.un@mfa.ee, eguinea@un.int, grdel.un@mfa.gr
 ```
 
 ----
