@@ -279,6 +279,8 @@ togo@un.int, tonga@un.int, trinidadandtobago@un.int, tunisia@un.int, turkey@un.i
 consumerservices@penguinrandomhouse.com, penguinpublicity@penguinrandomhouse.com, knopfpublicity@randomhouse.com, crownpublicity@randomhouse.com, Corporate.Communications@simonandschuster.com, SSPublicity@simonandschuster.com, ScribnerPublicity@simonandschuster.com, yuppublicity@yale.edu, macmillan@macmillan.com, CeladonBooks@macmillan.com, FSGPublicity@macmillan.com, FlatironPublicity@macmillan.com, TorPublicity@macmillan.com, press@brookings.edu, press@protectdemocracy.org, books-partners@google.com, press@asc.upenn.edu, media@aei.org, press@newamerica.org, publicity@press.princeton.edu, publicity@harvard.edu, media@pearson.com, publicity@bloomsbury.com, press_publicity@uchicago.edu, media@cambridge.org, media.relations@dartmouth.edu, press@mcgrawhill.com, press@sagepub.com, press@harpercollins.com, info@harpercollins.com, press@springernature.com, mediarelations@springernature.com
 ```
 
+### Count: 32
+
 ## SET W
 
 UN corrections 
@@ -288,6 +290,10 @@ mission.newyork@mfa.gov.al, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bi
 cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, cotedivoiremission@yahoo.com, 
 lao.pr.ny@gmail.com, misija.jt@urm.lt, contact@lebanonun.org, mission.newyork@mae.etat.lu, missionun@jordanmissionun.com, mission@kiribatimission-ny.org, kuwait.un@gmail.com, info@israelmissionun.org, new-york.un@gov.fi, mission.un@mfa.ee, eguinea@un.int, grdel.un@mfa.gr, nzun@mfat.govt.nz, mission@monaco-un.org, newyork@mofa.gov.qa, mission@mofa.go.kr, saotomeprincipe@un.int, mission.st@un.int, usaun@mofa.gov.sa, sknmission@un.int, newyork.un@eda.admin.ch, mission.senegal@un.int, singemb_nyc@mfa.sg, timorleste@un.int, svgmission@un.int, russia@un.int, info@russiaun.ru
 ```
+
+
+
+### Count: TBA
 
 ----
 
