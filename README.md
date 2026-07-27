@@ -1,4 +1,4 @@
-> Notes:
+> Notes: 
 
 > See "Breaking News" for "pre-release" (ZIP) additions
 
@@ -120,7 +120,7 @@ Dozens of perps / pedos / associates / mentions
 
 - 2010 DEA "Operation Chain Reaction"
 
-    - https://pastes.io/sdn-27-cha
+    - https://rentry.co/uz4dfb87
 
 - 2017 & 2025 ProPublica Financial Disclosures
     - NEXT ! 1,500 _SLUGS_ (names)
