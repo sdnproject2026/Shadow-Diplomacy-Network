@@ -16,7 +16,6 @@ tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.
 
 ### Count: 29
 
-
 ## Set B
 
 ```
@@ -25,24 +24,23 @@ tips@oann.com, press@oann.com, letters@nationalreview.com, tips@nationalreview.c
 
 ### Count: 30
 
-
 ## Set C
 
 ```
-info@dw.com, english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisak@ap.org, etucker@ap.org, ben@meidastouch.com, brett@meidastouch.com, melissa.quinn@cbsinteractive.com, sfowler@npr.org, jdiaz@npr.org, sneuman@npr.org, llanders@newshour.org, ldesjardins@newshour.org, mfinnegan@newshour.org, john@other98.com, andy@other98.com, action@other98.com, news@axios.com, info@axios.com, pips@axios.com, press@axios.com, nightly@nbcuni.com, evening@cbsnews.com, 60m@cbsnews.com, thefive@foxnews.com, special@foxnews.com
+info@dw.com, english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisak@ap.org, etucker@ap.org, ben@meidastouch.com, brett@meidastouch.com, melissa.quinn@cbsinteractive.com, sfowler@npr.org, jdiaz@npr.org, sneuman@npr.org, llanders@newshour.org, ldesjardins@newshour.org, mfinnegan@newshour.org, john@other98.com, andy@other98.com, action@other98.com, news@axios.com, info@axios.com, pips@axios.com, press@axios.com, nightly@nbcuni.com, evening@cbsnews.com, 60m@cbsnews.com, thefive@foxnews.com, special@foxnews.com, info@katiephang.com, katie@katiephang.com
 ```
 
-### Count: 28
-
+### Count: 30
 
 ## Set D
+
+Dozens of Chapters - Next
 
 ```
 americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@nbcuni.com, thelastword@msnbc.com, rachel@msnbc.com, newsnight@bbc.co.uk, worldnews@abcnews.com, thisweek@abc.com, washingtonweek@pbs.org, frontline@pbs.org, gps@cnn.com, mediabuzz@foxnews.com, outfront@cnn.com, hannity@foxnews.com, ingraham@foxnews.com, morningedition@npr.org, onpoint@wbur.org, 1a@wamu.org, thecurrent@cbc.ca, thehouse@cbc.ca, q@cbc.ca, global3000@dw.com, reporters@france24.com, observateurs@france24.com, theworld@abc.net.au
 ```
 
 ### Count: 27
-
 
 ## Set E
 
@@ -52,7 +50,6 @@ lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, m
 
 ### Count: 28
 
-
 ## Set F
 
 ```
@@ -60,7 +57,6 @@ andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, y
 ```
 
 ### Count: 11
-
 
 ## Set G
 
@@ -70,7 +66,6 @@ tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcu
 
 ### Count: 26
 
-
 ## Set H
 
 ```
@@ -78,7 +73,6 @@ tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp
 ```
 
 ### Count: 19
-
 
 ## Set I
 
@@ -88,22 +82,25 @@ tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, 
 
 ### Count: 15
 
-
 ## Set J
 
-```
-^ editor@nikkei.com  
-^ help@nikkei.com  
-^ redazione@repubblica.it  
-^ contact@nikkei.com  
-^ editor@theneweuropean.co.uk  
-^ info@theneweuropean.co.uk  
+^ editor@nikkei.com
 
+^ help@nikkei.com
+
+^ redazione@repubblica.it
+
+^ contact@nikkei.com
+
+^ editor@theneweuropean.co.uk
+
+^ info@theneweuropean.co.uk
+
+```
 letters@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei.com, contact@nikkei.com, subscriptions@nikkei.com, editor@riotimesonline.com, contact@riotimesonline.com, letters@riotimesonline.com, news@riotimesonline.com, english@kyodonews.jp, editor@kyodonews.jp, info@kyodonews.jp, contact@kyodonews.jp, editor@ptinews.com, contact@ptinews.com, feedback@ptinews.com, news@ptinews.com, english@news.cn, editor@news.cn, contact@news.cn, service@news.cn, english@yna.co.kr, editor@yna.co.kr, contact@yna.co.kr, help@yna.co.kr
 ```
 
 ### Count: 31
-
 
 ## Set K
 
@@ -113,7 +110,6 @@ courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, letters@smh.com.a
 
 ### Count: 18
 
-
 ## Set L
 
 ```
@@ -122,180 +118,264 @@ inquiries@thewrap.com, guestblog@thewrap.com, memberships@thewrap.com, sales@the
 
 ### Count: 10
 
-
 ## Set M
 
-```
-^ jim.walton@walton.com  
-^ elon@teslamotors.com  
-^ michael.bloomberg@bloomberg.com  
-^ alice.walton@walton.com  
-^ rob.walton@walton.com  
-^ gates@microsoft.com  
-^ gautam.adani@adanigroup.com  
-^ bernard.arnault@lvmh.com  
-^ julia.flesher@kochind.com  
+^ jim.walton@walton.com
 
+^ elon@teslamotors.com
+
+^ michael.bloomberg@bloomberg.com
+
+^ alice.walton@walton.com
+
+^ rob.walton@walton.com
+
+^ gates@microsoft.com
+
+^ gautam.adani@adanigroup.com
+
+^ bernard.arnault@lvmh.com
+
+^ julia.flesher@kochind.com
+
+```
 bezos@amazon.com, zuckerberg@fb.com, larry@google.com, sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, françoise.bettencourt@loreal.com, amancio.ortega@inditex.com, charles.koch@kochind.com
 ```
 
 ### Count: 19
 
-
 ## Set N
 
-```
-^ contact@loreal.com  
-^ info@bloomberg.com  
-^ media@microsoft.com  
-^ media@teslamotors.com  
-^ press@oracle.com  
-^ press@microsoft.com  
+^ contact@loreal.com
 
+^ info@bloomberg.com
+
+^ media@microsoft.com
+
+^ media@teslamotors.com
+
+^ press@oracle.com
+
+^ press@microsoft.com
+
+```
 press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, press@google.com, media@google.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, info@inditex.com, contact@walton.com, info@kochind.com, media@adani.com
 ```
 
 ### Count: 19
 
-
 ## Set O
 
-```
-^ info@albaniaun.org  
-^ mission@afghanistan-un.org  
-^ oevnewyork@bmeia.gv.at  
-^ new-york-ob@bmeia.gv.at  
-^ bih@un.int  
-^ mission.albania@un.int  
-^ mission.andorra@un.int  
-^ delbrasny@itamaraty.gov.br  
-^ imprensa.nova-york@itamaraty.gov.br  
+^ info@albaniaun.org
 
+^ mission@afghanistan-un.org
+
+^ oevnewyork@bmeia.gv.at
+
+^ new-york-ob@bmeia.gv.at
+
+^ bih@un.int
+
+^ mission.albania@un.int
+
+^ mission.andorra@un.int
+
+^ delbrasny@itamaraty.gov.br
+
+^ imprensa.nova-york@itamaraty.gov.br
+
+```
 nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int, belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, botswana@un.int, brunei@un.int
 ```
 
 ### Count: 30
 
-
 ## Set P
 
-```
-^ nykonsulat@um.dk  
-^ chinamissionny@gmail.com  
-^ dominicanrepublic@un.int  
-^ drc@un.in  
-^ caboverde@un.int  
-^ cyprus@un.int  
-^ dprk@un.int  
-^ canny@un.int  
-^ car@un.int  
-^ chile@un.int  
-^ cote-divoire@un.int  
-^ press@china-un.org  
+^ nykonsulat@um.dk
 
+^ chinamissionny@gmail.com
+
+^ dominicanrepublic@un.int
+
+^ drc@un.in
+
+^ caboverde@un.int
+
+^ cyprus@un.int
+
+^ dprk@un.int
+
+^ canny@un.int
+
+^ car@un.int
+
+^ chile@un.int
+
+^ cote-divoire@un.int
+
+^ press@china-un.org
+
+```
 bulgaria@un.int, burkinafaso@un.int, burundi@un.int, cambodia@un.int, cameroon@un.int, chad@un.int, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, croatia@un.int, cuba@un.int, czechrepublic@un.int, djibouti@un.int, dominica@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int
 ```
 
 ### Count: 30
 
-
 ## Set Q
 
-```
-^ media@israelun.org  
-^ sanomat.nyk@formin.fi  
-^ unny@mfa.ee  
-^ equatorialguinea@un.int  
-^ gremb.un@mfa.gr  
+^ media@israelun.org
 
+^ sanomat.nyk@formin.fi
+
+^ unny@mfa.ee
+
+^ equatorialguinea@un.int
+
+^ gremb.un@mfa.gr
+
+```
 eritrea@un.int, eswatini@un.int, ethiopia@un.int, fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@new-york-un.diplo.de, ghana@un.int, grenada@un.int, guatemala@un.int, guinea@un.int, guinea-bissau@un.int, guyana@un.int, haiti@un.int, honduras@un.int, hungary@un.int, iceland@un.int, india@un.int, indonesia@un.int, iran@un.int, iraq@un.int, ireland@un.int, israel@un.int
 ```
 
 ### Count: 30
 
-
 ## Set R
 
-```
-^ laos@un.int  
-^ lithuania@un.int  
-^ lebanon@un.int  
-^ newyork.un@mae.etat.lu  
-^ jordan@un.int  
-^ kiribati@un.int  
-^ kuwait@un.int  
+^ laos@un.int
 
+^ lithuania@un.int
+
+^ lebanon@un.int
+
+^ newyork.un@mae.etat.lu
+
+^ jordan@un.int
+
+^ kiribati@un.int
+
+^ kuwait@un.int
+
+```
 italy@un.int, jamaica@un.int, japan@un.int, kazakhstan@un.int, kenya@un.int, kyrgyzstan@un.int, latvia@un.int, lesotho@un.int, liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un.int, malaysia@un.int, maldives@un.int, mali@un.int, malta@un.int, marshallislands@un.int, mauritania@un.int, mauritius@un.int, mexico@un.int, micronesia@un.int, moldova@un.int
 ```
 
 ### Count: 30
 
-
 ## Set S
 
-```
-^ nzmission@un.int  
-^ monaco@un.int  
-^ qatar@un.int  
-^ rokny@un.int  
+^ nzmission@un.int
 
+^ monaco@un.int
+
+^ qatar@un.int
+
+^ rokny@un.int
+
+```
 mongolia@un.int, montenegro@un.int, morocco@un.int, mozambique@un.int, myanmar@un.int, namibia@un.int, nauru@un.int, nepal@un.int, nyv@minbuza.nl, nicaragua@un.int, niger@un.int, nigeria@un.int, macedonia@un.int, norway@un.int, oman@un.int, pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@un.int, philippines@un.int, newyork.un@msz.gov.pl, portugal@un.int, romania@un.int, russia@un.int
 ```
 
 ### Count: 30
 
-
 ## Set T
 
-```
-^ saotome@un.int  
-^ saudiarabia@un.int  
-^ stkittsnevis@un.int  
-^ suisse@un.int  
-^ senegal@un.int  
-^ singaporeny@un.int  
-^ timorleste@un.int  
-^ stvincent@un.int  
-^ press@russiaun.ru  
+^ saotome@un.int
 
+^ saudiarabia@un.int
+
+^ stkittsnevis@un.int
+
+^ suisse@un.int
+
+^ senegal@un.int
+
+^ singaporeny@un.int
+
+^ timorleste@un.int
+
+^ stvincent@un.int
+
+^ press@russiaun.ru
+
+```
 rwanda@un.int, stlucia@un.int, samoa@un.int, sanmarino@un.int, serbia@un.int, seychelles@un.int, sierraleone@un.int, slovakia@un.int, slovenia@un.int, solomonislands@un.int, somalia@un.int, southafrica@un.int, southsudan@un.int, spain@un.int, srilanka@un.int, sudan@un.int, suriname@un.int, sweden@un.int, syria@un.int, tajikistan@un.int, thailand@un.int
 ```
 
 ### Count: 30
 
-
 ## Set U
 
+^ usun@state.gov
+
 ```
-togo@un.int, tonga@un.int, trinidadandtobago@un.int, tunisia@un.int, turkey@un.int, turkmenistan@un.int, tuvalu@un.int, uganda@un.int, ukraine@un.int, uae@un.int, uk@un.int, tanzania@un.int, usun@state.gov, media@usun.usmission.gov, uruguay@un.int, uzbekistan@un.int, vanuatu@un.int, venezuela@un.int, vietnam@un.int, yemen@un.int, zambia@un.int, zimbabwe@un.int
+togo@un.int, tonga@un.int, trinidadandtobago@un.int, tunisia@un.int, turkey@un.int, turkmenistan@un.int, tuvalu@un.int, uganda@un.int, ukraine@un.int, uae@un.int, uk@un.int, tanzania@un.int, media@usun.usmission.gov, uruguay@un.int, uzbekistan@un.int, vanuatu@un.int, venezuela@un.int, vietnam@un.int, yemen@un.int, zambia@un.int, zimbabwe@un.int
 ```
 
 ### Count: 22
 
-
 ## Set V
 
+^ press@newamerica.org
+
+^ books-partners@google.com
+
+^ CeladonBooks@macmillan.com
+
+^ macmillan@macmillan.com
+
+^ FSGPublicity@macmillan.com
+
+^ FlatironPublicity@macmillan.com
+
+^ TorPublicity@macmillan.com
+
+^ press@asc.upenn.edu
+
+^ press@brookings.edu
+
+^ publicity@harvard.edu
+
+^ mediarelations@springernature.com
+
 ```
-consumerservices@penguinrandomhouse.com, penguinpublicity@penguinrandomhouse.com, knopfpublicity@randomhouse.com, crownpublicity@randomhouse.com, Corporate.Communications@simonandschuster.com, SSPublicity@simonandschuster.com, ScribnerPublicity@simonandschuster.com, yuppublicity@yale.edu, macmillan@macmillan.com, CeladonBooks@macmillan.com, FSGPublicity@macmillan.com, FlatironPublicity@macmillan.com, TorPublicity@macmillan.com, press@brookings.edu, press@protectdemocracy.org, books-partners@google.com, press@asc.upenn.edu, media@aei.org, press@newamerica.org, publicity@press.princeton.edu, publicity@harvard.edu, media@pearson.com, publicity@bloomsbury.com, press_publicity@uchicago.edu, media@cambridge.org, media.relations@dartmouth.edu, press@mcgrawhill.com, press@sagepub.com, press@harpercollins.com, info@harpercollins.com, press@springernature.com, mediarelations@springernature.com
+consumerservices@penguinrandomhouse.com, penguinpublicity@penguinrandomhouse.com, knopfpublicity@randomhouse.com, crownpublicity@randomhouse.com, Corporate.Communications@simonandschuster.com, SSPublicity@simonandschuster.com, susannah.lawrence@simonandschuster.com, ScribnerPublicity@simonandschuster.com, yuppublicity@yale.edu, press@protectdemocracy.org, media@aei.org, publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, press_publicity@uchicago.edu, media@cambridge.org, media.relations@dartmouth.edu, press@mcgrawhill.com, press@sagepub.com, press@harpercollins.com, info@harpercollins.com, press@springernature.com, hsscommsproduction@springernature.com
 ```
 
 ### Count: 32
 
+# New
+
 ## SET W
 
-UN corrections 
+UN corrections
 
 ```
-mission.newyork@mfa.gov.al, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bihun@mvp.gov.ba, mission.newyork@mfa.gov.al, missionandorraun@govern.ad, distri.delbrasonu@itamaraty.gov.br,
-cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, cotedivoiremission@yahoo.com, 
-lao.pr.ny@gmail.com, misija.jt@urm.lt, contact@lebanonun.org, mission.newyork@mae.etat.lu, missionun@jordanmissionun.com, mission@kiribatimission-ny.org, kuwait.un@gmail.com, info@israelmissionun.org, new-york.un@gov.fi, mission.un@mfa.ee, eguinea@un.int, grdel.un@mfa.gr, nzun@mfat.govt.nz, mission@monaco-un.org, newyork@mofa.gov.qa, mission@mofa.go.kr, saotomeprincipe@un.int, mission.st@un.int, usaun@mofa.gov.sa, sknmission@un.int, newyork.un@eda.admin.ch, mission.senegal@un.int, singemb_nyc@mfa.sg, timorleste@un.int, svgmission@un.int, russia@un.int, info@russiaun.ru
+mission.newyork@mfa.gov.al, usunpress@state.gov, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bihun@mvp.gov.ba, mission.newyork@mfa.gov.al, missionandorraun@govern.ad, distri.delbrasonu@itamaraty.gov.br, cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, cotedivoiremission@yahoo.com, lao.pr.ny@gmail.com, misija.jt@urm.lt, contact@lebanonun.org, mission.newyork@mae.etat.lu, missionun@jordanmissionun.com, mission@kiribatimission-ny.org
 ```
 
+### Count: 21
 
+## SET X
 
-### Count: TBA
+UN corrections
+
+```
+kuwait.un@gmail.com, info@israelmissionun.org, new-york.un@gov.fi, mission.un@mfa.ee, eguinea@un.int, grdel.un@mfa.gr, nzun@mfat.govt.nz, mission@monaco-un.org, newyork@mofa.gov.qa, mission@mofa.go.kr, saotomeprincipe@un.int, mission.st@un.int, usaun@mofa.gov.sa, sknmission@un.int, newyork.un@eda.admin.ch, mission.senegal@un.int, singemb_nyc@mfa.sg, timorleste@un.int, svgmission@un.int, russia@un.int, info@russiaun.ru
+```
+
+### Count: 21
+
+## SET Y
+
+Press Corrections
+
+```
+heidi@newamerica.org, kportnoy@newamerica.org, etavenner@newamerica.org, elkin@newamerica.org, press@google.com, publisher-support@google.com, contact@celadonbooks.com, foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@macmillan.com, academic@macmillan.com, fsg.publicity@fsgbooks.com, sales@fsgbooks.com, fsg.subrights@fsgbooks.com, publicity@flatironbooks.com, marketing@flatironbooks.com, tpgpublicity@tor.com, foreignrights@stmartins.com, asccomm@asc.upenn.edu, ascdept@asc.upenn.edu, media@brookings.edu, communications@brookings.edu, news@harvard.edu, mediarelations@harvard.edu, press@springernature.com, hsscomms@springernature.com, ORSupport@springernature.com
+```
+
+### Count: 27
 
 ----
-
 
 ----

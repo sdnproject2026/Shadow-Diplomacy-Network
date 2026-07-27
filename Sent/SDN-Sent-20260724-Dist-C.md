@@ -16,13 +16,9 @@ sdnproject2026@onionmail.org
 
 ## Topics
 
-- SDN-13-Legal-20-Phang-v-Blanche
-
-- SDN-13-Legal-14-Perps-LLM-Query
-
 - SDN-00-06-Dozens-of-Chapters
 
-- SDN-Sent-09-Email-To
+- SDN-Sent-14-Email-To
 
 - SDN-00-01-Elevator-Pitch
 
