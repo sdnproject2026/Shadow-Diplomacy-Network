@@ -376,6 +376,16 @@ heidi@newamerica.org, kportnoy@newamerica.org, etavenner@newamerica.org, elkin@n
 
 ### Count: 27
 
+## SET Z01
+
+JMN Corrections
+
+```
+help@nikkei.com, contact@nikkei.com, redazione@repubblica.it, info@theneweuropean.co.uk, info@bloomberg.com, media@microsoft.com, press@microsoft.com, press@oracle.com, contact@loreal.com, media@microsoft.com, press@microsoft.com, info@bloomberg.com
+```
+
+### Count: 12
+
 ----
 
 ----
