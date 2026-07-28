@@ -34,8 +34,6 @@ info@dw.com, english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.
 
 ## Set D
 
-Dozens of Chapters - Next
-
 ```
 americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@nbcuni.com, thelastword@msnbc.com, rachel@msnbc.com, newsnight@bbc.co.uk, worldnews@abcnews.com, thisweek@abc.com, washingtonweek@pbs.org, frontline@pbs.org, gps@cnn.com, mediabuzz@foxnews.com, outfront@cnn.com, hannity@foxnews.com, ingraham@foxnews.com, morningedition@npr.org, onpoint@wbur.org, 1a@wamu.org, thecurrent@cbc.ca, thehouse@cbc.ca, q@cbc.ca, global3000@dw.com, reporters@france24.com, observateurs@france24.com, theworld@abc.net.au
 ```
@@ -43,6 +41,8 @@ americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@
 ### Count: 27
 
 ## Set E
+
+Dozens of Chapters - Next
 
 ```
 lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov, abhola@citizen.org, aregunburg@citizen.org, dnoel@citizen.org
