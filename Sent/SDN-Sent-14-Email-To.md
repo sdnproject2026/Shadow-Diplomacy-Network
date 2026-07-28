@@ -344,34 +344,69 @@ consumerservices@penguinrandomhouse.com, penguinpublicity@penguinrandomhouse.com
 
 ### Count: 32
 
+
+### SET W
+
+UN corrections
+
+^ mission@kiribatimission-ny.org
+
+^ cotedivoiremission@yahoo.com
+
+^ mission.newyork@mae.etat.lu
+
+```
+mission.newyork@mfa.gov.al, usunpress@state.gov, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bihun@mvp.gov.ba, mission.newyork@mfa.gov.al, missionandorraun@govern.ad, distri.delbrasonu@itamaraty.gov.br, cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, lao.pr.ny@gmail.com, misija.jt@urm.lt, contact@lebanonun.org, missionun@jordanmissionun.com
+```
+
+### Count: 21
+
+### SET X
+
+UN corrections
+
+^ info@israelmissionun.org
+
+^ mission@mofa.go.kr
+
+^ singemb_nyc@mfa.sg
+
+^ kuwait.un@gmail.com
+
+^ new-york.un@gov.fi
+
+^ eguinea@un.int
+
+^ mission@monaco-un.org
+
+^ saotomeprincipe@un.int
+
+^ mission.st@un.int
+
+^ sknmission@un.int
+
+^ mission.senegal@un.int
+
+^ timorleste@un.int
+
+^ svgmission@un.int
+
+^ info@russiaun.ru
+
+```
+mission.un@mfa.ee, grdel.un@mfa.gr, nzun@mfat.govt.nz, newyork@mofa.gov.qa, usaun@mofa.gov.sa, newyork.un@eda.admin.ch, russia@un.int
+```
+
+### Count: 21
+
 # New
-
-## SET W
-
-UN corrections
-
-```
-mission.newyork@mfa.gov.al, usunpress@state.gov, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bihun@mvp.gov.ba, mission.newyork@mfa.gov.al, missionandorraun@govern.ad, distri.delbrasonu@itamaraty.gov.br, cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, cotedivoiremission@yahoo.com, lao.pr.ny@gmail.com, misija.jt@urm.lt, contact@lebanonun.org, mission.newyork@mae.etat.lu, missionun@jordanmissionun.com, mission@kiribatimission-ny.org
-```
-
-### Count: 21
-
-## SET X
-
-UN corrections
-
-```
-kuwait.un@gmail.com, info@israelmissionun.org, new-york.un@gov.fi, mission.un@mfa.ee, eguinea@un.int, grdel.un@mfa.gr, nzun@mfat.govt.nz, mission@monaco-un.org, newyork@mofa.gov.qa, mission@mofa.go.kr, saotomeprincipe@un.int, mission.st@un.int, usaun@mofa.gov.sa, sknmission@un.int, newyork.un@eda.admin.ch, mission.senegal@un.int, singemb_nyc@mfa.sg, timorleste@un.int, svgmission@un.int, russia@un.int, info@russiaun.ru
-```
-
-### Count: 21
 
 ## SET Y
 
 Press Corrections
 
 ```
-heidi@newamerica.org, kportnoy@newamerica.org, etavenner@newamerica.org, elkin@newamerica.org, press@google.com, publisher-support@google.com, contact@celadonbooks.com, foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@macmillan.com, academic@macmillan.com, fsg.publicity@fsgbooks.com, sales@fsgbooks.com, fsg.subrights@fsgbooks.com, publicity@flatironbooks.com, marketing@flatironbooks.com, tpgpublicity@tor.com, foreignrights@stmartins.com, asccomm@asc.upenn.edu, ascdept@asc.upenn.edu, media@brookings.edu, communications@brookings.edu, news@harvard.edu, mediarelations@harvard.edu, press@springernature.com, hsscomms@springernature.com, ORSupport@springernature.com
+heidi@newamerica.org, kportnoy@newamerica.org, etavenner@newamerica.org, elkin@newamerica.org, press@google.com, publisher-support@google.com, contact@celadonbooks.com, foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@macmillan.com, academic@macmillan.com, fsg.publicity@fsgbooks.com, sales@fsgbooks.com, fsg.subrights@fsgbooks.com, publicity@flatironbooks.com, marketing@flatironbooks.com, tpgpublicity@tor.com, foreignrights@stmartins.com, asccomm@asc.upenn.edu, ascdept@asc.upenn.edu, media@brookings.edu, communications@brookings.edu, news@harvard.edu, mediarelations@harvard.edu, press@springernature.com, hsscomms@springernature.com, ORSupport@springernature.com, info.onu@diplomatie.gouv.ci
 ```
 
 ### Count: 27
