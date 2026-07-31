@@ -37,9 +37,10 @@ info@dw.com, english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.
 
 ## Set D
 
+^ aregunburg@citizen.org
 
 ```
-americasnewsroom@foxnews.com, thelead@cnn.com, ac360@cnn.com, sotu@cnn.com, mtp@nbcuni.com, thelastword@msnbc.com, rachel@msnbc.com, newsnight@bbc.co.uk, worldnews@abcnews.com, thisweek@abc.com, washingtonweek@pbs.org, frontline@pbs.org, gps@cnn.com, mediabuzz@foxnews.com, outfront@cnn.com, hannity@foxnews.com, ingraham@foxnews.com, morningedition@npr.org, onpoint@wbur.org, 1a@wamu.org, thecurrent@cbc.ca, thehouse@cbc.ca, q@cbc.ca, global3000@dw.com, reporters@france24.com, observateurs@france24.com, theworld@abc.net.au
+lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov, abhola@citizen.org, dnoel@citizen.org
 ```
 
 ### Count: 27
@@ -407,12 +408,28 @@ mission.un@mfa.ee, grdel.un@mfa.gr, nzun@mfat.govt.nz, newyork@mofa.gov.qa, usau
 
 ### Count: 21
 
-## SET Y
+## Set Y
 
-Press Corrections
+^ heidi@newamerica.org
+
+^ kportnoy@newamerica.org
+
+^ etavenner@newamerica.org
+
+^ elkin@newamerica.org
+
+^ sales@fsgbooks.com
+
+^ asccomm@asc.upenn.edu
+
+^ ascdept@asc.upenn.edu
+
+^ news@harvard.edu
+
+^ mediarelations@harvard.edu
 
 ```
-heidi@newamerica.org, kportnoy@newamerica.org, etavenner@newamerica.org, elkin@newamerica.org, press@google.com, publisher-support@google.com, contact@celadonbooks.com, foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@macmillan.com, academic@macmillan.com, fsg.publicity@fsgbooks.com, sales@fsgbooks.com, fsg.subrights@fsgbooks.com, publicity@flatironbooks.com, marketing@flatironbooks.com, tpgpublicity@tor.com, foreignrights@stmartins.com, asccomm@asc.upenn.edu, ascdept@asc.upenn.edu, media@brookings.edu, communications@brookings.edu, news@harvard.edu, mediarelations@harvard.edu, press@springernature.com, hsscomms@springernature.com, ORSupport@springernature.com, info.onu@diplomatie.gouv.ci
+press@google.com, publisher-support@google.com, contact@celadonbooks.com, foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@macmillan.com, academic@macmillan.com, fsg.publicity@fsgbooks.com, fsg.subrights@fsgbooks.com, publicity@flatironbooks.com, marketing@flatironbooks.com, tpgpublicity@tor.com, foreignrights@stmartins.com, media@brookings.edu, communications@brookings.edu, press@springernature.com, hsscomms@springernature.com, ORSupport@springernature.com, info.onu@diplomatie.gouv.ci
 ```
 
 ### Count: 27
