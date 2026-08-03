@@ -68,13 +68,7 @@ Victim's Legal Strategy
 
 Spreadsheet of Perps
 
-LLM Query
-
-  LLM Response Perplexity
-
-  LLM Response Duck AI
-
-  LLM Response ChatGPT
+...
 
 -----
 
