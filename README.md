@@ -4,6 +4,8 @@
 
 ----
 
+SDN-14-Financial-04-Bank-SARs-CapitolOne
+
 Capital One Closes Accounts
 
 100+ Trump Bank Accounts
@@ -24,7 +26,7 @@ Timeline
 
 ----
 
-Phang vs Blanche
+SDN-13-Legal-20-Phang-vs-Blanche
 
 Judge Emmet Sullivan’s Order
 
@@ -53,6 +55,14 @@ July 30 (2:28 p.m.)
 ...
 
 -----
+
+SDN-13-Legal-14-Perps-LLM-Query
+
+SDN-13-Legal-15-Perps-LLM-Response-Perplexity
+
+SDN-13-Legal-16-Perps-LLM-Response-Duck
+
+SDN-13-Legal-17-Perps-LLM-Response-ChatGPT
 
 Victim's Legal Strategy
 
@@ -130,7 +140,9 @@ _Type-A file naming, guaranteed_
 
 ### Download all Markdown text files
 
-_ZIP archive, 10 folders, 158 files - no redactions_
+SDN-00-06-Dozens-Of-Chapters
+
+_ZIP archive, 10 folders, 150+ files - no redactions_
 
  - https://github.com/sdnproject2026/Shadow-Diplomacy-Network
 
