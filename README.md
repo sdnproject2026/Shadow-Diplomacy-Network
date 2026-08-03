@@ -2,6 +2,28 @@
 
 > See "Breaking News" for "pre-release" (ZIP) additions
 
+----
+
+Capital One Closes Accounts
+
+100+ Trump Bank Accounts
+
+March 2021
+
+Timeline
+
+...
+
+2026 - 07 - 31
+
+- Capital One files a federal court motion to dismiss the latest amended version of the Trump Organization's lawsuit.
+
+- The bank's response publicly reveals that an internal anti-money laundering (AML) review, rather than politics, drove the account closures.
+
+...
+
+----
+
 Phang vs Blanche
 
 Judge Emmet Sullivan’s Order
@@ -14,7 +36,19 @@ Overview
 
 On June 25, 2026, U.S. District Judge Emmet G. Sullivan issued a memorandum opinion in _Phang v. Blanche_, granting Katie Phang’s request for a preliminary injunction against Acting Attorney General Todd Blanche.
 
-The court ordered DOJ
+July 23
+
+- Sullivan orders DOJ to justify every redaction or unredact.
+
+July 25
+
+- Sullivan escalates - demands unredacted documents _in camera_.
+
+July 30 (2:28 p.m.)
+
+- DOJ submits 10 unredacted Epstein‑file records to chambers.
+
+- DOJ admits one improper redaction - Epstein’s own email address.
 
 ...
 
@@ -35,6 +69,28 @@ LLM Query
 -----
 
 SDN-13-Legal-21-Trumps-1970s-Mafia
+
+Covering
+
+- Investigating Ties to the Gambino Family
+
+- The Colombo Family’s Expansion
+
+- Trial of the Lucchese Family
+
+- Commission Trial: The Five Families
+
+NY Daily News
+
+1970s-1990s
+
+1976-08-31
+
+- (Cover)
+
+Donald Trump Takes On NYC Real Estate
+
+...
 
 -----
 
