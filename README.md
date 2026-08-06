@@ -6,13 +6,55 @@
 
 SDN-36-Wyden-Final-Report
 
+Overview
+
+...
+
 SDN-36-Wyden-00
 
-Overview of the 10‑Section Report files
+Table of Contents of the 10‑Section Report files
 
 bite-size chunks of original 67 page report
 
 - Each entry includes a short synopsis of major headers and core findings.  
+
+...
+
+Wyden Final Report Overview
+ - https://rentry.co/pu9vmzd6
+
+Wyden 00 Table of Contents
+ - https://rentry.co/vb755hfn
+
+Wyden 01
+ - https://rentry.co/2c8h7xt6
+
+Wyden 02
+ - https://rentry.co/8xamqxt6
+
+Wyden 03
+ - https://rentry.co/wpomndp8
+
+Wyden 04
+ - https://rentry.co/73pkop4y
+
+Wyden 05
+ - https://rentry.co/6cugry9b
+
+Wyden 06
+ - https://rentry.co/5sgt963f
+
+Wyden 07
+ - https://rentry.co/u44qbw7t
+
+Wyden 08
+ - https://rentry.co/xo4p37so
+
+Wyden 09
+ - https://rentry.co/73yaiw9e
+
+Wyden 10
+ - https://rentry.co/ikgf38zq
 
 ...
 
