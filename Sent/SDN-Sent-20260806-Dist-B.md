@@ -1,0 +1,33 @@
+# SDN-Sent-20260806-Dist-B
+
+## Set D
+
+### To
+
+```
+lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov, abhola@citizen.org, dnoel@citizen.org
+```
+
+### BCC 
+
+```
+sdnproject2026@onionmail.org
+```
+
+## Topics
+
+- SDN-36-Wyden-Final-Report
+
+- SDN-14-Financial-04-Bank-SARs-CapitolOne
+
+- SDN-13-Legal-20-Phang-v-Blanche
+
+- SDN-13-Legal-14-Perps-LLM-Query
+
+- SDN-Sent-14-Email-To
+
+- SDN-00-01-Elevator-Pitch
+
+----
+
+----
