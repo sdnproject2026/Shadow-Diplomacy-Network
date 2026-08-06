@@ -18,7 +18,7 @@ sdnproject2026@onionmail.org
 
 - SDN-00-06-Dozens-of-Chapters
 
-- SDN-13-Legal-21-Trumps-1970s-Mafia
+- SDN-36-Wyden-Final-Report
 
 - SDN-Sent-14-Email-To
 

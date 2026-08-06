@@ -6,7 +6,7 @@ Forget Epstein - 1920s-2020s - Dozens of Chapters - D. Barr - Bear - Khashoggi -
 
 - SDN-00-06-Dozens-Of-Chapters
 
-- SDN-13-Legal-21-Trumps-1970s-Mafia
+- SDN-36-Wyden-Final-Report
 
 - SDN-Sent-14-Email-To
 
@@ -312,31 +312,41 @@ But, on the first day...
 
 - 35 Tate Brothers
 
+- 36 Wyden Final Report
+
 ... to be continued
 
 ----
 
-# SDN-13-Legal-21-Trumps-1970s-Mafia
+# SDN-36-Wyden-Final-Report
 
-## Trumps - Mafia - 1970s
+- https://rentry.co/pu9vmzd6
 
-- https://pastebin.com/raw/Z8P4TGAn
-- https://controlc.com/f3g23hw4 
-- https://pastes.io/Y9mzpJDu
-- https://rentry.co/dkt4emff
+## Senator Ron Wyden
 
-Covering
-- Investigating Ties to the Gambino Family
+### Epstein Investigation
 
-- The Colombo Family’s Expansion
+Verified Facts of the Case
 
-- Trial of the Lucchese Family
+- On August 4, 2026, Senator Wyden officially published a 67-page congressional report titled “_Looking the Other Way: How Wall Street Banks Enabled Jeffrey Epstein’s Sex Trafficking_”.
 
-- Commission Trial: The Five Families
+The Core Evidence
 
-## NY Daily News
+- The findings are based on a four-year review of internal financial corporate records, legal filings, and nonpublic Treasury Department Suspicious Activity Reports (SARs).
 
-1970s-1990s
+The Primary Violations
+
+...
+
+## SDN-36-Wyden-00-Final-Report
+
+### Annotated Table on Contents
+
+- https://rentry.co/vb755hfn
+
+...
+
+----
 
 # SDN-Sent-14-Email-To
 

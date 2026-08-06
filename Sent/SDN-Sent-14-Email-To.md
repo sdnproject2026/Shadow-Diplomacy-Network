@@ -26,8 +26,6 @@ tips@oann.com, press@oann.com, letters@nationalreview.com, tips@nationalreview.c
 
 ### Count: 30
 
-# New
-
 ## Set C
 
 
@@ -51,6 +49,8 @@ lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, m
 
 ### Count: 00
 
+# New
+
 ## Set F
 
 ```
@@ -61,15 +61,25 @@ andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, y
 
 ## Set G
 
-Dozens of Chapters - Next
+^ support@pressreader.io
+
+^ press@cnn.com
+
+^ tips@washingtonpost.com
+
+^ news@deadline.com
+
+^ press@deadline.com
 
 ```
-tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, letters@csmonitor.com, tips@thedailybeast.com, tips@cnn.com, press@cnn.com, tips@washingtonpost.com, news@deadline.com, press@deadline.com, support@pressreader.io, viewer@c-span.org, events@c-span.org, tips@chicagotribune.com
+tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, letters@theatlantic.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, letters@csmonitor.com, tips@thedailybeast.com, viewer@c-span.org, events@c-span.org, tips@chicagotribune.com, tips@cnn.com
 ```
 
-### Count: 26
+### Count 25
 
 ## Set H
+
+Dozens of Chapters - Next
 
 ```
 tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com, submissions@thenation.com
