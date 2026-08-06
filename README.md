@@ -4,6 +4,20 @@
 
 ----
 
+SDN-36-Wyden-Final-Report
+
+SDN-36-Wyden-00
+
+Overview of the 10‑Section Report files
+
+bite-size chunks of original 67 page report
+
+- Each entry includes a short synopsis of major headers and core findings.  
+
+...
+
+-----
+
 SDN-14-Financial-04-Bank-SARs-CapitolOne
 
 Capital One Closes Accounts
