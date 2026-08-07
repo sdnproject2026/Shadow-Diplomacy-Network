@@ -49,8 +49,6 @@ lateline@abc.net.au, insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, m
 
 ### Count: 00
 
-# New
-
 ## Set F
 
 ```
@@ -77,9 +75,9 @@ tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcu
 
 ### Count 25
 
-## Set H
+# New
 
-Dozens of Chapters - Next
+## Set H
 
 ```
 tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com, submissions@thenation.com
@@ -88,6 +86,8 @@ tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp
 ### Count: 19
 
 ## Set I
+
+Dozens of Chapters - Next
 
 ```
 tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, news@gbnews.uk, letters@hindustantimes.com, letters@jpost.com, leser@welt.de
