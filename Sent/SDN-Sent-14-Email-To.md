@@ -84,8 +84,6 @@ tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcu
 
 ### Count 25
 
-# New
-
 ## Set H
 
 ```
@@ -96,13 +94,13 @@ tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, tips@thefp
 
 ## Set I
 
-Dozens of Chapters - Next
-
 ```
 tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, news@gbnews.uk, letters@hindustantimes.com, letters@jpost.com, leser@welt.de
 ```
 
 ### Count: 15
+
+# New
 
 ## Set J
 
@@ -113,6 +111,8 @@ letters@theneweuropean.co.uk, subscriptions@theneweuropean.co.uk, letters@nikkei
 ### Count: 25
 
 ## Set K
+
+Dozens of Chapters - Next
 
 ```
 courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, letters@smh.com.au, toi.news@timesgroup.com, tips@dailymail.com, newsdesk@mirror.co.uk, news@dailystar.co.uk, newsdesk@express.co.uk, newsdesk@independent.co.uk, news@standard.co.uk, exclusive@the-sun.co.uk, letters@thetimes.co.uk, editor@theyeshivaworld.com, observers@france24.com, support@nordot.jp, info@dw.com, office@tass.ru, tips@thomsonreuters.com
