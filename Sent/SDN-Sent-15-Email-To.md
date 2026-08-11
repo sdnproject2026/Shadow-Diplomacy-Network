@@ -296,6 +296,52 @@ investigacao@sabado.pt, catarina@sabado.pt, mespada@sabado.pt, anataborda@sabado
 
 ### Count: 17
 
+## SET Z03
+
+```
+information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfight.com, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, support@nextgenamerica.org, copyright@nextgenamerica.org
+```
+
+### Count 28
+
+## SET Z04
+
+```
+client@bulldogcompliance.com,
+info@senateleadershipfund.org,
+accounting@senateleadershipfund.org,
+press@congressionalleadershipfund.org,
+treasurer@clubforgrowth.org,
+jkildea@clubforgrowth.org,
+treasurer@afpaction.com,
+info@afpaction.org,
+media@afphq.org,
+compliance@complianceconsultingva.com,
+client@bulldogcompliance.com,
+info@conservativeamericanspac.com,
+sg@restorationpac.com,
+fec@langdonlaw.com,
+info@restorationpac.com,
+hfa@pdscompliance.com,
+admin@pdscompliance.com,
+info@freedomcaucus.org,
+treasurer@sdfreedomcaucus.com,
+jared@senecaclark.com,
+jason@tabularius.pro,
+info@keepamericagreatpac.com,
+keepamericagreat@pdscompliance.com,
+admin@pdscompliance.com,
+tim@kochandhoos.com,
+tbeall@gopac.org,
+info@americafirstpolicy.com,
+press@americafirstpolicy.com,
+support@tppac.com,
+info@tppac.com
+```
+
+### Count 31
+
+
 ----
 
 ----
