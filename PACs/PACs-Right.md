@@ -1,5 +1,3 @@
-given groups with contact info respond with email addresses added to text, search primary and secondary sources, social media, news sites, FEC filings, compliance-officer email, press email, donate email, etc., respond add/update ### Email in each section, retain existing text and format. if email addresses in uppercase lower case format email address, exclude mailto link - only raw email address. response in code box with markdown chars. 
-
 # PACs Right Leaning
 
 ## MAGA Inc.
