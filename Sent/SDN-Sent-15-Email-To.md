@@ -189,6 +189,8 @@ bezos@amazon.com, zuckerberg@fb.com, larry@google.com, sergey@google.com, mukesh
 
 ## Set N
 
+^ NA
+
 ```
 press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, press@google.com, media@google.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, info@inditex.com, contact@walton.com, info@kochind.com, media@adani.com
 ```
@@ -197,7 +199,7 @@ press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, press@goog
 
 ## Set O
 
-Dozens of Chapters - Next
+^ NA
 
 ```
 nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int, belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, botswana@un.int, brunei@un.int
@@ -227,7 +229,7 @@ eritrea@un.int, eswatini@un.int, ethiopia@un.int, fiji@un.int, france@un.int, ga
 
 ## Set R
 
-# New
+Dozens of Chapters - Next
 
 ```
 italy@un.int, jamaica@un.int, japan@un.int, kazakhstan@un.int, kenya@un.int, kyrgyzstan@un.int, latvia@un.int, lesotho@un.int, liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un.int, malaysia@un.int, maldives@un.int, mali@un.int, malta@un.int, marshallislands@un.int, mauritania@un.int, mauritius@un.int, mexico@un.int, micronesia@un.int, moldova@un.int
@@ -236,6 +238,9 @@ italy@un.int, jamaica@un.int, japan@un.int, kazakhstan@un.int, kenya@un.int, kyr
 ### Count: 23
 
 ## Set S
+
+# New
+
 
 ```
 mongolia@un.int, montenegro@un.int, morocco@un.int, mozambique@un.int, myanmar@un.int, namibia@un.int, nauru@un.int, nepal@un.int, nyv@minbuza.nl, nicaragua@un.int, niger@un.int, nigeria@un.int, macedonia@un.int, norway@un.int, oman@un.int, pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@un.int, philippines@un.int, newyork.un@msz.gov.pl, portugal@un.int, romania@un.int, russia@un.int
