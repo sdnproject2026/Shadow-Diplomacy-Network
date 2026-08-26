@@ -247,8 +247,6 @@ mission.newyork@mfa.gov.al, usunpress@state.gov, info@afghanistan-un.org, new-yo
 
 ^ NA
 
-Dozens of Chapters - Next
-
 ```
 investigacao@sabado.pt, catarina@sabado.pt, mespada@sabado.pt, anataborda@sabado.pt, angelamarques@sabado.pt, cstorres@sabado.pt, portal@cmjornal.pt, geral@cmjornal.pt, eduardodamaso@cmjornal.pt, ugyelet@telex.hu, press@telex.hu, tamogatas@telex.hu, telexhu@protonmail.com, sudouest-publicite@sudouest.fr, yourvoice@bbc.co.uk, newswatch@bbc.co.uk, bbcnewsline@bbc.co.uk, info@nolabels.org, candidates@forwardparty.com, Janica@pcmsllc.com, marysuestrong@the-moderate.org, tystrong@the-moderate.org, tres@capitolreins.com, info@commonsenseamericapac.com, info@mainstreetparty.org, tsjoseph@mainstreetparty.org, lschaefer@mainstreetparty.org, cacspac@pdscompliance.com, admin@pdscompliance.com, tmoose@hdlfec.com
 ```
@@ -256,6 +254,8 @@ investigacao@sabado.pt, catarina@sabado.pt, mespada@sabado.pt, anataborda@sabado
 ### Count: 30
 
 ## Set Y 
+
+Dozens of Chapters - Next
 
 ^ NA
 
@@ -268,8 +268,6 @@ press@google.com, publisher-support@google.com, contact@celadonbooks.com, foreig
 ## SET Z01 
 
 ^ NA
-
-# New
 
 ```
 redazione@repubblica.it, info@bloomberg.com, media@microsoft.com, press@microsoft.com, press@oracle.com, contact@loreal.com, media@microsoft.com, press@microsoft.com, info@bloomberg.com, hellovikingpenguin@prh.com, averypublicity@penguinrandomhouse.com, BBDPublicity@randomhouse.com, DelRey@randomhouse.com, BerkleyNALpublicity@us.penguingroup.com, blueriderpublicity@us.penguingroup.com, crownpublicity@randomhouse.com, ddaypub@randomhouse.com, duttonpublicity@us.penguingroup.com, knopfpublicity@randomhouse.com, pantheonpublicity@randomhouse.com, tarcherpublicity@us.penguingroup.com, plumepublicity@us.penguingroup.com, portfoliopublicity@us.penguingroup.com, putnampublicity@us.penguingroup.com, audio@penguinrandomhouse.com, atrandompublicity@randomhouse.com, riverheadpublicity@us.penguingroup.com, sentinelpublicity@us.penguingroup.com, penguinpress@penguinrandomhouse.com, vintageanchorpublicity@randomhouse.com, publicity@waterbrookmultnomah.com
@@ -288,6 +286,8 @@ information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.
 ### Count: 28
 
 ## SET Z03 
+
+# New
 
 ^ NA
 
