@@ -60,6 +60,16 @@ Wyden 10
 
 -----
 
+SDN-37-Kyrie-Yahoo-Emails
+
+Kyrie - DDoSecrets
+
+The key distinction is that the Kyrie/DDoSecrets Yahoo cache and Bloomberg's Yahoo cache are closely related but were not the same acquisition.
+
+...
+
+-----
+
 SDN-14-Financial-04-Bank-SARs-CapitolOne
 
 Capital One Closes Accounts
