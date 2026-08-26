@@ -267,20 +267,50 @@ press@google.com, publisher-support@google.com, contact@celadonbooks.com, foreig
 
 ## SET Z01 
 
-^ NA
+^ duttonpublicity@us.penguingroup.com
+
+^ blueriderpublicity@us.penguingroup.com
+
+^ BerkleyNALpublicity@us.penguingroup.com
+
+^ riverheadpublicity@us.penguingroup.com
+
+^ sentinelpublicity@us.penguingroup.com
+
+^ portfoliopublicity@us.penguingroup.com
+
+^ putnampublicity@us.penguingroup.com
+
+^ tarcherpublicity@us.penguingroup.com
+
+^ plumepublicity@us.penguingroup.com
+
+^ redazione@repubblica.it
+
+^ info@bloomberg.com
+
+^ contact@loreal.com
+
+^ press@oracle.com
+
+^ media@microsoft.com
 
 ```
-redazione@repubblica.it, info@bloomberg.com, media@microsoft.com, press@microsoft.com, press@oracle.com, contact@loreal.com, media@microsoft.com, press@microsoft.com, info@bloomberg.com, hellovikingpenguin@prh.com, averypublicity@penguinrandomhouse.com, BBDPublicity@randomhouse.com, DelRey@randomhouse.com, BerkleyNALpublicity@us.penguingroup.com, blueriderpublicity@us.penguingroup.com, crownpublicity@randomhouse.com, ddaypub@randomhouse.com, duttonpublicity@us.penguingroup.com, knopfpublicity@randomhouse.com, pantheonpublicity@randomhouse.com, tarcherpublicity@us.penguingroup.com, plumepublicity@us.penguingroup.com, portfoliopublicity@us.penguingroup.com, putnampublicity@us.penguingroup.com, audio@penguinrandomhouse.com, atrandompublicity@randomhouse.com, riverheadpublicity@us.penguingroup.com, sentinelpublicity@us.penguingroup.com, penguinpress@penguinrandomhouse.com, vintageanchorpublicity@randomhouse.com, publicity@waterbrookmultnomah.com
+hellovikingpenguin@prh.com, averypublicity@penguinrandomhouse.com, BBDPublicity@randomhouse.com, DelRey@randomhouse.com, crownpublicity@randomhouse.com, ddaypub@randomhouse.com, knopfpublicity@randomhouse.com, pantheonpublicity@randomhouse.com, audio@penguinrandomhouse.com, atrandompublicity@randomhouse.com, penguinpress@penguinrandomhouse.com, vintageanchorpublicity@randomhouse.com, publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com
 ```
 
 ### Count: 31
 
 ## SET Z02 
 
-^ NA
+^ info@fairfight.com
+
+^ support@nextgenamerica.org
+
+^ copyright@nextgenamerica.org
 
 ```
-information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfight.com, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, support@nextgenamerica.org, copyright@nextgenamerica.org
+information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org
 ```
 
 ### Count: 28
