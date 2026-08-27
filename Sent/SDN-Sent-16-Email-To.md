@@ -15,6 +15,8 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
+Dozens of Chapters - Next
+
 ^ NA
 
 ```
@@ -34,6 +36,8 @@ tips@oann.com, press@oann.com, letters@nationalreview.com, tips@nationalreview.c
 ### Count: 30
 
 ## Set C
+
+# New
 
 ^ NA
 
@@ -253,9 +257,7 @@ investigacao@sabado.pt, catarina@sabado.pt, mespada@sabado.pt, anataborda@sabado
 
 ### Count: 30
 
-## Set Y 
-
-Dozens of Chapters - Next
+## Set Y
 
 ^ NA
 
@@ -315,9 +317,7 @@ information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.
 
 ### Count: 28
 
-## SET Z03 
-
-# New
+## SET Z03
 
 ^ NA
 
