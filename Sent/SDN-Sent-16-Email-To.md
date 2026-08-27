@@ -319,10 +319,14 @@ information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.
 
 ## SET Z03
 
-^ NA
+^ support@tppac.com
+
+^ press@congressionalleadershipfund.org
+
+^ info@americafirstpolicy.com
 
 ```
-client@bulldogcompliance.com, info@senateleadershipfund.org, accounting@senateleadershipfund.org, press@congressionalleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, info@afpaction.org, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, admin@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@americafirstpolicy.com, press@americafirstpolicy.com, support@tppac.com, info@tppac.com
+client@bulldogcompliance.com, info@senateleadershipfund.org, accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, info@afpaction.org, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, admin@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com
 ```
 
 ### Count: 28
