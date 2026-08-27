@@ -1,6 +1,22 @@
 > Notes: 
  
 > See "Breaking News" for "pre-release" (ZIP) additions
+
+----
+
+SDN-Sent-16-Email-To
+
+Emails Sent - Campaign History
+
+- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
+
+_Who has been informed_
+
+- 587 verified email addresses
+- ~30 addresses per set
+- anon ASCII text-only files
+- CSV formatted email recipient lists
+- Markdown formatted document
  
 ----
 
