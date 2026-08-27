@@ -4,6 +4,22 @@
  
 ----
 
+SDN-13-Legal-39-Phang-vs-Blanche-2026-08
+
+Monday, August 24, 2026
+
+- DOJ Files Notice of Appeal
+
+Rather than yielding to the handwritten document release, the DOJ signals its plan to escalate the battle, filing a notice to appeal Judge Sullivan's unredacting mandates to a higher federal court.
+
+Tuesday, August 25, 2026
+
+- Proposed Order Submitted
+
+Phang's team submits a proposed order mandating that AG Blanche produce the underlying handwritten FBI interview notes to protect the integrity of the Epstein Files Transparency Act.
+
+...
+
 SDN-36-Wyden-Final-Report
 
 Overview
