@@ -36,8 +36,6 @@ press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@har
 
 ## Set C
 
-# New
-
 ^ NA
 
 ```
@@ -47,6 +45,8 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 ### Count: 30
 
 ## Set D
+
+# New
 
 ^ NA
 

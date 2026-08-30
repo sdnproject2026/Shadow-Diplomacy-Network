@@ -1,6 +1,6 @@
-# SDN-Sent-Email-Blurb
+# SDN-Sent-20260830-Topic-B
 
-Forget Epstein - 1920s-2020s - XYZ - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
+Forget Epstein - 1920s-2020s - Zorro Ranch Blanche - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
 ## SDN Email - Table of Contents
 
@@ -8,9 +8,17 @@ Forget Epstein - 1920s-2020s - XYZ - D. Barr - Bear - Khashoggi - Kirkland - R. 
 
 ### Newest Chapters
 
-XYZ
+SDN-13-Legal-37-Zorro-Ranch-Blanche
 
-- PR
+- https://rentry.co/dwr7at3a
+
+SDN-13-Legal-39-Phang-vs-Blanche-2026-08
+
+- https://rentry.co/4g2usz4m
+
+SDN-36-Wyden-Final-Report
+
+- https://rentry.co/pu9vmzd6
 
 -----
 
@@ -50,9 +58,67 @@ SDN-Sent-17-Email-To
 
 -----
 
-## XYZ
+## SDN-13-Legal-37-Zorro-Ranch-Blanche
 
-- PR
+- https://rentry.co/dwr7at3a
+
+The breakdown of what is true regarding this claim involves several distinct components.
+
+### 1. The Article Exists
+
+Chris Armitage did write an extensive piece arguing that sufficient public evidence exists in the public record to warrant a state-level criminal investigation into US Attorney General Todd Blanche. 
+
+Armitage alleges that Blanche's actions involve witness bribery, evidence tampering, and criminal conspiracy. 
+
+### 2. "Standard of Proof" 
+
+From a legal standpoint, Armitage is correct that opening a criminal investigation requires far less than proof beyond a reasonable doubt. 
+
+Prosecutors only need "probable cause" or a credible, articulable suspicion to open an inquiry and issue subpoenas. 
+
+### 3. The Real-World Conflict
+
+...
+
+## SDN-13-Legal-39-Phang-vs-Blanche-2026-08 
+
+- https://rentry.co/4g2usz4m
+
+### Friday, August 21, 2026
+
+- Sullivan Orders "Show Cause" on Lying
+
+Judge Sullivan issues an immediate order directing the DOJ to clarify whether its attorneys explicitly misled or lied to the court regarding the availability and historical production of these handwritten records.
+
+### Monday, August 24, 2026
+
+- DOJ Files Notice of Appeal
+
+Rather than yielding to the handwritten document release, the DOJ signals its plan to escalate the battle, filing a notice to appeal Judge Sullivan's unredacting mandates to a higher federal court.
+
+### Tuesday, August 25, 2026
+
+- Proposed Order Submitted
+
+Phang's team submits a proposed order mandating that AG Blanche produce the underlying handwritten FBI interview notes to protect the integrity of the Epstein Files Transparency Act.
+
+...
+
+## SDN-36-Wyden-Final-Report 
+
+- https://rentry.co/pu9vmzd6
+
+### Verified Facts of the Case
+
+- On August 4, 2026, Senator Wyden officially published a 67-page congressional report titled “_Looking the Other Way: How Wall Street Banks Enabled Jeffrey Epstein’s Sex Trafficking_”.
+
+### The Core Evidence
+
+- The findings are based on a four-year review of internal financial corporate records, legal filings, and nonpublic Treasury Department Suspicious Activity Reports (SARs).
+
+### The Primary Violations
+
+...
 
 ## SDN-13-Legal-14-Perps-LLM
 

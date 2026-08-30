@@ -1,22 +1,20 @@
-Forget Epstein - 1940s-2020s - Barr - Bear - Khashoggi - Kirkland - Maxwell
-
-Forget Epstein - 1940s-2020s - Perps - Victim Legal Strategy - Barr - Bear - Khashoggi - Kirkland - Maxwell
+Forget Epstein - 1940s-2020s - XYZ - Barr - Bear - Khashoggi - Kirkland - Maxwell
 
 # Elevator Pitch
 
-SDN-00-04-List-Of-Names
+### SDN-00-04-List-Of-Names
 
 - anon ASCII text-only file in Markdown
 - grouped by occupation
 - https://rentry.co/at4v3s75
 - https://pastes.io/sdn-00-04-/
+
+### Publicity Campaign
  
-SDN-00-00-FOMO-Dist-List-CC
+- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
 
 - anon ASCII text-only file in Markdown
 - CSV / CC formatted email recipient lists
-- https://pastebin.com/raw/pkZTzzZU
-- https://rentry.co/ea9q6f4z
 
 _Type-A file naming, guaranteed_
 
@@ -40,7 +38,7 @@ Trafficking and RICO may easily be proven.
 
 Abusing is hard to prove, years later.
 
-In 1931 the _IRS_ ultimately charged the notorious gangster _Al Capone_ with twenty-two counts of tax evasion (26 U.S.C. § 145), where no other charges were '_proven beyond a reasonable doubt_'...
+> In 1931 the _IRS_ ultimately charged the notorious gangster _Al Capone_ with twenty-two counts of tax evasion (26 U.S.C. § 145), where no other charges were '_proven beyond a reasonable doubt_'...
 
 ----
 
@@ -64,7 +62,7 @@ Proverbial F'ing House of Proverbial F'ing Cards
 
 > International Shadow Diplomacy Network
 
-> 80 years, and still going strong
+> 90+ years, and still going strong
 
 No POTUS may pardon State felony convictions
 - New York, Florida?
@@ -90,10 +88,7 @@ Dozens of perps / pedos / associates / mentions
 
     - https://pastes.io/sdn-27-cha
 
-- 2017 & 2025 ProPublica Financial Disclosures
-    - NEXT ! 1,500 _SLUGS_ (names)
-
-Hundreds of composite familials listed
+### Hundreds of composite familials listed
 
 - Wikis - Composite 
     - Nine (9) websites
@@ -112,17 +107,19 @@ Hundreds of composite familials listed
     - https://rentry.co/at4v3s75
     - https://pastes.io/sdn-00-04-/
  
-Hundreds of email addressed recipients
+### Hundreds of email addresses listed
 
-- https://pastebin.com/raw/LdmpArVa 
-- https://rentry.co/fkuyha2q
-    - mailto formatted
+- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
 
-- https://pastebin.com/raw/pkZTzzZU
-- https://rentry.co/ea9q6f4z
-    - CSV / CC formatted in batches
-    
-Untold thousands of international victims
+Publicity Campaign
+
+_Who has been informed_
+
+- 587 verified email addresses
+- ~30 addresses per set
+- anon ASCII text-only files
+- CSV formatted email recipient lists
+- Markdown formatted document
 
 ## Where and What 
 
@@ -130,7 +127,7 @@ International Networks
 
 ## When
 
-Spanning 80+ years
+Spanning 90+ years
 
 - US, EU, RU, and ME
 
@@ -220,7 +217,7 @@ Too (F'ing) Long; Didn't (won't) Read
 
 - https://rentry.co/qqgwoecq
 
-- 80 year Shadow Diplomacy Network 
+- 90+ year Shadow Diplomacy Network 
 
 ### Table of Contents
 
@@ -375,6 +372,8 @@ SDN-30-More-Profiles
 - https://pastebin.com/raw/jr4sF1Yg
 - https://rentry.co/3ekoav4v
 
+...and many more chapters
+
 ----
 
 Deep breath, dive into those LLM weeds... 
@@ -414,7 +413,7 @@ AG Pam Bondi
 
  > It's sitting on my desk right now to review. That’s been a directive by President Trump. I’m reviewing that, I’m reviewing JFK files, MLK files... that’s all in the process of being reviewed.
 
-Old "Honest" Pam and naive Don, prior to "Spanning 80+ years" intel briefing.
+Old "Honest" Pam and naive Don, prior to "Spanning 90+ years" intel briefing.
 
 ## 2) US Rep. Thomas Massie 
 
