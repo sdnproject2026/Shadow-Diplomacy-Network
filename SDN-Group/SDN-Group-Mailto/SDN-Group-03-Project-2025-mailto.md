@@ -1,0 +1,36 @@
+### SDN-00-03-FOMO-Dist-List-Project-2025-mailto
+
+- mailto:kevin.roberts@heritage.org
+- mailto:paul.dans@heritage.org
+- mailto:steven.groves@heritage.org
+- mailto:roger.severino@heritage.org
+- mailto:spencer.chretien@heritage.org
+- mailto:derrick.morgan@heritage.org
+- mailto:wesley.coopersmith@heritage.org
+- mailto:therese.pennefather@heritage.org
+- mailto:william.poole@heritage.org
+- mailto:marla.hess@heritage.org
+- mailto:jessica.lowther@heritage.org
+- mailto:hellojesslowther@gmail.com
+- mailto:karina.rollins@heritage.org
+- mailto:jordan.embree@heritage.org
+- mailto:sarah.calvis@heritage.org
+- mailto:jonathan.moy@heritage.org
+- mailto:info@citizensforethics.org
+- mailto:contact@americancornerstone.org
+- mailto:info@heritage.org
+- mailto:John-Ratcliffe@heritage.org
+- mailto:info@heritage.org
+- mailto:Peter-Navarro@heritage.org
+- mailto:daren.bakst@cei.org
+- mailto:info@claremont.org
+- mailto:info@heritage.org
+- mailto:Chad-Padgett@heritage.org
+- mailto:info@heritage.org
+- mailto:Leah-Pedersen@heritage.org
+- mailto:contact@americancornerstone.org
+- mailto:emma.waters@heritage.org
+- mailto:rachael.wilfong@heritage.org
+- mailto:thepowerhour@heritage.org
+
+----

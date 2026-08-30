@@ -1,0 +1,52 @@
+### SDN-00-18-FOMO-Dist-List-US-State-AGs-mailto
+
+# Attorneys General
+
+- mailto:ConsumerInterest@AlabamaAG.gov
+- mailto:consumerprotection@alaska.gov
+- mailto:attorney.general@alaska.gov
+- mailto:consumerinfo@azag.gov
+- mailto:Attorney.General@azag.gov
+- mailto:consumer@ArkansasAG.gov
+- mailto:Attorney.General@ct.gov
+- mailto:attorney.general@delaware.gov
+- mailto:oag@dc.gov
+- mailto:oagpress@dc.gov
+- mailto:contactag@myfloridalegal.com
+- mailto:consumerprotection@law.ga.gov
+- mailto:hawaiiag@hawaii.gov
+- mailto:idahoag@ag.idaho.gov
+- mailto:PressOffice@ilag.gov
+- mailto:constituent@atg.in.gov
+- mailto:webteam@ag.iowa.gov
+- mailto:consumer.consumer@ag.iowa.gov
+- mailto:info@ag.ks.gov
+- mailto:attorney.general@ag.ky.gov
+- mailto:constituentservices@ag.louisiana.gov
+- mailto:attorney.general@maine.gov
+- mailto:oag@oag.state.md.us
+- mailto:consumer@oag.state.md.us
+- mailto:ago@mass.gov
+- mailto:miag@michigan.gov
+- mailto:attorney.general@ag.state.mn.us
+- mailto:info@ago.state.ms.us
+- mailto:attorney.general@ago.mo.gov
+- mailto:consumer.help@ago.mo.gov
+- mailto:ago.info.help@nebraska.gov
+- mailto:ago.consumer@nebraska.gov
+- mailto:AGInfo@ag.nv.gov
+- mailto:DOJ-CPB@doj.nh.gov
+- mailto:nmag@nmag.gov
+- mailto:ndag@nd.gov
+- mailto:ConsumerProtection@oag.ok.gov
+- mailto:AttorneyGeneral@doj.state.or.us
+- mailto:consumerhelp@state.sd.us
+- mailto:scdca@scconsumer.gov
+- mailto:consumerhelp@state.sd.us
+- mailto:uag@agutah.gov
+- mailto:ago.info@vermont.gov
+- mailto:CRC@atg.wa.gov
+- mailto:consumer@wvago.gov
+- mailto:ag.consumer@wyo.gov
+
+----

@@ -1,0 +1,40 @@
+### SDN-00-13-FOMO-Dist-List-US-Agency-mailto
+
+- mailto:press@epa.gov
+- mailto:press@ntia.gov
+- mailto:press@gsa.gov
+- mailto:press@fec.gov
+- mailto:press@cftc.gov
+- mailto:press@dnfsb.gov
+- mailto:press@osec.doc.gov
+- mailto:press@cms.hhs.gov
+- mailto:press@fincen.gov
+- mailto:press@stb.gov
+- mailto:press@pbgc.gov
+- mailto:media@omb.eop.gov
+- mailto:media@uscis.dhs.gov
+- mailto:media@frb.gov
+- mailto:media@fcc.gov
+- mailto:media@eeoc.gov
+- mailto:media@osmre.gov
+- mailto:media@oge.gov
+- mailto:media@peacecorps.gov
+- mailto:publicaffairs@doc.gov
+- mailto:publicaffairs@fws.gov
+- mailto:publicaffairs@trade.gov
+- mailto:newsmedia@nps.gov
+- mailto:newsmedia@bia.gov
+- mailto:doenews@hq.doe.gov
+- mailto:ocpa@bis.doc.gov
+- mailto:m-dolpublicaffairs@dol.gov
+- mailto:PAPressDuty@state.gov
+- mailto:mediarequests@state.gov
+- mailto:Interior_Press@ios.doi.gov
+- mailto:blm_press@blm.gov
+- mailto:askdoj@usdoj.gov
+- mailto:press@usdoj.gov
+- mailto:dea.public.affairs@usdoj.gov
+- mailto:info@dea.gov
+- mailto:community.outreach@dea.gov
+
+----
