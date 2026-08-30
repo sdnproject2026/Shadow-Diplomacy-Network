@@ -1,0 +1,1 @@
+Independent journalist Daniel Boguslaw got his hands on the alleged list by hounding a Bay Area-based member for weeks and published the names Wednesday.
