@@ -1,4 +1,4 @@
-# LLM Best - Category
+# LLM Best in Category
 
 ## fliki.ai
 
