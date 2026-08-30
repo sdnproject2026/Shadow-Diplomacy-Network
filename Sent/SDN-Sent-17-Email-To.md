@@ -190,10 +190,10 @@ vintageanchorpublicity@randomhouse.com, publicity@waterbrookmultnomah.com, pengu
 
 ## Set R
 
-^ NA
+^ info@afpaction.org
 
 ```
-accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, info@afpaction.org, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com
+accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com
 ```
 
 ### Count: 21
