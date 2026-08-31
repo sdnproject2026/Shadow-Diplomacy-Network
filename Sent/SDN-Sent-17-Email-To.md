@@ -46,8 +46,6 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 
 ## Set D
 
-# New
-
 ^ NA
 
 ```
@@ -67,6 +65,8 @@ Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.go
 ### Count: 30
 
 ## Set F
+
+# New
 
 ^ NA
 
