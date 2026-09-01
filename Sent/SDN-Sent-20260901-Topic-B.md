@@ -1,4 +1,4 @@
-# SDN-Sent-20260831-Topic-B
+# SDN-Sent-20260901-Topic-B
 
 Forget Epstein - 1920s-2020s - Zorro Ranch Blanche - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
@@ -11,6 +11,10 @@ Forget Epstein - 1920s-2020s - Zorro Ranch Blanche - D. Barr - Bear - Khashoggi 
 SDN-13-Legal-37-Zorro-Ranch-Blanche
 
 - https://rentry.co/dwr7at3a
+
+SDN-38-Panama-Papers-1970s-2020s
+
+- https://rentry.co/mztie6wi
 
 SDN-13-Legal-39-Phang-vs-Blanche-2026-08
 
@@ -79,6 +83,55 @@ Prosecutors only need "probable cause" or a credible, articulable suspicion to o
 ### 3. The Real-World Conflict
 
 ...
+
+## SDN-38-Panama-Papers-1970s-2020s 
+
+- https://rentry.co/mztie6wi
+
+The Panama Papers leak remains one of the largest financial exposés in history, laying bare the inner workings of a secretive offshore financial system.
+
+See: EFTA Bear Stearns, 1970s-2020s, off-shoring
+
+### Retrospective
+
+The Panama Papers data trove dated back to the 1970s, cataloging nearly 40 years of records from Mossack Fonseca.
+
+Others?
+
+### EFTA 2026
+
+See: Bear Stearns, EFTA spreadsheets...
+
+> a "hold my drink" moment
+
+### Network-Theory
+
+The EU network-theory research takes a fundamentally different approach and is significant in light of EFTA.
+
+### Panama Data As A Network
+
+Instead of treating the Panama Papers as a collection of individual scandals, it treats the _data as a network._ 
+
+Offshore financial entities are modeled as links connecting jurisdictions.
+
+- The source jurisdiction is where the beneficial owner is located, 
+
+- the host jurisdiction is where the offshore entity is registered.
+
+### EFTA Data As A Network
+
+Instead of treating the EFTA documents as a collection of individual scandals, treat the _data as a network._ 
+
+Model Offshore financial entities as links connecting jurisdictions.
+
+- The source jurisdiction is where the beneficial owner is located, 
+
+- the host jurisdiction is where the offshore entity is registered.
+
+### Yin-Yang
+
+...
+
 
 ## SDN-13-Legal-39-Phang-vs-Blanche-2026-08 
 
