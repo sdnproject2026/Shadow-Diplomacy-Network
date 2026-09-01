@@ -12,7 +12,7 @@ Others?
 
 ### EFTA 2026
 
-See: Bears Stearns, EFTA spreadsheets...
+See: Bear Stearns, EFTA spreadsheets...
 
 > a "hold my drink" moment
 
