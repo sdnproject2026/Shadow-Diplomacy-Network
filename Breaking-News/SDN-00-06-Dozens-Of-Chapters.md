@@ -12,17 +12,17 @@ Download all Markdown formatted text files
 
 100s of files
 
- - https://github.com/sdnproject2026/Shadow-Diplomacy-Network
+ - https://github.com/sdnproject2026/Shadow Diplomacy Network
 
 one-and-done
 
-- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+- https://sdnproject2026.github.io/Shadow Diplomacy Network
 
 no redactions
 
 ## EFTA Files
 
-- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/EFTA-Index
+- https://github.com/sdnproject2026/Shadow Diplomacy Network/tree/main/EFTA-Index
 
 ## Research
 
@@ -34,13 +34,24 @@ From research to prescription, changing the focus from "abusing" to "trafficking
 
 Two very nice legal precedents!!
 
+### Legal Strategy
+
+
 - 13 Legal 14 Perps LLM Query
+
+    - https://rentry.co/bfuppbc4
 
 - 13 Legal 15 Perps LLM Response Perplexity
 
+    - https://rentry.co/txx3yftp
+
 - 13 Legal 16 Perps LLM Response Duck AI
+ 
+    - https://rentry.co/audyoemi 
 
 - 13 Legal 17 Perps LLM Response ChatGPT
+
+    - https://rentry.co/5gayihtd 
 
 ### Prequel
 
@@ -162,6 +173,40 @@ But, on the first day...
 
 - 13 Legal 22 July 2026 Subpoena
 
+- 13 Legal 23 Massie EFTA II
+
+- 13 Legal 24 Ossoff
+
+- 13 Legal 25 Massie History
+
+- 13 Legal 26 UN Epstein Crimes
+
+- 13 Legal 27 Special Master
+
+- 13 Legal 28 Zorro Ranch Findings 2026 08
+
+- 13 Legal 29 EFTA Blanche
+
+- 13 Legal 30 EFTA Blanche Persons
+
+- 13 Legal 31 EFTA Blanche Legal Risk
+
+- 13 Legal 32 Blanche Excusable Neglect
+
+- 13 Legal 33 Blanche Excusable Neglect Legal Risk
+
+- 13 Legal 34 Epstein FBI 2028 08 Legal Risk Files
+
+- 13 Legal 35 Epstein FBI 2028 08 Legal Risk Spreadsheet
+
+- 13 Legal 36 Epstein FBI 2028 08 Legal Charging Theory
+
+- 13 Legal 37 Zorro Ranch Blanche
+
+- 13 Legal 38 Blanche Excusable Neglect Contempt
+
+- 13 Legal 39 Phang vs Blanche 2026 08
+
 ### Financial
 
 - 14 Financial
@@ -203,6 +248,8 @@ But, on the first day...
 ## Organizations
 
 - 17 Government Officials
+
+- 17 Government 01 Vance Theil
 
 - 18 Miss Teen Pageants
 
@@ -281,6 +328,36 @@ But, on the first day...
 - 34 Sarah Keller
 
 - 35 Tate Brothers
+
+- 36 Wyden 00 Final Report
+
+- 36 Wyden 01 Final Report
+
+- 36 Wyden 02 Final Report
+
+- 36 Wyden 03 Final Report
+
+- 36 Wyden 04 Final Report
+
+- 36 Wyden 05 Final Report
+
+- 36 Wyden 06 Final Report
+
+- 36 Wyden 07 Final Report
+
+- 36 Wyden 08 Final Report
+
+- 36 Wyden 09 Final Report
+
+- 36 Wyden 10 Final Report
+  
+- 37 Kyrie Yahoo Emails
+
+- 38 Panama Papers 1970s 2020s
+
+- 38 Panama Papers 01 LLM Query
+
+- 38 Panama Papers 02 Master Strategy
 
 ... to be continued
 

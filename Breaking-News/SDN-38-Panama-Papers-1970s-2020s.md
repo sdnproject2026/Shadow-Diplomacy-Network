@@ -1,5 +1,13 @@
 # The Panama Papers 2015
 
+### SDN-38-Panama-Papers-01-LLM-Query
+
+- https://rentry.co/7raq5c6x
+
+### SDN-38-Panama-Papers-02-Master-Strategy
+
+- https://rentry.co/raav7yrw
+
 ## EFTA Data As A Network
 
 The Panama Papers leak remains one of the largest financial exposés in history, laying bare the inner workings of a secretive offshore financial system.
