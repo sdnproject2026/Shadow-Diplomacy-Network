@@ -1,11 +1,11 @@
 # SDN-Sent-20260902-Dist-D
 
-## Set XYZ
+## Set B
 
 ### To
 
 ```
-xyz
+press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, editor@nationalinterest.org, press@newsmax.com, tips@rollcall.com, letters@time.com, info@alternet.org, info@thebulwark.com, letters@dailysignal.com, press@theonion.com, nprnews@npr.org, info@federalnewsnetwork.com, guardian.readers@theguardian.com, yourpics@bbc.co.uk, newsdesk@independent.co.uk, info@timesofisrael.com, info@economist.com, info@rbc.ua, news@rbc.ua, press@rbc.ua, observers@france24.com, tips@ft.com, yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net, info@dw.com
 ```
 
 ### BCC 
