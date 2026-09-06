@@ -56,6 +56,8 @@ insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, 
 
 ## Set E
 
+# Next C/D
+
 ^ NA
 
 ```
@@ -86,8 +88,6 @@ leser@welt.de, courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, le
 
 ## Set H
 
-# New
-
 ^ NA
 
 ```
@@ -97,6 +97,9 @@ sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.
 ### Count: 30
 
 ## Set I
+
+# New
+
 
 ^ NA
 
