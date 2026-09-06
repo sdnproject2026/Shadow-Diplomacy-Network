@@ -1,3 +1,0 @@
-Distribution lists
-
-Batch communications
