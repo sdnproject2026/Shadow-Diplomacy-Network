@@ -9,5 +9,5 @@ then
 
 ...
 
-dowload
+download
 
