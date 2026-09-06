@@ -1,4 +1,4 @@
-Forget Epstein - 1940s-2020s - XYZ - Barr - Bear - Khashoggi - Kirkland - Maxwell
+Forget Epstein - 1920s-2020s - XYZ - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
 # Elevator Pitch
 
