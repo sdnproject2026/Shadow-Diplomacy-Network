@@ -56,8 +56,6 @@ insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, 
 
 ## Set E
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -78,6 +76,8 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 
 ## Set G
 
+# Next C/D
+
 ^ NA
 
 ```
@@ -88,10 +88,10 @@ leser@welt.de, courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, le
 
 ## Set H
 
-^ NA
+^ media@google.com
 
 ```
-sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, amancio.ortega@inditex.com, charles.koch@kochind.com, press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, media@google.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, info@inditex.com, contact@walton.com, info@kochind.com, media@adani.com, nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int
+sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, amancio.ortega@inditex.com, charles.koch@kochind.com, press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, info@inditex.com, contact@walton.com, info@kochind.com, media@adani.com, nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int
 ```
 
 ### Count: 30
