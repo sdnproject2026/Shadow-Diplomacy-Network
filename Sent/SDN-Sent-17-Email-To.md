@@ -76,8 +76,6 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 
 ## Set G
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -98,7 +96,7 @@ sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.
 
 ## Set I
 
-# Next A/B
+# Next C/D
 
 
 ^ NA
@@ -120,6 +118,8 @@ fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@ne
 ### Count: 30
 
 ## Set K
+
+# Next A/B
 
 ^ NA
 
