@@ -96,8 +96,6 @@ sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.
 
 ## Set I
 
-# Next C/D
-
 
 ^ NA
 
@@ -119,8 +117,6 @@ fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@ne
 
 ## Set K
 
-# Next A/B
-
 ^ NA
 
 ```
@@ -130,6 +126,8 @@ liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un
 ### Count: 30
 
 ## Set L
+
+# Next C/D
 
 ^ NA
 
@@ -150,6 +148,8 @@ tajikistan@un.int, thailand@un.int, togo@un.int, tonga@un.int, tunisia@un.int, t
 ### Count: 30
 
 ## Set N
+
+# Next A/B
 
 ^ NA
 
@@ -196,10 +196,15 @@ vintageanchorpublicity@randomhouse.com, publicity@waterbrookmultnomah.com, pengu
 ^ info@afpaction.org
 
 ```
-accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com
+accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com, matt.murray@washpost.com
+bryan.flaherty@washpost.com
+jason.anders@washpost.com
+nick.baumann@washpost.com
+david.fallis@washpost.com
+lockbox@washpost.com
 ```
 
-### Count: 21
+### Count: 27
 
 ----
 
