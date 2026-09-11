@@ -16,6 +16,8 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
+# Next A/B
+
 ^ NA
 
 ```
@@ -127,8 +129,6 @@ liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un
 
 ## Set L
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -149,8 +149,6 @@ tajikistan@un.int, thailand@un.int, togo@un.int, tonga@un.int, tunisia@un.int, t
 
 ## Set N
 
-# Next A/B
-
 ^ NA
 
 ```
@@ -160,6 +158,8 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 ### Count: 30
 
 ## Set O
+
+# Next C/D
 
 ^ NA
 
@@ -181,8 +181,6 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 
 ## Set Q
 
-Dist A 20260828
-
 ^ NA
 
 ```
@@ -201,10 +199,10 @@ bryan.flaherty@washpost.com
 jason.anders@washpost.com
 nick.baumann@washpost.com
 david.fallis@washpost.com
-lockbox@washpost.com
+lockbox@washpost.com, international@lemonde.fr, redaction@lemonde.fr, servicelecteurs@lemonde.fr, enquetes@lemonde.fr, corrections@lemonde.fr
 ```
 
-### Count: 27
+### Count: 32
 
 ----
 
