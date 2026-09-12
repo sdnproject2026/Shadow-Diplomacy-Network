@@ -159,8 +159,6 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 
 ## Set O
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -181,6 +179,8 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 
 ## Set Q
 
+# Next C/D
+
 ^ NA
 
 ```
@@ -199,7 +199,7 @@ bryan.flaherty@washpost.com
 jason.anders@washpost.com
 nick.baumann@washpost.com
 david.fallis@washpost.com
-lockbox@washpost.com, international@lemonde.fr, redaction@lemonde.fr, servicelecteurs@lemonde.fr, enquetes@lemonde.fr, corrections@lemonde.fr
+lockbox@washpost.com, redaction@lemonde.fr
 ```
 
 ### Count: 32
