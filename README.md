@@ -2,6 +2,12 @@
  
 > See "Breaking News" for "pre-release" (ZIP) additions
 
+also
+
+> SDN-Chapters.zip
+
+All plain-text Markdown-formatted Chapters
+
 ----
 
 SDN-Sent-17-Email-To
