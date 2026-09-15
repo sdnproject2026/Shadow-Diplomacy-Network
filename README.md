@@ -26,21 +26,22 @@ _Who has been informed_
  
 ----
 
-SDN-13-Legal-39-Phang-vs-Blanche-2026-08
+SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
 
-Monday, August 24, 2026
+- https://rentry.co/9qp5whch
 
-- DOJ Files Notice of Appeal
+Deadline Dispute
 
-Rather than yielding to the handwritten document release, the DOJ signals its plan to escalate the battle, filing a notice to appeal Judge Sullivan's unredacting mandates to a higher federal court.
+Phang's legal team pointed out that Blanche failed to file a timely response or seek a formal extension or stay.
 
-Tuesday, August 25, 2026
+This procedural lapse technically put the Department of Justice (DOJ) in default, meaning they ran the risk of legally admitting to the allegations in the complaint.
 
-- Proposed Order Submitted
+Following the missed deadline, Blanche's legal team scrambled to address the omission, leading to aggressive pushback from Phang's team over the government's continued use of "delay tactics".
 
-Phang's team submits a proposed order mandating that AG Blanche produce the underlying handwritten FBI interview notes to protect the integrity of the Epstein Files Transparency Act.
+Case Background
 
 ...
+
 
 -----
 
