@@ -163,6 +163,8 @@ Wyden 10
 
 SDN-37-Kyrie-Yahoo-Emails
 
+- https://rentry.co/katexvny
+
 Kyrie - DDoSecrets
 
 The key distinction is that the Kyrie/DDoSecrets Yahoo cache and Bloomberg's Yahoo cache are closely related but were not the same acquisition.
@@ -172,6 +174,8 @@ The key distinction is that the Kyrie/DDoSecrets Yahoo cache and Bloomberg's Yah
 -----
 
 SDN-14-Financial-04-Bank-SARs-CapitolOne
+
+- https://rentry.co/ausoq7ds
 
 Capital One Closes Accounts
 
@@ -191,55 +195,25 @@ Timeline
 
 ...
 
-----
-
-SDN-13-Legal-20-Phang-vs-Blanche
-
-Judge Emmet Sullivan’s Order
-
-Epstein Files Transparency Act
-
-Section-by-Section Analysis and Document Review
-
-Overview
-
-On June 25, 2026, U.S. District Judge Emmet G. Sullivan issued a memorandum opinion in _Phang v. Blanche_, granting Katie Phang’s request for a preliminary injunction against Acting Attorney General Todd Blanche.
-
-July 23
-
-- Sullivan orders DOJ to justify every redaction or unredact.
-
-July 25
-
-- Sullivan escalates - demands unredacted documents _in camera_.
-
-July 30 (2:28 p.m.)
-
-- DOJ submits 10 unredacted Epstein‑file records to chambers.
-
-- DOJ admits one improper redaction - Epstein’s own email address.
-
-...
-
 -----
 
-SDN-13-Legal-14-Perps-LLM-Query
+SDN-13-Legal-14-Perps-LLM
 
-SDN-13-Legal-15-Perps-LLM-Response-Perplexity
+- https://rentry.co/bfuppbc4 - Query
 
-SDN-13-Legal-16-Perps-LLM-Response-Duck
+- https://rentry.co/txx3yftp - Perplexity Steps
 
-SDN-13-Legal-17-Perps-LLM-Response-ChatGPT
+- https://rentry.co/audyoemi - Duck-AI Steps
 
-Victim's Legal Strategy
-
-Spreadsheet of Perps
+- https://rentry.co/5gayihtd - ChatGPT Steps
 
 ...
 
 -----
 
 SDN-13-Legal-21-Trumps-1970s-Mafia
+
+- https://rentry.co/dkt4emff
 
 Covering
 
