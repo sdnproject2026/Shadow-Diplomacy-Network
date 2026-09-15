@@ -1,13 +1,11 @@
-# SDN-Sent-20260913-Dist-A
+# SDN-Sent-20260914-Dist-C
 
-## Set xyz
+## Set F
 
 ### To
 
-^ NA
-
 ```
-xyz
+tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com, submissions@thenation.com, tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, letters@hindustantimes.com, letters@jpost.com
 ```
 
 ### BCC 
@@ -16,13 +14,9 @@ xyz
 sdnproject2026@onionmail.org
 ```
 
-## SDN Email - Table of Contents
-
-90+ year SDN - Shadow Diplomacy Network
-
 ### Newest Chapters
 
-SDN-01-Accounts-02-FR-Stymied.md
+SDN-01-Accounts-02-FR-Stymied
 
 - https://rentry.co/h2kgqyxw
 
@@ -41,10 +35,6 @@ SDN-38-Panama-Papers-01-LLM-Query
 SDN-38-Panama-Papers-02-Master-Strategy
 
 - https://rentry.co/raav7yrw
-
-xyz
-
-- xyz
 
 -----
 

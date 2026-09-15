@@ -1,6 +1,6 @@
-# SDN-Sent-20260913-Topic-A
+# SDN-Sent-20260914-Topic-A
 
-Forget Epstein - 1920s-2020s - FR Stymied - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
+Forget Epstein - 1920s-2020s - Phang 09-13 - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
 ## SDN Email - Table of Contents
 
@@ -8,9 +8,17 @@ Forget Epstein - 1920s-2020s - FR Stymied - D. Barr - Bear - Khashoggi - Kirklan
 
 - https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main
 
+## SDN Email - Table of Contents
+
+90+ year SDN - Shadow Diplomacy Network
+
 ### Newest Chapters
 
-SDN-01-Accounts-02-FR-Stymied
+SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
+
+- https://rentry.co/9qp5whch
+
+SDN-01-Accounts-02-FR-Stymied.md
 
 - https://rentry.co/h2kgqyxw
 
@@ -29,14 +37,6 @@ SDN-38-Panama-Papers-01-LLM-Query
 SDN-38-Panama-Papers-02-Master-Strategy
 
 - https://rentry.co/raav7yrw
-
-SDN-13-Legal-39-Phang-vs-Blanche-2026-08
-
-- https://rentry.co/4g2usz4m
-
-SDN-36-Wyden-Final-Report
-
-- https://rentry.co/pu9vmzd6
 
 -----
 
@@ -75,6 +75,22 @@ SDN-Sent-17-Email-To
 -----
 
 -----
+
+## SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
+
+- https://rentry.co/9qp5whch
+
+### Deadline Dispute
+
+Phang's legal team pointed out that Blanche failed to file a timely response or seek a formal extension or stay.
+
+This procedural lapse technically put the Department of Justice (DOJ) in default, meaning they ran the risk of legally admitting to the allegations in the complaint.
+
+Following the missed deadline, Blanche's legal team scrambled to address the omission, leading to aggressive pushback from Phang's team over the government's continued use of "delay tactics".
+
+### Case Background
+
+...
 
 ## SDN-01-Accounts-02-FR-Stymied
 
@@ -181,46 +197,6 @@ Model Offshore financial entities as links connecting jurisdictions.
 - the host jurisdiction is where the offshore entity is registered.
 
 ### Yin-Yang
-
-...
-
-## SDN-13-Legal-39-Phang-vs-Blanche-2026-08 
-
-- https://rentry.co/4g2usz4m
-
-### Friday, August 21, 2026
-
-- Sullivan Orders "Show Cause" on Lying
-
-Judge Sullivan issues an immediate order directing the DOJ to clarify whether its attorneys explicitly misled or lied to the court regarding the availability and historical production of these handwritten records.
-
-### Monday, August 24, 2026
-
-- DOJ Files Notice of Appeal
-
-Rather than yielding to the handwritten document release, the DOJ signals its plan to escalate the battle, filing a notice to appeal Judge Sullivan's unredacting mandates to a higher federal court.
-
-### Tuesday, August 25, 2026
-
-- Proposed Order Submitted
-
-Phang's team submits a proposed order mandating that AG Blanche produce the underlying handwritten FBI interview notes to protect the integrity of the Epstein Files Transparency Act.
-
-...
-
-## SDN-36-Wyden-Final-Report 
-
-- https://rentry.co/pu9vmzd6
-
-### Verified Facts of the Case
-
-- On August 4, 2026, Senator Wyden officially published a 67-page congressional report titled “_Looking the Other Way: How Wall Street Banks Enabled Jeffrey Epstein’s Sex Trafficking_”.
-
-### The Core Evidence
-
-- The findings are based on a four-year review of internal financial corporate records, legal filings, and nonpublic Treasury Department Suspicious Activity Reports (SARs).
-
-### The Primary Violations
 
 ...
 

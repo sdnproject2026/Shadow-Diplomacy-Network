@@ -1,13 +1,13 @@
-# SDN-Sent-20260913-Dist-A
+# SDN-Sent-20260914-Dist-A
 
-## Set xyz
+## Set B
 
 ### To
 
 ^ NA
 
 ```
-xyz
+press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, editor@nationalinterest.org, press@newsmax.com, tips@rollcall.com, letters@time.com, info@alternet.org, info@thebulwark.com, letters@dailysignal.com, press@theonion.com, nprnews@npr.org, info@federalnewsnetwork.com, guardian.readers@theguardian.com, yourpics@bbc.co.uk, newsdesk@independent.co.uk, info@timesofisrael.com, info@economist.com, info@rbc.ua, news@rbc.ua, press@rbc.ua, observers@france24.com, tips@ft.com, yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net, info@dw.com
 ```
 
 ### BCC 
@@ -21,6 +21,10 @@ sdnproject2026@onionmail.org
 90+ year SDN - Shadow Diplomacy Network
 
 ### Newest Chapters
+
+SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
+
+- https://rentry.co/9qp5whch
 
 SDN-01-Accounts-02-FR-Stymied.md
 
@@ -41,10 +45,6 @@ SDN-38-Panama-Papers-01-LLM-Query
 SDN-38-Panama-Papers-02-Master-Strategy
 
 - https://rentry.co/raav7yrw
-
-xyz
-
-- xyz
 
 -----
 

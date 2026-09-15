@@ -26,8 +26,6 @@ tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.
 
 ## Set B
 
-# Next A/B
-
 ^ NA
 
 ```
@@ -38,8 +36,6 @@ press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@har
 
 ## Set C
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -49,6 +45,8 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 ### Count: 30
 
 ## Set D
+
+# Next A/B
 
 ^ NA
 
@@ -79,6 +77,8 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 ### Count: 30
 
 ## Set G
+
+# Next C/D
 
 ^ NA
 
