@@ -46,13 +46,13 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 
 ## Set D
 
-^ NA
+^ dw.investigates@protonmail.com
 
 ```
-insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, peston@itv.com, sophy.ridge@sky.uk, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@thebureauinvestigates.com, dw.investigates@protonmail.com, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov, abhola@citizen.org, dnoel@citizen.org, andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov
+insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, sophy.ridge@sky.uk, viewerR@sky.uk, clipsales@sky.uk, news@sky.com, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov, abhola@citizen.org, dnoel@citizen.org, andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov
 ```
 
-### Count: 30
+### Count: 32
 
 ## Set E
 
@@ -78,8 +78,6 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 
 ## Set G
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -89,6 +87,8 @@ leser@welt.de, courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, le
 ### Count: 30
 
 ## Set H
+
+# Next C/D
 
 ^ media@google.com
 
@@ -198,6 +198,15 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 ```
 
 ### Count: 32
+
+## Set S
+
+```
+franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com, 
+peston@itv.com, privacy@itv.com, myprivacy@itv.com 
+```
+
+### Count: 25
 
 ----
 
