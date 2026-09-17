@@ -46,8 +46,6 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 
 ## Set D
 
-# Next A/B
-
 ^ NA
 
 ```
@@ -67,6 +65,8 @@ Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.go
 ### Count: 30
 
 ## Set F
+
+# Next A/B
 
 ^ news@gbnews.uk
 
@@ -184,17 +184,17 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 ^ vintageanchorpublicity@randomhouse.com
 
 ```
-publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com, information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, client@bulldogcompliance.com, info@senateleadershipfund.org
+publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com, information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, client@bulldogcompliance.com, info@senateleadershipfund.org, msz@paramount.com, Laura.watson@paramount.com, Kevin.creighton@paramount.com, logan.thomas@paramount.com, paramountgloballegalnotices@paramount.com
 ```
 
-### Count: 30
+### Count: 35
 
 ## Set R
 
 ^ info@afpaction.org
 
 ```
-accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com, bryan.flaherty@washpost.com, jason.anders@washpost.com, nick.baumann@washpost.com, david.fallis@washpost.com, lockbox@washpost.com, redaction@lemonde.fr
+accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com, bryan.flaherty@washpost.com, jason.anders@washpost.com, nick.baumann@washpost.com, david.fallis@washpost.com, lockbox@washpost.com, redaction@lemonde.fr, melissa.quinn@paramount.com
 ```
 
 ### Count: 32
