@@ -66,8 +66,6 @@ Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.go
 
 ## Set F
 
-# Next A/B
-
 ^ news@gbnews.uk
 
 ```
@@ -88,8 +86,6 @@ leser@welt.de, courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, le
 
 ## Set H
 
-# Next C/D
-
 ^ media@google.com
 
 ```
@@ -100,6 +96,7 @@ sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.
 
 ## Set I
 
+# Next A/B
 
 ^ NA
 
@@ -120,6 +117,8 @@ fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@ne
 ### Count: 30
 
 ## Set K
+
+# Next C/D
 
 ^ NA
 
@@ -202,8 +201,8 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 ## Set S
 
 ```
-franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com, 
-peston@itv.com, privacy@itv.com, myprivacy@itv.com 
+franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com,
+peston@itv.com, privacy@itv.com, myprivacy@itv.com
 ```
 
 ### Count: 25
