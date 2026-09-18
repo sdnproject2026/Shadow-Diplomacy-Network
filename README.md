@@ -31,6 +31,9 @@ _Who has been informed_
 - Markdown formatted document
  
 ----
+SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
+
+- https://rentry.co/pxktcrxy
 
 SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
 
