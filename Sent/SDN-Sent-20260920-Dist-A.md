@@ -1,13 +1,13 @@
-# SDN-Sent-20260917-Dist-A
+# SDN-Sent-20260920-Dist-A
 
-## Set F
+## Set D I
 
 ### To
 
 ^ NA
 
 ```
-tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com, submissions@thenation.com, tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, letters@hindustantimes.com, letters@jpost.com
+belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, botswana@un.int, brunei@un.int, bulgaria@un.int, burkinafaso@un.int, burundi@un.int, cambodia@un.int, cameroon@un.int, chad@un.int, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, croatia@un.int, cuba@un.int, czechrepublic@un.int, djibouti@un.int, dominica@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int, eritrea@un.int, eswatini@un.int, ethiopia@un.int, info@katiephang.com, katie@katiephang.com
 ```
 
 ### BCC 
@@ -37,6 +37,10 @@ SDN-01-Accounts-02-FR-Stymied.md
 SDN-01-Accounts-01-EU-Stymied
 
 - https://rentry.co/pvggtys6
+
+SDN-13-Legal-41-Inherent-Contempt
+
+- https://rentry.co/zri7ukeh
 
 SDN-38-Panama-Papers-1970s-2020s
 

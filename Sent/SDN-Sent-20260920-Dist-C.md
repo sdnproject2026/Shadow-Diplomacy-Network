@@ -1,11 +1,11 @@
-# SDN-Sent-20260917-Dist-C
+# SDN-Sent-20260920-Dist-C
 
-## Set H
+## Set K
 
 ### To
 
 ```
-sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, amancio.ortega@inditex.com, charles.koch@kochind.com, press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, info@inditex.com, contact@walton.com, info@kochind.com, media@adani.com, nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int
+liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un.int, malaysia@un.int, maldives@un.int, mali@un.int, malta@un.int, marshallislands@un.int, mauritania@un.int, mauritius@un.int, mexico@un.int, micronesia@un.int, moldova@un.int, mongolia@un.int, montenegro@un.int, morocco@un.int, mozambique@un.int, myanmar@un.int, namibia@un.int, nauru@un.int, nepal@un.int, nyv@minbuza.nl, nicaragua@un.int, niger@un.int, nigeria@un.int, macedonia@un.int, norway@un.int, oman@un.int
 ```
 
 ### BCC 
@@ -23,6 +23,10 @@ SDN-01-Accounts-02-FR-Stymied
 SDN-01-Accounts-01-EU-Stymied
 
 - https://rentry.co/pvggtys6
+
+SDN-13-Legal-41-Inherent-Contempt
+
+- https://rentry.co/zri7ukeh
 
 SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
 
