@@ -1,13 +1,11 @@
-# SDN-Sent-20260920-Dist-A
+# SDN-Sent-20260921-Dist-C
 
-## Set I
+## Set N
 
 ### To
 
-^ NA
-
 ```
-belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, botswana@un.int, brunei@un.int, bulgaria@un.int, burkinafaso@un.int, burundi@un.int, cambodia@un.int, cameroon@un.int, chad@un.int, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, croatia@un.int, cuba@un.int, czechrepublic@un.int, djibouti@un.int, dominica@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int, eritrea@un.int, eswatini@un.int, ethiopia@un.int, info@katiephang.com, katie@katiephang.com
+publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, press_publicity@uchicago.edu, media@cambridge.org, media.relations@dartmouth.edu, press@sagepub.com, press@harpercollins.com, info@harpercollins.com, press@springernature.com, hsscommsproduction@springernature.com, mission.newyork@mfa.gov.al, usunpress@state.gov, info@afghanistan-un.org, new-york-ov@bmeia.gv.at, bihun@mvp.gov.ba, missionandorraun@govern.ad, distri.delbrasonu@itamaraty.gov.br, cvpm.unny@mnec.gov.cv, mission@cyprusun.org, dpr.korea@verizon.net, PRMNYCanadaUN@international.gc.ca, repercaf.ny@gmail.com, chile.un@minrel.gov.cl, lao.pr.ny@gmail.com, misija.jt@urm.lt, contact@lebanonun.org, missionun@jordanmissionun.com, investigacao@sabado.pt, catarina@sabado.pt
 ```
 
 ### BCC 
@@ -16,21 +14,9 @@ belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int,
 sdnproject2026@onionmail.org
 ```
 
-## SDN Email - Table of Contents
-
-90+ year SDN - Shadow Diplomacy Network
-
 ### Newest Chapters
 
-SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
-
-- https://rentry.co/pxktcrxy
-
-SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
-
-- https://rentry.co/9qp5whch
-
-SDN-01-Accounts-02-FR-Stymied.md
+SDN-01-Accounts-02-FR-Stymied
 
 - https://rentry.co/h2kgqyxw
 
@@ -41,6 +27,10 @@ SDN-01-Accounts-01-EU-Stymied
 SDN-13-Legal-41-Inherent-Contempt
 
 - https://rentry.co/zri7ukeh
+
+SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
+
+- xyz
 
 SDN-38-Panama-Papers-1970s-2020s
 

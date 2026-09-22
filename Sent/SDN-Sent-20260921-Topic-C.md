@@ -1,6 +1,6 @@
-# SDN-Sent-20260920-Topic-A
+# SDN-Sent-20260921-Topic-C
 
-Forget Epstein - 1920s-2020s - Phang 09-17 - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
+Forget Epstein - 1920s-2020s - FR Stymied - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
 ## SDN Email - Table of Contents
 
@@ -9,14 +9,6 @@ Forget Epstein - 1920s-2020s - Phang 09-17 - D. Barr - Bear - Khashoggi - Kirkla
 - https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main
 
 ### Newest Chapters
-
-SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
-
-- https://rentry.co/pxktcrxy
-
-SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
-
-- https://rentry.co/9qp5whch
 
 SDN-01-Accounts-02-FR-Stymied
 
@@ -29,6 +21,10 @@ SDN-01-Accounts-01-EU-Stymied
 SDN-13-Legal-41-Inherent-Contempt
 
 - https://rentry.co/zri7ukeh
+
+SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
+
+- https://rentry.co/pxktcrxy
 
 SDN-38-Panama-Papers-1970s-2020s
 
@@ -79,42 +75,6 @@ SDN-Sent-17-Email-To
 -----
 
 -----
-
-## SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
-
-- https://rentry.co/pxktcrxy
-
-### Branching Possible Timelines
-
-A-D
-
-Branch A
-
-Todd Blanche Does Not Release Required Documents
-
-2026-09-24
-
-- The first question would be whether the government actually violated a clear and operative order, rather than merely whether production was incomplete
-
-- Phang's strongest procedural move would be to identify each specific command in the order, the document category covered by that command, the production deadline, what was actually produced, and the precise deficiency
-
-...
-
-## SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
-
-- https://rentry.co/9qp5whch
-
-### Deadline Dispute
-
-Phang's legal team pointed out that Blanche failed to file a timely response or seek a formal extension or stay.
-
-This procedural lapse technically put the Department of Justice (DOJ) in default, meaning they ran the risk of legally admitting to the allegations in the complaint.
-
-Following the missed deadline, Blanche's legal team scrambled to address the omission, leading to aggressive pushback from Phang's team over the government's continued use of "delay tactics".
-
-### Case Background
-
-...
 
 ## SDN-01-Accounts-02-FR-Stymied
 
@@ -180,7 +140,6 @@ Unlike "criminal contempt," which requires the Department of Justice to prosecut
 
 ...
 
-
 ## SDN-38-Panama-Papers-1970s-2020s 
 
 - https://rentry.co/mztie6wi
@@ -236,6 +195,8 @@ Model Offshore financial entities as links connecting jurisdictions.
 ### Yin-Yang
 
 ...
+
+-----
 
 ## SDN-00-01-Elevator-Pitch
 

@@ -126,8 +126,6 @@ liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un
 
 ## Set L
 
-# Next A/B
-
 ^ NA
 
 ```
@@ -148,8 +146,6 @@ tajikistan@un.int, thailand@un.int, togo@un.int, tonga@un.int, tunisia@un.int, t
 
 ## Set N
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -159,6 +155,8 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 ### Count: 30
 
 ## Set O
+
+# Next A/B
 
 ^ NA
 
@@ -179,6 +177,8 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 ### Count: 30
 
 ## Set Q
+
+# Next C/D
 
 ^ vintageanchorpublicity@randomhouse.com
 

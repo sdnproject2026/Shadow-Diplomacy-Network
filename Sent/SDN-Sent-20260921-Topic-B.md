@@ -1,4 +1,4 @@
-# SDN-Sent-20260920-Topic-A
+# SDN-Sent-20260921-Topic-B
 
 Forget Epstein - 1920s-2020s - Phang 09-17 - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
@@ -179,7 +179,6 @@ Unlike "criminal contempt," which requires the Department of Justice to prosecut
 ### Epstein Files Transparency Act
 
 ...
-
 
 ## SDN-38-Panama-Papers-1970s-2020s 
 

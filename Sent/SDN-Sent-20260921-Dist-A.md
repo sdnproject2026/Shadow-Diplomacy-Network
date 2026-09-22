@@ -1,13 +1,13 @@
-# SDN-Sent-20260920-Dist-A
+# SDN-Sent-20260921-Dist-A
 
-## Set I
+## Set L
 
 ### To
 
 ^ NA
 
 ```
-belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, botswana@un.int, brunei@un.int, bulgaria@un.int, burkinafaso@un.int, burundi@un.int, cambodia@un.int, cameroon@un.int, chad@un.int, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, croatia@un.int, cuba@un.int, czechrepublic@un.int, djibouti@un.int, dominica@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int, eritrea@un.int, eswatini@un.int, ethiopia@un.int, info@katiephang.com, katie@katiephang.com
+pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@un.int, philippines@un.int, newyork.un@msz.gov.pl, portugal@un.int, romania@un.int, russia@un.int, rwanda@un.int, stlucia@un.int, samoa@un.int, sanmarino@un.int, serbia@un.int, seychelles@un.int, sierraleone@un.int, slovakia@un.int, slovenia@un.int, solomonislands@un.int, somalia@un.int, southafrica@un.int, southsudan@un.int, spain@un.int, srilanka@un.int, sudan@un.int, suriname@un.int, sweden@un.int, syria@un.int
 ```
 
 ### BCC 

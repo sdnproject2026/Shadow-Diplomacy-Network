@@ -1,13 +1,13 @@
-# SDN-Sent-20260920-Dist-A
+# SDN-Sent-20260921-Dist-B
 
-## Set I
+## Set M
 
 ### To
 
 ^ NA
 
 ```
-belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int, benin@un.int, bhutan@un.int, bolivia@un.int, botswana@un.int, brunei@un.int, bulgaria@un.int, burkinafaso@un.int, burundi@un.int, cambodia@un.int, cameroon@un.int, chad@un.int, colombia@un.int, comoros@un.int, congo@un.int, costarica@un.int, croatia@un.int, cuba@un.int, czechrepublic@un.int, djibouti@un.int, dominica@un.int, ecuador@un.int, egypt@un.int, elsalvador@un.int, eritrea@un.int, eswatini@un.int, ethiopia@un.int, info@katiephang.com, katie@katiephang.com
+tajikistan@un.int, thailand@un.int, togo@un.int, tonga@un.int, tunisia@un.int, turkey@un.int, turkmenistan@un.int, tuvalu@un.int, uganda@un.int, uae@un.int, uk@un.int, tanzania@un.int, uruguay@un.int, uzbekistan@un.int, vanuatu@un.int, venezuela@un.int, vietnam@un.int, yemen@un.int, zimbabwe@un.int, consumerservices@penguinrandomhouse.com, penguinpublicity@penguinrandomhouse.com, knopfpublicity@randomhouse.com, crownpublicity@randomhouse.com, Corporate.Communications@simonandschuster.com, SSPublicity@simonandschuster.com, susannah.lawrence@simonandschuster.com, ScribnerPublicity@simonandschuster.com, yuppublicity@yale.edu, press@protectdemocracy.org, media@aei.org
 ```
 
 ### BCC 
