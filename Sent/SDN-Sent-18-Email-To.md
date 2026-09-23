@@ -16,8 +16,6 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -48,7 +46,7 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 
 ## Set D
 
-^ dw.investigates@protonmail.com
+^ NA
 
 ```
 insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, louise@thomhartmann.com, THproducer@gmail.com, sophy.ridge@sky.uk, viewerR@sky.uk, clipsales@sky.uk, news@sky.com, hartaberfair@wdr.de, ottoemezzo@la7.it, nonelarena@la7.it, report@rai.it, presadiretta@rai.it, reveal@revealnews.org, info@citizensforethics.org, info@campaignlegalcenter.org, communications@campaignlegalcenter.org, contact@citizen.org, press@citizen.org, info@fec.gov, press@fec.gov, ig.press@ig.ny.gov, abhola@citizen.org, dnoel@citizen.org, andrea@andrearomero.com, ana.martinez@nmlegis.gov, marianna.anaya@nmlegis.gov, yolanda.lucero@nmlegis.gov
@@ -68,7 +66,7 @@ Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.go
 
 ## Set F
 
-^ news@gbnews.uk
+^ NA
 
 ```
 tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com, submissions@thenation.com, tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, letters@hindustantimes.com, letters@jpost.com
@@ -88,7 +86,7 @@ leser@welt.de, courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, le
 
 ## Set H
 
-^ media@google.com
+^ NA
 
 ```
 sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.com, amancio.ortega@inditex.com, charles.koch@kochind.com, press@teslamotors.com, jassy@amazon.com, pr@amazon.com, press@fb.com, contact@lvmh.com, info@ril.com, contacto@telmex.com, info@inditex.com, contact@walton.com, info@kochind.com, media@adani.com, nfaiq@afghanistan-un.org, algeria@un.int, angola@un.int, antigua@un.int, argentina@un.int, armenia@un.int, australia@un.int, mission@bahamasny.com, bahrain1@un.int, bangladesh@un.int, bdpmny@gmail.com, barbados@un.int
@@ -158,6 +156,8 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 
 ## Set O
 
+# Next A/B
+
 ^ NA
 
 ```
@@ -178,7 +178,9 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 
 ## Set Q
 
-^ vintageanchorpublicity@randomhouse.com
+# Next C/D
+
+^ NA
 
 ```
 publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com, information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, client@bulldogcompliance.com, info@senateleadershipfund.org, msz@paramount.com, Laura.watson@paramount.com, Kevin.creighton@paramount.com, logan.thomas@paramount.com, paramountgloballegalnotices@paramount.com
@@ -188,9 +190,7 @@ publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com,
 
 ## Set R
 
-# Next A/B
-
-^ info@afpaction.org
+^ NA
 
 ```
 accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubforgrowth.org, treasurer@afpaction.com, media@afphq.org, compliance@complianceconsultingva.com, info@conservativeamericanspac.com, sg@restorationpac.com, fec@langdonlaw.com, info@restorationpac.com, hfa@pdscompliance.com, info@freedomcaucus.org, treasurer@sdfreedomcaucus.com, jared@senecaclark.com, jason@tabularius.pro, info@keepamericagreatpac.com, keepamericagreat@pdscompliance.com, tim@kochandhoos.com, tbeall@gopac.org, info@tppac.com, bryan.flaherty@washpost.com, jason.anders@washpost.com, nick.baumann@washpost.com, david.fallis@washpost.com, lockbox@washpost.com, redaction@lemonde.fr, melissa.quinn@paramount.com
@@ -200,12 +200,38 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 
 ## Set S
 
+^ NA
+
 ```
 franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com,
 peston@itv.com, privacy@itv.com, myprivacy@itv.com, orders@press.uchicago.edu
 ```
 
 ### Count: 26
+
+## Set T
+
+^ NA
+
+### Epstein Byline Emails
+
+```
+clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com, august.brown@latimes.com, yorozco@chron.com, Ashley.Soebroto@hearst.com, uwa.ede-osifo@houstonchronicle.com, Tracey.McManus@dallasnews.com, uwa.ede-osifo@dallasnews.com, alexei.koseff@sfchronicle.com, ljaniak@sfchronicle.com, elizabeth.larsen@startribune.com, norah.shapiro@startribune.com, christine.delp@startribune.com, ndevoe@nypost.com, snelson@nypost.com, JTaer@DailyWire.com, online@nypost.com, khadeeja.safdar@wsj.com, Joe.Palazzolo@wsj.com, neil.mehta@wsj.com, gina.heeb@wsj.com, david.enrich@nytimes.com, steve.eder@nytimes.com, jessica.silvergreenberg@nytimes.com, matthew.goldstein@nytimes.com, charles.homans@nytimes.com
+```
+
+### COUNT: 27
+
+## Set U
+
+^ NA
+
+### Epstein Byline Emails
+
+```
+jan.ransom@nytimes.com, michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, ankush.khardori@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com
+```
+
+### COUNT: 27
 
 ----
 
