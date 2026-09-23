@@ -178,8 +178,6 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 
 ## Set Q
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -189,6 +187,8 @@ publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com,
 ### Count: 35
 
 ## Set R
+
+# Next C/D
 
 ^ NA
 
