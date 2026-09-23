@@ -16,7 +16,7 @@ https://github.com/sdnproject2026/Shadow-Diplomacy-Network/graphs/traffic
 
 ----
 
-SDN-Sent-17-Email-To
+SDN-Sent-18-Email-To
 
 Emails Sent - Campaign History
 
