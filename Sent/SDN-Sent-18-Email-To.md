@@ -1,8 +1,6 @@
-# SDN-Sent-17-Email-To
+# SDN-Sent-18-Email-To
 
 - ^ deletions from address list or NA
-
--  deduped all lists
 
 ## BCC
 
@@ -15,6 +13,8 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 ### Count: 3
 
 ## Set A
+
+# Next B/C/D
 
 ^ NA
 
@@ -156,8 +156,6 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 
 ## Set O
 
-# Next A/B
-
 ^ NA
 
 ```
@@ -188,8 +186,6 @@ publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com,
 
 ## Set R
 
-# Next C/D
-
 ^ NA
 
 ```
@@ -203,7 +199,7 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 ^ NA
 
 ```
-franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com,
+franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com, 
 peston@itv.com, privacy@itv.com, myprivacy@itv.com, orders@press.uchicago.edu
 ```
 
@@ -211,27 +207,79 @@ peston@itv.com, privacy@itv.com, myprivacy@itv.com, orders@press.uchicago.edu
 
 ## Set T
 
-^ NA
+^ ndevoe@nypost.com
+
+^ christine.delp@startribune.com
+
+^ norah.shapiro@startribune.com
+
+^ uwa.ede-osifo@dallasnews.com
+
+^ alexei.koseff@sfchronicle.com
+
+^ elizabeth.larsen@startribune.com
+
+^ uwa.ede-osifo@houstonchronicle.com
+
+^ yorozco@chron.com
 
 ### Epstein Byline Emails
 
 ```
-clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com, august.brown@latimes.com, yorozco@chron.com, Ashley.Soebroto@hearst.com, uwa.ede-osifo@houstonchronicle.com, Tracey.McManus@dallasnews.com, uwa.ede-osifo@dallasnews.com, alexei.koseff@sfchronicle.com, ljaniak@sfchronicle.com, elizabeth.larsen@startribune.com, norah.shapiro@startribune.com, christine.delp@startribune.com, ndevoe@nypost.com, snelson@nypost.com, JTaer@DailyWire.com, online@nypost.com, khadeeja.safdar@wsj.com, Joe.Palazzolo@wsj.com, neil.mehta@wsj.com, gina.heeb@wsj.com, david.enrich@nytimes.com, steve.eder@nytimes.com, jessica.silvergreenberg@nytimes.com, matthew.goldstein@nytimes.com, charles.homans@nytimes.com
+clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com, august.brown@latimes.com, Ashley.Soebroto@hearst.com, Tracey.McManus@dallasnews.com, ljaniak@sfchronicle.com, snelson@nypost.com, JTaer@DailyWire.com, online@nypost.com, khadeeja.safdar@wsj.com, Joe.Palazzolo@wsj.com, neil.mehta@wsj.com, gina.heeb@wsj.com, david.enrich@nytimes.com, steve.eder@nytimes.com, jessica.silvergreenberg@nytimes.com, matthew.goldstein@nytimes.com, charles.homans@nytimes.com
 ```
 
 ### COUNT: 27
 
 ## Set U
 
+^ ankush.khardori@nytimes.com
+
+### Epstein Byline Emails
+
+```
+jan.ransom@nytimes.com, michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
+```
+
+### COUNT: 28
+
+## Set V
+
 ^ NA
 
 ### Epstein Byline Emails
 
 ```
-jan.ransom@nytimes.com, michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, ankush.khardori@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com
+jon_allsop@newyorker.com, john_cassidy@newyorker.com, jrothman@newyorker.com, ronan_farrow@newyorker.com, jane_mayer@newyorker.com, connie_bruck@newyorker.com, jamessuro@aol.com, katienicholl@icloud.com, nate_freeman@condenast.com, abby_ellin@vanityfair.com, stacy_schneider@vanityfair.com, clara_molot@vanityfair.com, vicky@vickyward.com, gsherman99@gmail.com, evgenia.peretz@gmail.com, joe_hagan@vanityfair.com, sarah.l.ellison@gmail.com, miles_klee@wired.com, maddyvarner@gmail.com, ej_dickson@wired.com, Ryan_Biller@wired.com, Ara_Rosenthal@wired.com, brian.r.barrett@gmail.com, leah_feiger@wired.com, caroline_haskins@wired.com, lily.newman@wired.com, matt_burgess@wired.com, agreenberg@wired.com, dell_cameron@wired.com, vittoria_elliott@wired.com
 ```
 
-### COUNT: 27
+### Count: 30
+
+## Set W
+
+^ NA
+
+### Epstein Byline Emails
+
+```
+dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, katiemacreilly@gmail.com, Madeleine.Carlisle@time.com, philip.elliott@time.com, Sanya.Mansoor@time.com, Jasmine.Aguilera@time.com, blewis@forbes.com, lvoytko@forbes.com, seranosian@forbes.com, sklebnikov@forbes.com, cporterfield@forbes.com, jessica.mathews@fortune.com, eva.roytburg@fortune.com, Jim.Edwards@fortune.com, michael_sisak@fortune.com, david_caruso@fortune.com, Larry.Neumeister@fortune.com, shawn.tully@fortune.com, lucinda.shen@fortune.com, jlynch@nationalreview.com, amccarthy@nationalreview.com, kwilliamson@nationalreview.com, david@davidharsanyi.com, dpino@davidharsanyi.com, ccooke@davidharsanyi.com, jlee@washingtonian.com, abeaujon@washingtonian.com, lmullins@washingtonian.com
+```
+
+### Count: 30
+
+## Set X
+
+# Next A
+
+^ NA
+
+### Epstein Byline Emails
+
+```
+rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, theo@theinformation.com, bsmith@semafor.com, maxwelltani@semafor.com, lizrhoffman@gmail.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com
+```
+
+### Count: 13
 
 ----
 
