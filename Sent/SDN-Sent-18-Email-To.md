@@ -233,39 +233,96 @@ clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com
 
 ## Set U
 
-^ ankush.khardori@nytimes.com
+^ NA
 
 ### Epstein Byline Emails
 
 ```
-jan.ransom@nytimes.com, michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
+jan.ransom@nytimes.com,  ankush.khardori@gmail.com michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
 ```
 
 ### COUNT: 28
 
 ## Set V
 
-^ NA
+^ abby_ellin@vanityfair.com
+
+^ agreenberg@wired.com
+
+^ Ara_Rosenthal@wired.com
+
+^ clara_molot@vanityfair.com
+
+^ connie_bruck@newyorker.com
+
+^ dell_cameron@wired.com
+
+^ jane_mayer@newyorker.com
+
+^ john_cassidy@newyorker.com
+
+^ joe_hagan@vanityfair.com
+
+^ jrothman@newyorker.com
+
+^ leah_feiger@wired.com
+
+^ lily.newman@wired.com
+
+^ matt_burgess@wired.com
+
+^ miles_klee@wired.com
+
+^ nate_freeman@condenast.com
+
+^ ronan_farrow@newyorker.com
+
+^ Ryan_Biller@wired.com
+
+^ stacy_schneider@vanityfair.com
 
 ### Epstein Byline Emails
 
 ```
-jon_allsop@newyorker.com, john_cassidy@newyorker.com, jrothman@newyorker.com, ronan_farrow@newyorker.com, jane_mayer@newyorker.com, connie_bruck@newyorker.com, jamessuro@aol.com, katienicholl@icloud.com, nate_freeman@condenast.com, abby_ellin@vanityfair.com, stacy_schneider@vanityfair.com, clara_molot@vanityfair.com, vicky@vickyward.com, gsherman99@gmail.com, evgenia.peretz@gmail.com, joe_hagan@vanityfair.com, sarah.l.ellison@gmail.com, miles_klee@wired.com, maddyvarner@gmail.com, ej_dickson@wired.com, Ryan_Biller@wired.com, Ara_Rosenthal@wired.com, brian.r.barrett@gmail.com, leah_feiger@wired.com, caroline_haskins@wired.com, lily.newman@wired.com, matt_burgess@wired.com, agreenberg@wired.com, dell_cameron@wired.com, vittoria_elliott@wired.com
+dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Carlisle@time.com, Sanya.Mansoor@time.com, Jasmine.Aguilera@time.com, jessica.mathews@fortune.com, michael_sisak@fortune.com, david_caruso@fortune.com, Larry.Neumeister@fortune.com, jlynch@nationalreview.com, jlee@washingtonian.com, lmullins@washingtonian.com, lisa.bonos@washpost.com, emailcarolinehaskins@gmail.com, elisabeth.j.dickson@gmail.com, j.allsop@columbia.edu, elliott.vittoria@proton.me, lisa.bonos@washpost.com
 ```
 
-### Count: 30
+### Count: 20
 
-## Set W
+## Set W (delete set)
 
-^ NA
+^ dhruv_mehrotra@wired.com
+
+^ Jasmine.Aguilera@time.com
+
+^ jlee@washingtonian.com
+
+^ jlynch@nationalreview.com
+
+^ Larry.Neumeister@fortune.com
+
+^ Madeleine.Carlisle@time.com
+
+^ michael_sisak@fortune.com
+
+^ david_caruso@fortune.com
+
+^ lmullins@washingtonian.com
+
+^ Sanya.Mansoor@time.com
+
+^ Tara.Law@time.com
+
+^ Taran.Burke@time.com
 
 ### Epstein Byline Emails
 
 ```
-dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, katiemacreilly@gmail.com, Madeleine.Carlisle@time.com, philip.elliott@time.com, Sanya.Mansoor@time.com, Jasmine.Aguilera@time.com, blewis@forbes.com, lvoytko@forbes.com, seranosian@forbes.com, sklebnikov@forbes.com, cporterfield@forbes.com, jessica.mathews@fortune.com, eva.roytburg@fortune.com, Jim.Edwards@fortune.com, michael_sisak@fortune.com, david_caruso@fortune.com, Larry.Neumeister@fortune.com, shawn.tully@fortune.com, lucinda.shen@fortune.com, jlynch@nationalreview.com, amccarthy@nationalreview.com, kwilliamson@nationalreview.com, david@davidharsanyi.com, dpino@davidharsanyi.com, ccooke@davidharsanyi.com, jlee@washingtonian.com, abeaujon@washingtonian.com, lmullins@washingtonian.com
+lisa.bonos@washpost.com
 ```
 
-### Count: 30
+### Count: 1
+
 
 ## Set X
 
