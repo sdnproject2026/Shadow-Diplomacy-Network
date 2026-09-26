@@ -1,6 +1,6 @@
-# SDN-Sent-20260924-Dist-A
+# SDN-Sent-20260925-Dist-B
 
-## Set U
+## Set A
 
 ### Epstein Byline Emails
 
@@ -9,7 +9,7 @@
 ^ NA
 
 ```
-jan.ransom@nytimes.com, michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
+tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.com, info@investing.com, support@seekingalpha.com, press@seekingalpha.com, tips@qz.com, press@qz.com, info@qz.com, editors@barrons.com, press@barrons.com, info@ibtimes.com, tips@notus.org, press@mediamatters.org, tips@propublica.org, info@propublica.org, tips@reason.com, tips@politico.com, press@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@mashable.com, press@mashable.com, press@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com, press@newyorker.com, tips@oann.com
 ```
 
 ### BCC 
@@ -31,6 +31,10 @@ sdnproject2026@onionmail.org
 - https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
 
 ## SDN Newest Chapters
+
+SDN-13-Legal-43-Phang-vs-Blanche-2026-09-24
+
+- https://rentry.co/cyz3xkab
 
 SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
 

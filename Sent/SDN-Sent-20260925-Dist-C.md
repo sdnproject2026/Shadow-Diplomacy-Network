@@ -1,6 +1,6 @@
-# SDN-Sent-20260924-Dist-A
+# SDN-Sent-20260925-Dist-C
 
-## Set U
+## Set B
 
 ### Epstein Byline Emails
 
@@ -9,7 +9,7 @@
 ^ NA
 
 ```
-jan.ransom@nytimes.com, michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
+press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@harpers.org, letters@lrb.co.uk, info@lrb.co.uk, editor@nationalinterest.org, press@newsmax.com, tips@rollcall.com, letters@time.com, info@alternet.org, info@thebulwark.com, letters@dailysignal.com, press@theonion.com, nprnews@npr.org, info@federalnewsnetwork.com, guardian.readers@theguardian.com, yourpics@bbc.co.uk, newsdesk@independent.co.uk, info@timesofisrael.com, info@economist.com, info@rbc.ua, news@rbc.ua, press@rbc.ua, observers@france24.com, tips@ft.com, yourmedia@aljazeera.net, feedback@aljazeera.net, press@aljazeera.net, info@dw.com
 ```
 
 ### BCC 
@@ -31,6 +31,10 @@ sdnproject2026@onionmail.org
 - https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
 
 ## SDN Newest Chapters
+
+SDN-13-Legal-43-Phang-vs-Blanche-2026-09-24
+
+- https://rentry.co/cyz3xkab
 
 SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
 

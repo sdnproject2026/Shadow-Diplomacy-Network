@@ -14,8 +14,6 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
-# Next B/C/D
-
 ^ NA
 
 ```
@@ -35,6 +33,8 @@ press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@har
 ### Count: 30
 
 ## Set C
+
+# Next A/B/C
 
 ^ NA
 
@@ -289,7 +289,7 @@ dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Car
 
 ### Count: 20
 
-## Set W (delete set)
+## Set W
 
 ^ dhruv_mehrotra@wired.com
 
@@ -318,25 +318,10 @@ dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Car
 ### Epstein Byline Emails
 
 ```
-lisa.bonos@washpost.com
+lisa.bonos@washpost.com, rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, theo@theinformation.com, bsmith@semafor.com, maxwelltani@semafor.com, lizrhoffman@gmail.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com
 ```
 
-### Count: 1
-
-
-## Set X
-
-# Next A
-
-^ NA
-
-### Epstein Byline Emails
-
-```
-rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, theo@theinformation.com, bsmith@semafor.com, maxwelltani@semafor.com, lizrhoffman@gmail.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com
-```
-
-### Count: 13
+### Count: 14
 
 ----
 
