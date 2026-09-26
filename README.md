@@ -31,6 +31,15 @@ _Who has been informed_
 - Markdown formatted document
  
 ----
+
+SDN-13-Legal-44-Massie-EFTA-End-Game
+
+- https://rentry.co/s6rpyw6c
+
+SDN-13-Legal-43-Phang-vs-Blanche-2026-09-24
+
+- https://rentry.co/cyz3xkab
+
 SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
 
 - https://rentry.co/pxktcrxy
