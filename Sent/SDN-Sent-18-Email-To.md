@@ -315,10 +315,16 @@ dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Car
 
 ^ Taran.Burke@time.com
 
+^ theo@theinformation.com
+
+^ maxwelltani@semafor.com
+
+^ lizrhoffman@gmail.com
+
 ### Epstein Byline Emails
 
 ```
-lisa.bonos@washpost.com, rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, theo@theinformation.com, bsmith@semafor.com, maxwelltani@semafor.com, lizrhoffman@gmail.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com
+lisa.bonos@washpost.com, rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, bsmith@semafor.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com
 ```
 
 ### Count: 14
