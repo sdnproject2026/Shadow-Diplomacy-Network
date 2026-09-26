@@ -5,7 +5,7 @@
 - PB
 - PI
 - CC
-- PR
+- https://rentry.co/s6rpyw6c
 
 > HASH
 
