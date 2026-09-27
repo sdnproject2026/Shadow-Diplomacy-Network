@@ -6,8 +6,6 @@
 
 ### To
 
-^ NA
-
 ```
 jan.ransom@nytimes.com,  ankush.khardori@gmail.com michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, lisa.bonos@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mkhan@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
 ```
@@ -32,6 +30,12 @@ sdnproject2026@onionmail.org
 
 ## SDN Newest Chapters
 
+SDN-13-Legal-41-Inherent-Contempt
+
+- 2026-09-27 Article Update
+
+https://rentry.co/hc7mmuqy
+
 SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
 - https://rentry.co/yhbwbg4o
@@ -43,10 +47,6 @@ SDN-13-Legal-43-Phang-vs-Blanche-2026-09-24
 SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
 
 - https://rentry.co/pxktcrxy
-
-SDN-13-Legal-41-Inherent-Contempt
-
-- https://rentry.co/zri7ukeh
 
 SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
 

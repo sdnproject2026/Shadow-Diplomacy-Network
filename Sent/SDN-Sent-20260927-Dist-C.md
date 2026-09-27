@@ -6,8 +6,6 @@
 
 ### To
 
-^ NA
-
 ```
 lisa.bonos@washpost.com, rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, bsmith@semafor.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com, dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Carlisle@time.com, Sanya.Mansoor@time.com, Jasmine.Aguilera@time.com, jessica.mathews@fortune.com, michael_sisak@fortune.com, david_caruso@fortune.com, Larry.Neumeister@fortune.com, jlynch@nationalreview.com, jlee@washingtonian.com, lmullins@washingtonian.com, lisa.bonos@washpost.com, emailcarolinehaskins@gmail.com, elisabeth.j.dickson@gmail.com, j.allsop@columbia.edu, elliott.vittoria@proton.me, lisa.bonos@washpost.com
 ```
@@ -32,6 +30,12 @@ sdnproject2026@onionmail.org
 
 ## SDN Newest Chapters
 
+SDN-13-Legal-41-Inherent-Contempt
+
+- 2026-09-27 Article Update
+
+https://rentry.co/hc7mmuqy
+
 SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
 - https://rentry.co/yhbwbg4o
@@ -43,10 +47,6 @@ SDN-13-Legal-43-Phang-vs-Blanche-2026-09-24
 SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
 
 - https://rentry.co/pxktcrxy
-
-SDN-13-Legal-41-Inherent-Contempt
-
-- https://rentry.co/zri7ukeh
 
 SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
 

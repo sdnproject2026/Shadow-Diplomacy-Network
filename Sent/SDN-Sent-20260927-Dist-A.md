@@ -6,8 +6,6 @@
 
 ### To
 
-^ NA
-
 ```
 clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com, august.brown@latimes.com, Ashley.Soebroto@hearst.com, Tracey.McManus@dallasnews.com, ljaniak@sfchronicle.com, snelson@nypost.com, JTaer@DailyWire.com, online@nypost.com, khadeeja.safdar@wsj.com, Joe.Palazzolo@wsj.com, neil.mehta@wsj.com, gina.heeb@wsj.com, david.enrich@nytimes.com, steve.eder@nytimes.com, jessica.silvergreenberg@nytimes.com, matthew.goldstein@nytimes.com, charles.homans@nytimes.com
 ```
@@ -32,6 +30,12 @@ sdnproject2026@onionmail.org
 
 ## SDN Newest Chapters
 
+SDN-13-Legal-41-Inherent-Contempt
+
+- 2026-09-27 Article Update
+
+https://rentry.co/hc7mmuqy
+
 SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
 - https://rentry.co/yhbwbg4o
@@ -43,10 +47,6 @@ SDN-13-Legal-43-Phang-vs-Blanche-2026-09-24
 SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
 
 - https://rentry.co/pxktcrxy
-
-SDN-13-Legal-41-Inherent-Contempt
-
-- https://rentry.co/zri7ukeh
 
 SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
 

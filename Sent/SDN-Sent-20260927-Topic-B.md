@@ -16,6 +16,12 @@ Forget Epstein - 1920s-2020s - Phang 2026-09-25 - D. Barr - Bear - Khashoggi - K
 
 ## SDN Newest Chapters
 
+SDN-13-Legal-41-Inherent-Contempt
+
+- 2026-09-27 Article Update
+
+https://rentry.co/hc7mmuqy
+
 SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
 - https://rentry.co/yhbwbg4o
@@ -83,6 +89,34 @@ SDN-00-06-Dozens-Of-Chapters
 === Chapters Preview ===
 
 -----
+
+## SDN-13-Legal-41-Inherent-Contempt
+
+https://rentry.co/hc7mmuqy
+
+- 2026-09-27 Article Update
+
+...
+
+Thus:
+
+1. Maxwell conviction establishes certain adjudicated criminal conduct.
+
+2. That establishes a potential predicate factual foundation.
+
+3. It does not automatically establish that every Epstein offshore transaction involved criminal proceeds.
+
+4. A prosecutor would still need to establish the financial nexus.
+
+...
+
+The Resolution of Inherent Contempt is a constitutional authority that allows the House of Representatives to act as its own judicial body to enforce subpoenas or laws without the assistance of the executive or judicial branches.
+
+Unlike "criminal contempt," which requires the Department of Justice to prosecute its own officials, or "civil contempt," which relies on federal courts, inherent contempt allows the House to directly detain or fine individuals.
+
+### Epstein Files Transparency Act
+
+...
 
 ## SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
@@ -162,18 +196,6 @@ Todd Blanche Does Not Release Required Documents
 - The first question would be whether the government actually violated a clear and operative order, rather than merely whether production was incomplete
 
 - Phang's strongest procedural move would be to identify each specific command in the order, the document category covered by that command, the production deadline, what was actually produced, and the precise deficiency
-
-...
-
-## SDN-13-Legal-41-Inherent-Contempt
-
-- https://rentry.co/zri7ukeh
-
-The Resolution of Inherent Contempt is a constitutional authority that allows the House of Representatives to act as its own judicial body to enforce subpoenas or laws without the assistance of the executive or judicial branches.
-
-Unlike "criminal contempt," which requires the Department of Justice to prosecute its own officials, or "civil contempt," which relies on federal courts, inherent contempt allows the House to directly detain or fine individuals.
-
-### Epstein Files Transparency Act
 
 ...
 
