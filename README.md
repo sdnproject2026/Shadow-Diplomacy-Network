@@ -32,6 +32,13 @@ _Who has been informed_
  
 ----
 
+
+SDN-13-Legal-41-Inherent-Contempt
+
+- 2026-09-27 Updated Chapter
+
+- https://rentry.co/m2v8xedt
+
 SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
 - https://rentry.co/yhbwbg4o
@@ -63,10 +70,6 @@ Following the missed deadline, Blanche's legal team scrambled to address the omi
 Case Background
 
 ...
-
-SDN-13-Legal-41-Inherent-Contempt
-
-- https://rentry.co/zri7ukeh
 
 -----
 
