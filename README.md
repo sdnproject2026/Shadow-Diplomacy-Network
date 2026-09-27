@@ -32,12 +32,20 @@ _Who has been informed_
  
 ----
 
-
 SDN-13-Legal-41-Inherent-Contempt
 
 - 2026-09-27 Updated Chapter
 
 - https://rentry.co/m2v8xedt
+
+Thus:
+
+   - Maxwell conviction establishes certain adjudicated criminal conduct.
+   - That establishes a potential predicate factual foundation.
+   - It does not automatically establish that every Epstein offshore transaction involved criminal proceeds.
+   - A prosecutor would still need to establish the financial nexus.
+
+...
 
 SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
