@@ -281,16 +281,6 @@ jan.ransom@nytimes.com,  ankush.khardori@gmail.com michael.rothfeld@nytimes.com,
 
 ^ stacy_schneider@vanityfair.com
 
-### Epstein Byline Emails
-
-```
-dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Carlisle@time.com, Sanya.Mansoor@time.com, Jasmine.Aguilera@time.com, jessica.mathews@fortune.com, michael_sisak@fortune.com, david_caruso@fortune.com, Larry.Neumeister@fortune.com, jlynch@nationalreview.com, jlee@washingtonian.com, lmullins@washingtonian.com, lisa.bonos@washpost.com, emailcarolinehaskins@gmail.com, elisabeth.j.dickson@gmail.com, j.allsop@columbia.edu, elliott.vittoria@proton.me, lisa.bonos@washpost.com
-```
-
-### Count: 20
-
-## Set W
-
 ^ dhruv_mehrotra@wired.com
 
 ^ Jasmine.Aguilera@time.com
@@ -321,13 +311,19 @@ dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Car
 
 ^ lizrhoffman@gmail.com
 
+^ david@davidharsanyi.com
+
+^ ccooke@davidharsanyi.com
+
+^ dpino@davidharsanyi.com
+
 ### Epstein Byline Emails
 
 ```
-lisa.bonos@washpost.com, rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, bsmith@semafor.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com
+lisa.bonos@washpost.com, rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, bsmith@semafor.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com, dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Carlisle@time.com, Sanya.Mansoor@time.com, Jasmine.Aguilera@time.com, jessica.mathews@fortune.com, michael_sisak@fortune.com, david_caruso@fortune.com, Larry.Neumeister@fortune.com, jlynch@nationalreview.com, jlee@washingtonian.com, lmullins@washingtonian.com, lisa.bonos@washpost.com, emailcarolinehaskins@gmail.com, elisabeth.j.dickson@gmail.com, j.allsop@columbia.edu, elliott.vittoria@proton.me, lisa.bonos@washpost.com
 ```
 
-### Count: 14
+### Count: 30
 
 ----
 
