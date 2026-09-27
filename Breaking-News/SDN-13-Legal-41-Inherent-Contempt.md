@@ -1,6 +1,6 @@
 # Inherent Contempt
 
-## 2026-99-27 Chapter Update
+## 2026-09-27 Chapter Update
 
 ### 2026-09-01
 
