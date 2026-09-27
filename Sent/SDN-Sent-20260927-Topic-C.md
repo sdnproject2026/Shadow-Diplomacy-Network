@@ -40,7 +40,7 @@ SDN-13-Legal-41-Inherent-Contempt
 
 SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
 
-- https://rentry.co/sx5n5m2k
+- https://rentry.co/ev68pr7z
 
 SDN-01-Accounts-02-FR-Stymied.md
 
@@ -201,7 +201,7 @@ Todd Blanche Does Not Release Required Documents
 
 ## SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
 
-- https://rentry.co/sx5n5m2k
+- https://rentry.co/ev68pr7z
 
 ### Deadline Dispute
 
