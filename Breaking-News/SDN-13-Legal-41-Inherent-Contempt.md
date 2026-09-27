@@ -1,5 +1,155 @@
 # Inherent Contempt
 
+## 2026-99-27 Chapter Update
+
+### 2026-09-01
+
+- The Epstein files dispute re-entered the center of congressional oversight as Rep. Thomas Massie renewed efforts for additional statutory enforcement and disclosure
+
+- H.R. 9694, the Epstein Files Transparency Act II, was introduced as a proposed enforcement expansion allowing specified state officials and victims to bring federal civil actions concerning alleged unlawful withholding, redaction, delay, removal, concealment, or failure to produce covered records
+
+### 2026-09-03
+
+- Leon Black filed suit challenging House Oversight subpoenas and did not appear for the scheduled deposition concerning the committee's Epstein investigation
+
+- The Black dispute became a concrete test of congressional subpoena enforcement because the subpoena recipient was simultaneously seeking judicial relief while declining to comply
+
+### 2026-09-15
+
+- The House Oversight Committee voted 41-0 to recommend that the full House hold Leon Black in contempt of Congress for refusing to comply with subpoenas seeking testimony and nondisclosure agreements
+
+- The committee action demonstrated that congressional contempt remained an active enforcement mechanism in the Epstein investigation, but it was not an exercise of inherent contempt
+
+### 2026-09-16
+
+- The House approved the contempt resolution concerning Leon Black by unanimous consent
+
+- The present Black enforcement track therefore moved toward the statutory criminal-contempt process rather than the House's dormant inherent-contempt procedure
+
+### 2026-09-21
+
+- A September Reuters/Ipsos poll reported President Trump's approval at 32 percent among surveyed U.S. adults and Democrats holding an 8-point advantage over Republicans on the generic congressional ballot
+
+- These are dated polling measurements, not predictions of the November result, and they describe the political environment rather than establish an electoral outcome
+
+### 2026-09-22
+
+- The Epstein Files Transparency Act II effort continued seeking a House floor opportunity through a discharge petition
+
+- The proposed legislation represents a significant change in enforcement architecture because it would create additional civil avenues for state attorneys general, district attorneys, and victims rather than relying principally on DOJ enforcement
+
+### 2026-09-25
+
+- The Congressional Record Index continued to list H.R. 9694 and related Epstein transparency measures as matters before the 119th Congress
+
+- The existence of H.R. 9694 in the congressional record does not establish enactment
+
+## Current Significant Events
+
+- The Epstein files controversy has shifted from the original question of disclosure to a broader question of enforceability
+
+- The most concrete September enforcement event is the House's contempt action against Leon Black, not an inherent-contempt detention
+
+- H.R. 9694 would create an additional civil-enforcement route for alleged noncompliance, potentially allowing state officials and victims to seek judicial remedies directly
+
+- The legal dispute over Black also illustrates an unresolved enforcement problem: Congress can issue subpoenas, but criminal contempt ordinarily depends on referral to the executive branch, while civil enforcement requires judicial proceedings
+
+- Inherent contempt remains constitutionally recognized but historically dormant. The Supreme Court's precedents describe the congressional contempt power as ancillary to legislative functions and subject to limits tied to Congress's need to preserve its legislative authority
+
+- Marshall v. Gordon is particularly important because it states that the inherent power reaches conduct that inherently obstructs legislative functions, including refusal to comply with orders to produce documents or testimony that Congress has the right to compel
+
+## Midterm Elections 2026 As A Turning Point
+
+- The November 2026 elections are approaching while the congressional dispute over Epstein-file enforcement remains unresolved
+
+- The institutional question presented to the next Congress is not simply whether additional files should be released. It is whether Congress will continue relying on criminal referrals and federal litigation or attempt to revive its dormant inherent-contempt authority
+
+- A change in congressional composition could therefore alter the practical enforcement posture toward outstanding subpoenas and executive-branch noncompliance
+
+- The election itself should not be treated as establishing that either party will control Congress. Current polling provides measurements of voter sentiment, while the actual House and Senate composition will be determined by the November elections
+
+- The significance of the midterms for inherent contempt is institutional rather than predictive: a new congressional majority would have different committee leadership, subpoena priorities, enforcement priorities, and capacity to place contempt resolutions on the floor
+
+## Current Inherent Contempt Applicability
+
+- Inherent contempt remains legally available to the House in principle
+
+- Anderson v. Dunn recognized an implied congressional authority to use contempt as an incident of legislative power
+
+- Marshall v. Gordon subsequently emphasized that the authority is limited to what is necessary to preserve and carry out legislative authority
+
+- The Supreme Court specifically identified refusal to obey congressional orders to produce documents or testimony that Congress has a right to compel as conduct that can fall within the recognized sphere of congressional contempt authority
+
+- Jurney v. MacCracken confirmed that Congress historically exercised contempt authority directly against private citizens, including for completed conduct, although the modern constitutional limits remain important
+
+- The critical current distinction is between legal availability and present institutional use. There is no verified September 2026 indication that the House has revived the full inherent-contempt procedure against Attorney General Pam Bondi or another executive official
+
+- The September 2026 Leon Black proceeding demonstrates that the House is presently using ordinary congressional contempt rather than ordering the Sergeant at Arms to arrest and detain a witness under inherent contempt
+
+- Consequently, it would be inaccurate to describe inherent contempt as the current enforcement action against Black
+
+- Inherent contempt could become relevant if the House determined that existing criminal-referral and civil-enforcement mechanisms were inadequate and adopted a separate resolution invoking the chamber's constitutional contempt authority
+
+- Any such action would face substantial questions concerning legislative purpose, subpoena validity, due process, separation of powers, judicial review, the permissible duration and form of detention, and whether the information sought falls within Congress's lawful investigative authority
+
+- The dormant status of inherent contempt therefore makes it potentially consequential but legally untested in modern practice. Its revival would be a major institutional development rather than merely another procedural step in an existing contempt referral
+
+## Current Synopsis
+
+- February 2026 presented inherent contempt primarily as a proposed response to alleged DOJ noncompliance with the Epstein Files Transparency Act
+
+- By September 2026, the dispute has developed into multiple enforcement tracks: congressional contempt proceedings, federal litigation, proposed statutory civil enforcement, and continued congressional investigation
+
+- The September House action against Leon Black is the clearest current example of Congress escalating subpoena enforcement, but it remains distinct from inherent contempt
+
+- H.R. 9694 is significant because it seeks to move enforcement beyond congressional referral mechanisms by creating additional judicial causes of action for specified state officials and victims
+
+- The midterm elections therefore represent a potential institutional turning point because the composition of the next Congress will determine which enforcement mechanisms its committees choose to pursue
+
+- The strongest factual conclusion available as of 2026-09-27 is that inherent contempt remains legally recognized and potentially usable, but it has not been revived as the operative enforcement mechanism in the current Epstein-file disputes
+
+## Sources
+
+- https://www.govinfo.gov/app/details/CRI-2026-EPSTEIN-FILES-TRANSPARENCY-ACT
+
+- https://www.govinfo.gov/app/details/CRI-2026-EPSTEIN-FILES-TRANSPARENCY-ACT-II
+
+- https://oversight.house.gov/release/chairman-comer-announces-markup-of-resolution-to-hold-leon-black-in-contempt-of-congress/
+
+- https://oversight.house.gov/release/oversight-committee-republicans-and-democrats-hold-leon-black-in-contempt-for-defying-lawful-subpoenas/
+
+- https://www.law.cornell.edu/supremecourt/text/19/204
+
+- https://www.law.cornell.edu/supremecourt/text/243/521
+
+- https://www.law.cornell.edu/supremecourt/text/294/125
+
+- https://openrepublic.com/bills/119/HR/9694/epstein-files-transparency-act-ii-d001fce6/introduced-in-house/text/
+
+- https://www.reuters.com/world/us/trump-approval-falls-career-low-32-high-costs-bite-reutersipsos-poll-finds-2026-09-21/
+
+- https://www.reuters.com/world/us/nine-midterm-races-that-will-decide-control-us-senate-2026-09-07/
+
+- https://apnews.com/article/d66dd48f09dca7a8549af1b0c2acba12
+
+- https://apnews.com/article/1437f497b384144741c143c97db9803426
+
+# Questions
+
+What would have to change procedurally for the House to move from ordinary congressional contempt to an actual inherent-contempt proceeding?
+
+How would a future House majority's control of committee leadership affect the enforcement of outstanding Epstein-related subpoenas?
+
+What constitutional limitations would be most important if the House attempted to detain a subpoena recipient under inherent contempt?
+
+How could H.R. 9694 change the enforcement relationship between Congress, state attorneys general, victims, DOJ, and federal courts?
+
+What would the November 2026 election results legally change immediately, and what would require action by the new Congress after it convenes?
+
+-----
+
+-----
+
 ## LLM Query
 
 ### Given the article...
