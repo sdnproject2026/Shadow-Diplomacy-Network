@@ -34,7 +34,7 @@ press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@har
 
 ## Set C
 
-# Next A/B/C
+# Next B/C
 
 ^ NA
 
@@ -326,6 +326,20 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 ```
 
 ### Count: 30
+
+## Set W
+
+# Next A
+
+^ NA
+
+### Epstein Byline Emails
+
+```
+adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, siladitya@protonmail.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.sundel@newsweek.com, m.taheri@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com
+```
+
+### Count: 24
 
 ----
 
