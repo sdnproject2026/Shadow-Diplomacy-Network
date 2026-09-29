@@ -34,8 +34,6 @@ press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@har
 
 ## Set C
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -55,6 +53,8 @@ insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, 
 ### Count: 32
 
 ## Set E
+
+# Next A/B/C
 
 ^ NA
 
@@ -328,8 +328,6 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 ### Count: 30
 
 ## Set W
-
-# Next A
 
 ^ NA
 
