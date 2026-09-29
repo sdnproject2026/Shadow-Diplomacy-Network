@@ -54,15 +54,15 @@ insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, 
 
 ## Set E
 
-# Next A/B/C
+# Next B/C
 
 ^ NA
 
 ```
-Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, news@kob.com, memberservices@newmexicopbs.org, media@nmag.gov, tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, letters@csmonitor.com, tips@thedailybeast.com, viewer@c-span.org, events@c-span.org, tips@chicagotribune.com, tips@cnn.com, tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com
+Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, news@kob.com, memberservices@newmexicopbs.org, media@nmag.gov, tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, letters@csmonitor.com, tips@thedailybeast.com, viewer@c-span.org, events@c-span.org, tips@chicagotribune.com, tips@cnn.com, tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, klauerman@forbes.com
 ```
 
-### Count: 30
+### Count: 31
 
 ## Set F
 
@@ -199,7 +199,7 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 ^ NA
 
 ```
-franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com, 
+franzwild@tbij.com, chrissiegiles@tbij.com, garethdavies@tbij.com, eleanorrose@tbij.com, frankiegoodway@tbij.com, lucybrisbanemckay@tbij.com, alexhess@tbij.com, simonlock@tbij.com, niamhmcintyre@tbij.com, emilianomellino@tbij.com, josephinemoulds@tbij.com, gracemurray@tbij.com, lucynash@tbij.com, katpirnak@tbij.com, edwardsiddons@tbij.com, andrewwasley@tbij.com, effiewebb@tbij.com, ellezahrouni@tbij.com, info@thebureauinvestigates.com, info@tbij.com, leahtronel@tbij.com, info@thebureauinvestigates.com,
 peston@itv.com, privacy@itv.com, myprivacy@itv.com, orders@press.uchicago.edu
 ```
 
@@ -238,7 +238,7 @@ clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com
 ### Epstein Byline Emails
 
 ```
-jan.ransom@nytimes.com,  ankush.khardori@gmail.com michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
+jan.ransom@nytimes.com, ankush.khardori@gmail.com michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
 ```
 
 ### COUNT: 28
@@ -329,15 +329,29 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 
 ## Set W
 
-^ NA
+^ siladitya@protonmail.com
 
 ### Epstein Byline Emails
 
 ```
-adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, siladitya@protonmail.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.sundel@newsweek.com, m.taheri@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com
+adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.sundel@newsweek.com, m.taheri@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com
 ```
 
-### Count: 24
+### Count: 23
+
+## Set X
+
+# Next A
+
+^ NA
+
+### Select Gov't Emails
+
+```
+DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, info@dea.gov, community.outreach@dea.gov, dea.public.affairs@dea.gov, press@treasury.gov, Emily_Zahnle-Hostetler@wyden.senate.gov, keith_chu@wyden.senate.gov, nicole_lesperance@wyden.senate.gov, amanda_critchfield@finance.senate.gov, ryan_carey@finance.senate.gov, taylor_harvey@finance.senate.gov, ashley_schapitl@finance.senate.gov, alex_hughes@finance.senate.gov
+```
+
+### Count: 15
 
 ----
 
