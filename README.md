@@ -47,6 +47,14 @@ Thus:
 
 ...
 
+SDN-13-Legal-46-Massie-Discharge-Query
+
+- https://rentry.co/8xp26eeb
+
+SDN-13-Legal-47-Massie-Discharge-218-Votes
+
+- https://rentry.co/d7ziyz5n
+
 SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 
 - https://rentry.co/yhbwbg4o
