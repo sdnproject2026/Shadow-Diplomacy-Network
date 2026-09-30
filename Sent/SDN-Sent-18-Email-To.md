@@ -14,6 +14,8 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
+# Next A
+
 ^ NA
 
 ```
@@ -54,8 +56,6 @@ insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, 
 
 ## Set E
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -75,6 +75,8 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 ### Count: 30
 
 ## Set G
+
+# Next B/C
 
 ^ NA
 
@@ -334,14 +336,12 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 ### Epstein Byline Emails
 
 ```
-adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.sundel@newsweek.com, m.taheri@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com
+adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.sundel@newsweek.com, m.taheri@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com, mediarelations@cbsnews.com, newswatch@foxnews.com, cnnpr@cnn.com, cnn.viewerservices@cnn.com, evening@cbsnews.com, tips@cbsnews.com, press@cbsnews.com, cbsnewsdesk@cbs.com, history@bc.edu, contact@billmoyers.com, info@inequalitymedia.org, tips@cnn.com
 ```
 
-### Count: 23
+### Count: 35
 
 ## Set X
-
-# Next A
 
 ^ NA
 
