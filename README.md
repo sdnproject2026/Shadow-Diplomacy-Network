@@ -24,7 +24,7 @@ Emails Sent - Campaign History
 
 _Who has been informed_
 
-- 700+ verified email addresses
+- 770+ verified email addresses
 - ~30 addresses per set
 - anon ASCII text-only files
 - CSV formatted email recipient lists
