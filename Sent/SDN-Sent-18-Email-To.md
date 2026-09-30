@@ -343,16 +343,18 @@ adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, f
 
 ## Set X
 
-^ NA
+^ ashley_schapitl@finance.senate.gov
 
 ### Select Gov't Emails
 
 ```
-DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, info@dea.gov, community.outreach@dea.gov, dea.public.affairs@dea.gov, press@treasury.gov, Emily_Zahnle-Hostetler@wyden.senate.gov, keith_chu@wyden.senate.gov, nicole_lesperance@wyden.senate.gov, amanda_critchfield@finance.senate.gov, ryan_carey@finance.senate.gov, taylor_harvey@finance.senate.gov, ashley_schapitl@finance.senate.gov, alex_hughes@finance.senate.gov
+DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, info@dea.gov, community.outreach@dea.gov, dea.public.affairs@dea.gov, press@treasury.gov, Emily_Zahnle-Hostetler@wyden.senate.gov, keith_chu@wyden.senate.gov, nicole_lesperance@wyden.senate.gov, amanda_critchfield@finance.senate.gov, ryan_carey@finance.senate.gov, taylor_harvey@finance.senate.gov, alex_hughes@finance.senate.gov, DEA.IntelligenceProducts@dea.usdoj.gov
 ```
 
 ### Count: 15
 
 ----
 
-----
+---- 
+
+
