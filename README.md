@@ -31,6 +31,31 @@ _Who has been informed_
 - Markdown formatted document
  
 ----
+SDN-27-Chain-Reaction-2010
+
+- https://rentry.co/uz4dfb87
+
+- Originally published 2026-02
+
+DOJ DEA OCDETF
+
+> It worked with partners across federal agencies to conduct sophisticated investigations into transnational organized crime and money laundering. 
+
+> OCDETF frequently targeted dangerous drug cartels, the Russian mafia and violent gangs moving fentanyl and weapons.
+
+> The Trump administration dismantled OCDETF.
+
+69 pages long
+
+Fusion Center - Epstein
+
+The document is 69 pages long and is heavily redacted. It comes from a request by the DEA to an Organized Crime Drug Enforcement Task Forces _Fusion Center_ in Virginia for information from other agencies related to Epstein and the other targets.
+
+A Very Significant Investigat
+
+...
+
+-----
 
 SDN-13-Legal-41-Inherent-Contempt
 
