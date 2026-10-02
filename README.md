@@ -31,6 +31,7 @@ _Who has been informed_
 - Markdown formatted document
  
 ----
+
 SDN-27-Chain-Reaction-2010
 
 - https://rentry.co/uz4dfb87
@@ -52,6 +53,24 @@ Fusion Center - Epstein
 The document is 69 pages long and is heavily redacted. It comes from a request by the DEA to an Organized Crime Drug Enforcement Task Forces _Fusion Center_ in Virginia for information from other agencies related to Epstein and the other targets.
 
 A Very Significant Investigation
+
+...
+
+SDN-13-Legal-48-Wyden-Analysis-20261001
+
+- https://rentry.co/iefaszi5
+
+Wyden Acusations
+
+Concealing An FBI FD-302
+
+2026-10-01
+
+- Wyden accused the Justice Department and FBI of concealing an FBI FD-302 witness-interview report involving a banker connected to Epstein
+
+- Wyden said the missing report suggested that the FBI may possess additional related 302 reports that have not been released
+
+- He demanded all 302 reports from investigations involving Epstein and his associates, including interviews with employees of JPMorgan Chase, Deutsche Bank, and Bank of America
 
 ...
 
@@ -87,30 +106,6 @@ SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
 SDN-13-Legal-44-Massie-EFTA-End-Game
 
 - https://rentry.co/s6rpyw6c
-
-SDN-13-Legal-43-Phang-vs-Blanche-2026-09-24
-
-- https://rentry.co/cyz3xkab
-
-SDN-13-Legal-42-Phang-vs-Blanche-2026-09-17
-
-- https://rentry.co/pxktcrxy
-
-SDN-13-Legal-40-Phang-vs-Blanche-2026-09-13
-
-- https://rentry.co/ev68pr7z
-
-Deadline Dispute
-
-Phang's legal team pointed out that Blanche failed to file a timely response or seek a formal extension or stay.
-
-This procedural lapse technically put the Department of Justice (DOJ) in default, meaning they ran the risk of legally admitting to the allegations in the complaint.
-
-Following the missed deadline, Blanche's legal team scrambled to address the omission, leading to aggressive pushback from Phang's team over the government's continued use of "delay tactics".
-
-Case Background
-
-...
 
 -----
 
@@ -180,67 +175,7 @@ Overview
 
 ...
 
-SDN-36-Wyden-00
-
-Table of Contents of the 10‑Section Report files
-
-bite-size chunks of original 67 page report
-
-- Each entry includes a short synopsis of major headers and core findings.  
-
-...
-
-Wyden Final Report Overview
- - https://rentry.co/pu9vmzd6
-
-Wyden 00 Table of Contents
- - https://rentry.co/vb755hfn
-
-Wyden 01
- - https://rentry.co/2848oxuv
-
-Wyden 02
- - https://rentry.co/8xamqxt6
-
-Wyden 03
- - https://rentry.co/wpomndp8
-
-Wyden 04
- - https://rentry.co/73pkop4y
-
-Wyden 05
- - https://rentry.co/6cugry9b
-
-Wyden 06
- - https://rentry.co/5sgt963f
-
-Wyden 07
- - https://rentry.co/u44qbw7t
-
-Wyden 08
- - https://rentry.co/xo4p37so
-
-Wyden 09
- - https://rentry.co/73yaiw9e
-
-Wyden 10
- - https://rentry.co/ikgf38zq
-
-...
-
------
-
-SDN-37-Kyrie-Yahoo-Emails
-
-- https://rentry.co/katexvny
-
-Kyrie - DDoSecrets
-
-The key distinction is that the Kyrie/DDoSecrets Yahoo cache and Bloomberg's Yahoo cache are closely related but were not the same acquisition.
-
-...
-
------
+----
 
 SDN-14-Financial-04-Bank-SARs-CapitolOne
 
