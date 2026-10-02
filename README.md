@@ -16,7 +16,7 @@ https://github.com/sdnproject2026/Shadow-Diplomacy-Network/graphs/traffic
 
 ----
 
-SDN-Sent-18-Email-To
+SDN-Sent-19-Email-To
 
 Emails Sent - Campaign History
 
@@ -166,14 +166,6 @@ SDN-38-Panama-Papers-01-LLM-Query
 SDN-38-Panama-Papers-02-Master-Strategy
 
 - https://rentry.co/raav7yrw
-
------
-
-SDN-36-Wyden-Final-Report
-
-Overview
-
-...
 
 ----
 
@@ -468,3 +460,7 @@ Too (F'ing) Long; Didn't (won't) Read
 - 80 year Shadow Diplomacy Network 
 
 ### Table of Contents
+
+...
+
+
