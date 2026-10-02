@@ -24,8 +24,6 @@ tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.
 
 ## Set B
 
-# Next A
-
 ^ NA
 
 ```
@@ -35,6 +33,8 @@ press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@har
 ### Count: 30
 
 ## Set C
+
+# Next A
 
 ^ NA
 
@@ -96,8 +96,6 @@ sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.
 
 ## Set I
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -117,6 +115,8 @@ fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@ne
 ### Count: 30
 
 ## Set K
+
+# Next B/C
 
 ^ NA
 
