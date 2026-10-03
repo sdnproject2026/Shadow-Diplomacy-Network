@@ -56,6 +56,16 @@ A Very Significant Investigation
 
 ...
 
+
+
+SDN-14-Financial-05-Bear-Stearns-Spreadsheets
+
+- https://rentry.co/dmpb3vp7
+
+SDN-40-Epstein-Suicide
+
+- https://rentry.co/svqdtu3b
+
 SDN-13-Legal-48-Wyden-Analysis-20261001
 
 - https://rentry.co/iefaszi5
