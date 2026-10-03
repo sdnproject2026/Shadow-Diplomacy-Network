@@ -34,8 +34,6 @@ press@oann.com, letters@nationalreview.com, tips@nationalreview.com, letters@har
 
 ## Set C
 
-# Next A
-
 ^ NA
 
 ```
@@ -45,6 +43,8 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 ### Count: 29
 
 ## Set D
+
+# Next A
 
 ^ NA
 
@@ -116,8 +116,6 @@ fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@ne
 
 ## Set K
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -137,6 +135,8 @@ pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@
 ### Count: 30
 
 ## Set M
+
+# Next B/C
 
 ^ NA
 
