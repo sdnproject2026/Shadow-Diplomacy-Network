@@ -56,7 +56,23 @@ A Very Significant Investigation
 
 ...
 
+SDN-13-Legal-51-Phang-2026-10-05
 
+- https://rentry.co/464w3yit
+
+Katie Phang
+
+> The October 1 dispute has developed beyond the question of whether DOJ missed the certified administrative-record deadline.
+
+> DOJ also filed a motion for judgment on the pleadings, asking the court to resolve the case in its favor rather than proceed with the administrative-record litigation.
+
+Missed Deadline
+
+October 1, 2026
+
+Journalist and trial attorney Katie Phang released a legal update confirming that Attorney General Todd Blanche missed the October 1, 2026, deadline set by U.S. District Judge Emmet Sullivan.
+
+...
 
 SDN-14-Financial-05-Bear-Stearns-Spreadsheets
 
