@@ -44,8 +44,6 @@ english@dw.com, abcnews@abc.net.au, feedback@abc.net.au, press@abc.net.au, msisa
 
 ## Set D
 
-# Next A
-
 ^ NA
 
 ```
@@ -55,6 +53,8 @@ insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, 
 ### Count: 32
 
 ## Set E
+
+# Next A
 
 ^ NA
 
@@ -136,8 +136,6 @@ pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@
 
 ## Set M
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -157,6 +155,8 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 ### Count: 30
 
 ## Set O
+
+# Next B/C
 
 ^ NA
 
