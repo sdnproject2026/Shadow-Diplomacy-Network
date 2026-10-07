@@ -1,3 +1,5 @@
+given lists respond clean bulleted list dedupe EFTA* file names, sorted in code box with msrkdown chars
+
 # Epstein EFTA files
 
 ## Bear Stearns - Epstein
