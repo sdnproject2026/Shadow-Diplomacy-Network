@@ -74,6 +74,10 @@ Journalist and trial attorney Katie Phang released a legal update confirming tha
 
 ...
 
+SDN-13-Legal-50-Judge-Kollar-Kotelly
+
+- https://rentry.co/yznhpw43
+
 SDN-14-Financial-05-Bear-Stearns-Spreadsheets
 
 - https://rentry.co/dmpb3vp7
