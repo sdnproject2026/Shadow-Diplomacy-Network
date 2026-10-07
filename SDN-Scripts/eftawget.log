@@ -1,0 +1,540 @@
+[2026-10-07 00:05:39] [DBG] package installed: wget
+[2026-10-07 00:05:39] [DBG] pdfinfo available: structural PDF validation enabled
+[2026-10-07 00:05:39] ============================================================
+[2026-10-07 00:05:39] EFTA PDF downloader starting
+[2026-10-07 00:05:39] ============================================================
+[2026-10-07 00:08:14] [DBG] package installed: wget
+[2026-10-07 00:08:14] [DBG] pdfinfo available: structural PDF validation enabled
+[2026-10-07 00:08:14] ============================================================
+[2026-10-07 00:08:14] EFTA PDF downloader starting
+[2026-10-07 00:08:14] ============================================================
+[2026-10-07 00:08:14] ============================================================
+[2026-10-07 00:08:14] [INFO] EFTA: EFTA00011149
+[2026-10-07 00:08:14] [INFO] Dataset: 8
+[2026-10-07 00:08:14] [INFO] Output: pdfs/EFTA00011149.pdf
+[2026-10-07 00:08:14] [DBG] GetKino : https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00011149.pdf
+[2026-10-07 00:08:14] [DBG] RollCall: https://media-cdn.rollcall.com/epstein-files/EFTA00011149.pdf
+[2026-10-07 00:08:14] [DBG] DOJ     : https://www.justice.gov/epstein/files/DataSet%208/EFTA00011149.pdf
+[2026-10-07 00:08:14] [INFO] GetKino attempt 1/3
+[2026-10-07 00:08:14] [DBG] URL: https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00011149.pdf
+[2026-10-07 00:08:15] [ERR] wget failed
+[2026-10-07 00:08:15] [WARN] GetKino failed; waiting 3s
+[2026-10-07 00:08:18] [INFO] GetKino attempt 2/3
+[2026-10-07 00:08:18] [DBG] URL: https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00011149.pdf
+[2026-10-07 00:08:18] [ERR] wget failed
+[2026-10-07 00:08:19] [WARN] GetKino failed; waiting 6s
+[2026-10-07 00:08:25] [INFO] GetKino attempt 3/3
+[2026-10-07 00:08:25] [DBG] URL: https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00011149.pdf
+[2026-10-07 00:08:25] [ERR] wget failed
+[2026-10-07 00:08:25] [WARN] GetKino failed for EFTA00011149
+[2026-10-07 00:08:25] [INFO] RollCall attempt 1/3
+[2026-10-07 00:08:25] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00011149.pdf
+[2026-10-07 00:08:27] [DBG] Final HTTP status: 200
+[2026-10-07 00:08:27] [DBG] PDF size: 696572 bytes
+[2026-10-07 00:08:27] [INFO] VALID PDF: pdfs/EFTA00011149.pdf
+[2026-10-07 00:08:27] [INFO] EFTA00011149 SUCCESS via RollCall
+[2026-10-07 00:08:29] ============================================================
+[2026-10-07 00:08:29] [INFO] EFTA: EFTA00013640
+[2026-10-07 00:08:29] [INFO] Dataset: 8
+[2026-10-07 00:08:29] [INFO] Output: pdfs/EFTA00013640.pdf
+[2026-10-07 00:08:29] [DBG] GetKino : https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00013640.pdf
+[2026-10-07 00:08:30] [DBG] RollCall: https://media-cdn.rollcall.com/epstein-files/EFTA00013640.pdf
+[2026-10-07 00:08:30] [DBG] DOJ     : https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf
+[2026-10-07 00:08:30] [INFO] GetKino attempt 1/3
+[2026-10-07 00:08:30] [DBG] URL: https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00013640.pdf
+[2026-10-07 00:08:30] [ERR] wget failed
+[2026-10-07 00:08:30] [WARN] GetKino failed; waiting 3s
+[2026-10-07 00:08:33] [INFO] GetKino attempt 2/3
+[2026-10-07 00:08:33] [DBG] URL: https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00013640.pdf
+[2026-10-07 00:08:33] [ERR] wget failed
+[2026-10-07 00:08:33] [WARN] GetKino failed; waiting 6s
+[2026-10-07 00:08:40] [INFO] GetKino attempt 3/3
+[2026-10-07 00:08:40] [DBG] URL: https://assets.getkino.com/documents/vol00008-official-doj-latest-efta00013640.pdf
+[2026-10-07 00:08:40] [ERR] wget failed
+[2026-10-07 00:08:40] [WARN] GetKino failed for EFTA00013640
+[2026-10-07 00:08:40] [INFO] RollCall attempt 1/3
+[2026-10-07 00:08:40] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00013640.pdf
+[2026-10-07 00:08:41] [DBG] Final HTTP status: 200
+[2026-10-07 00:08:41] [DBG] PDF size: 764093 bytes
+[2026-10-07 00:08:41] [INFO] VALID PDF: pdfs/EFTA00013640.pdf
+[2026-10-07 00:08:41] [INFO] EFTA00013640 SUCCESS via RollCall
+[2026-10-07 00:08:43] ============================================================
+[2026-10-07 00:08:43] [INFO] EFTA: EFTA00187050
+[2026-10-07 00:08:43] [INFO] Dataset: 9
+[2026-10-07 00:08:44] [INFO] Output: pdfs/EFTA00187050.pdf
+[2026-10-07 00:08:44] [DBG] GetKino : https://assets.getkino.com/documents/EFTA00187050.pdf
+[2026-10-07 00:08:44] [DBG] RollCall: https://media-cdn.rollcall.com/epstein-files/EFTA00187050.pdf
+[2026-10-07 00:08:44] [DBG] DOJ     : https://www.justice.gov/epstein/files/DataSet%209/EFTA00187050.pdf
+[2026-10-07 00:08:44] [INFO] GetKino attempt 1/3
+[2026-10-07 00:08:44] [DBG] URL: https://assets.getkino.com/documents/EFTA00187050.pdf
+[2026-10-07 00:08:44] [ERR] wget failed
+[2026-10-07 00:08:44] [WARN] GetKino failed; waiting 3s
+[2026-10-07 00:08:47] [INFO] GetKino attempt 2/3
+[2026-10-07 00:08:47] [DBG] URL: https://assets.getkino.com/documents/EFTA00187050.pdf
+[2026-10-07 00:08:47] [ERR] wget failed
+[2026-10-07 00:08:47] [WARN] GetKino failed; waiting 6s
+[2026-10-07 00:08:54] [INFO] GetKino attempt 3/3
+[2026-10-07 00:08:54] [DBG] URL: https://assets.getkino.com/documents/EFTA00187050.pdf
+[2026-10-07 00:08:54] [ERR] wget failed
+[2026-10-07 00:08:54] [WARN] GetKino failed for EFTA00187050
+[2026-10-07 00:08:54] [INFO] RollCall attempt 1/3
+[2026-10-07 00:08:54] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00187050.pdf
+[2026-10-07 00:09:00] [DBG] Final HTTP status: 200
+[2026-10-07 00:09:00] [DBG] PDF size: 6476718 bytes
+[2026-10-07 00:09:00] [INFO] VALID PDF: pdfs/EFTA00187050.pdf
+[2026-10-07 00:09:00] [INFO] EFTA00187050 SUCCESS via RollCall
+[2026-10-07 00:09:02] ============================================================
+[2026-10-07 00:09:02] [INFO] EFTA: EFTA00195104
+[2026-10-07 00:09:02] [INFO] Dataset: 9
+[2026-10-07 00:09:02] [INFO] Output: pdfs/EFTA00195104.pdf
+[2026-10-07 00:09:02] [DBG] GetKino : https://assets.getkino.com/documents/EFTA00195104.pdf
+[2026-10-07 00:09:02] [DBG] RollCall: https://media-cdn.rollcall.com/epstein-files/EFTA00195104.pdf
+[2026-10-07 00:09:02] [DBG] DOJ     : https://www.justice.gov/epstein/files/DataSet%209/EFTA00195104.pdf
+[2026-10-07 00:09:02] [INFO] GetKino attempt 1/3
+[2026-10-07 00:09:02] [DBG] URL: https://assets.getkino.com/documents/EFTA00195104.pdf
+[2026-10-07 00:09:02] [ERR] wget failed
+[2026-10-07 00:09:03] [WARN] GetKino failed; waiting 3s
+[2026-10-07 00:09:06] [INFO] GetKino attempt 2/3
+[2026-10-07 00:09:06] [DBG] URL: https://assets.getkino.com/documents/EFTA00195104.pdf
+[2026-10-07 00:09:06] [ERR] wget failed
+[2026-10-07 00:09:06] [WARN] GetKino failed; waiting 6s
+[2026-10-07 00:09:12] [INFO] GetKino attempt 3/3
+[2026-10-07 00:09:12] [DBG] URL: https://assets.getkino.com/documents/EFTA00195104.pdf
+[2026-10-07 00:09:12] [ERR] wget failed
+[2026-10-07 00:09:13] [WARN] GetKino failed for EFTA00195104
+[2026-10-07 00:09:13] [INFO] RollCall attempt 1/3
+[2026-10-07 00:09:13] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00195104.pdf
+[2026-10-07 00:09:15] [DBG] Final HTTP status: 200
+[2026-10-07 00:09:15] [DBG] PDF size: 2410691 bytes
+[2026-10-07 00:09:15] [INFO] VALID PDF: pdfs/EFTA00195104.pdf
+[2026-10-07 00:09:15] [INFO] EFTA00195104 SUCCESS via RollCall
+[2026-10-07 00:09:17] ============================================================
+[2026-10-07 00:09:17] [INFO] EFTA: EFTA00196364
+[2026-10-07 00:09:17] [INFO] Dataset: 9
+[2026-10-07 00:09:17] [INFO] Output: pdfs/EFTA00196364.pdf
+[2026-10-07 00:09:17] [DBG] GetKino : https://assets.getkino.com/documents/EFTA00196364.pdf
+[2026-10-07 00:09:17] [DBG] RollCall: https://media-cdn.rollcall.com/epstein-files/EFTA00196364.pdf
+[2026-10-07 00:09:17] [DBG] DOJ     : https://www.justice.gov/epstein/files/DataSet%209/EFTA00196364.pdf
+[2026-10-07 00:09:17] [INFO] GetKino attempt 1/3
+[2026-10-07 00:09:17] [DBG] URL: https://assets.getkino.com/documents/EFTA00196364.pdf
+[2026-10-07 00:09:18] [ERR] wget failed
+[2026-10-07 00:09:18] [WARN] GetKino failed; waiting 3s
+[2026-10-07 00:09:21] [INFO] GetKino attempt 2/3
+[2026-10-07 00:09:21] [DBG] URL: https://assets.getkino.com/documents/EFTA00196364.pdf
+[2026-10-07 00:09:21] [ERR] wget failed
+[2026-10-07 00:09:21] [WARN] GetKino failed; waiting 6s
+[2026-10-07 00:09:27] [INFO] GetKino attempt 3/3
+[2026-10-07 00:09:27] [DBG] URL: https://assets.getkino.com/documents/EFTA00196364.pdf
+[2026-10-07 00:09:28] [ERR] wget failed
+[2026-10-07 00:09:28] [WARN] GetKino failed for EFTA00196364
+[2026-10-07 00:09:28] [INFO] RollCall attempt 1/3
+[2026-10-07 00:09:28] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00196364.pdf
+[2026-10-07 00:09:29] [DBG] Final HTTP status: 200
+[2026-10-07 00:09:29] [DBG] PDF size: 705812 bytes
+[2026-10-07 00:09:29] [INFO] VALID PDF: pdfs/EFTA00196364.pdf
+[2026-10-07 00:09:29] [INFO] EFTA00196364 SUCCESS via RollCall
+[2026-10-07 00:09:31] ============================================================
+[2026-10-07 00:09:32] [INFO] EFTA: EFTA00197769
+[2026-10-07 00:09:32] [INFO] Dataset: 9
+[2026-10-07 00:09:32] [INFO] Output: pdfs/EFTA00197769.pdf
+[2026-10-07 00:09:32] [DBG] GetKino : https://assets.getkino.com/documents/EFTA00197769.pdf
+[2026-10-07 00:09:32] [DBG] RollCall: https://media-cdn.rollcall.com/epstein-files/EFTA00197769.pdf
+[2026-10-07 00:09:32] [DBG] DOJ     : https://www.justice.gov/epstein/files/DataSet%209/EFTA00197769.pdf
+[2026-10-07 00:09:32] [INFO] GetKino attempt 1/3
+[2026-10-07 00:09:32] [DBG] URL: https://assets.getkino.com/documents/EFTA00197769.pdf
+[2026-10-07 00:09:32] [ERR] wget failed
+[2026-10-07 00:09:32] [WARN] GetKino failed; waiting 3s
+[2026-10-07 00:09:35] [INFO] GetKino attempt 2/3
+[2026-10-07 00:09:35] [DBG] URL: https://assets.getkino.com/documents/EFTA00197769.pdf
+[2026-10-07 00:09:36] [ERR] wget failed
+[2026-10-07 00:09:36] [WARN] GetKino failed; waiting 6s
+[2026-10-07 00:15:13] [DBG] wget: /data/data/com.termux/files/usr/bin/wget
+[2026-10-07 00:15:13] [DBG] pdfinfo available
+[2026-10-07 00:15:13] ============================================================
+[2026-10-07 00:15:13] EFTA downloader starting
+[2026-10-07 00:15:13] GetKino: DISABLED
+[2026-10-07 00:15:13] Source 1: RollCall
+[2026-10-07 00:15:13] Source 2: DOJ
+[2026-10-07 00:15:13] ============================================================
+[2026-10-07 00:15:13] ------------------------------------------------------------
+[2026-10-07 00:15:13] [INFO] EFTA00011149
+[2026-10-07 00:15:13] [INFO] Dataset: 8
+[2026-10-07 00:15:13] [INFO] Output: pdfs/EFTA00011149.pdf
+[2026-10-07 00:15:13] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00011149.pdf
+[2026-10-07 00:15:13] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%208/EFTA00011149.pdf
+[2026-10-07 00:15:13] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 8/EFTA00011149.pdf
+[2026-10-07 00:15:13] [INFO] Existing file: pdfs/EFTA00011149.pdf
+[2026-10-07 00:15:13] [DBG] Size: 696572 bytes
+[2026-10-07 00:15:13] [INFO] Existing PDF is valid
+[2026-10-07 00:15:15] ------------------------------------------------------------
+[2026-10-07 00:15:15] [INFO] EFTA00013640
+[2026-10-07 00:15:16] [INFO] Dataset: 8
+[2026-10-07 00:15:16] [INFO] Output: pdfs/EFTA00013640.pdf
+[2026-10-07 00:15:16] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00013640.pdf
+[2026-10-07 00:15:16] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf
+[2026-10-07 00:15:16] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 8/EFTA00013640.pdf
+[2026-10-07 00:15:16] [INFO] Existing file: pdfs/EFTA00013640.pdf
+[2026-10-07 00:15:16] [DBG] Size: 764093 bytes
+[2026-10-07 00:15:16] [INFO] Existing PDF is valid
+[2026-10-07 00:15:18] ------------------------------------------------------------
+[2026-10-07 00:15:18] [INFO] EFTA00187050
+[2026-10-07 00:15:18] [INFO] Dataset: 9
+[2026-10-07 00:15:18] [INFO] Output: pdfs/EFTA00187050.pdf
+[2026-10-07 00:15:18] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00187050.pdf
+[2026-10-07 00:15:18] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00187050.pdf
+[2026-10-07 00:15:18] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00187050.pdf
+[2026-10-07 00:15:18] [INFO] Existing file: pdfs/EFTA00187050.pdf
+[2026-10-07 00:15:19] [DBG] Size: 6476718 bytes
+[2026-10-07 00:15:19] [INFO] Existing PDF is valid
+[2026-10-07 00:15:21] ------------------------------------------------------------
+[2026-10-07 00:15:21] [INFO] EFTA00195104
+[2026-10-07 00:15:21] [INFO] Dataset: 9
+[2026-10-07 00:15:21] [INFO] Output: pdfs/EFTA00195104.pdf
+[2026-10-07 00:15:21] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00195104.pdf
+[2026-10-07 00:15:21] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00195104.pdf
+[2026-10-07 00:15:21] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00195104.pdf
+[2026-10-07 00:15:21] [INFO] Existing file: pdfs/EFTA00195104.pdf
+[2026-10-07 00:15:21] [DBG] Size: 2410691 bytes
+[2026-10-07 00:15:21] [INFO] Existing PDF is valid
+[2026-10-07 00:15:23] ------------------------------------------------------------
+[2026-10-07 00:15:24] [INFO] EFTA00196364
+[2026-10-07 00:15:24] [INFO] Dataset: 9
+[2026-10-07 00:15:24] [INFO] Output: pdfs/EFTA00196364.pdf
+[2026-10-07 00:15:24] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00196364.pdf
+[2026-10-07 00:15:24] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00196364.pdf
+[2026-10-07 00:15:24] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00196364.pdf
+[2026-10-07 00:15:24] [INFO] Existing file: pdfs/EFTA00196364.pdf
+[2026-10-07 00:15:24] [DBG] Size: 705812 bytes
+[2026-10-07 00:15:24] [INFO] Existing PDF is valid
+[2026-10-07 00:15:26] ------------------------------------------------------------
+[2026-10-07 00:15:26] [INFO] EFTA00197769
+[2026-10-07 00:15:26] [INFO] Dataset: 9
+[2026-10-07 00:15:26] [INFO] Output: pdfs/EFTA00197769.pdf
+[2026-10-07 00:15:26] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00197769.pdf
+[2026-10-07 00:15:26] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00197769.pdf
+[2026-10-07 00:15:26] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00197769.pdf
+[2026-10-07 00:15:27] [INFO] RollCall attempt 1/3
+[2026-10-07 00:15:27] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00197769.pdf
+[2026-10-07 00:15:29] [DBG] wget completed
+[2026-10-07 00:15:29] [DBG] HTTP status: 200
+[2026-10-07 00:15:29] [DBG] Size: 3278744 bytes
+[2026-10-07 00:15:30] [INFO] VALID PDF: pdfs/EFTA00197769.pdf
+[2026-10-07 00:15:30] [INFO] EFTA00197769 SUCCESS: RollCall
+[2026-10-07 00:15:32] ------------------------------------------------------------
+[2026-10-07 00:15:32] [INFO] EFTA00294815
+[2026-10-07 00:15:32] [INFO] Dataset: 9
+[2026-10-07 00:15:32] [INFO] Output: pdfs/EFTA00294815.pdf
+[2026-10-07 00:15:32] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00294815.pdf
+[2026-10-07 00:15:32] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00294815.pdf
+[2026-10-07 00:15:32] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00294815.pdf
+[2026-10-07 00:15:32] [INFO] RollCall attempt 1/3
+[2026-10-07 00:15:32] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00294815.pdf
+[2026-10-07 00:15:35] [DBG] wget completed
+[2026-10-07 00:15:35] [DBG] HTTP status: 200
+[2026-10-07 00:15:35] [DBG] Size: 5108425 bytes
+[2026-10-07 00:15:35] [INFO] VALID PDF: pdfs/EFTA00294815.pdf
+[2026-10-07 00:15:35] [INFO] EFTA00294815 SUCCESS: RollCall
+[2026-10-07 00:15:38] ------------------------------------------------------------
+[2026-10-07 00:15:38] [INFO] EFTA00316714
+[2026-10-07 00:15:38] [INFO] Dataset: 9
+[2026-10-07 00:15:38] [INFO] Output: pdfs/EFTA00316714.pdf
+[2026-10-07 00:15:38] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00316714.pdf
+[2026-10-07 00:15:38] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00316714.pdf
+[2026-10-07 00:15:38] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00316714.pdf
+[2026-10-07 00:15:38] [INFO] RollCall attempt 1/3
+[2026-10-07 00:15:38] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00316714.pdf
+[2026-10-07 00:15:50] [DBG] wget completed
+[2026-10-07 00:15:50] [DBG] HTTP status: 200
+[2026-10-07 00:15:50] [DBG] Size: 23600382 bytes
+[2026-10-07 00:15:50] [INFO] VALID PDF: pdfs/EFTA00316714.pdf
+[2026-10-07 00:15:50] [INFO] EFTA00316714 SUCCESS: RollCall
+[2026-10-07 00:15:52] ------------------------------------------------------------
+[2026-10-07 00:15:52] [INFO] EFTA00589409
+[2026-10-07 00:15:52] [INFO] Dataset: 9
+[2026-10-07 00:15:52] [INFO] Output: pdfs/EFTA00589409.pdf
+[2026-10-07 00:15:52] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00589409.pdf
+[2026-10-07 00:15:52] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00589409.pdf
+[2026-10-07 00:15:52] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00589409.pdf
+[2026-10-07 00:15:52] [INFO] RollCall attempt 1/3
+[2026-10-07 00:15:53] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00589409.pdf
+[2026-10-07 00:15:53] [DBG] wget completed
+[2026-10-07 00:15:54] [DBG] HTTP status: 200
+[2026-10-07 00:15:54] [DBG] Size: 660203 bytes
+[2026-10-07 00:15:54] [INFO] VALID PDF: pdfs/EFTA00589409.pdf
+[2026-10-07 00:15:54] [INFO] EFTA00589409 SUCCESS: RollCall
+[2026-10-07 00:15:56] ------------------------------------------------------------
+[2026-10-07 00:15:56] [INFO] EFTA00597963
+[2026-10-07 00:15:56] [INFO] Dataset: 9
+[2026-10-07 00:15:56] [INFO] Output: pdfs/EFTA00597963.pdf
+[2026-10-07 00:15:56] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00597963.pdf
+[2026-10-07 00:15:56] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00597963.pdf
+[2026-10-07 00:15:56] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00597963.pdf
+[2026-10-07 00:15:56] [INFO] RollCall attempt 1/3
+[2026-10-07 00:15:56] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00597963.pdf
+[2026-10-07 00:15:57] [DBG] wget completed
+[2026-10-07 00:15:58] [DBG] HTTP status: 200
+[2026-10-07 00:15:58] [DBG] Size: 1300886 bytes
+[2026-10-07 00:15:58] [INFO] VALID PDF: pdfs/EFTA00597963.pdf
+[2026-10-07 00:15:58] [INFO] EFTA00597963 SUCCESS: RollCall
+[2026-10-07 00:16:00] ------------------------------------------------------------
+[2026-10-07 00:16:00] [INFO] EFTA00611303
+[2026-10-07 00:16:00] [INFO] Dataset: 9
+[2026-10-07 00:16:00] [INFO] Output: pdfs/EFTA00611303.pdf
+[2026-10-07 00:16:00] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00611303.pdf
+[2026-10-07 00:16:00] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00611303.pdf
+[2026-10-07 00:16:00] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00611303.pdf
+[2026-10-07 00:16:00] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:00] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00611303.pdf
+[2026-10-07 00:16:07] [DBG] wget completed
+[2026-10-07 00:16:07] [DBG] HTTP status: 200
+[2026-10-07 00:16:07] [DBG] Size: 1301183 bytes
+[2026-10-07 00:16:07] [INFO] VALID PDF: pdfs/EFTA00611303.pdf
+[2026-10-07 00:16:07] [INFO] EFTA00611303 SUCCESS: RollCall
+[2026-10-07 00:16:09] ------------------------------------------------------------
+[2026-10-07 00:16:10] [INFO] EFTA00611330
+[2026-10-07 00:16:10] [INFO] Dataset: 9
+[2026-10-07 00:16:10] [INFO] Output: pdfs/EFTA00611330.pdf
+[2026-10-07 00:16:10] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00611330.pdf
+[2026-10-07 00:16:10] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00611330.pdf
+[2026-10-07 00:16:10] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00611330.pdf
+[2026-10-07 00:16:10] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:10] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00611330.pdf
+[2026-10-07 00:16:11] [DBG] wget completed
+[2026-10-07 00:16:11] [DBG] HTTP status: 200
+[2026-10-07 00:16:11] [DBG] Size: 1385113 bytes
+[2026-10-07 00:16:11] [INFO] VALID PDF: pdfs/EFTA00611330.pdf
+[2026-10-07 00:16:11] [INFO] EFTA00611330 SUCCESS: RollCall
+[2026-10-07 00:16:13] ------------------------------------------------------------
+[2026-10-07 00:16:13] [INFO] EFTA00724436
+[2026-10-07 00:16:13] [INFO] Dataset: 9
+[2026-10-07 00:16:13] [INFO] Output: pdfs/EFTA00724436.pdf
+[2026-10-07 00:16:13] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00724436.pdf
+[2026-10-07 00:16:13] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00724436.pdf
+[2026-10-07 00:16:13] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00724436.pdf
+[2026-10-07 00:16:14] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:14] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00724436.pdf
+[2026-10-07 00:16:15] [DBG] wget completed
+[2026-10-07 00:16:15] [DBG] HTTP status: 200
+[2026-10-07 00:16:15] [DBG] Size: 1606398 bytes
+[2026-10-07 00:16:15] [INFO] VALID PDF: pdfs/EFTA00724436.pdf
+[2026-10-07 00:16:15] [INFO] EFTA00724436 SUCCESS: RollCall
+[2026-10-07 00:16:17] ------------------------------------------------------------
+[2026-10-07 00:16:17] [INFO] EFTA00729583
+[2026-10-07 00:16:17] [INFO] Dataset: 9
+[2026-10-07 00:16:17] [INFO] Output: pdfs/EFTA00729583.pdf
+[2026-10-07 00:16:17] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA00729583.pdf
+[2026-10-07 00:16:17] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA00729583.pdf
+[2026-10-07 00:16:17] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA00729583.pdf
+[2026-10-07 00:16:18] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:18] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA00729583.pdf
+[2026-10-07 00:16:19] [DBG] wget completed
+[2026-10-07 00:16:19] [DBG] HTTP status: 200
+[2026-10-07 00:16:19] [DBG] Size: 2812853 bytes
+[2026-10-07 00:16:19] [INFO] VALID PDF: pdfs/EFTA00729583.pdf
+[2026-10-07 00:16:19] [INFO] EFTA00729583 SUCCESS: RollCall
+[2026-10-07 00:16:22] ------------------------------------------------------------
+[2026-10-07 00:16:22] [INFO] EFTA01260609
+[2026-10-07 00:16:22] [INFO] Dataset: 9
+[2026-10-07 00:16:22] [INFO] Output: pdfs/EFTA01260609.pdf
+[2026-10-07 00:16:22] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01260609.pdf
+[2026-10-07 00:16:22] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA01260609.pdf
+[2026-10-07 00:16:22] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA01260609.pdf
+[2026-10-07 00:16:22] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:22] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01260609.pdf
+[2026-10-07 00:16:24] [DBG] wget completed
+[2026-10-07 00:16:25] [DBG] HTTP status: 200
+[2026-10-07 00:16:25] [DBG] Size: 8530593 bytes
+[2026-10-07 00:16:25] [INFO] VALID PDF: pdfs/EFTA01260609.pdf
+[2026-10-07 00:16:25] [INFO] EFTA01260609 SUCCESS: RollCall
+[2026-10-07 00:16:27] ------------------------------------------------------------
+[2026-10-07 00:16:27] [INFO] EFTA01260943
+[2026-10-07 00:16:27] [INFO] Dataset: 9
+[2026-10-07 00:16:27] [INFO] Output: pdfs/EFTA01260943.pdf
+[2026-10-07 00:16:27] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01260943.pdf
+[2026-10-07 00:16:27] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%209/EFTA01260943.pdf
+[2026-10-07 00:16:27] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 9/EFTA01260943.pdf
+[2026-10-07 00:16:27] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:28] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01260943.pdf
+[2026-10-07 00:16:29] [DBG] wget completed
+[2026-10-07 00:16:30] [DBG] HTTP status: 200
+[2026-10-07 00:16:30] [DBG] Size: 4888682 bytes
+[2026-10-07 00:16:30] [INFO] VALID PDF: pdfs/EFTA01260943.pdf
+[2026-10-07 00:16:30] [INFO] EFTA01260943 SUCCESS: RollCall
+[2026-10-07 00:16:32] ------------------------------------------------------------
+[2026-10-07 00:16:32] [INFO] EFTA01300739
+[2026-10-07 00:16:32] [INFO] Dataset: 10
+[2026-10-07 00:16:32] [INFO] Output: pdfs/EFTA01300739.pdf
+[2026-10-07 00:16:32] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01300739.pdf
+[2026-10-07 00:16:32] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01300739.pdf
+[2026-10-07 00:16:32] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01300739.pdf
+[2026-10-07 00:16:32] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:32] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01300739.pdf
+[2026-10-07 00:16:33] [DBG] wget completed
+[2026-10-07 00:16:33] [DBG] HTTP status: 200
+[2026-10-07 00:16:34] [DBG] Size: 1478888 bytes
+[2026-10-07 00:16:34] [INFO] VALID PDF: pdfs/EFTA01300739.pdf
+[2026-10-07 00:16:34] [INFO] EFTA01300739 SUCCESS: RollCall
+[2026-10-07 00:16:36] ------------------------------------------------------------
+[2026-10-07 00:16:36] [INFO] EFTA01320163
+[2026-10-07 00:16:36] [INFO] Dataset: 10
+[2026-10-07 00:16:36] [INFO] Output: pdfs/EFTA01320163.pdf
+[2026-10-07 00:16:36] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01320163.pdf
+[2026-10-07 00:16:36] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01320163.pdf
+[2026-10-07 00:16:36] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01320163.pdf
+[2026-10-07 00:16:36] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:36] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01320163.pdf
+[2026-10-07 00:16:38] [DBG] wget completed
+[2026-10-07 00:16:38] [DBG] HTTP status: 200
+[2026-10-07 00:16:38] [DBG] Size: 5396427 bytes
+[2026-10-07 00:16:39] [INFO] VALID PDF: pdfs/EFTA01320163.pdf
+[2026-10-07 00:16:39] [INFO] EFTA01320163 SUCCESS: RollCall
+[2026-10-07 00:16:41] ------------------------------------------------------------
+[2026-10-07 00:16:41] [INFO] EFTA01320297
+[2026-10-07 00:16:41] [INFO] Dataset: 10
+[2026-10-07 00:16:41] [INFO] Output: pdfs/EFTA01320297.pdf
+[2026-10-07 00:16:41] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01320297.pdf
+[2026-10-07 00:16:41] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01320297.pdf
+[2026-10-07 00:16:41] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01320297.pdf
+[2026-10-07 00:16:41] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:41] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01320297.pdf
+[2026-10-07 00:16:43] [DBG] wget completed
+[2026-10-07 00:16:43] [DBG] HTTP status: 200
+[2026-10-07 00:16:43] [DBG] Size: 3983945 bytes
+[2026-10-07 00:16:43] [INFO] VALID PDF: pdfs/EFTA01320297.pdf
+[2026-10-07 00:16:43] [INFO] EFTA01320297 SUCCESS: RollCall
+[2026-10-07 00:16:46] ------------------------------------------------------------
+[2026-10-07 00:16:46] [INFO] EFTA01320411
+[2026-10-07 00:16:46] [INFO] Dataset: 10
+[2026-10-07 00:16:46] [INFO] Output: pdfs/EFTA01320411.pdf
+[2026-10-07 00:16:46] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01320411.pdf
+[2026-10-07 00:16:46] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01320411.pdf
+[2026-10-07 00:16:46] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01320411.pdf
+[2026-10-07 00:16:46] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:46] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01320411.pdf
+[2026-10-07 00:16:48] [DBG] wget completed
+[2026-10-07 00:16:48] [DBG] HTTP status: 200
+[2026-10-07 00:16:48] [DBG] Size: 4789363 bytes
+[2026-10-07 00:16:48] [INFO] VALID PDF: pdfs/EFTA01320411.pdf
+[2026-10-07 00:16:48] [INFO] EFTA01320411 SUCCESS: RollCall
+[2026-10-07 00:16:51] ------------------------------------------------------------
+[2026-10-07 00:16:51] [INFO] EFTA01320537
+[2026-10-07 00:16:51] [INFO] Dataset: 10
+[2026-10-07 00:16:51] [INFO] Output: pdfs/EFTA01320537.pdf
+[2026-10-07 00:16:51] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01320537.pdf
+[2026-10-07 00:16:51] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01320537.pdf
+[2026-10-07 00:16:51] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01320537.pdf
+[2026-10-07 00:16:51] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:51] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01320537.pdf
+[2026-10-07 00:16:52] [DBG] wget completed
+[2026-10-07 00:16:52] [DBG] HTTP status: 200
+[2026-10-07 00:16:52] [DBG] Size: 863446 bytes
+[2026-10-07 00:16:52] [INFO] VALID PDF: pdfs/EFTA01320537.pdf
+[2026-10-07 00:16:52] [INFO] EFTA01320537 SUCCESS: RollCall
+[2026-10-07 00:16:54] ------------------------------------------------------------
+[2026-10-07 00:16:54] [INFO] EFTA01321910
+[2026-10-07 00:16:55] [INFO] Dataset: 10
+[2026-10-07 00:16:55] [INFO] Output: pdfs/EFTA01321910.pdf
+[2026-10-07 00:16:55] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01321910.pdf
+[2026-10-07 00:16:55] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01321910.pdf
+[2026-10-07 00:16:55] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01321910.pdf
+[2026-10-07 00:16:55] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:55] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01321910.pdf
+[2026-10-07 00:16:56] [DBG] wget completed
+[2026-10-07 00:16:56] [DBG] HTTP status: 200
+[2026-10-07 00:16:56] [DBG] Size: 680176 bytes
+[2026-10-07 00:16:56] [INFO] VALID PDF: pdfs/EFTA01321910.pdf
+[2026-10-07 00:16:56] [INFO] EFTA01321910 SUCCESS: RollCall
+[2026-10-07 00:16:58] ------------------------------------------------------------
+[2026-10-07 00:16:58] [INFO] EFTA01322916
+[2026-10-07 00:16:58] [INFO] Dataset: 10
+[2026-10-07 00:16:58] [INFO] Output: pdfs/EFTA01322916.pdf
+[2026-10-07 00:16:58] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01322916.pdf
+[2026-10-07 00:16:58] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01322916.pdf
+[2026-10-07 00:16:59] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01322916.pdf
+[2026-10-07 00:16:59] [INFO] RollCall attempt 1/3
+[2026-10-07 00:16:59] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01322916.pdf
+[2026-10-07 00:17:20] [DBG] wget completed
+[2026-10-07 00:17:20] [DBG] HTTP status: 200
+[2026-10-07 00:17:20] [DBG] Size: 75794604 bytes
+[2026-10-07 00:17:20] [INFO] VALID PDF: pdfs/EFTA01322916.pdf
+[2026-10-07 00:17:20] [INFO] EFTA01322916 SUCCESS: RollCall
+[2026-10-07 00:17:22] ------------------------------------------------------------
+[2026-10-07 00:17:22] [INFO] EFTA01323548
+[2026-10-07 00:17:22] [INFO] Dataset: 10
+[2026-10-07 00:17:23] [INFO] Output: pdfs/EFTA01323548.pdf
+[2026-10-07 00:17:23] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01323548.pdf
+[2026-10-07 00:17:23] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01323548.pdf
+[2026-10-07 00:17:23] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01323548.pdf
+[2026-10-07 00:17:23] [INFO] RollCall attempt 1/3
+[2026-10-07 00:17:23] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01323548.pdf
+[2026-10-07 00:17:28] [DBG] wget completed
+[2026-10-07 00:17:28] [DBG] HTTP status: 200
+[2026-10-07 00:17:28] [DBG] Size: 19002296 bytes
+[2026-10-07 00:17:28] [INFO] VALID PDF: pdfs/EFTA01323548.pdf
+[2026-10-07 00:17:28] [INFO] EFTA01323548 SUCCESS: RollCall
+[2026-10-07 00:17:31] ------------------------------------------------------------
+[2026-10-07 00:17:31] [INFO] EFTA01324532
+[2026-10-07 00:17:31] [INFO] Dataset: 10
+[2026-10-07 00:17:31] [INFO] Output: pdfs/EFTA01324532.pdf
+[2026-10-07 00:17:31] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01324532.pdf
+[2026-10-07 00:17:31] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01324532.pdf
+[2026-10-07 00:17:31] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01324532.pdf
+[2026-10-07 00:17:31] [INFO] RollCall attempt 1/3
+[2026-10-07 00:17:31] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01324532.pdf
+[2026-10-07 00:17:34] [DBG] wget completed
+[2026-10-07 00:17:34] [DBG] HTTP status: 200
+[2026-10-07 00:17:34] [DBG] Size: 7608828 bytes
+[2026-10-07 00:17:34] [INFO] VALID PDF: pdfs/EFTA01324532.pdf
+[2026-10-07 00:17:34] [INFO] EFTA01324532 SUCCESS: RollCall
+[2026-10-07 00:17:36] ------------------------------------------------------------
+[2026-10-07 00:17:36] [INFO] EFTA01324614
+[2026-10-07 00:17:36] [INFO] Dataset: 10
+[2026-10-07 00:17:36] [INFO] Output: pdfs/EFTA01324614.pdf
+[2026-10-07 00:17:36] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01324614.pdf
+[2026-10-07 00:17:36] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01324614.pdf
+[2026-10-07 00:17:36] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01324614.pdf
+[2026-10-07 00:17:37] [INFO] RollCall attempt 1/3
+[2026-10-07 00:17:37] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01324614.pdf
+[2026-10-07 00:17:39] [DBG] wget completed
+[2026-10-07 00:17:39] [DBG] HTTP status: 200
+[2026-10-07 00:17:40] [DBG] Size: 8392359 bytes
+[2026-10-07 00:17:40] [INFO] VALID PDF: pdfs/EFTA01324614.pdf
+[2026-10-07 00:17:40] [INFO] EFTA01324614 SUCCESS: RollCall
+[2026-10-07 00:17:42] ------------------------------------------------------------
+[2026-10-07 00:17:42] [INFO] EFTA01324702
+[2026-10-07 00:17:42] [INFO] Dataset: 10
+[2026-10-07 00:17:42] [INFO] Output: pdfs/EFTA01324702.pdf
+[2026-10-07 00:17:42] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01324702.pdf
+[2026-10-07 00:17:42] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01324702.pdf
+[2026-10-07 00:17:42] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01324702.pdf
+[2026-10-07 00:17:42] [INFO] RollCall attempt 1/3
+[2026-10-07 00:17:42] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01324702.pdf
+[2026-10-07 00:17:44] [DBG] wget completed
+[2026-10-07 00:17:44] [DBG] HTTP status: 200
+[2026-10-07 00:17:44] [DBG] Size: 5523040 bytes
+[2026-10-07 00:17:45] [INFO] VALID PDF: pdfs/EFTA01324702.pdf
+[2026-10-07 00:17:45] [INFO] EFTA01324702 SUCCESS: RollCall
+[2026-10-07 00:17:47] ------------------------------------------------------------
+[2026-10-07 00:17:47] [INFO] EFTA01433921
+[2026-10-07 00:17:47] [INFO] Dataset: 10
+[2026-10-07 00:17:47] [INFO] Output: pdfs/EFTA01433921.pdf
+[2026-10-07 00:17:47] [DBG] RollCall : https://media-cdn.rollcall.com/epstein-files/EFTA01433921.pdf
+[2026-10-07 00:17:47] [DBG] DOJ #1   : https://www.justice.gov/epstein/files/DataSet%2010/EFTA01433921.pdf
+[2026-10-07 00:17:47] [DBG] DOJ #2   : https://www.justice.gov/epstein/files/DataSet 10/EFTA01433921.pdf
+[2026-10-07 00:17:47] [INFO] RollCall attempt 1/3
+[2026-10-07 00:17:47] [DBG] URL: https://media-cdn.rollcall.com/epstein-files/EFTA01433921.pdf
+[2026-10-07 00:17:48] [DBG] wget completed
+[2026-10-07 00:17:48] [DBG] HTTP status: 200
+[2026-10-07 00:17:48] [DBG] Size: 158349 bytes
+[2026-10-07 00:17:48] [INFO] VALID PDF: pdfs/EFTA01433921.pdf
+[2026-10-07 00:17:48] [INFO] EFTA01433921 SUCCESS: RollCall
+[2026-10-07 00:17:50] ============================================================
+[2026-10-07 00:17:50] Finished
+[2026-10-07 00:17:50] ============================================================
+[2026-10-07 00:17:51] Total   : 28
+[2026-10-07 00:17:51] Success : 28
+[2026-10-07 00:17:51] Failed  : 0
+[2026-10-07 00:17:51] Output  : pdfs
+[2026-10-07 00:17:51] Failed  : failed.txt
+[2026-10-07 00:17:51] Log     : eftawget.log
+[2026-10-07 00:17:51] ============================================================
