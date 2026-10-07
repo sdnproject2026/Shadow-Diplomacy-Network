@@ -54,8 +54,6 @@ insiders@abc.net.au, 7.30@abc.net.au, contactww@weta.org, megyn@megynkelly.com, 
 
 ## Set E
 
-# Next A
-
 ^ NA
 
 ```
@@ -65,6 +63,8 @@ Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.go
 ### Count: 31
 
 ## Set F
+
+# Next A
 
 ^ NA
 
@@ -156,8 +156,6 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 
 ## Set O
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -177,6 +175,8 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 ### Count: 30
 
 ## Set Q
+
+# Next B/C
 
 ^ NA
 
