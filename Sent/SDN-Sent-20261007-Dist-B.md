@@ -1,13 +1,13 @@
 # SDN-Sent-20261007-Dist-B
 
-## Set O
+## Set Q
 
 ### Epstein Byline Emails
 
 ### To
 
 ```
-mespada@sabado.pt, anataborda@sabado.pt, angelamarques@sabado.pt, cstorres@sabado.pt, portal@cmjornal.pt, geral@cmjornal.pt, eduardodamaso@cmjornal.pt, ugyelet@telex.hu, press@telex.hu, tamogatas@telex.hu, telexhu@protonmail.com, sudouest-publicite@sudouest.fr, yourvoice@bbc.co.uk, newswatch@bbc.co.uk, bbcnewsline@bbc.co.uk, info@nolabels.org, candidates@forwardparty.com, Janica@pcmsllc.com, marysuestrong@the-moderate.org, tystrong@the-moderate.org, tres@capitolreins.com, info@commonsenseamericapac.com, info@mainstreetparty.org, tsjoseph@mainstreetparty.org, lschaefer@mainstreetparty.org, cacspac@pdscompliance.com, admin@pdscompliance.com, tmoose@hdlfec.com, publisher-support@google.com, contact@celadonbooks.com
+publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com, information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, client@bulldogcompliance.com, info@senateleadershipfund.org, msz@paramount.com, Laura.watson@paramount.com, Kevin.creighton@paramount.com, logan.thomas@paramount.com, paramountgloballegalnotices@paramount.com
 ```
 
 ### BCC 

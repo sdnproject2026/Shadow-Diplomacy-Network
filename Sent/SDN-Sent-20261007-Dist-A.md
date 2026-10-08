@@ -1,11 +1,11 @@
 # SDN-Sent-20261007-Dist-A
 
-## Set E
+## Set F
 
 ### To
 
 ```
-Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.gonzalez@nmlegis.gov, news@kob.com, memberservices@newmexicopbs.org, media@nmag.gov, tips@thr.com, news@metro.co.uk, cnbctips@nbcuni.com, tips@nytimes.com, tips@nbcuni.com, press@google.com, news@skynews.com, info@ap.org, news.tips@abc.com, tips@axios.com, haveyoursay@bbc.co.uk, tips@billboard.com, feedback@boston.com, news@bostonherald.com, letters@csmonitor.com, tips@thedailybeast.com, viewer@c-span.org, events@c-span.org, tips@chicagotribune.com, tips@cnn.com, tips@dailycaller.com, cartas@elnuevodia.com, newsmanager@foxnews.com, klauerman@forbes.com
+tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.com, tips@mediaite.com, letters@tnr.com, voicers@nydailynews.com, tips@nypost.com, themail@newyorker.com, editor@people.com, tips@rawstory.com, info@reason.org, tips@rollingstone.com, tips@sfgate.com, roger@showbiz411.com, submissions@thenation.com, tips@tmz.com, editor@usnews.com, tips@variety.com, tips@washingtonexaminer.com, tips@washingtontimes.com, tips@futurism.com, editor@arabnews.com, info@bild.de, leserbriefe@zeit.de, defensor@elpais.es, listy@wyborcza.pl, letters@hindustantimes.com, letters@jpost.com
 ```
 
 ### BCC 
