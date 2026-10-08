@@ -64,8 +64,6 @@ Andrea.Reeb@nmlegis.gov, elesha.may@nmlegis.gov, bill.hall@nmlegis.gov, april.go
 
 ## Set F
 
-# Next A
-
 ^ NA
 
 ```
@@ -75,6 +73,8 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 ### Count: 30
 
 ## Set G
+
+# Next A
 
 ^ NA
 
@@ -176,8 +176,6 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 
 ## Set Q
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -197,6 +195,8 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 ### Count: 32
 
 ## Set S
+
+# Next B/C
 
 ^ NA
 
