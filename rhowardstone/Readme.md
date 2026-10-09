@@ -1,7 +1,3 @@
-SDN-41-Fellow-rhowardstone
-
-- https://rentry.co/fieb659w
-
 # Epstein
 
 ## Forensic File-analysis Library
@@ -765,16 +761,15 @@ Dataset
 
 - URL Pattern
 
-----
 1
 
 - EFTA00000001 
 
-- https://www.justice.gov/epstein/files/DataSet%201/EFTA00000001.pdf)
+- https://www.justice.gov/epstein/files/DataSet%201/EFTA00000001.pdf
 
 - EFTA00003158 
 
-- https://www.justice.gov/epstein/files/DataSet%201/EFTA00003158.pdf)
+- https://www.justice.gov/epstein/files/DataSet%201/EFTA00003158.pdf
 
 - `DataSet%201/EFTA{########}.pdf`
 
@@ -782,11 +777,11 @@ Dataset
 
 - EFTA00003159 
 
-- https://www.justice.gov/epstein/files/DataSet%202/EFTA00003159.pdf)
+- https://www.justice.gov/epstein/files/DataSet%202/EFTA00003159.pdf
 
 - EFTA00003857 
 
-- https://www.justice.gov/epstein/files/DataSet%202/EFTA00003857.pdf)
+- https://www.justice.gov/epstein/files/DataSet%202/EFTA00003857.pdf
 
 - `DataSet%202/EFTA{########}.pdf`
 
@@ -794,11 +789,11 @@ Dataset
 
 - EFTA00003858 
 
-- https://www.justice.gov/epstein/files/DataSet%203/EFTA00003858.pdf)
+- https://www.justice.gov/epstein/files/DataSet%203/EFTA00003858.pdf
 
 - EFTA00005586 
 
-- https://www.justice.gov/epstein/files/DataSet%203/EFTA00005586.pdf)
+- https://www.justice.gov/epstein/files/DataSet%203/EFTA00005586.pdf
 
 - `DataSet%203/EFTA{########}.pdf`
 
@@ -806,11 +801,11 @@ Dataset
 
 - EFTA00005705 
 
-- https://www.justice.gov/epstein/files/DataSet%204/EFTA00005705.pdf)
+- https://www.justice.gov/epstein/files/DataSet%204/EFTA00005705.pdf
 
 - EFTA00008320 
 
-- https://www.justice.gov/epstein/files/DataSet%204/EFTA00008320.pdf)
+- https://www.justice.gov/epstein/files/DataSet%204/EFTA00008320.pdf
 
 - `DataSet%204/EFTA{########}.pdf`
 
@@ -818,11 +813,11 @@ Dataset
 
 - EFTA00008409 
 
-- https://www.justice.gov/epstein/files/DataSet%205/EFTA00008409.pdf)
+- https://www.justice.gov/epstein/files/DataSet%205/EFTA00008409.pdf
 
 - EFTA00008528 
 
-- https://www.justice.gov/epstein/files/DataSet%205/EFTA00008528.pdf)
+- https://www.justice.gov/epstein/files/DataSet%205/EFTA00008528.pdf
 
 - `DataSet%205/EFTA{########}.pdf`
 
@@ -830,11 +825,11 @@ Dataset
 
 - EFTA00008529 
 
-- https://www.justice.gov/epstein/files/DataSet%206/EFTA00008529.pdf)
+- https://www.justice.gov/epstein/files/DataSet%206/EFTA00008529.pdf
 
 - EFTA00008998 
 
-- https://www.justice.gov/epstein/files/DataSet%206/EFTA00008998.pdf)
+- https://www.justice.gov/epstein/files/DataSet%206/EFTA00008998.pdf
 
 - `DataSet%206/EFTA{########}.pdf`
 
@@ -842,11 +837,11 @@ Dataset
 
 - EFTA00009016 
 
-- https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf)
+- https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf
 
 - EFTA00009664 
 
-- https://www.justice.gov/epstein/files/DataSet%207/EFTA00009664.pdf)
+- https://www.justice.gov/epstein/files/DataSet%207/EFTA00009664.pdf
 
 - `DataSet%207/EFTA{########}.pdf`
 
@@ -854,11 +849,11 @@ Dataset
 
 - EFTA00009676 
 
-- https://www.justice.gov/epstein/files/DataSet%208/EFTA00009676.pdf)
+- https://www.justice.gov/epstein/files/DataSet%208/EFTA00009676.pdf
 
 - EFTA00039023 
 
-- https://www.justice.gov/epstein/files/DataSet%208/EFTA00039023.pdf)
+- https://www.justice.gov/epstein/files/DataSet%208/EFTA00039023.pdf
 
 - `DataSet%208/EFTA{########}.pdf`
 
@@ -866,11 +861,11 @@ Dataset
 
 - EFTA00039025 
 
-- https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)
+- https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf
 
 - EFTA01262781 
 
-- https://www.justice.gov/epstein/files/DataSet%209/EFTA01262781.pdf)
+- https://www.justice.gov/epstein/files/DataSet%209/EFTA01262781.pdf
 
 - `DataSet%209/EFTA{########}.pdf`
 
@@ -878,11 +873,11 @@ Dataset
 
 - EFTA01262782 
 
-- https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262782.pdf)
+- https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262782.pdf
 
 - EFTA02205654 
 
-- https://www.justice.gov/epstein/files/DataSet%2010/EFTA02205654.pdf)
+- https://www.justice.gov/epstein/files/DataSet%2010/EFTA02205654.pdf
 
 - `DataSet%2010/EFTA{########}.pdf`
 
@@ -890,11 +885,11 @@ Dataset
 
 - EFTA02205655 
 
-- https://www.justice.gov/epstein/files/DataSet%2011/EFTA02205655.pdf)
+- https://www.justice.gov/epstein/files/DataSet%2011/EFTA02205655.pdf
 
 - EFTA02730264 
 
-- https://www.justice.gov/epstein/files/DataSet%2011/EFTA02730264.pdf)
+- https://www.justice.gov/epstein/files/DataSet%2011/EFTA02730264.pdf
 
 - `DataSet%2011/EFTA{########}.pdf`
 
@@ -902,11 +897,11 @@ Dataset
 
 - EFTA02730265 
 
-- https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730265.pdf)
+- https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730265.pdf
 
 - EFTA02731783 
 
-- https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731783.pdf)
+- https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731783.pdf
 
 - `DataSet%2012/EFTA{########}.pdf`
 
