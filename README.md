@@ -74,6 +74,10 @@ Journalist and trial attorney Katie Phang released a legal update confirming tha
 
 ...
 
+SDN-41-Fellow-rhowardstone
+
+- https://rentry.co/fieb659w
+
 SDN-13-Legal-50-Judge-Kollar-Kotelly
 
 - https://rentry.co/yznhpw43
