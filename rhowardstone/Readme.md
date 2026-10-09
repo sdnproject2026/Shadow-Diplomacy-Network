@@ -56,8 +56,6 @@ congressional_priority_list.md - congressional_priority_list.
 
 - DOJ reading room priority list: documents ranked by "predator name reveal" score to maximize identification of redacted perpetrators during limited in-person review time
 
----
-
 ### How to Read EFTA Citations
 
 Every `EFTA########` number is a unique DOJ document identifier. Throughout these reports, EFTA numbers are hyperlinked to the DOJ's original PDF hosting location:
@@ -67,8 +65,6 @@ https://www.justice.gov/epstein/files/DataSet%20{N}/EFTA{########}.pdf
 ```
 
 See the EFTA Dataset Mapping - #efta-number-to-dataset-mapping) table at the bottom of this file to determine which dataset contains a given EFTA number.
-
----
 
 ## Investigation Reports
 
@@ -81,8 +77,6 @@ See the EFTA Dataset Mapping - #efta-number-to-dataset-mapping) table at the bot
 Report
 
 - Description
-
---------|-------------|
 
 FINAL_INVESTIGATION_REPORT - overview/FINAL_INVESTIGATION_REPORT.
 
@@ -129,8 +123,6 @@ UNEXPLORED_DOCUMENT_MINING - overview/UNEXPLORED_DOCUMENT_MINING.
 Report
 
 - Description
-
---------|-------------|
 
 FORENSIC_ACCT_1_HAZE_DRAWDOWN - financial/FORENSIC_ACCT_1_HAZE_DRAWDOWN.
 
@@ -219,8 +211,6 @@ WOW_GOLD_IGE_BANNON_SEARCH - financial/WOW_GOLD_IGE_BANNON_SEARCH.
 Report
 
 - Description
-
---------|-------------|
 
 LEON_BLACK_PROSECUTION_FAILURE - individuals/LEON_BLACK_PROSECUTION_FAILURE.
 
@@ -320,8 +310,6 @@ Report
 
 - Description
 
---------|-------------|
-
 FRENCH_CONNECTION_INVESTIGATION - FRENCH_CONNECTION_INVESTIGATION.
 
 - Epstein's operations in France: Jean-Luc Brunel/MC2/Karin Models recruitment pipeline, 22 Avenue Foch (SCI JEP
@@ -333,8 +321,6 @@ FRENCH_CONNECTION_INVESTIGATION - FRENCH_CONNECTION_INVESTIGATION.
 Report
 
 - Description
-
---------|-------------|
 
 ALLRED_VICTIM_INTERVIEW - victims/ALLRED_VICTIM_INTERVIEW.
 
@@ -359,8 +345,6 @@ TRAFFICKING_ROUTES_INVESTIGATION - victims/TRAFFICKING_ROUTES_INVESTIGATION.
 Report
 
 - Description
-
---------|-------------|
 
 DEVICE_FORENSICS_COMPLETE - evidence/DEVICE_FORENSICS_COMPLETE.
 
@@ -460,8 +444,6 @@ Report
 
 - Description
 
---------|-------------|
-
 ISRAEL_DEEP_DIVE_V2 - intelligence/ISRAEL_DEEP_DIVE_V2.
 
 - Definitive Israel report: Barak 3,756 docs, Carbyne 50 docs, Reporty 324 docs, 301 E 66th nexus, Kohn letters. FBI CHS FD-1023 (EFTA00090314 
@@ -483,8 +465,6 @@ POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION - intelligence/POWER_OVERLAP_SEALED_F
 Report
 
 - Description
-
---------|-------------|
 
 PROSECUTION_FAILURES_ANALYSIS - institutional/PROSECUTION_FAILURES_ANALYSIS.
 
@@ -508,8 +488,6 @@ Report
 
 - Description
 
---------|-------------|
-
 ART_INVESTIGATION_COMPLETE - art/ART_INVESTIGATION_COMPLETE.
 
 - Unified art investigation: $30.5M auction proceeds, Leon Black $2.7B collection, 54 named art world figures, 100+ EFTA citations. 80KB, 72 sections.
@@ -531,8 +509,6 @@ ART_INVESTIGATION_WEB_RESEARCH - art/ART_INVESTIGATION_WEB_RESEARCH.
 Report
 
 - Description
-
---------|-------------|
 
 CORPUS_INVENTORY - methodology/CORPUS_INVENTORY.
 
@@ -596,8 +572,6 @@ Report
 
 - Description
 
---------|-------------|
-
 CONSPIRACY_THEORY_SEARCH_MISC - internet-theories/CONSPIRACY_THEORY_SEARCH_MISC.
 
 - Exhaustive search for miscellaneous internet theories across 218GB, 519,438 PDFs.
@@ -619,8 +593,6 @@ Full-corpus search of all 537 current members of Congress (119th Congress
 Report
 
 - Description
-
---------|-------------|
 
 DEMOCRAT_HOUSE - government-officials/DEMOCRAT_HOUSE.
 
@@ -680,8 +652,6 @@ Report
 
 - Description
 
---------|-------------|
-
 DS10_COMPLETE_FINDINGS - raw-dataset-analysis/DS10_COMPLETE_FINDINGS.
 
 - Dataset 10 complete scan: 503,154 PDFs, 1,629,776 redaction rows. FBI "Prominent Names" briefing recovered here.
@@ -738,8 +708,7 @@ Dossier
 
 - Description
 
----------|-------------|
-
+----
 00_INDEX - pqg_lines_of_investigation/00_INDEX.
 
 - Master index: 257 subpoenas, 2,018 demand clauses, 779 investigative gaps. 48.2% of subpoenas have no identifiable return in the corpus.
@@ -784,8 +753,6 @@ Dossier
 
 - Prosecutorial scope evolution: how the investigation's focus shifted over time.
 
----
-
 ## EFTA Number to Dataset Mapping
 
 Use this table to determine which DOJ dataset contains a given EFTA number, or to construct the DOJ URL manually.
@@ -798,8 +765,7 @@ Dataset
 
 - URL Pattern
 
----------|-----------------|----------------|-------------|
-
+----
 1
 
 - EFTA00000001 
@@ -948,8 +914,6 @@ Base URL: `https://www.justice.gov/epstein/files/`
 
 Note: There are small gaps between some datasets (e.g., Dataset 4 ends at 8320, Dataset 5 starts at 8409). EFTAs falling in gaps are mapped to the nearest lower dataset.
 
----
-
 ## Methodology
 
 All analysis was performed locally against databases derived from the raw PDF corpus. No documents were uploaded to cloud services or third-party APIs.
@@ -962,8 +926,7 @@ Database
 
 - Contents
 
-----------|------|---------|----------|
-
+-----
 full_text_corpus.db
 
 - 6.08 GB
@@ -1016,13 +979,9 @@ Processed data collection
 
 - https://github.com/rhowardstone/Epstein-research-data
 
----
-
 ## Community Platforms & Research Tools
 
 See COMMUNITY_PLATFORMS.md - COMMUNITY_PLATFORMS. for a comprehensive directory of 78+ platforms, tools, and resources for searching and analyzing the Epstein files. Includes government sources, search platforms, network visualization tools, AI/RAG tools, datasets, and community hubs.
-
----
 
 ## Processing Tools
 
@@ -1037,7 +996,6 @@ These reports constitute independent forensic analysis of publicly released gove
 Where the evidence is ambiguous or inconclusive, that is stated explicitly. Where claims from prior reporting were found to be incorrect upon verification, corrections are documented (see Lead Verification reports). Negative findings (searches that returned zero results) are reported with equal rigor to positive findings.
 
 This repository does not contain any original source documents, victim-identifying information, or classified material. It contains only analysis and citations.
-
 
 ----
 
