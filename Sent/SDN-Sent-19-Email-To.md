@@ -74,8 +74,6 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 
 ## Set G
 
-# Next A
-
 ^ NA
 
 ```
@@ -85,6 +83,8 @@ leser@welt.de, courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, le
 ### Count: 30
 
 ## Set H
+
+# Next A
 
 ^ NA
 
@@ -196,8 +196,6 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 
 ## Set S
 
-# Next B/C
-
 ^ NA
 
 ```
@@ -234,6 +232,8 @@ clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com
 ### COUNT: 27
 
 ## Set U
+
+# Next B/C
 
 ^ mkhan@usatoday.com
 
