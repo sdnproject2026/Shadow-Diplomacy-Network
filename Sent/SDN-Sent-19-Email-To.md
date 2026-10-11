@@ -1,4 +1,4 @@
-# SDN-Sent-18-Email-To
+# SDN-Sent-19-Email-To
 
 - ^ deletions from address list or NA
 
@@ -176,10 +176,18 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 
 ## Set Q
 
-^ NA
+^ help@moveon.org
+
+^ press@moveon.org
+
+^ donate@moveon.org
+
+^ contrib_problem@moveon.org 
+
+^ democracydefenders@moveon.org
 
 ```
-publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com, information@emilyslist.org, press@emilyslist.org, help@moveon.org, press@moveon.org, donate@moveon.org, contrib_problem@moveon.org, democracydefenders@moveon.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, client@bulldogcompliance.com, info@senateleadershipfund.org, msz@paramount.com, Laura.watson@paramount.com, Kevin.creighton@paramount.com, logan.thomas@paramount.com, paramountgloballegalnotices@paramount.com
+publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com, information@emilyslist.org, press@emilyslist.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, client@bulldogcompliance.com, info@senateleadershipfund.org, msz@paramount.com, Laura.watson@paramount.com, Kevin.creighton@paramount.com, logan.thomas@paramount.com, paramountgloballegalnotices@paramount.com
 ```
 
 ### Count: 35
@@ -240,10 +248,10 @@ clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com
 ### Epstein Byline Emails
 
 ```
-jan.ransom@nytimes.com, ankush.khardori@gmail.com michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
+jan.ransom@nytimes.com, Marcelo.Prince@wsj.com ankush.khardori@gmail.com, David.Benoit@wsj.com, Cara.Lombardo@wsj.com michael.rothfeld@nytimes.com, weiser@nytimes.com, mike.baker@nytimes.com, lisaxmiller@nytimes.com, linda.qiu@nytimes.com, matt.zdun@nytimes.com, maggie.haberman@nytimes.com, jonathan.swan@nytimes.com, amy.brittain@washpost.com, alexei.koseff@washpost.com, maegan.vazquez@washpost.com, meryl.kornfield@washpost.com, dan.merica@washpost.com, matthew.choi@washpost.com, shane.oneill@washpost.com, shira.ovide@washpost.com, bjansen@usatoday.com, jmeyer@usatoday.com, abagchi@usatoday.com, mloria@usatoday.com, emansfield@usatoday.com, zschermele@usatoday.com, mdelrey@usatoday.com, Tom.Simonite@washpost.com
 ```
 
-### COUNT: 28
+### COUNT: 31
 
 ## Set V
 
