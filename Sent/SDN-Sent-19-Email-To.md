@@ -84,8 +84,6 @@ leser@welt.de, courrier-des-lecteurs@lemonde.fr, newsroom@themoscowtimes.com, le
 
 ## Set H
 
-# Next A
-
 ^ NA
 
 ```
@@ -95,6 +93,8 @@ sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.
 ### Count: 30
 
 ## Set I
+
+# Next A
 
 ^ NA
 
@@ -241,8 +241,6 @@ clara.harter@latimes.com, stephanie.breijo@latimes.com, stacy.perman@latimes.com
 
 ## Set U
 
-# Next B/C
-
 ^ mkhan@usatoday.com
 
 ### Epstein Byline Emails
@@ -338,6 +336,8 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 ### Count: 30
 
 ## Set W
+
+# Next B/C
 
 ^ siladitya@protonmail.com
 
