@@ -94,8 +94,6 @@ sergey@google.com, mukesh@ril.com, carlos.slim@telmex.com, larry.ellison@oracle.
 
 ## Set I
 
-# Next A
-
 ^ NA
 
 ```
@@ -105,6 +103,8 @@ belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int,
 ### Count: 32
 
 ## Set J
+
+# Next A
 
 ^ NA
 
@@ -327,17 +327,17 @@ jan.ransom@nytimes.com, Marcelo.Prince@wsj.com ankush.khardori@gmail.com, David.
 
 ^ lisa.bonos@washpost.com
 
+^ jessica.mathews@fortune.com
+
 ### Epstein Byline Emails
 
 ```
-rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, bsmith@semafor.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com, dhruv_mehrotra@wired.com, Taran.Burke@time.com, Tara.Law@time.com, Madeleine.Carlisle@time.com, Sanya.Mansoor@time.com, Jasmine.Aguilera@time.com, jessica.mathews@fortune.com, michael_sisak@fortune.com, david_caruso@fortune.com, Larry.Neumeister@fortune.com, jlee@washingtonian.com, lmullins@washingtonian.com, emailcarolinehaskins@gmail.com, elisabeth.j.dickson@gmail.com, j.allsop@columbia.edu, elliott.vittoria@proton.me
+rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, jessica@theinformation.com, bsmith@semafor.com, sbtalcott@gmail.com, rebecca.falconer@axios.com, mike@axios.com, jonathan@axios.com, dan@axios.com, emailcarolinehaskins@gmail.com, elisabeth.j.dickson@gmail.com, j.allsop@columbia.edu, elliott.vittoria@proton.me
 ```
 
-### Count: 30
+### Count: 14
 
 ## Set W
-
-# Next B/C
 
 ^ siladitya@protonmail.com
 
@@ -368,6 +368,8 @@ DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov,
 # Epstein Files Mentions
 
 ## Set S01
+
+# Next B/C
 
 ### Scientists
 
