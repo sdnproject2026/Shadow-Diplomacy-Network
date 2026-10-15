@@ -374,7 +374,7 @@ DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov,
 ### Scientists
 
 ```
-ruvkun@molbio.mgh.harvard.edu, bnikolic@biomarkerscapital.com, lhs@harvard.edu, krauss@asu.edu, bmarsh@fas.harvard.edu, martin_nowak@harvard.edu, joscha@mit.edu, chomsky@mit.edu, rhoffman@greylock.com, billg@gatesfoundation.org, afarkas@islandcapital.com, pthiel@foundersfund.com, gchurch@genetics.med.harvard.edu, gromov@ihes.fr, peter@peterattiamd.com, hillis@appliedinvention.com, roger@socraticarts.com, slloyd@mit.edu, elon@x.com, mtramo@mednet.ucla.edu, gino.yu@polyu.edu.hk, randall@physics.harvard.edu, esb@mit.edu, ng@cba.mit.edu, ra27@columbia.edu, ben@singularitynet.io, jeremy@rubin.io, dkamen@deka.com, vincenzo@slashid.dev
+deamuseum@dea.gov, ruvkun@molbio.mgh.harvard.edu, bnikolic@biomarkerscapital.com, lhs@harvard.edu, krauss@asu.edu, bmarsh@fas.harvard.edu, martin_nowak@harvard.edu, joscha@mit.edu, chomsky@mit.edu, rhoffman@greylock.com, billg@gatesfoundation.org, afarkas@islandcapital.com, pthiel@foundersfund.com, gchurch@genetics.med.harvard.edu, gromov@ihes.fr, peter@peterattiamd.com, hillis@appliedinvention.com, roger@socraticarts.com, slloyd@mit.edu, elon@x.com, mtramo@mednet.ucla.edu, gino.yu@polyu.edu.hk, randall@physics.harvard.edu, esb@mit.edu, ng@cba.mit.edu, ra27@columbia.edu, ben@singularitynet.io, jeremy@rubin.io, dkamen@deka.com, vincenzo@slashid.dev
 ```
 
 ### Count: 30
