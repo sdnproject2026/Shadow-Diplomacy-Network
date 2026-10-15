@@ -341,13 +341,38 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 
 ^ siladitya@protonmail.com
 
+^ press@cbsnews.com
+
+^ cnn.viewerservices@cnn.com
+
+^ m.taheri@newsweek.com
+
+^ cnnpr@cnn.com
+
+^ contact@billmoyers.com
+
+^ j.sundel@newsweek.com
+
+^ mediarelations@cbsnews.com
+
+^ info@paulekman.com
+
+^ doris.german@mountsinai.org
+
+^ sdnproject2026@onionmail.org
+
+^ lleitch@thresholdglobalworks.com
+
+^ DEA.IntelligenceProducts@dea.usdoj.gov
+
 ### Epstein Byline Emails
 
 ```
-adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.sundel@newsweek.com, m.taheri@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com, mediarelations@cbsnews.com, newswatch@foxnews.com, cnnpr@cnn.com, cnn.viewerservices@cnn.com, evening@cbsnews.com, tips@cbsnews.com, press@cbsnews.com, cbsnewsdesk@cbs.com, history@bc.edu, contact@billmoyers.com, info@inequalitymedia.org, tips@cnn.com
+adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com, newswatch@foxnews.com, evening@cbsnews.com, tips@cbsnews.com, cbsnewsdesk@cbs.com, history@bc.edu, info@inequalitymedia.org, tips@cnn.com
+
 ```
 
-### Count: 35
+### Count: 28
 
 ## Set X
 
@@ -433,3 +458,27 @@ contact@biomarkerscapital.com, joi@ito.com, info@greylock.com, info@foundersfund
 ----
 
 ---- 
+
+
+^ press@cbsnews.com
+^ cnn.viewerservices@cnn.com
+^ m.taheri@newsweek.com
+^ cnnpr@cnn.com
+^ contact@billmoyers.com
+^ j.sundel@newsweek.com
+^ mediarelations@cbsnews.com
+^ info@paulekman.com
+^ doris.german@mountsinai.org
+^ sdnproject2026@onionmail.org
+^ lleitch@thresholdglobalworks.com
+^ DEA.IntelligenceProducts@dea.usdoj.gov
+
+```
+adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com, newswatch@foxnews.com, evening@cbsnews.com, tips@cbsnews.com, cbsnewsdesk@cbs.com, history@bc.edu, info@inequalitymedia.org, tips@cnn.com
+
+```
+
+
+
+Count: 28
+
