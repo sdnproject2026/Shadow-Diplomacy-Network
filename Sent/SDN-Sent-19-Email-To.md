@@ -104,8 +104,6 @@ belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int,
 
 ## Set J
 
-# Next A
-
 ^ NA
 
 ```
@@ -115,6 +113,8 @@ fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@ne
 ### Count: 30
 
 ## Set K
+
+# Next A
 
 ^ NA
 
@@ -394,8 +394,6 @@ DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov,
 
 ## Set S01
 
-# Next B/C
-
 ### Scientists
 
 ```
@@ -415,6 +413,8 @@ nwolfe@metabiota.com, trivers@rutgers.edu, jessica@rockpaperrobot.com, david.gel
 ### Count: 30
 
 ## Set S03
+
+# Next B/C
 
 ### Scientists
 
@@ -459,18 +459,28 @@ contact@biomarkerscapital.com, joi@ito.com, info@greylock.com, info@foundersfund
 
 ---- 
 
-
 ^ press@cbsnews.com
+
 ^ cnn.viewerservices@cnn.com
+
 ^ m.taheri@newsweek.com
+
 ^ cnnpr@cnn.com
+
 ^ contact@billmoyers.com
+
 ^ j.sundel@newsweek.com
+
 ^ mediarelations@cbsnews.com
+
 ^ info@paulekman.com
+
 ^ doris.german@mountsinai.org
+
 ^ sdnproject2026@onionmail.org
+
 ^ lleitch@thresholdglobalworks.com
+
 ^ DEA.IntelligenceProducts@dea.usdoj.gov
 
 ```
