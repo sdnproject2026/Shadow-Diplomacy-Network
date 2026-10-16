@@ -382,6 +382,18 @@ DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov,
 
 ^ elon@x.com
 
+^ afarkas@islandcapital.com
+
+^ dkamen@deka.com
+
+^ info@paulekman.com
+
+^ kosslyn@minervaproject.com
+
+^ dgrosof@optiopia.com
+
+^ lindsay@labmedialab.com
+
 ### Epstein Files Scientists
 
 ```
@@ -394,13 +406,19 @@ ruvkun@molbio.mgh.harvard.edu, lhs@harvard.edu, krauss@asu.edu, martin_nowak@har
 
 ^ ng@cba.mit.edu
 
-^ afarkas@islandcapital.com
-
 ^ esb@mit.edu
 
 ^ gino.yu@polyu.edu.hk
 
-^ dkamen@deka.com
+^ doris.german@mountsinai.org
+
+^ trivers@rutgers.edu
+
+^ vstodden@usc.edu
+
+^ jthakuria@mgh.harvard.edu
+
+^ bmarsh@fas.harvard.edu
 
 ### Epstein Files Scientists
 
@@ -412,28 +430,12 @@ nwolfe@metabiota.com, jessica@rockpaperrobot.com, david.gelernter@yale.edu, jess
 
 ## Set S03
 
-^ info@paulekman.com
-
-^ kosslyn@minervaproject.com
-
-^ doris.german@mountsinai.org
-
-^ trivers@rutgers.edu
-
-^ vstodden@usc.edu
-
-^ dgrosof@optiopia.com
-
-^ lindsay@labmedialab.com
-
-^ jthakuria@mgh.harvard.edu
-
-^ bmarsh@fas.harvard.edu
+# Next B/C
 
 ### Epstein Files Scientists
 
 ```
-nwolfe@metabiota.com, jessica@rockpaperrobot.com, david.gelernter@yale.edu, jess.ting@mountsinai.org, jhorner@chapman.edu, lander@broadinstitute.org, s.wolfram@wolfram.com, howard_gardner@harvard.edu, marchauser@me.com, yau@math.harvard.edu, ctarnita@princeton.edu, mjh@math.harvard.edu, larry@google.com, sergey@google.com, jjacquet@miami.edu, ted_kaptchuk@hms.harvard.edu, zuck@meta.com, pinker@wjh.harvard.edu, peter@diamandis.com, virza@mit.edu, pablos@pablos.com, richard.dawkins@biology.ox.ac.uk, slavin@mit.edu
+gbw@santafe.edu, neri@mit.edu, jcventer@jcvi.org, jaron.lanier@microsoft.com, gilbert@wjh.harvard.edu, lsmolin@perimeterinstitute.ca, rubin@stat.harvard.edu, greene@phys.columbia.edu, vramacha@ucsd.edu, sseung@princeton.edu, wilczek@mit.edu, icholas@media.mit.edu, judith@media.mit.edu, charper@media.mit.edu, hherr@media.mit.edu, ym@dst-global.com, gross@math.harvard.edu, christofk@alleninstitute.org, watson@cshl.edu, esvelt@mit.edu, gross@kitp.ucsb.edu, strominger@physics.harvard.edu, frances@cheme.caltech.edu, delaparra@mit.edu, linda@lindastone.net, tegmark@mit.edu, ek18@columbia.edu, ray@kurzweilai.net, damasio@usc.edu, kip@caltech.edu
 ```
 
 ### Count: 23
