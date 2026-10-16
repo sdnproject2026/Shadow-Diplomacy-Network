@@ -1,6 +1,6 @@
 # SDN-Sent-19-Email-To
 
-- ^ deletions from address list or NA
+^ deletions from address list or NA
 
 ## BCC
 
@@ -190,7 +190,7 @@ foreignrights@celadonbooks.com, press.inquiries@macmillan.com, macmillan.audio@m
 publicity@waterbrookmultnomah.com, penguinpressmarketing@penguinrandomhouse.com, information@emilyslist.org, press@emilyslist.org, info@workingfamilies.org, endorsements@workingfamilies.org, donate@indivisible.org, press@indivisible.org, harry@turnoutpac.org, info@fairfightaction.com, democracywatch@fairfightaction.com, info@votevets.org, team@swingleft.org, press@swingleft.org, talent@swingleft.org, info@leaderswedeserve.com, contact@janepac.com, press@janepac.com, info@thepacforamericasfuture.org, contact@nextgenamerica.org, press@nextgenamerica.org, giving@nextgenamerica.org, client@bulldogcompliance.com, info@senateleadershipfund.org, msz@paramount.com, Laura.watson@paramount.com, Kevin.creighton@paramount.com, logan.thomas@paramount.com, paramountgloballegalnotices@paramount.com
 ```
 
-### Count: 35
+### Count: 29
 
 ## Set R
 
@@ -349,22 +349,6 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 
 ^ cnnpr@cnn.com
 
-^ contact@billmoyers.com
-
-^ j.sundel@newsweek.com
-
-^ mediarelations@cbsnews.com
-
-^ info@paulekman.com
-
-^ doris.german@mountsinai.org
-
-^ sdnproject2026@onionmail.org
-
-^ lleitch@thresholdglobalworks.com
-
-^ DEA.IntelligenceProducts@dea.usdoj.gov
-
 ### Epstein Byline Emails
 
 ```
@@ -383,51 +367,80 @@ adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, f
 ### Select Gov't Emails
 
 ```
-DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov, dea.public.affairs@dea.gov, press@treasury.gov, Emily_Zahnle-Hostetler@wyden.senate.gov, keith_chu@wyden.senate.gov, nicole_lesperance@wyden.senate.gov, amanda_critchfield@finance.senate.gov, ryan_carey@finance.senate.gov, taylor_harvey@finance.senate.gov, alex_hughes@finance.senate.gov, DEA.IntelligenceProducts@dea.usdoj.gov
+DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov, dea.public.affairs@dea.gov, press@treasury.gov, Emily_Zahnle-Hostetler@wyden.senate.gov, keith_chu@wyden.senate.gov, nicole_lesperance@wyden.senate.gov, amanda_critchfield@finance.senate.gov, ryan_carey@finance.senate.gov, taylor_harvey@finance.senate.gov, alex_hughes@finance.senate.gov, DEA.IntelligenceProducts@dea.usdoj.gov, deamuseum@dea.gov
 ```
 
-### Count: 15
+### Count: 16
 
 ----
 
-# Epstein Files Mentions
-
 ## Set S01
 
-### Scientists
+^ bnikolic@biomarkerscapital.com
+
+^ hillis@appliedinvention.com
+
+^ elon@x.com
+
+### Epstein Files Scientists
 
 ```
-deamuseum@dea.gov, ruvkun@molbio.mgh.harvard.edu, bnikolic@biomarkerscapital.com, lhs@harvard.edu, krauss@asu.edu, bmarsh@fas.harvard.edu, martin_nowak@harvard.edu, joscha@mit.edu, chomsky@mit.edu, rhoffman@greylock.com, billg@gatesfoundation.org, afarkas@islandcapital.com, pthiel@foundersfund.com, gchurch@genetics.med.harvard.edu, gromov@ihes.fr, peter@peterattiamd.com, hillis@appliedinvention.com, roger@socraticarts.com, slloyd@mit.edu, elon@x.com, mtramo@mednet.ucla.edu, gino.yu@polyu.edu.hk, randall@physics.harvard.edu, esb@mit.edu, ng@cba.mit.edu, ra27@columbia.edu, ben@singularitynet.io, jeremy@rubin.io, dkamen@deka.com, vincenzo@slashid.dev
+ruvkun@molbio.mgh.harvard.edu, lhs@harvard.edu, krauss@asu.edu, martin_nowak@harvard.edu, joscha@mit.edu, chomsky@mit.edu, rhoffman@greylock.com, billg@gatesfoundation.org, pthiel@foundersfund.com, gchurch@genetics.med.harvard.edu, gromov@ihes.fr, peter@peterattiamd.com, roger@socraticarts.com, slloyd@mit.edu, mtramo@mednet.ucla.edu, randall@physics.harvard.edu, ra27@columbia.edu, ben@singularitynet.io, jeremy@rubin.io, vincenzo@slashid.dev
 ```
 
-### Count: 30
+### Count: 20
 
 ## Set S02
 
-### Scientists
+^ ng@cba.mit.edu
+
+^ afarkas@islandcapital.com
+
+^ esb@mit.edu
+
+^ gino.yu@polyu.edu.hk
+
+^ dkamen@deka.com
+
+### Epstein Files Scientists
 
 ```
-nwolfe@metabiota.com, trivers@rutgers.edu, jessica@rockpaperrobot.com, david.gelernter@yale.edu, jess.ting@mountsinai.org, jhorner@chapman.edu, lander@broadinstitute.org, jthakuria@mgh.harvard.edu, s.wolfram@wolfram.com, howard_gardner@harvard.edu, kosslyn@minervaproject.com, marchauser@me.com, yau@math.harvard.edu, ctarnita@princeton.edu, mjh@math.harvard.edu, larry@google.com, lindsay@labmedialab.com, sergey@google.com, jjacquet@miami.edu, ted_kaptchuk@hms.harvard.edu, zuck@meta.com, pinker@wjh.harvard.edu, peter@diamandis.com, dgrosof@optiopia.com, virza@mit.edu, pablos@pablos.com, vstodden@usc.edu, richard.dawkins@zoo.ox.ac.uk, slavin@mit.edu
+nwolfe@metabiota.com, jessica@rockpaperrobot.com, david.gelernter@yale.edu, jess.ting@mountsinai.org, jhorner@chapman.edu, lander@broadinstitute.org, s.wolfram@wolfram.com, howard_gardner@harvard.edu, marchauser@me.com, yau@math.harvard.edu, ctarnita@princeton.edu, mjh@math.harvard.edu, larry@google.com, sergey@google.com, jjacquet@miami.edu, ted_kaptchuk@hms.harvard.edu, zuck@meta.com, pinker@wjh.harvard.edu, peter@diamandis.com, virza@mit.edu, pablos@pablos.com, richard.dawkins@biology.ox.ac.uk, slavin@mit.edu
 ```
 
-### Count: 30
+### Count: 23
 
 ## Set S03
 
-# Next B/C
+^ info@paulekman.com
 
-### Scientists
+^ kosslyn@minervaproject.com
 
+^ doris.german@mountsinai.org
+
+^ trivers@rutgers.edu
+
+^ vstodden@usc.edu
+
+^ dgrosof@optiopia.com
+
+^ lindsay@labmedialab.com
+
+^ jthakuria@mgh.harvard.edu
+
+^ bmarsh@fas.harvard.edu
+
+### Epstein Files Scientists
 
 ```
-gbw@santafe.edu, neri@mit.edu, jcventer@jcvi.org, jaron.lanier@microsoft.com, gilbert@wjh.harvard.edu, lsmolin@perimeterinstitute.ca, rubin@stat.harvard.edu, greene@phys.columbia.edu, vramacha@ucsd.edu, sseung@princeton.edu, wilczek@mit.edu, icholas@media.mit.edu, judith@media.mit.edu, charper@media.mit.edu, hherr@media.mit.edu, ym@dst-global.com, gross@math.harvard.edu, christofk@alleninstitute.org, watson@cshl.edu, esvelt@mit.edu, gross@kitp.ucsb.edu, strominger@physics.harvard.edu, frances@cheme.caltech.edu, delaparra@mit.edu, tegmark@mit.edu, ek18@columbia.edu, ray@kurzweilai.net, damasio@usc.edu, kip@caltech.edu
+nwolfe@metabiota.com, jessica@rockpaperrobot.com, david.gelernter@yale.edu, jess.ting@mountsinai.org, jhorner@chapman.edu, lander@broadinstitute.org, s.wolfram@wolfram.com, howard_gardner@harvard.edu, marchauser@me.com, yau@math.harvard.edu, ctarnita@princeton.edu, mjh@math.harvard.edu, larry@google.com, sergey@google.com, jjacquet@miami.edu, ted_kaptchuk@hms.harvard.edu, zuck@meta.com, pinker@wjh.harvard.edu, peter@diamandis.com, virza@mit.edu, pablos@pablos.com, richard.dawkins@biology.ox.ac.uk, slavin@mit.edu
 ```
 
-### Count: 30
+### Count: 23
 
 ## Set S04
 
-### Scientists
+### Epstein Files Scientists
 
 ```
 ronald.j.reisman@nasa.gov, paul.kirkaas@gmail.com, jacobson@media.mit.edu, nathanm@intellectualventures.com, guth@ctp.mit.edu, g.thooft@uu.nl, dsasselov@cfa.harvard.edu, berwick@csail.mit.edu, aknoll@oeb.harvard.edu, gwhitesides@gmwgroup.harvard.edu, jgreene@wjh.harvard.edu, eloftus@uci.edu, michelle.wang2@va.gov, lenny@caltech.edu, merlin@merlinsheldrake.com, rhf3@cornell.edu, gazzaniga@psych.ucsb.edu, dhaig@oeb.harvard.edu, pesha@hms.harvard.edu, megan@shift7.com, wrangham@fas.harvard.edu, eliezer@intelligence.org, aaronson@cs.utexas.edu, c-riesbeck@northwestern.edu, thrun@stanford.edu, stanislas.dehaene@cea.fr, mfeldman@stanford.edu, maeda@maedastudio.com
@@ -437,7 +450,7 @@ ronald.j.reisman@nasa.gov, paul.kirkaas@gmail.com, jacobson@media.mit.edu, natha
 
 ## Set S05 
 
-### Scientists
+### Epstein Files Scientists
 
 ```
 lleitch@thresholdglobalworks.com, a.sloman@cs.bham.ac.uk, gjs@mit.edu, dwilson@binghamton.edu, danlieb@fas.harvard.edu, erik.mueller@gmail.com, info@paulekman.com, ashwin.ram@gmail.com, mark.blumenkranz@stanford.edu, doris.german@mountsinai.org, walkerm@uw.edu, rcolwell@umiacs.umd.edu, rbareiss@socraticarts.com, bkeating@ucsd.edu, jr@mit.edu
@@ -447,7 +460,7 @@ lleitch@thresholdglobalworks.com, a.sloman@cs.bham.ac.uk, gjs@mit.edu, dwilson@b
 
 ## Set S06
 
-### Scientists Non-EDU Domains
+### Epstein Files Scientists - Non-EDU 
 
 ```
 contact@biomarkerscapital.com, joi@ito.com, info@greylock.com, info@foundersfund.com, support@peterattiamd.com, info@appliedinvention.com, info@socraticarts.com, info@singularitynet.io, info@dekaresearch.com, support@slashid.dev, dan@danariely.com, inquire@rockpaperrobot.com, info@wolfram.com, info@minervaproject.com, info@diamandis.com, info@optiopia.com, contact@pablos.com, info@dst-global.com, info@alleninstitute.org, linda@lindastone.net, info@intven.com, hello@shift7.com, contact@intelligence.org, alvy@alvyray.com, peter@norvig.com, info@maedastudio.com, info@thresholdglobalworks.com, custserv@paulekman.com
@@ -459,36 +472,4 @@ contact@biomarkerscapital.com, joi@ito.com, info@greylock.com, info@foundersfund
 
 ---- 
 
-^ press@cbsnews.com
-
-^ cnn.viewerservices@cnn.com
-
-^ m.taheri@newsweek.com
-
-^ cnnpr@cnn.com
-
-^ contact@billmoyers.com
-
-^ j.sundel@newsweek.com
-
-^ mediarelations@cbsnews.com
-
-^ info@paulekman.com
-
-^ doris.german@mountsinai.org
-
-^ sdnproject2026@onionmail.org
-
-^ lleitch@thresholdglobalworks.com
-
-^ DEA.IntelligenceProducts@dea.usdoj.gov
-
-```
-adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com, newswatch@foxnews.com, evening@cbsnews.com, tips@cbsnews.com, cbsnewsdesk@cbs.com, history@bc.edu, info@inequalitymedia.org, tips@cnn.com
-
-```
-
-
-
-Count: 28
 
