@@ -32,6 +32,14 @@ _Who has been informed_
  
 ----
 
+SDN-14-Financial-06-Banks-Article
+
+- https://rentry.co/4ysc5ux4
+
+SDN-14-Financial-07-Banks-Analysis
+
+- https://rentry.co/2gqcpkfu
+
 SDN-27-Chain-Reaction-2010
 
 - https://rentry.co/uz4dfb87
