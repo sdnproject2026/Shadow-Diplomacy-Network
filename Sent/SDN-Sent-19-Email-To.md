@@ -430,20 +430,44 @@ nwolfe@metabiota.com, jessica@rockpaperrobot.com, david.gelernter@yale.edu, jess
 
 ## Set S03
 
+^ icholas@media.mit.edu
+
+^ ym@dst-global.com
+
+^ charper@media.mit.edu
+
+^ gross@math.harvard.edu
+
+^ mlegrand@gmwgroup.harvard.edu
+
+^ listmaster@listes.college-de-france.fr
+
+^ lenny@caltech.edu
+
+^ press@oxman.com
+
+^ contact@oxman.com
+
 ### Epstein Files Scientists
 
 ```
-gbw@santafe.edu, neri@mit.edu, jcventer@jcvi.org, jaron.lanier@microsoft.com, gilbert@wjh.harvard.edu, lsmolin@perimeterinstitute.ca, rubin@stat.harvard.edu, greene@phys.columbia.edu, vramacha@ucsd.edu, sseung@princeton.edu, wilczek@mit.edu, icholas@media.mit.edu, judith@media.mit.edu, charper@media.mit.edu, hherr@media.mit.edu, ym@dst-global.com, gross@math.harvard.edu, christofk@alleninstitute.org, watson@cshl.edu, esvelt@mit.edu, gross@kitp.ucsb.edu, strominger@physics.harvard.edu, frances@cheme.caltech.edu, delaparra@mit.edu, linda@lindastone.net, tegmark@mit.edu, ek18@columbia.edu, ray@kurzweilai.net, damasio@usc.edu, kip@caltech.edu
+gbw@santafe.edu, neri@mit.edu, jcventer@jcvi.org, jaron.lanier@microsoft.com, gilbert@wjh.harvard.edu, lsmolin@perimeterinstitute.ca, rubin@stat.harvard.edu, greene@phys.columbia.edu, vramacha@ucsd.edu, sseung@princeton.edu, wilczek@mit.edu, judith@media.mit.edu, hherr@media.mit.edu, christofk@alleninstitute.org, watson@cshl.edu, esvelt@mit.edu, gross@kitp.ucsb.edu, strominger@physics.harvard.edu, frances@cheme.caltech.edu, delaparra@mit.edu, linda@lindastone.net, tegmark@mit.edu, ek18@columbia.edu, ray@kurzweilai.net, damasio@usc.edu, kip@caltech.edu
 ```
 
 ### Count: 23
 
 ## Set S04
 
+^ merlin@merlinsheldrake.com
+
+^ ronald.j.reisman@nasa.gov
+
+^ pesha@hms.harvard.edu
+
 ### Epstein Files Scientists
 
 ```
-ronald.j.reisman@nasa.gov, paul.kirkaas@gmail.com, jacobson@media.mit.edu, nathanm@intellectualventures.com, guth@ctp.mit.edu, g.thooft@uu.nl, dsasselov@cfa.harvard.edu, berwick@csail.mit.edu, aknoll@oeb.harvard.edu, gwhitesides@gmwgroup.harvard.edu, jgreene@wjh.harvard.edu, eloftus@uci.edu, michelle.wang2@va.gov, lenny@caltech.edu, merlin@merlinsheldrake.com, rhf3@cornell.edu, gazzaniga@psych.ucsb.edu, dhaig@oeb.harvard.edu, pesha@hms.harvard.edu, megan@shift7.com, wrangham@fas.harvard.edu, eliezer@intelligence.org, aaronson@cs.utexas.edu, c-riesbeck@northwestern.edu, thrun@stanford.edu, stanislas.dehaene@cea.fr, mfeldman@stanford.edu, maeda@maedastudio.com
+paul.kirkaas@gmail.com, jacobson@media.mit.edu, nathanm@intellectualventures.com, guth@ctp.mit.edu, g.thooft@uu.nl, dsasselov@cfa.harvard.edu, berwick@csail.mit.edu, aknoll@oeb.harvard.edu, gwhitesides@gmwgroup.harvard.edu, jgreene@wjh.harvard.edu, eloftus@uci.edu, michelle.wang2@va.gov, rhf3@cornell.edu, gazzaniga@psych.ucsb.edu, dhaig@oeb.harvard.edu, megan@shift7.com, wrangham@fas.harvard.edu, eliezer@intelligence.org, aaronson@cs.utexas.edu, c-riesbeck@northwestern.edu, thrun@stanford.edu, stanislas.dehaene@cea.fr, mfeldman@stanford.edu, maeda@maedastudio.com
 ```
 
 ### Count: 30
