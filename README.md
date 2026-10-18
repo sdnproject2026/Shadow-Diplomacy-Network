@@ -34,7 +34,7 @@ _Who has been informed_
 
 SDN-14-Financial-06-Banks-Article
 
-- https://rentry.co/wtz4ddhc
+- https://rentry.co/ec9w5nr8
 
 SDN-14-Financial-07-Banks-Analysis
 
