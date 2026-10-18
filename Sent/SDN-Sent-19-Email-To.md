@@ -114,8 +114,6 @@ fiji@un.int, france@un.int, gabon@un.int, gambia@un.int, georgia@un.int, info@ne
 
 ## Set K
 
-# Next A
-
 ^ NA
 
 ```
@@ -125,6 +123,8 @@ liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un
 ### Count: 30
 
 ## Set L
+
+# Next A
 
 ^ NA
 
@@ -430,8 +430,6 @@ nwolfe@metabiota.com, jessica@rockpaperrobot.com, david.gelernter@yale.edu, jess
 
 ## Set S03
 
-# Next B/C
-
 ### Epstein Files Scientists
 
 ```
@@ -450,7 +448,9 @@ ronald.j.reisman@nasa.gov, paul.kirkaas@gmail.com, jacobson@media.mit.edu, natha
 
 ### Count: 30
 
-## Set S05 
+## Set S05
+
+# Next B/C
 
 ### Epstein Files Scientists
 
