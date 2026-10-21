@@ -14,6 +14,8 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
+# Next B/C
+
 ^ NA
 
 ```
@@ -124,8 +126,6 @@ liberia@un.int, libya@un.int, liechtenstein@un.int, madagascar@un.int, malawi@un
 
 ## Set L
 
-# Next A
-
 ^ NA
 
 ```
@@ -135,6 +135,8 @@ pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@
 ### Count: 30
 
 ## Set M
+
+# Next A
 
 ^ NA
 
@@ -473,8 +475,6 @@ paul.kirkaas@gmail.com, jacobson@media.mit.edu, nathanm@intellectualventures.com
 ### Count: 30
 
 ## Set S05
-
-# Next B/C
 
 ### Epstein Files Scientists
 
