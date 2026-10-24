@@ -14,9 +14,9 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
-# Next B/C
+# Next A/B/C
 
-^ NA
+^ info@thresholdglobalworks.com
 
 ```
 tips@thomsonreuters.com, markets@ft.com, support@investing.com, press@investing.com, info@investing.com, support@seekingalpha.com, press@seekingalpha.com, tips@qz.com, press@qz.com, info@qz.com, editors@barrons.com, press@barrons.com, info@ibtimes.com, tips@notus.org, press@mediamatters.org, tips@propublica.org, info@propublica.org, tips@reason.com, tips@politico.com, press@politico.com, letters@theatlantic.com, press@theatlantic.com, tips@mashable.com, press@mashable.com, press@motherjones.com, letters@newrepublic.com, press@newrepublic.com, info@newrepublic.com, press@newyorker.com, tips@oann.com, info@fancycomma.com
@@ -135,8 +135,6 @@ pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@
 ### Count: 30
 
 ## Set M
-
-# Next A
 
 ^ NA
 
@@ -412,8 +410,6 @@ ruvkun@molbio.mgh.harvard.edu, lhs@harvard.edu, krauss@asu.edu, martin_nowak@har
 
 ^ gino.yu@polyu.edu.hk
 
-^ doris.german@mountsinai.org
-
 ^ trivers@rutgers.edu
 
 ^ vstodden@usc.edu
@@ -476,20 +472,24 @@ paul.kirkaas@gmail.com, jacobson@media.mit.edu, nathanm@intellectualventures.com
 
 ## Set S05
 
+^ info@greylock.com
+
 ### Epstein Files Scientists
 
 ```
-lleitch@thresholdglobalworks.com, a.sloman@cs.bham.ac.uk, gjs@mit.edu, dwilson@binghamton.edu, danlieb@fas.harvard.edu, erik.mueller@gmail.com, info@paulekman.com, ashwin.ram@gmail.com, mark.blumenkranz@stanford.edu, doris.german@mountsinai.org, walkerm@uw.edu, rcolwell@umiacs.umd.edu, rbareiss@socraticarts.com, bkeating@ucsd.edu, jr@mit.edu
+a.sloman@cs.bham.ac.uk, gjs@mit.edu, dwilson@binghamton.edu, danlieb@fas.harvard.edu, erik.mueller@gmail.com, ashwin.ram@gmail.com, mark.blumenkranz@stanford.edu, walkerm@uw.edu, rcolwell@umiacs.umd.edu, rbareiss@socraticarts.com, bkeating@ucsd.edu, jr@mit.edu
 ```
 
 ### Count: 15
 
 ## Set S06
 
+^ info@thresholdglobalworks.com
+
 ### Epstein Files Scientists - Non-EDU 
 
 ```
-contact@biomarkerscapital.com, joi@ito.com, info@greylock.com, info@foundersfund.com, support@peterattiamd.com, info@appliedinvention.com, info@socraticarts.com, info@singularitynet.io, info@dekaresearch.com, support@slashid.dev, dan@danariely.com, inquire@rockpaperrobot.com, info@wolfram.com, info@minervaproject.com, info@diamandis.com, info@optiopia.com, contact@pablos.com, info@dst-global.com, info@alleninstitute.org, linda@lindastone.net, info@intven.com, hello@shift7.com, contact@intelligence.org, alvy@alvyray.com, peter@norvig.com, info@maedastudio.com, info@thresholdglobalworks.com, custserv@paulekman.com
+joi@ito.com, info@foundersfund.com, support@peterattiamd.com, info@appliedinvention.com, info@socraticarts.com, info@singularitynet.io, info@dekaresearch.com,, dan@danariely.com, inquire@rockpaperrobot.com, info@wolfram.com, info@minervaproject.com, info@diamandis.com, info@optiopia.com, contact@pablos.com, info@dst-global.com, info@alleninstitute.org, linda@lindastone.net, info@intven.com, hello@shift7.com, contact@intelligence.org, alvy@alvyray.com, peter@norvig.com, info@maedastudio.com, custserv@paulekman.com
 ```
 
 ### Count: 28
