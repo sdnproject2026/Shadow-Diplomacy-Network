@@ -14,7 +14,7 @@ Many Clone Requests
 
 https://github.com/sdnproject2026/Shadow-Diplomacy-Network/graphs/traffic
 
-All 'spikes' correlate to same-day email sent to the distribution list - ~100/day ~1,000/cycle ~10 days/cycle ~3 cycles/month. 
+All 'spikes' correlate to same-day email sent to the distribution list - ~100/day ~1,000/cycle  ~10 days/cycle ~3 cycles/month. 
 
 No email 'blasts' due to 'throttling'.
 
