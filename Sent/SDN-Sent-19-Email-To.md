@@ -14,8 +14,6 @@ sdnproject2026@onionmail.org, sdnproject2026@tutamail.com, sdnproject2026@mailne
 
 ## Set A
 
-# Next A/B/C
-
 ^ info@thresholdglobalworks.com
 
 ```
@@ -105,6 +103,8 @@ belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int,
 ### Count: 32
 
 ## Set J
+
+# Next A/B/C
 
 ^ NA
 
