@@ -42,6 +42,36 @@ _Who has been informed_
 
 Latest Chapters
 
+SDN-18-Miss-Teen-Pageants-02
+
+- https://rentry.co/y6aq3oew
+
+Miss Switzerland Raped 1993
+
+House Judiciary Committee
+
+A new report released by Democrats on the House Judiciary Committee.
+
+> ...plus corroboration from other people who were at the pageant.
+
+...
+
+...these details accurately reflect the contents of a congressional staff report released on October 26, 2026, by Democrats on the House Judiciary Committee.
+
+...
+
+Epstein and Trump and 11 Women
+
+The report, titled "Epstein and Trump," compiles accounts from 11 women to allege links between Donald Trump and Jeffrey Epstein's sex trafficking network, demanding that the Department of Justice appoint an independent special counsel.
+
+...
+
+Report Summary
+
+A former Miss Switzerland told House Democrats Trump raped her in 1993.
+
+Now their report is demanding an independent special counsel.
+
 SDN-SDN-13-Legal-53-NM-20261026
 
 - https://rentry.co/a8itxbga
