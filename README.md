@@ -24,6 +24,10 @@ No email 'blasts' due to 'throttling'.
 
 ----
 
+NEW PDFs in October PDF Archive
+
+----
+
 SDN-Sent-19-Email-To
 
 Emails Sent - Campaign History
