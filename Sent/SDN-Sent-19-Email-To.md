@@ -104,8 +104,6 @@ belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int,
 
 ## Set J
 
-# Next A/B/C
-
 ^ NA
 
 ```
@@ -135,6 +133,8 @@ pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@
 ### Count: 30
 
 ## Set M
+
+# Next A/B/C
 
 ^ NA
 
