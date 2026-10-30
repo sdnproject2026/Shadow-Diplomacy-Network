@@ -134,8 +134,6 @@ pakistan@un.int, palau@un.int, panama@un.int, png@un.int, paraguay@un.int, peru@
 
 ## Set M
 
-# Next A/B/C
-
 ^ NA
 
 ```
@@ -165,6 +163,8 @@ mespada@sabado.pt, anataborda@sabado.pt, angelamarques@sabado.pt, cstorres@sabad
 ### Count: 30
 
 ## Set P
+
+# Next A/B/C
 
 ^ NA
 
