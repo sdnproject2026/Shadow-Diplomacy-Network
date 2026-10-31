@@ -154,10 +154,10 @@ publicity@press.princeton.edu, media@pearson.com, publicity@bloomsbury.com, pres
 
 ## Set O
 
-^ NA
+^ marysuestrong@the-moderate.org
 
 ```
-mespada@sabado.pt, anataborda@sabado.pt, angelamarques@sabado.pt, cstorres@sabado.pt, portal@cmjornal.pt, geral@cmjornal.pt, eduardodamaso@cmjornal.pt, ugyelet@telex.hu, press@telex.hu, tamogatas@telex.hu, telexhu@protonmail.com, sudouest-publicite@sudouest.fr, yourvoice@bbc.co.uk, newswatch@bbc.co.uk, bbcnewsline@bbc.co.uk, info@nolabels.org, candidates@forwardparty.com, Janica@pcmsllc.com, marysuestrong@the-moderate.org, tystrong@the-moderate.org, tres@capitolreins.com, info@commonsenseamericapac.com, info@mainstreetparty.org, tsjoseph@mainstreetparty.org, lschaefer@mainstreetparty.org, cacspac@pdscompliance.com, admin@pdscompliance.com, tmoose@hdlfec.com, publisher-support@google.com, contact@celadonbooks.com
+mespada@sabado.pt, anataborda@sabado.pt, angelamarques@sabado.pt, cstorres@sabado.pt, portal@cmjornal.pt, geral@cmjornal.pt, eduardodamaso@cmjornal.pt, ugyelet@telex.hu, press@telex.hu, tamogatas@telex.hu, telexhu@protonmail.com, sudouest-publicite@sudouest.fr, yourvoice@bbc.co.uk, newswatch@bbc.co.uk, bbcnewsline@bbc.co.uk, info@nolabels.org, candidates@forwardparty.com, Janica@pcmsllc.com, tystrong@the-moderate.org, tres@capitolreins.com, info@commonsenseamericapac.com, info@mainstreetparty.org, tsjoseph@mainstreetparty.org, lschaefer@mainstreetparty.org, cacspac@pdscompliance.com, admin@pdscompliance.com, tmoose@hdlfec.com, publisher-support@google.com, contact@celadonbooks.com
 ```
 
 ### Count: 30
