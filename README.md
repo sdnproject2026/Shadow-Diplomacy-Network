@@ -46,6 +46,12 @@ _Who has been informed_
 
 Latest Chapters
 
+SDN-14-Financial-08-FinCen-01
+
+- https://rentry.co/woiv3h2m
+
+- FinCEN series 01-05, See Breaking News
+
 SDN-18-Miss-Teen-Pageants-02
 
 - https://rentry.co/y6aq3oew
