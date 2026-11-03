@@ -164,8 +164,6 @@ mespada@sabado.pt, anataborda@sabado.pt, angelamarques@sabado.pt, cstorres@sabad
 
 ## Set P
 
-# Next A/B/C
-
 ^ NA
 
 ```
@@ -203,6 +201,8 @@ accounting@senateleadershipfund.org, treasurer@clubforgrowth.org, jkildea@clubfo
 ### Count: 32
 
 ## Set S
+
+# Next A/B/C
 
 ^ NA
 
