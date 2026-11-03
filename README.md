@@ -46,15 +46,76 @@ _Who has been informed_
 
 Latest Chapters
 
+
+SDN-14-Financial-08-FinCen-09-Phang-Bessent
+
+- https://rentry.co/sh8dzcwu
+
+- 2026-11-01
+
+- Senator Widen may be able to leverage the Secretary Bessent  / Patel Minnesota FinCEN major announcement
+
+- going after money laundering terrorists AND money laundering traffickers
+
+- 2010s - 2020s...
+
+- just say'n
+
 SDN-14-Financial-08-FinCen-01
 
 - https://rentry.co/woiv3h2m
 
-- FinCEN series 01-05, See Breaking News
+- 2026-10-30
+
+- Bessent / Patel Minnesota FinCEN major announcement, going after money laundering terrorists, a series of SDN chapters 01 - 09.
+
+SDN-14-Financial-08-FinCen-02-Banks
+
+- https://rentry.co/bhfyp6ic
+
+- 2026-10-30
+
+SDN-14-Financial-08-FinCen-03-Epstein
+
+- https://rentry.co/dy7tv96n
+
+- 2026-10-31
+
+SDN-14-Financial-08-FinCen-04-Loopholes
+
+- https://rentry.co/imzym2zt
+
+- 2026-10-30
+
+SDN-14-Financial-08-FinCen-05-Lawsuits
+
+- https://rentry.co/byz9tmod
+
+- 2026-10-30
+
+SDN-14-Financial-08-FinCen-06-Lake-Michagin-Yatchs
+
+- https://rentry.co/p6foosvv
+
+- 2026-10-31
+
+SDN-14-Financial-08-FinCen-07-Interlochen-1967
+
+- https://rentry.co/8ibrizgp
+
+- 2026-10-31
+
+SDN-14-Financial-08-FinCen-08-Interlochen-1994
+
+- https://rentry.co/mv8ebmrv
+
+- 2026-10-31
 
 SDN-18-Miss-Teen-Pageants-02
 
 - https://rentry.co/y6aq3oew
+
+- 2026-10-27
 
 Miss Switzerland Raped 1993
 
@@ -63,10 +124,6 @@ House Judiciary Committee
 A new report released by Democrats on the House Judiciary Committee.
 
 > ...plus corroboration from other people who were at the pageant.
-
-...
-
-...these details accurately reflect the contents of a congressional staff report released on October 26, 2026, by Democrats on the House Judiciary Committee.
 
 ...
 
@@ -81,52 +138,6 @@ Report Summary
 A former Miss Switzerland told House Democrats Trump raped her in 1993.
 
 Now their report is demanding an independent special counsel.
-
-SDN-SDN-13-Legal-53-NM-20261026
-
-- https://rentry.co/a8itxbga
-
-Freeze $100 Million Estate Funds
-
-Status as of October 25, 2026
-
-New Mexico Attorney General Raúl Torrez filed a federal civil lawsuit against Jeffrey Epstein accomplices:
-
-- personal attorney Darren Indyke
-
-- accountant Richard Kahn
-
-accusing them of financing and concealing Epstein's sex trafficking operation. 
-
-Law Enforcement Action
-
-Filed in the US District Court for the District of New Mexico, the lawsuit marks the first major law enforcement action taken directly against either adviser.
-
-...
-
-SDN-14-Financial-06-Banks-Article
-
-- https://rentry.co/ec9w5nr8
-  - reposted - blocked?
-- https://pastebin.com/N3FEYCgp
-
-SDN-14-Financial-07-Banks-Analysis
-
-- https://rentry.co/2gqcpkfu
-
-The GitHub `rhowardstone/Epstein-research` Dataset 10 comprehensive-name-search report supplies dataset-specific results for several people in this analysis. It describes 209,829 distinct documents scanned and a broader search across 545,293 text records. Its report distinguishes its redaction-layer counts from higher full-text corpus counts, and warns that some source material consists of unverified FBI tip submissions. 
-
-These results must not be presented as verified counts across the complete DOJ archive.
-
-Mentions
-
-Jes Staley
-
-Former Barclays chief executive and JPMorgan executive. The article concerns his professional and personal relationship with Jeffrey Epstein, Barclays' executive recruitment and vetting procedures, regulatory scrutiny, and Staley's subsequent departure from Barclays. A GitHub investigation identifies Staley in emails, financial records, calendars, and other EFTA documents. A separate dataset-specific report lists 14 mentions in its Dataset 10 comprehensive-name-search analysis.
-
-Thishis is not a deduplicated count across the entire DOJ archive.
-
-- Count: 14
 
 ...
 
