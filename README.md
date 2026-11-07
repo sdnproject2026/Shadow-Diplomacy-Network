@@ -49,6 +49,24 @@ _Who has been informed_
 Latest Chapters
 
 
+SDN-42-Modeling-Agencies-01-Analysis
+
+- https://rentry.co/7hpderan
+
+- 2026-11-06
+
+SDN-42-Modeling-Agencies-02-Phonebook
+
+- https://rentry.co/2ifyaoa3
+
+- 2026-11-06
+
+SDN-42-Modeling-Agencies-03-Narrative
+
+- https://rentry.co/mh9igtbk
+
+- 2026-11-06
+
 SDN-13-Legal-53-Investigate-01-Epstein-Network
 
 - https://rentry.co/8epynwqi
