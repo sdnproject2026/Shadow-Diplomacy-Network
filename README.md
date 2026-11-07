@@ -47,51 +47,77 @@ _Who has been informed_
 Latest Chapters
 
 
+SDN-13-Legal-53-Investigate-01-Epstein-Network
+
+- https://rentry.co/8epynwqi
+
+- 2026-11-06
+
+SDN-13-Legal-53-Investigate-02-Military-Operations
+
+- https://rentry.co/8a9hbesc
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-03-War-in-Iran
+
+- https://rentry.co/eymbsw4u
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-04-Cryptocurrency
+
+- https://rentry.co/avh8tpp4
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-05-International-Crimes
+
+- https://rentry.co/36cxssak
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-06-Federal-Agency-Favoritism
+
+- https://rentry.co/xkv7sca4
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-07-Defense-Contracting-Conflicts
+
+- https://rentry.co/evk2tu47
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-08-Donations-and-Land-Leasing
+
+- https://rentry.co/6ersh7ei
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-09-Fossil-Fuel-Industry-Favoritism
+
+- https://rentry.co/wuma4i2c
+
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-10-Dark-Money
+
+- https://rentry.co/7265efti
+
+- 2026-11-05
+
 SDN-14-Financial-08-FinCen-09-Phang-Bessent
 
 - https://rentry.co/sh8dzcwu
 
 - 2026-11-01
 
-- Senator Widen may be able to leverage the Secretary Bessent  / Patel Minnesota FinCEN major announcement
-
-- going after money laundering terrorists AND money laundering traffickers
-
-- 2010s - 2020s...
-
-- just say'n
-
-SDN-14-Financial-08-FinCen-01
-
-- https://rentry.co/woiv3h2m
-
-- 2026-10-30
-
-- Bessent / Patel Minnesota FinCEN major announcement, going after money laundering terrorists, a series of SDN chapters 01 - 09.
-
-SDN-14-Financial-08-FinCen-02-Banks
-
-- https://rentry.co/bhfyp6ic
-
-- 2026-10-30
-
 SDN-14-Financial-08-FinCen-03-Epstein
 
 - https://rentry.co/dy7tv96n
 
 - 2026-10-31
-
-SDN-14-Financial-08-FinCen-04-Loopholes
-
-- https://rentry.co/imzym2zt
-
-- 2026-10-30
-
-SDN-14-Financial-08-FinCen-05-Lawsuits
-
-- https://rentry.co/byz9tmod
-
-- 2026-10-30
 
 SDN-14-Financial-08-FinCen-06-Lake-Michagin-Yatchs
 
@@ -111,11 +137,41 @@ SDN-14-Financial-08-FinCen-08-Interlochen-1994
 
 - 2026-10-31
 
-SDN-18-Miss-Teen-Pageants-02
+SDN-14-Financial-08-FinCen-01
 
-- https://rentry.co/y6aq3oew
+- https://rentry.co/woiv3h2m
 
-- 2026-10-27
+- 2026-10-30
+
+SDN-14-Financial-08-FinCen-02-Banks
+
+- https://rentry.co/bhfyp6ic
+
+- 2026-10-30
+
+SDN-14-Financial-08-FinCen-04-Loopholes
+
+- https://rentry.co/imzym2zt
+
+- 2026-10-30
+
+SDN-14-Financial-08-FinCen-05-Lawsuits
+
+- https://rentry.co/byz9tmod
+
+- 2026-10-30
+
+SDN-SDN-13-Legal-53-NM-20261026
+
+- https://rentry.co/a8itxbga
+
+- 2026-10-26omnts-02
+
+SDN-18-Miss-Teen-Pagents-02
+
+ - https://rentry.co/y6aq3oew
+
+ - 2026-10-27
 
 Miss Switzerland Raped 1993
 
