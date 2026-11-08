@@ -14,6 +14,7 @@ adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, f
 sdnproject2026@onionmail.org
 ```
 
+
 ## SDN
 
 90+ year Shadow Diplomacy Network
@@ -28,6 +29,22 @@ sdnproject2026@onionmail.org
 
 ## SDN Newest Chapters
 
+
+SDN-42-Modeling-Agencies-01-Analysis
+
+- https://rentry.co/wt77wdkv
+
+- 2026-11-06
+
+SDN-42-Modeling-Agencies-02-Phonebook
+
+- https://rentry.co/2ifyaoa3
+
+- 2026-11-06
+
+SDN-42-Modeling-Agencies-03-Narrative
+
+- https://rentry.co/mh9igtbk
 
 SDN-13-Legal-53-Investigate-01-Epstein-Network
 
@@ -143,7 +160,7 @@ SDN-14-Financial-08-FinCen-05-Lawsuits
 
 - 2026-10-30
 
-SDN-SDN-13-Legal-53-NM-20261026
+SDN-13-Legal-53-NM-20261026
 
 - https://rentry.co/a8itxbga
 
@@ -201,32 +218,6 @@ SDN-00-06-Dozens-Of-Chapters
 
 - https://rentry.co/iv6ohyz4
 
------
+----
 
------
-
-## SDN 13 New Angle of Attack
-
-SDN-13-Legal-14-Perps-LLM
-
-- https://rentry.co/bfuppbc4 - Query
-
-- https://rentry.co/txx3yftp - Perplexity Steps
-
-- https://rentry.co/audyoemi - Duck-AI Steps
-
-- https://rentry.co/5gayihtd - ChatGPT Steps
-
-## SDN 00 Origin Efforts
-
-SDN-00-01-Elevator-Pitch
-
-- https://rentry.co/o2hkaid5
-
-SDN-00-06-Dozens-Of-Chapters
-
-- https://rentry.co/iv6ohyz4
-
------
-
------
+----

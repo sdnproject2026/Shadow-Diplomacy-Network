@@ -29,6 +29,22 @@ sdnproject2026@onionmail.org
 ## SDN Newest Chapters
 
 
+SDN-42-Modeling-Agencies-01-Analysis
+
+- https://rentry.co/wt77wdkv
+
+- 2026-11-06
+
+SDN-42-Modeling-Agencies-02-Phonebook
+
+- https://rentry.co/2ifyaoa3
+
+- 2026-11-06
+
+SDN-42-Modeling-Agencies-03-Narrative
+
+- https://rentry.co/mh9igtbk
+
 SDN-13-Legal-53-Investigate-01-Epstein-Network
 
 - https://rentry.co/8epynwqi
@@ -143,7 +159,7 @@ SDN-14-Financial-08-FinCen-05-Lawsuits
 
 - 2026-10-30
 
-SDN-SDN-13-Legal-53-NM-20261026
+SDN-13-Legal-53-NM-20261026
 
 - https://rentry.co/a8itxbga
 
