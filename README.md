@@ -1,6 +1,6 @@
 README.md
 
-- https://rentry.co/wsah9ubi
+- https://rentry.co/wsah9ub
 
 > Notes:  
  
