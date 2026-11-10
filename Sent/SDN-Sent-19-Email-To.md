@@ -74,6 +74,8 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 
 ## Set G
 
+# Next A/B/C
+
 ^ NA
 
 ```
@@ -351,10 +353,12 @@ rbrunner@washingtonian.com, jemima@theinformation.com, abe@theinformation.com, j
 
 ^ history@bc.edu
 
+^ cbsnewsdesk@cbs.com
+
 ### Epstein Byline Emails
 
 ```
-adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com, newswatch@foxnews.com, evening@cbsnews.com, tips@cbsnews.com, cbsnewsdesk@cbs.com, info@inequalitymedia.org, tips@cnn.com
+adurkee@forbes.com, zfolk@forbes.com, sray@forbes.com, corrections@forbes.com, feedback@forbes.com, callum.sutherland@time.com, chantelle.lee@time.com, philip.wang@time.com, rebecca.schneid@time.com, richard.hall@time.com, h.parry@newsweek.com, s.mollman@newsweek.com, a.stanton@newsweek.com, k.rahman@newsweek.com, d.gooding@newsweek.com, g.whisnant@newsweek.com, j.lemon@newsweek.com, g.thomas@newsweek.com, c.diciu@newsweek.com, m.robinson@newsweek.com, d.siminoff@newsweek.com, newswatch@foxnews.com, evening@cbsnews.com, tips@cbsnews.com, info@inequalitymedia.org, tips@cnn.com
 
 ```
 
@@ -377,8 +381,6 @@ DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov,
 ----
 
 ## Set S01
-
-# Next A/B/C
 
 ^ bnikolic@biomarkerscapital.com
 
