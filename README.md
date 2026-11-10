@@ -21,11 +21,11 @@ All plain-text Markdown-formatted Chapters
 
 2. Thomas Massie
 
-  - R US Representative (KY-04)
+    - R US Representative (KY-04)
 
 3. Nancy Mace
 
-  - R US Representative (SC-01)
+    - R US Representative (SC-01)
 
 1. Chuck Schumer
 
