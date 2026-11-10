@@ -1,6 +1,3 @@
-README.md
-
-- https://rentry.co/wsah9ub
 
 > Notes:  
  
@@ -12,21 +9,121 @@ also
 
 All plain-text Markdown-formatted Chapters
 
-~200 *.md files
+----
 
 ----
 
-Many Clone Requests
+## Work together in 2027
+
+1. Ro Khanna
+
+    - D US Representative (CA-17)
+
+2. Thomas Massie
+
+  - R US Representative (KY-04)
+
+3. Nancy Mace
+
+  - R US Representative (SC-01)
+
+1. Chuck Schumer
+
+    - D US Senator (NY)
+
+2. Jim McGovern
+
+    - D US Representative (MA-02)
+
+3. Robert Garcia
+
+    - D US Representative (CA-42)
+
+4. Jamie Raskin
+
+    - D US Representative (MD-08)
+
+5. Teresa Leger Fernández
+
+    - D US Representative (NM-03)
+
+6. Jeff Merkley
+
+    - D US Senator (OR)
+
+7. Ben Ray Luján
+
+    - D US Senator (NM)
+
+8. Katie Phang
+
+   - MeidasTouch Network (News)
+
+   - Trial Attorney / FL Journalist
+
+     - Wrap up retail attacks 
+
+     - GO wholesale
+
+     - Leverage 'wins' to get 3M+ more docs
+
+## Angles of Attack
+
+### Make Direct appeals to 20+ foreign investigations
+
+- Skip past USA DOJ, FBI, DEA, Treasury
+
+- Go Direct to sources, foreign language docs
+
+### Scour the 2014 Panama Papers 2T+ data trove
+
+- NOT as 'evidence', as starting points
+
+- Go after 'primary' sources, political pressure
+
+- File suits in foreign countries, MLAT's
+
+###  Make Direct appeals to Treasury SARS
+
+- Call out Bessent/Patel on MN announced plans
+
+- Explore foreign country asset freezes, investigations
+
+- Note Terrorist SaBaab AND Trafficker Epstein 
+
+- Show Over-lapping 20th Century money laundering
+
+### Call out USA DEA (OCDETF) drug investigations
+
+- 69 Page redacted final report 
+
+- Epstein gang was into drugs and drugging
+
+- 2026-08-04 "Wall Street Banks Enabled..."
+
+- RICO in all countries, in many USA States
+
+### Go after EFTA-sourced Bear Sterns leads
+
+- "Special Products Group" spreadsheets
+
+- Unredacted lists of accounts
+
+----
+
+----
+
+See the many GitHub clone requests
 
 https://github.com/sdnproject2026/Shadow-Diplomacy-Network/graphs/traffic
 
 All 'spikes' correlate to same-day email sent to the distribution list - ~100/day ~1,000/cycle  ~10 days/cycle ~3 cycles/month. 
 
-No email 'blasts' due to 'throttling'.
+No email 'blasts' due to server 'throttling'.
 
 ----
 
-NEW PDFs in October PDF Archive
+Find new PDFs now in October PDF Archive
 
 ----
 
@@ -46,26 +143,7 @@ _Who has been informed_
  
 ----
 
-Latest Chapters
-
-
-SDN-42-Modeling-Agencies-01-Analysis
-
-- https://rentry.co/7hpderan
-
-- 2026-11-06
-
-SDN-42-Modeling-Agencies-02-Phonebook
-
-- https://rentry.co/2ifyaoa3
-
-- 2026-11-06
-
-SDN-42-Modeling-Agencies-03-Narrative
-
-- https://rentry.co/mh9igtbk
-
-- 2026-11-06
+## Latest Chapters
 
 SDN-13-Legal-53-Investigate-01-Epstein-Network
 
@@ -75,7 +153,7 @@ SDN-13-Legal-53-Investigate-01-Epstein-Network
 
 SDN-13-Legal-53-Investigate-02-Military-Operations
 
-- https://rentry.co/8a9hbesc
+- https://rentry.co/iw393vy9
 
 - 2026-11-05
 
@@ -127,63 +205,15 @@ SDN-13-Legal-53-Investigate-10-Dark-Money
 
 - 2026-11-05
 
-SDN-14-Financial-08-FinCen-09-Phang-Bessent
-
-- https://rentry.co/sh8dzcwu
-
-- 2026-11-01
-
-SDN-14-Financial-08-FinCen-03-Epstein
-
-- https://rentry.co/dy7tv96n
-
-- 2026-10-31
-
-SDN-14-Financial-08-FinCen-06-Lake-Michagin-Yatchs
-
-- https://rentry.co/p6foosvv
-
-- 2026-10-31
-
-SDN-14-Financial-08-FinCen-07-Interlochen-1967
-
-- https://rentry.co/8ibrizgp
-
-- 2026-10-31
-
-SDN-14-Financial-08-FinCen-08-Interlochen-1994
-
-- https://rentry.co/mv8ebmrv
-
-- 2026-10-31
-
-SDN-14-Financial-08-FinCen-01
-
-- https://rentry.co/woiv3h2m
-
-- 2026-10-30
-
-SDN-14-Financial-08-FinCen-02-Banks
-
-- https://rentry.co/bhfyp6ic
-
-- 2026-10-30
-
-SDN-14-Financial-08-FinCen-04-Loopholes
-
-- https://rentry.co/imzym2zt
-
-- 2026-10-30
-
-SDN-14-Financial-08-FinCen-05-Lawsuits
-
-- https://rentry.co/byz9tmod
-
-- 2026-10-30
-
 SDN-SDN-13-Legal-53-NM-20261026
 
 - https://rentry.co/a8itxbga
+
+- 2026-10-26
+
+SDN-18-Miss-Teen-Pageants-02
+
+- https://rentry.co/y6aq3oew
 
 - 2026-10-26omnts-02
 
@@ -193,9 +223,9 @@ SDN-18-Miss-Teen-Pagents-02
 
  - 2026-10-27
 
-Miss Switzerland Raped 1993
+## Miss Switzerland Raped in 1993
 
-House Judiciary Committee
+### House Judiciary Committee
 
 A new report released by Democrats on the House Judiciary Committee.
 
@@ -601,7 +631,7 @@ Spanning 400+ years
 Why not?
 
 - Regime Change(s) - Nations, States, & Local !
-- Done Right, Legal-like, with Voting !!
+    - Done Right, Legal-like, with Voting !!
 - Not Only One Time, for decades to come !!!
 
 Note:
