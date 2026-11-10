@@ -1,4 +1,4 @@
-### Metadata List
+### SDN-00-Breaking-News-List.md
 
 SDN-13-Legal-52-FBI-Counter-Arguments
 
@@ -167,6 +167,42 @@ SDN-42-Modeling-Agencies-03-Narrative
 - https://rentry.co/mh9igtbk
 
 - 2026-11-06
+
+SDN-43-60-Minutes-01-1988
+
+- https://rentry.co/xqchzeh5
+
+- 2026-11-08
+
+SDN-43-60-Minutes-02-Kiran
+
+- https://rentry.co/2id3e8e4
+
+- 2026-11-08
+
+SDN-43-60-Minutes-03-MC2
+
+- https://rentry.co/tq92myi3
+
+- 2026-11-08
+
+SDN-43-60-Minutes-04-Elite
+
+- https://rentry.co/dmzvchgg
+
+- 2026-11-08
+
+SDN-43-60-Minutes-05-1Mother
+
+- https://rentry.co/u7sw4zgc
+
+- 2026-11-08
+
+SDN-43-60-Minutes-06-Linea12
+
+- https://rentry.co/25xsxpyc
+
+- 2026-11-08
 
 SDN-98-14-Scientists
 
