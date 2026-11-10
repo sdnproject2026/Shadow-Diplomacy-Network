@@ -61,11 +61,11 @@ All plain-text Markdown-formatted Chapters
 
    - Trial Attorney / FL Journalist
 
-     - Wrap up retail attacks 
+     - Wrap up your retail attacks 
 
-     - GO wholesale
+     - Go wholesale
 
-     - Leverage 'wins' to get 3M+ more docs
+     - Leverage your 'wins', get 3M+ more docs
 
 ## Angles of Attack
 
