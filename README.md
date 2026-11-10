@@ -57,6 +57,8 @@ All plain-text Markdown-formatted Chapters
 
 8. Katie Phang
 
+   - Phang vs. Blanche
+
    - MeidasTouch Network (News)
 
    - Trial Attorney / FL Journalist
