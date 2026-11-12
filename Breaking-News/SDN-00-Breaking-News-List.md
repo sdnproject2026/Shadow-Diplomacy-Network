@@ -1,4 +1,4 @@
-### SDN-00-Breaking-News-List.md
+### SDN-00-Breaking-News-List
 
 SDN-13-Legal-52-FBI-Counter-Arguments
 
@@ -71,6 +71,30 @@ SDN-SDN-13-Legal-53-NM-20261026
 - https://rentry.co/a8itxbga
 
 - 2026-10-26
+
+SDN-13-Legal-54-House-Vote-01-Nov-11
+
+- https://rentry.co/kas6pxbm 
+
+- 2026-11-00
+
+SDN-13-Legal-55-GOP-Report-Nov-10-01
+
+- https://rentry.co/bymef2zx
+
+- 2026-11-08
+
+SDN-13-Legal-55-GOP-Report-Nov-10-02
+
+- https://rentry.co/oq9ox77g
+
+- 2026-11-08
+
+SDN-13-Legal-55-GOP-Report-Nov-10-03
+
+- https://rentry.co/4p2d89nt 
+
+- 2026-11-08
 
 SDN-14-Financial-06-Banks-Article
 
@@ -203,6 +227,18 @@ SDN-43-60-Minutes-06-Linea12
 - https://rentry.co/25xsxpyc
 
 - 2026-11-08
+
+SDN-43-60-Minutes-07-Identity-Models
+
+- 2026-11-00
+
+SDN-43-60-Minutes-08-Source-Models
+
+- 2026-11-00
+
+SDN-43-60-Minutes-09-MC2-Tel-Aviv
+
+- 2026-11-00
 
 SDN-98-14-Scientists
 
