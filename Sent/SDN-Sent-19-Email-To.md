@@ -74,8 +74,6 @@ tips@thefp.com, corrections@huffpost.com, tips@theintercept.com, tips@latimes.co
 
 ## Set G
 
-# Next A/B/C
-
 ^ NA
 
 ```
@@ -105,6 +103,8 @@ belarus@un.int, belarus.un@mfa.gov.by, newyorkun@diplobel.fed.be, belize@un.int,
 ### Count: 32
 
 ## Set J
+
+# Next A/B/C
 
 ^ NA
 
