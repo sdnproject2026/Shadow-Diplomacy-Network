@@ -96,7 +96,7 @@ All plain-text Markdown-formatted Chapters
 
 - Explore foreign country asset freezes, investigations
 
-- Note Terrorist SaBaab AND Trafficker Epstein 
+- Note Terrorist Al-Shabaab AND Trafficker Epstein 
 
 - Show Over-lapping 20th Century money laundering
 
