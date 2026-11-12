@@ -17,57 +17,59 @@ All plain-text Markdown-formatted Chapters
 
 1. Ro Khanna
 
-    - D US Representative (CA-17)
+    - D US Rep. (CA-17)
 
 2. Thomas Massie
 
-    - R US Representative (KY-04)
+   - R US Rep. (KY-04)
 
 3. Nancy Mace
 
-    - R US Representative (SC-01)
+   - R US Rep. (SC-01)
 
-1. Chuck Schumer
+4. Chuck Schumer
 
-    - D US Senator (NY)
+    - D US Sen. (NY)
 
-2. Jim McGovern
+5. Jim McGovern
 
-    - D US Representative (MA-02)
+    - D US Rep. (MA-02)
 
-3. Robert Garcia
+6. Robert Garcia
 
-    - D US Representative (CA-42)
+    - D US Rep. (CA-42)
 
-4. Jamie Raskin
+7. Jamie Raskin
 
-    - D US Representative (MD-08)
+    - D US Rep. (MD-08)
 
-5. Teresa Leger Fernández
+8. Teresa Leger Fernández
 
-    - D US Representative (NM-03)
+    - D US Rep. (NM-03)
 
-6. Jeff Merkley
+9. Jeff Merkley
 
-    - D US Senator (OR)
+    - D US Sen. (OR)
 
-7. Ben Ray Luján
+10. Ben Ray Luján
 
-    - D US Senator (NM)
+    - D US Sen. (NM)
 
-8. Katie Phang
-
-   - Phang vs. Blanche
+11. Katie Phang
 
    - MeidasTouch Network (News)
 
    - Trial Attorney / FL Journalist
 
-     - Wrap up your retail attacks 
+     - Phang vs. Blanche - 2026
+
+     - Wrap up your retail attacks
 
      - Go wholesale
 
-     - Leverage your 'wins', get 3M+ more docs
+     - Leverage your 'wins'
+ 
+     - Get 3M+ more docs
 
 ## Angles of Attack
 
@@ -111,8 +113,6 @@ All plain-text Markdown-formatted Chapters
 
 - Unredacted lists of accounts
 
-- Financial crimes leads
-
 ----
 
 ----
@@ -148,6 +148,28 @@ _Who has been informed_
 ----
 
 ## Latest Chapters
+
+SDN-13-Legal-54-House-Vote-01-Nov-11
+
+- https://rentry.co/kas6pxbm 
+
+- 2026-11-11
+
+SDN-13-Legal-55-GOP-Report-Nov-10-01
+
+- https://rentry.co/bymef2zx
+
+- 2026-11-08
+
+SDN-13-Legal-55-GOP-Report-Nov-10-02
+
+- https://rentry.co/oq9ox77g
+
+- 2026-11-08
+
+SDN-13-Legal-55-GOP-Report-Nov-10-03
+
+- https://rentry.co/4p2d89nt 
 
 SDN-13-Legal-53-Investigate-01-Epstein-Network
 
