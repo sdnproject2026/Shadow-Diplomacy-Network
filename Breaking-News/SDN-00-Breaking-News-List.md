@@ -1,4 +1,4 @@
-### SDN-00-Breaking-News-List
+### Metadata List
 
 SDN-13-Legal-52-FBI-Counter-Arguments
 
@@ -93,6 +93,12 @@ SDN-13-Legal-55-GOP-Report-Nov-10-02
 SDN-13-Legal-55-GOP-Report-Nov-10-03
 
 - https://rentry.co/4p2d89nt 
+
+- 2026-11-08
+
+SDN-13-Legal-56-Phang-20261112
+
+- https://rentry.co/knq4xrif 
 
 - 2026-11-08
 
@@ -227,18 +233,6 @@ SDN-43-60-Minutes-06-Linea12
 - https://rentry.co/25xsxpyc
 
 - 2026-11-08
-
-SDN-43-60-Minutes-07-Identity-Models
-
-- 2026-11-00
-
-SDN-43-60-Minutes-08-Source-Models
-
-- 2026-11-00
-
-SDN-43-60-Minutes-09-MC2-Tel-Aviv
-
-- 2026-11-00
 
 SDN-98-14-Scientists
 
