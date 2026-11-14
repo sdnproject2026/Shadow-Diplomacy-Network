@@ -1,6 +1,3 @@
-README.md
-
-- https://rentry.co/xos4eas8
 
 > Notes:  
  
@@ -151,6 +148,24 @@ _Who has been informed_
 ----
 
 ## Latest Chapters
+
+SDN-44-Countries-01-Profiles
+
+- https://rentry.co/sspwy4rx 
+
+- 2026-11-13
+
+SDN-44-Countries-02-Legal-Cooperation
+
+- https://rentry.co/qowb7pem 
+
+- 2026-11-13
+
+SDN-44-Countries-03-Epstein-Places
+
+- https://rentry.co/8r2krdn3 
+
+- 2026-11-13
 
 SDN-13-Legal-54-House-Vote-01-Nov-11
 
