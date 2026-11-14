@@ -1,4 +1,4 @@
-# SDN-Sent-20261111-Dist-A
+# SDN-Sent-20261112-Dist-A
 
 ## Set USA01
 
@@ -17,17 +17,57 @@ sdnproject2026@onionmail.org
 
 ## SDN
 
-90+ year Shadow Diplomacy Network
+90+ years > "Shadow Diplomacy Network"
 
-## SDN-Chapters.zip
+### SDN Introduction
 
-- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/blob/main/SDN-Chapters.zip
+- README.md
+
+- https://rentry.co/f5mry753
 
 ## SDN Publicity Campaign
 
+### SDN Distributon List
+
+- SDN-Sent-021-Email-To
+
+- https://rentry.co/g83zwumr
+
+### 1000+ > Email History
+
 - https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
 
+### Your Email Address
+
+too!
+
+## SDN-Chapters.zip
+
+### SDN-00-Breaking-News-List
+
+- https://rentry.co/qgp5qchb
+
+### 210+ > Chapters
+
+- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/blob/main/SDN-Chapters.zip
+
 ## SDN Newest Chapters
+
+SDN-44-Countries-01-Profiles
+
+- https://rentry.co/sspwy4rx
+
+- 2026-11-13
+
+SDN-44-Countries-02-Legal-Cooperation
+
+- https://rentry.co/qowb7pem
+
+- 2026-11-13
+
+SDN-44-Countries-03-Epstein-Places
+
+- https://rentry.co/8r2krdn3
 
 SDN-13-Legal-56-Phang-20261112
 

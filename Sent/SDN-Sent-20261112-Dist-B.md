@@ -29,6 +29,22 @@ sdnproject2026@onionmail.org
 
 ## SDN Newest Chapters
 
+SDN-44-Countries-01-Profiles
+
+- https://rentry.co/sspwy4rx
+
+- 2026-11-13
+
+SDN-44-Countries-02-Legal-Cooperation
+
+- https://rentry.co/qowb7pem
+
+- 2026-11-13
+
+SDN-44-Countries-03-Epstein-Places
+
+- https://rentry.co/8r2krdn3
+
 SDN-13-Legal-56-Phang-20261112
 
 - https://rentry.co/knq4xrif 

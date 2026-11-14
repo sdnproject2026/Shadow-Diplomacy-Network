@@ -1,14 +1,26 @@
-# SDN-Sent-20261112-Topic-B
+# SDN-Sent-20261112-Topic-C
 
 Forget Epstein - 1920s-2020s - USA States - D. Barr - Bear - Khashoggi - Kirkland - R. Maxwell
 
 ## SDN
 
-### 90+ years > "Shadow Diplomacy Network"
+90+ years > "Shadow Diplomacy Network"
+
+### SDN Introduction
+
+- README.md
+
+- https://rentry.co/f5mry753
 
 ## SDN Publicity Campaign
 
-### 1000+ > Email Addresses
+### SDN Distributon List
+
+- SDN-Sent-021-Email-To
+
+- https://rentry.co/g83zwumr
+
+### 1000+ > Email History
 
 - https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
 
@@ -17,6 +29,10 @@ Forget Epstein - 1920s-2020s - USA States - D. Barr - Bear - Khashoggi - Kirklan
 too!
 
 ## SDN-Chapters.zip
+
+### SDN-00-Breaking-News-List
+
+- https://rentry.co/qgp5qchb
 
 ### 210+ > Chapters
 
@@ -36,7 +52,7 @@ USA State Investigators
 
 ### Places And Anchors
 
-1. _Epstein_ Pied - OH - Wexner
+1. _Epstein_ Bank - OH - Wexner
 
 2. _Epstein_ School - NY - Juilliard
 
@@ -54,7 +70,11 @@ USA State Investigators
 
 9. _Epstein_ Lago - FL - Trump
 
-10. _Epstein_ Pied - FR - Paris
+10
+
+11
+
+12. _Epstein_ Pied - FR - Paris
 
 ## Geographic Presence by State
 
@@ -555,6 +575,24 @@ What role did regional transit staging points play in connecting secondary hubs 
 -----
 
 ## SDN Newest Chapters
+
+SDN-44-Countries-01-Profiles
+
+- https://rentry.co/sspwy4rx
+
+- 2026-11-13
+
+SDN-44-Countries-02-Legal-Cooperation
+
+- https://rentry.co/qowb7pem
+
+- 2026-11-13
+
+SDN-44-Countries-03-Epstein-Places
+
+- https://rentry.co/8r2krdn3
+
+- 2026-11-13
 
 SDN-13-Legal-56-Phang-20261112
 
