@@ -1,4 +1,22 @@
-### Metadata List
+### SDN-00-Breaking-News-List
+
+SDN-44-Countries-01-Profiles
+
+- https://rentry.co/sspwy4rx 
+
+- 2026-11-13
+
+SDN-44-Countries-02-Legal-Cooperation
+
+- https://rentry.co/qowb7pem 
+
+- 2026-11-13
+
+SDN-44-Countries-03-Epstein-Places
+
+- https://rentry.co/8r2krdn3 
+
+- 2026-11-13
 
 SDN-13-Legal-52-FBI-Counter-Arguments
 
