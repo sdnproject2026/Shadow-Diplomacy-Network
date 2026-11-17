@@ -1,11 +1,13 @@
 # SDN-Sent-20261112-Dist-A
 
-## Set USA01
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+
+## Set ILAW01
 
 ### To
 
 ```
-AGOCARES@OhioAGO.gov, AGOPolicyGovernment@mass.gov, AGOcommunityengagement@mass.gov, AGOscheduling@mass.gov, Aaron.M.Michlewitz@mahouse.gov, Adrian.Madaro@mahouse.gov, Alice.Peisch@mahouse.gov, AskOPOTA@OhioAttorneyGeneral.gov, BCICommunications@OhioAGO.gov, BarclayW@nyassembly.gov, Brian.Schwalb@dc.gov, Caroline.Mason@governor.ohio.gov, Daniel.Tierney@governor.ohio.gov, GovOffice.RAO@state.ma.us, GovernorRon.DeSantis@eog.myflorida.com, JailGrants@OhioAGO.gov, Jill.Delgreco@governor.ohio.gov, MajorityLeaderCommunications@nysenate.gov, Meg.Ribera@masenate.gov, Michael.Moran@mahouse.gov, Ortt@nysenate.gov, PeopleC@nyassembly.gov, Press.Office@exec.ny.gov, Press@MyFloridaLegal.com, PublicInformation@myfloridahouse.gov, PublicRecordsRequest@myfloridalegal.com, Rep01@ohiohouse.gov, Rep02@ohiohouse.gov, Rep03@ohiohouse.gov, Rep98@ohiohouse.gov
+contact@met.police.uk, public.relations@met.police.uk, contact-tribunal-paris@justice.fr, presse.tribunal-paris@justice.fr, okokrim@politiet.no, post.okokrim@politiet.no, info@bj.admin.ch, media@bj.admin.ch, moked105@police.gov.il, pniot@police.gov.il, biuro.podawcze@pk.gov.pl, zastepca.pg@pk.gov.pl, epodatelna.policie@pcr.cz, info@pcr.cz, ooc@minv.sk, tlacove@minv.sk, info@vi.gov, media@doj.vi.gov, attorneygeneral@bahamas.gov.bs, mof@bahamas.gov.bs, contacto@policia.es, prensa@policia.es, urp@poliziadistato.it, segr.concorsi@poliziadistato.it, info@aklagare.se, registrator.aklagarmyndigheten@aklagare.se, rigspolitiet@politi.dk, kommunikation@politi.dk, garda.info@garda.ie
 ```
 
 ### BCC 

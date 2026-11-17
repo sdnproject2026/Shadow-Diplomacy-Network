@@ -1,11 +1,13 @@
-# SDN-Sent-20261111-Dist-B
+# SDN-Sent-20261112-Dist-B
 
-## Set USA02
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+
+## Set ILAW02
 
 ### To
 
 ```
-Sarah.Ackman@governor.ohio.gov, SenAricNesbitt@senate.michigan.gov, SenDCamilleri@senate.michigan.gov, Speaker@nyassembly.gov, Tobias.Cowans@masenate.gov, abonds@dccouncil.gov, accessibility@exec.ny.gov, agpress@michigan.gov, bracydavis.lavon.web@flsenate.gov, callen@dccouncil.gov, chenderson@dccouncil.gov, citizenservices@myfloridalegal.com, clerk@house.mi.gov, constituent.services@state.ma.us, constituentrelations@michigan.gov, contact@pahouse.org, davis.tracie.web@flsenate.gov, desantis.opengov@eog.myflorida.com, diversityandinclusion@exec.ny.gov, eom.foia@dc.gov, eom@dc.gov, gretchen.whitmer@michigan.gov, harrell.gayle.web@flsenate.gov, housepress@house.mi.gov, info@aricnesbitt.com, info@dananessel.com, info@whitmerformichigan.com, jollyk@nyassembly.gov, juliet.bonsu@flhouse.gov, lkrueger@nysenate.gov
+press@garda.ie, bka@bka.bund.de, poststelle@gba.bund.de, info@politie.be, press@politie.be, afp-media@afp.gov.au, contact@afp.gov.au, rcmp.media-medias.grc@rcmp-grc.gc.ca, contact.rcmp@rcmp-grc.gc.ca, saps.comcentre@saps.gov.za, head.media@saps.gov.za, enquiries@bcl.com, info@bcl.com, knlaw@kingsleynapley.co.uk, enquiries@kingsleynapley.co.uk, paris.reception@hsf.com, info@hsf.com, paris@cgsh.com, info@cgsh.com, firmapost@thommessen.no, post@thommessen.no, oslo@wr.no, firmapost@wr.no, geneva@lenzstaehelin.com, zurich@lenzstaehelin.com, zurich@baerkarrer.ch, geneva@baerkarrer.ch, office@herzoglaw.co.il, info@herzoglaw.co.il, meitar@meitar.com
 ```
 
 ### BCC 

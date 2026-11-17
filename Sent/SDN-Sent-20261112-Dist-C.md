@@ -1,11 +1,13 @@
-# SDN-Sent-20261111-Dist-C
+# SDN-Sent-20261112-Dist-C
 
-## Set USA03
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+
+## Set US ILAW03
 
 ### To
 
 ```
-media@michigan.gov, media@myfloridahouse.gov, miag@michigan.gov, muriel.bowser@dc.gov, nyag.pressoffice@ag.ny.gov, nysag@ag.ny.gov, oag@dc.gov, oagcommunity@dc.gov, oagpress@dc.gov, openmeeting@mass.gov, patrick.oconnor@masenate.gov, pmendelson@dccouncil.gov, press@michigan.gov, scousins@nysenate.gov, sd01@ohiosenate.gov, sd02@ohiosenate.gov, sd15@ohiosenate.gov, sd20@ohiosenate.gov, senatepress@senate.michigan.gov, spcommunications@masenate.gov, speaker@house.mi.gov, webmaster@flsenate.gov, webmaster@myfloridahouse.gov
+info@meitar.com, warszawa@wardynski.com.pl, office@wardynski.com.pl, sks@skslegal.pl, office@skslegal.pl, office@havelpartners.cz, info@havelpartners.cz, prague.reception@allenovery.com, info@allenovery.com, bratislava@dentons.com, info@dentons.com, bratislava@cechova.sk, office@cechova.sk, info@kfklawfirm.com, support@kfklawfirm.com, info@dnfvi.com, admin@dnfvi.com, info@mckinneybancroft.com, mbh@mckinneybancroft.com, gt@grahamthompson.com, info@grahamthompson.com, madrid@uria.com, uriamenendez@uria.com, info@cuatrecasas.com, contact@cuatrecasas.com, milan@belaw.com, info@belaw.com, info@chiomenti.net, milan@chiomenti.net, info@mannheimerswartling.se
 ```
 
 ### BCC 
