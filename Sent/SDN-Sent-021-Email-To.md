@@ -266,53 +266,148 @@ DEAPress@dea.gov, askdoj@usdoj.gov, press@usdoj.gov, community.outreach@dea.gov,
 
 ### Count: 16
 
-## ILAW01 
+## ILAW01
+
+^ contact@met.police.uk
+
+^ public.relations@met.police.uk
+
+^ contact-tribunal-paris@justice.fr
+
+^ presse.tribunal-paris@justice.fr
+
+^ okokrim@politiet.no
+
+^ pniot@police.gov.il
+
+^ zastepca.pg@pk.gov.pl
+
+^ epodatelna.policie@pcr.cz
+
+^ info@pcr.cz
+
+^ ooc@minv.sk
+
+^ media@doj.vi.gov
+
+^ urp@poliziadistato.it
+
+^ segr.concorsi@poliziadistato.it
+
+^ rigspolitiet@politi.dk
+
+^ kommunikation@politi.dk
+
+^ garda.info@garda.ie
+
+### 20 Int'l Investigations
+
+```
+post.okokrim@politiet.no, info@bj.admin.ch, media@bj.admin.ch, moked105@police.gov.il, biuro.podawcze@pk.gov.pl, tlacove@minv.sk, info@vi.gov, attorneygeneral@bahamas.gov.bs, mof@bahamas.gov.bs, contacto@policia.es, prensa@policia.es, info@aklagare.se, registrator.aklagarmyndigheten@aklagare.se
+```
+### Count: 13
+
+## ILAW02
+
+^ press@garda.ie
+
+^ bka@bka.bund.de
+
+^ info@politie.be
+
+^ press@politie.be
+
+^ rcmp.media-medias.grc@rcmp-grc.gc.ca
+
+^ contact.rcmp@rcmp-grc.gc.ca
+
+^ saps.comcentre@saps.gov.za
+
+^ head.media@saps.gov.za
+
+^ enquiries@bcl.com
+
+^ info@bcl.com
+
+^ knlaw@kingsleynapley.co.uk
+
+^ info@hsf.com
+
+^ paris@cgsh.com
+
+^ info@cgsh.com
+
+^ post@thommessen.no
+
+^ office@herzoglaw.co.il
+
+### 20 Int'l Investigations
+
+```
+poststelle@gba.bund.de, afp-media@afp.gov.au, contact@afp.gov.au, enquiries@kingsleynapley.co.uk, paris.reception@hsf.com, firmapost@thommessen.no, oslo@wr.no, firmapost@wr.no, geneva@lenzstaehelin.com, zurich@lenzstaehelin.com, zurich@baerkarrer.ch, geneva@baerkarrer.ch, info@herzoglaw.co.il, meitar@meitar.com
+```
+
+### Count: 14
+
+## ILAW03
+
+^ warszawa@wardynski.com.pl
+
+^ office@wardynski.com.pl
+
+^ prague.reception@allenovery.com
+
+^ info@allenovery.com
+
+^ info@kfklawfirm.com
+
+^ support@kfklawfirm.com
+
+^ info@mckinneybancroft.com
+
+^ mbh@mckinneybancroft.com
+
+^ contact@cuatrecasas.com
+
+^ milan@belaw.com
+
+^ milan@chiomenti.net
+
+### 20 Int'l Investigations
+
+```
+info@meitar.com, sks@skslegal.pl, office@skslegal.pl, office@havelpartners.cz, info@havelpartners.cz, bratislava@dentons.com, info@dentons.com, bratislava@cechova.sk, office@cechova.sk, info@dnfvi.com, admin@dnfvi.com, gt@grahamthompson.com, info@grahamthompson.com, madrid@uria.com, uriamenendez@uria.com, info@cuatrecasas.com, info@belaw.com, info@chiomenti.net, info@mannheimerswartling.se
+```
+
+### Count: 19
+
+## ILAW04
 
 ^ NA
 
-### 20 Int'l Investigations 
+### 20 Int'l Investigations
+
+> new replacement emails
 
 ```
-contact@met.police.uk, public.relations@met.police.uk, contact-tribunal-paris@justice.fr, presse.tribunal-paris@justice.fr, okokrim@politiet.no, post.okokrim@politiet.no, info@bj.admin.ch, media@bj.admin.ch, moked105@police.gov.il, pniot@police.gov.il, biuro.podawcze@pk.gov.pl, zastepca.pg@pk.gov.pl, epodatelna.policie@pcr.cz, info@pcr.cz, ooc@minv.sk, tlacove@minv.sk, info@vi.gov, media@doj.vi.gov, attorneygeneral@bahamas.gov.bs, mof@bahamas.gov.bs, contacto@policia.es, prensa@policia.es, urp@poliziadistato.it, segr.concorsi@poliziadistato.it, info@aklagare.se, registrator.aklagarmyndigheten@aklagare.se, rigspolitiet@politi.dk, kommunikation@politi.dk, garda.info@garda.ie
+newsdesk@met.police.uk, DataRights@met.police.uk, feedback@met.police.uk, DLSMailbox-Allocations@met.police.uk, accueil-paris@justice.fr, pad.tj-paris@justice.fr, listen@police.gov.il, tlunot@police.gov.il, Meidap@police.gov.il, sekretariat.bwm@pk.gov.pl, krpa.podatelna@pcr.cz, public@minv.sk, gordon.rhea@doj.vi.gov, ian.clement@doj.vi.gov, pamela.tepper@doj.vi.gov, sandra.goomansingh@doj.vi.gov, poltel.an@poliziadistato.it, kbh@politi.dk, nsk@politi.dk, pressoffice@garda.ie, foi@garda.ie, npo@garda.ie, pressestelle@bka.bund.de, mail@bka.bund.de, fahndung@bka.bund.de, rcmp.hqmediarelations-dgrelationsmedias.grc@rcmp-grc.gc.ca, cdiv.communications@rcmp-grc.gc.ca, dnc.policing@saps.gov.za, gp.pc.secretary@saps.gov.za
 ```
 
 ### Count: 30
 
-## ILAW02 
+## ILAW05
 
 ^ NA
 
-### 20 Int'l Investigations 
+### 20 Int'l Investigations
+
+> new replacement emails
 
 ```
-press@garda.ie, bka@bka.bund.de, poststelle@gba.bund.de, info@politie.be, press@politie.be, afp-media@afp.gov.au, contact@afp.gov.au, rcmp.media-medias.grc@rcmp-grc.gc.ca, contact.rcmp@rcmp-grc.gc.ca, saps.comcentre@saps.gov.za, head.media@saps.gov.za, enquiries@bcl.com, info@bcl.com, knlaw@kingsleynapley.co.uk, enquiries@kingsleynapley.co.uk, paris.reception@hsf.com, info@hsf.com, paris@cgsh.com, info@cgsh.com, firmapost@thommessen.no, post@thommessen.no, oslo@wr.no, firmapost@wr.no, geneva@lenzstaehelin.com, zurich@lenzstaehelin.com, zurich@baerkarrer.ch, geneva@baerkarrer.ch, office@herzoglaw.co.il, info@herzoglaw.co.il, meitar@meitar.com
+debeers@saps.gov.za, law@bcl.com, djackson@bcl.com, jbell@kingsleynapley.co.uk, servicedesk@hsf.com, media@cgsh.com, Global-AlumniRelations@cgsh.com, lachtoukspivak@cgsh.com, lov@thommessen.no, contact@herzoglaw.co.il, dashn@herzoglaw.co.il, warsaw@wardynski.com.pl, krakow@wardynski.com.pl, poznan@wardynski.com.pl, wroclaw@wardynski.com.pl, jobs@wardynski.com.pl, allenoveryus@allenovery.com, rrhh.seleccion@cuatrecasas.com, ruben.agote@cuatrecasas.com, ahernandez@belaw.com, ingadi@belaw.com, jcleveland@belaw.com, roma@chiomenti.net, gdpr@chiomenti.net
 ```
 
-### Count: 30
-
-## ILAW03 
-
-^ NA
-
-### 20 Int'l Investigations 
-
-```
-info@meitar.com, warszawa@wardynski.com.pl, office@wardynski.com.pl, sks@skslegal.pl, office@skslegal.pl, office@havelpartners.cz, info@havelpartners.cz, prague.reception@allenovery.com, info@allenovery.com, bratislava@dentons.com, info@dentons.com, bratislava@cechova.sk, office@cechova.sk, info@kfklawfirm.com, support@kfklawfirm.com, info@dnfvi.com, admin@dnfvi.com, info@mckinneybancroft.com, mbh@mckinneybancroft.com, gt@grahamthompson.com, info@grahamthompson.com, madrid@uria.com, uriamenendez@uria.com, info@cuatrecasas.com, contact@cuatrecasas.com, milan@belaw.com, info@belaw.com, info@chiomenti.net, milan@chiomenti.net, info@mannheimerswartling.se
-```
-
-### Count: 30
-
-## ILAW04 
-
-^ NA
-
-### 20 Int'l Investigations 
-
-```
-stockholm@mannheimerswartling.se, info@vinge.se, stockholm@vinge.se, law@bechbruun.com, info@bechbruun.com, law@kromannreumert.com, info@kromannreumert.com, dublin@algoodbody.com, info@algoodbody.com, dublin@matheson.com, info@matheson.com, info@hengeler.com, frankfurt@hengeler.com, info@gleisslutz.com, frankfurt@gleisslutz.com, info@liedekerke.com, brussels@liedekerke.com, brussels@stibbe.com, info@stibbe.com, contact@allens.com.au, sydney@allens.com.au, info@claytonutz.com, sydney@claytonutz.com, info@blg.com, toronto@blg.com, info@gowlingwlg.com, toronto@gowlingwlg.com, info@webberwentzel.com, johannesburg@webberwentzel.com, info@bowmanslaw.com, cpt@bowmanslaw.com
-```
-
-### Count: 30
+### Count: 23
 
 ## Set USA01 
 
