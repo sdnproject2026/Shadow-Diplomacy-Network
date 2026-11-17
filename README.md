@@ -2,7 +2,7 @@ Public site
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network
 
-- https://sdnproject2026.github.io/Shadow-Diplomacy-NetworNetwork/SDN-Chapters.zip
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network/SDN-Chapters.zip
 
 > Notes:
 
