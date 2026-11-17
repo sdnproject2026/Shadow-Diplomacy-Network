@@ -1,16 +1,17 @@
-README.md
+Public site
 
-- https://rentry.co/3p85pv9x
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
 
-> Notes:  
- 
+> Notes:
+
 > See "Breaking News" for "pre-release" (ZIP) additions
 
 also
 
-> SDN-Chapters.zip 
+> SDN-Chapters.zip
 
 All plain-text Markdown-formatted Chapters
+
 
 ----
 
@@ -71,7 +72,7 @@ All plain-text Markdown-formatted Chapters
      - Go wholesale
 
      - Leverage your 'wins'
- 
+
      - Get 3M+ more docs
 
 ## Angles of Attack
@@ -96,13 +97,13 @@ All plain-text Markdown-formatted Chapters
 
 - Explore foreign country asset freezes, investigations
 
-- Note Terrorist Al-Shabaab AND Trafficker Epstein 
+- Note Terrorist Al-Shabaab AND Trafficker Epstein
 
 - Show Over-lapping 20th Century money laundering
 
 ### Call out USA DEA (OCDETF) drug investigations
 
-- 69 Page redacted final report 
+- 69 Page redacted final report
 
 - Epstein gang was into drugs and drugging
 
@@ -124,7 +125,7 @@ See the many GitHub clone requests
 
 https://github.com/sdnproject2026/Shadow-Diplomacy-Network/graphs/traffic
 
-All 'spikes' correlate to same-day email sent to the distribution list - ~100/day ~1,000/cycle  ~10 days/cycle ~3 cycles/month. 
+All 'spikes' correlate to same-day email sent to the distribution list - ~100/day ~1,000/cycle  ~10 days/cycle ~3 cycles/month.
 
 No email 'blasts' due to server 'throttling'.
 
@@ -147,32 +148,32 @@ _Who has been informed_
 - anon ASCII text-only files
 - CSV formatted email recipient lists
 - Markdown formatted document
- 
+
 ----
 
 ## Latest Chapters
 
 SDN-44-Countries-01-Profiles
 
-- https://rentry.co/sspwy4rx 
+- https://rentry.co/sspwy4rx
 
 - 2026-11-13
 
 SDN-44-Countries-02-Legal-Cooperation
 
-- https://rentry.co/qowb7pem 
+- https://rentry.co/qowb7pem
 
 - 2026-11-13
 
 SDN-44-Countries-03-Epstein-Places
 
-- https://rentry.co/8r2krdn3 
+- https://rentry.co/8r2krdn3
 
 - 2026-11-13
 
 SDN-13-Legal-54-House-Vote-01-Nov-11
 
-- https://rentry.co/kas6pxbm 
+- https://rentry.co/kas6pxbm
 
 - 2026-11-11
 
@@ -190,7 +191,7 @@ SDN-13-Legal-55-GOP-Report-Nov-10-02
 
 SDN-13-Legal-55-GOP-Report-Nov-10-03
 
-- https://rentry.co/4p2d89nt 
+- https://rentry.co/4p2d89nt
 
 SDN-13-Legal-53-Investigate-01-Epstein-Network
 
@@ -302,7 +303,7 @@ SDN-27-Chain-Reaction-2010
 
 DOJ DEA OCDETF
 
-> It worked with partners across federal agencies to conduct sophisticated investigations into transnational organized crime and money laundering. 
+> It worked with partners across federal agencies to conduct sophisticated investigations into transnational organized crime and money laundering.
 
 > OCDETF frequently targeted dangerous drug cartels, the Russian mafia and violent gangs moving fentanyl and weapons.
 
@@ -405,14 +406,14 @@ SDN-13-Legal-44-Massie-EFTA-End-Game
 
 -----
 
-SDN-38-Panama-Papers-1970s-2020s 
+SDN-38-Panama-Papers-1970s-2020s
 
 - https://rentry.co/mztie6wi
 
 The Panama Papers leak remains one of the largest financial exposés in history, laying bare the inner workings of a secretive offshore financial system.
 
 See: EFTA Bear Stearns, 1970s-2020s, off-shoring
- 
+
 Retrospective
 
 The Panama Papers data trove dated back to the 1970s, cataloging nearly 40 years of records from Mossack Fonseca.
@@ -431,21 +432,21 @@ The EU network-theory research takes a fundamentally different approach and is s
 
 Panama Data As A Network
 
-Instead of treating the Panama Papers as a collection of individual scandals, it treats the _data as a network._ 
+Instead of treating the Panama Papers as a collection of individual scandals, it treats the _data as a network._
 
 Offshore financial entities are modeled as links connecting jurisdictions.
 
-- The source jurisdiction is where the beneficial owner is located, 
+- The source jurisdiction is where the beneficial owner is located,
 
 - the host jurisdiction is where the offshore entity is registered.
 
 EFTA Data As A Network
 
-Instead of treating the EFTA documents as a collection of individual scandals, treat the _data as a network._ 
+Instead of treating the EFTA documents as a collection of individual scandals, treat the _data as a network._
 
 Model Offshore financial entities as links connecting jurisdictions.
 
-- The source jurisdiction is where the beneficial owner is located, 
+- The source jurisdiction is where the beneficial owner is located,
 
 - the host jurisdiction is where the offshore entity is registered.
 
@@ -555,7 +556,7 @@ SDN-00-04-List-Of-Names
 - grouped by occupation
 - https://rentry.co/at4v3s75
 - https://pastes.io/sdn-00-04-/
- 
+
 SDN-00-00-FOMO-Dist-List-CC
 
 - anon ASCII text-only file in Markdown
@@ -628,7 +629,7 @@ Dozens of perps / pedos / associates / mentions
 
 Hundreds of composite familials listed
 
-- Wikis - Composite 
+- Wikis - Composite
     - Nine (9) websites
     - https://pastee.dev/p/m2VjEHOS
     - https://rentry.co/xfuyt2a8
@@ -644,20 +645,20 @@ Hundreds of composite familials listed
         - "How To..." LLM, no extra charge
     - https://rentry.co/at4v3s75
     - https://pastes.io/sdn-00-04-/
- 
+
 Hundreds of email addressed recipients
 
-- https://pastebin.com/raw/LdmpArVa 
+- https://pastebin.com/raw/LdmpArVa
 - https://rentry.co/fkuyha2q
     - mailto formatted
 
 - https://pastebin.com/raw/pkZTzzZU
 - https://rentry.co/ea9q6f4z
     - CSV / CC formatted in batches
-    
+
 Untold thousands of international victims
 
-## Where and What 
+## Where and What
 
 International Networks
 
@@ -669,7 +670,7 @@ Spanning 80+ years
 
 Spanning 400+ years
 
-- Caribbean Human Trafficking 
+- Caribbean Human Trafficking
 - Sephardic Diaspora
 
 
@@ -703,7 +704,7 @@ Epstein was recruited and groomed, during the Dalton School era (1970s - 10 year
 
 ## Present Dementors
 
-The Gathering Storm. 
+The Gathering Storm.
 
 _Srsly, this time, none of that Q grade-school pffl..._
 
@@ -711,11 +712,11 @@ Qs' not even going to like it, neither.
 
 ## Future Accounters
 
-"Cover-ups" made the US (not individual perp's...) subject to International Cascading Accountability. 
+"Cover-ups" made the US (not individual perp's...) subject to International Cascading Accountability.
 
 _C'est la vie._
 
-Since February 14th, 2026 - the US is no longer in the legal driver's seat - the new _French Connection_. 
+Since February 14th, 2026 - the US is no longer in the legal driver's seat - the new _French Connection_.
 
 _Tres Bien !_
 
@@ -753,7 +754,7 @@ Too (F'ing) Long; Didn't (won't) Read
 
 - https://rentry.co/qqgwoecq
 
-- 80 year Shadow Diplomacy Network 
+- 80 year Shadow Diplomacy Network
 
 ### Table of Contents
 
