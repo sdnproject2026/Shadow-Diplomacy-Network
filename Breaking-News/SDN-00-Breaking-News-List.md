@@ -1,3 +1,7 @@
+## Public Site
+
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+
 ### SDN-00-Breaking-News-List
 
 SDN-44-Countries-01-Profiles

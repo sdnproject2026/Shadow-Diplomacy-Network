@@ -11,4 +11,6 @@
 
 ----
 
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
+
 - 2026-11-13
