@@ -1,18 +1,4 @@
-[INFO] Starting recursive shell script cleanup from: /data/data/com.termux/files/home/storage/shared/Documents/Projects/Epstein/Breaking-News
-[INFO] Using temporary directory: /data/data/com.termux/files/home/tmp
-[INFO] Processing: ./metadate.sh
-[OK] Cleaned and overwritten: ./metadate.sh
-[INFO] Processing: ./newname-meta.sh
-[OK] Cleaned and overwritten: ./newname-meta.sh
-[INFO] Processing: ./metaheader.sh
-[OK] Cleaned and overwritten: ./metaheader.sh
--------------------------------------------------------------
-[INFO] Summary: Found 3 script(s), successfully cleaned 3 file(s).
-[INFO] Cleanup complete.
-[INFO] cleaner.sh: cleanup environment complete
-[INFO] lib.sh: module loader complete
-[INFO] core.sh: core environment complete
-### Metadata List 1112
+### SDN-00-Breaking-News-List
 
 SDN-13-Legal-52-FBI-Counter-Arguments
 
@@ -270,79 +256,79 @@ SDN-45-DeucheBank-Leak-01-Nov-17
 
 - https://rentry.co/2pwf574n 
 
-- 
+- 2026-11-20
 
 SDN-45-Deutsche-Bank-Leak-02-Emails
 
 - https://rentry.co/fb2u59d2 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-01-Epstein
 
 - https://rentry.co/u8ib78d9 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-02-Epstein-Persons 
 
 - https://rentry.co/szutaxwa 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-03-Intersecting
 
 - https://rentry.co/xswdk6dm 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-04-Intersecting-Persons
 
 - https://rentry.co/4qxka8mf 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-05-Panama-Papers
 
 - https://rentry.co/2egmxihm 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-06-Panama-Persons
 
 - https://rentry.co/xuzrx74i 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak
 
 - https://rentry.co/7c2vizr2 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-08-Deutsche-Persons
 
 - https://rentry.co/cm7zhw7a 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-09-NDAs
 
 - https://rentry.co/utbz46uh 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-10-Predicates
 
 - https://rentry.co/bqtpmhqs 
 
-- 
+- 2026-11-20
 
 SDN-46-Trump-Lawyers-11-Predicates-Persons
 
 - https://rentry.co/tt9w3zyq 
 
-- 
+- 2026-11-20
 
 SDN-98-14-Scientists
 
@@ -362,7 +348,6 @@ SDN-98-16-Scientists-Non-EDU
 
 - 2026-10-01
 
-xyz
+----
 
-- YYYY-MM-DD
-
+----
