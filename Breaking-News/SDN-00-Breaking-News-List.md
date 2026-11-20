@@ -1,26 +1,18 @@
-## Public Site
-
-- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
-
-### SDN-00-Breaking-News-List
-
-SDN-44-Countries-01-Profiles
-
-- https://rentry.co/sspwy4rx 
-
-- 2026-11-13
-
-SDN-44-Countries-02-Legal-Cooperation
-
-- https://rentry.co/qowb7pem 
-
-- 2026-11-13
-
-SDN-44-Countries-03-Epstein-Places
-
-- https://rentry.co/8r2krdn3 
-
-- 2026-11-13
+[INFO] Starting recursive shell script cleanup from: /data/data/com.termux/files/home/storage/shared/Documents/Projects/Epstein/Breaking-News
+[INFO] Using temporary directory: /data/data/com.termux/files/home/tmp
+[INFO] Processing: ./metadate.sh
+[OK] Cleaned and overwritten: ./metadate.sh
+[INFO] Processing: ./newname-meta.sh
+[OK] Cleaned and overwritten: ./newname-meta.sh
+[INFO] Processing: ./metaheader.sh
+[OK] Cleaned and overwritten: ./metaheader.sh
+-------------------------------------------------------------
+[INFO] Summary: Found 3 script(s), successfully cleaned 3 file(s).
+[INFO] Cleanup complete.
+[INFO] cleaner.sh: cleanup environment complete
+[INFO] lib.sh: module loader complete
+[INFO] core.sh: core environment complete
+### Metadata List 1112
 
 SDN-13-Legal-52-FBI-Counter-Arguments
 
@@ -122,7 +114,7 @@ SDN-13-Legal-56-Phang-20261112
 
 - https://rentry.co/knq4xrif 
 
-- 2026-11-08
+- 2026-11-12
 
 SDN-14-Financial-06-Banks-Article
 
@@ -256,6 +248,102 @@ SDN-43-60-Minutes-06-Linea12
 
 - 2026-11-08
 
+SDN-44-Countries-01-Profiles
+
+- https://rentry.co/sspwy4rx 
+
+- 2026-11-13
+
+SDN-44-Countries-02-Legal-Cooperation
+
+- https://rentry.co/qowb7pem 
+
+- 2026-11-13
+
+SDN-44-Countries-03-Epstein-Places
+
+- https://rentry.co/8r2krdn3 
+
+- 2026-11-13
+
+SDN-45-DeucheBank-Leak-01-Nov-17
+
+- https://rentry.co/2pwf574n 
+
+- 
+
+SDN-45-Deutsche-Bank-Leak-02-Emails
+
+- https://rentry.co/fb2u59d2 
+
+- 
+
+SDN-46-Trump-Lawyers-01-Epstein
+
+- https://rentry.co/u8ib78d9 
+
+- 
+
+SDN-46-Trump-Lawyers-02-Epstein-Persons 
+
+- https://rentry.co/szutaxwa 
+
+- 
+
+SDN-46-Trump-Lawyers-03-Intersecting
+
+- https://rentry.co/xswdk6dm 
+
+- 
+
+SDN-46-Trump-Lawyers-04-Intersecting-Persons
+
+- https://rentry.co/4qxka8mf 
+
+- 
+
+SDN-46-Trump-Lawyers-05-Panama-Papers
+
+- https://rentry.co/2egmxihm 
+
+- 
+
+SDN-46-Trump-Lawyers-06-Panama-Persons
+
+- https://rentry.co/xuzrx74i 
+
+- 
+
+SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak
+
+- https://rentry.co/7c2vizr2 
+
+- 
+
+SDN-46-Trump-Lawyers-08-Deutsche-Persons
+
+- https://rentry.co/cm7zhw7a 
+
+- 
+
+SDN-46-Trump-Lawyers-09-NDAs
+
+- https://rentry.co/utbz46uh 
+
+- 
+
+SDN-46-Trump-Lawyers-10-Predicates
+
+- https://rentry.co/bqtpmhqs 
+
+- 
+
+SDN-46-Trump-Lawyers-11-Predicates-Persons
+
+- https://rentry.co/tt9w3zyq 
+
+- 
+
 SDN-98-14-Scientists
 
 - https://rentry.co/fagcbgcf
@@ -274,7 +362,7 @@ SDN-98-16-Scientists-Non-EDU
 
 - 2026-10-01
 
-- xyz
+xyz
 
 - YYYY-MM-DD
 
