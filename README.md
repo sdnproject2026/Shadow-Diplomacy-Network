@@ -1,3 +1,7 @@
+README.md
+
+- https://rentry.co/vpukipf2
+
 Public site
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network/
