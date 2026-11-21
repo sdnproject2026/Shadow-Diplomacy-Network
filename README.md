@@ -590,9 +590,9 @@ _The Elevator Pitch, redux_
 
 ### Breaking-News
 
-https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Breaking-News
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network/SDN-Chapters.zip
 
-_International Cascading Accountability_
+_International Cascading Acountability_
 
 Proverbial F'ing House of Proverbial F'ing Cards
 
