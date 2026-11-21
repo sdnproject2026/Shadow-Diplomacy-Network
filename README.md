@@ -1,7 +1,3 @@
-README.md
-
-- https://rentry.co/a37fxogc
-
 Public site
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network/
@@ -240,7 +236,7 @@ SDN-46-Trump-Lawyers-09-NDAs
 
 SDN-46-Trump-Lawyers-10-Predicates
 
-- https://rentry.co/bqtpmhqs 
+- https://rentry.co/vhrzcgue
 
 - 2026-11-20
 
@@ -342,7 +338,7 @@ SDN-42-Modeling-Agencies-01-Analysis
 
 SDN-42-Modeling-Agencies-02-Phonebook
 
-- https://rentry.co/2ifyaoa3
+- https://rentry.co/cs2vcxtd
 
 - 2026-11-06
 
