@@ -1,8 +1,6 @@
 Public site
 
-- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
-
-- https://sdnproject2026.github.io/Shadow-Diplomacy-Network/SDN-Chapters.zip
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network/
 
 > Notes:
 
@@ -12,10 +10,13 @@ also
 
 > SDN-Chapters.zip
 
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network/SDN-Chapters.zip
+
 All plain-text Markdown-formatted Chapters
 
-
 ----
+
+.
 
 ----
 
@@ -81,13 +82,21 @@ All plain-text Markdown-formatted Chapters
 
 ### Make Direct appeals to 20+ foreign investigations
 
-- Skip past USA DOJ, FBI, DEA, Treasury
+Skip past USA DOJ, FBI, DEA, Treasury
 
-- Go Direct to sources, foreign language docs
+- https://rentry.co/sspwy4rx 
+
+- Go Direct to sources
+
+- Foreign Language Docs
 
 ### Scour the 2014 Panama Papers 2T+ data trove
 
 - NOT as 'evidence', as starting points
+
+- https://rentry.co/mztie6wi
+
+- https://rentry.co/raav7yrw
 
 - Go after 'primary' sources, political pressure
 
@@ -95,19 +104,29 @@ All plain-text Markdown-formatted Chapters
 
 ###  Make Direct appeals to Treasury SARS
 
-- Call out Bessent/Patel on MN announced plans
+Trump's Suspicious Activity and Accounts Closed
+
+- https://rentry.co/ausoq7ds
+
+Show Over-lapping 20th Century money laundering
+
+Call out Bessent/Patel on MN announced plans
 
 - Explore foreign country asset freezes, investigations
 
 - Note Terrorist Al-Shabaab AND Trafficker Epstein
 
-- Show Over-lapping 20th Century money laundering
-
 ### Call out USA DEA (OCDETF) drug investigations
 
-- 69 Page redacted final report
+69 Page redacted final report
 
-- Epstein gang was into drugs and drugging
+- https://rentry.co/uz4dfb87
+
+Follow The Money
+
+- https://rentry.co/4oigmqr9
+
+Epstein gang was into drugs and drugging
 
 - 2026-08-04 "Wall Street Banks Enabled..."
 
@@ -115,69 +134,141 @@ All plain-text Markdown-formatted Chapters
 
 ### Go after EFTA-sourced Bear Sterns leads
 
-- "Special Products Group" spreadsheets
+- https://rentry.co/dmpb3vp7
+
+"Special Products Group" spreadsheets
 
 - Unredacted lists of accounts
 
 ----
 
-----
-
-See the many GitHub clone requests
-
-https://github.com/sdnproject2026/Shadow-Diplomacy-Network/graphs/traffic
-
-All 'spikes' correlate to same-day email sent to the distribution list - ~100/day ~1,000/cycle  ~10 days/cycle ~3 cycles/month.
-
-No email 'blasts' due to server 'throttling'.
+.
 
 ----
 
-Find new PDFs now in October PDF Archive
+## SDN-Sent-22-Email-To
 
-----
+Emails Sent - Publicity Campaign History
 
-SDN-Sent-19-Email-To
-
-Emails Sent - Campaign History
-
-- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
+- https://rentry.co/zooy64hd
 
 _Who has been informed_
 
-- ~1,000 verified email addresses
+- ~1,200 verified email addresses
+
 - ~30 addresses per set
+
 - anon ASCII text-only files
+
 - CSV formatted email recipient lists
+
 - Markdown formatted document
 
 ----
 
 ## Latest Chapters
 
+SDN-45-DeucheBank-Leak-01-Nov-17
+
+- https://rentry.co/2pwf574n 
+
+- 2026-11-20
+
+SDN-45-Deutsche-Bank-Leak-02-Emails
+
+- https://rentry.co/fb2u59d2 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-01-Epstein
+
+- https://rentry.co/u8ib78d9 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-02-Epstein-Persons 
+
+- https://rentry.co/szutaxwa 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-03-Intersecting
+
+- https://rentry.co/xswdk6dm 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-04-Intersecting-Persons
+
+- https://rentry.co/4qxka8mf 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-05-Panama-Papers
+
+- https://rentry.co/2egmxihm 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-06-Panama-Persons
+
+- https://rentry.co/xuzrx74i 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak
+
+- https://rentry.co/7c2vizr2 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-08-Deutsche-Persons
+
+- https://rentry.co/cm7zhw7a 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-09-NDAs
+
+- https://rentry.co/utbz46uh 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-10-Predicates
+
+- https://rentry.co/bqtpmhqs 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-11-Predicates-Persons
+
+- https://rentry.co/tt9w3zyq 
+
+- 2026-11-20
+
 SDN-44-Countries-01-Profiles
 
-- https://rentry.co/sspwy4rx
+- https://rentry.co/sspwy4rx 
 
 - 2026-11-13
 
 SDN-44-Countries-02-Legal-Cooperation
 
-- https://rentry.co/qowb7pem
+- https://rentry.co/qowb7pem 
 
 - 2026-11-13
 
 SDN-44-Countries-03-Epstein-Places
 
-- https://rentry.co/8r2krdn3
+- https://rentry.co/8r2krdn3 
 
 - 2026-11-13
 
-SDN-13-Legal-54-House-Vote-01-Nov-11
+SDN-13-Legal-56-Phang-20261112
 
-- https://rentry.co/kas6pxbm
+- https://rentry.co/knq4xrif 
 
-- 2026-11-11
+- 2026-11-12
 
 SDN-13-Legal-55-GOP-Report-Nov-10-01
 
@@ -193,7 +284,45 @@ SDN-13-Legal-55-GOP-Report-Nov-10-02
 
 SDN-13-Legal-55-GOP-Report-Nov-10-03
 
-- https://rentry.co/4p2d89nt
+- https://rentry.co/4p2d89nt 
+
+- 2026-11-08
+
+SDN-43-60-Minutes-01-1988
+
+- https://rentry.co/xqchzeh5
+
+- 2026-11-08
+
+SDN-43-60-Minutes-02-Kiran
+
+- https://rentry.co/2id3e8e4
+
+- 2026-11-08
+
+SDN-43-60-Minutes-03-MC2
+
+- https://rentry.co/tq92myi3
+
+- 2026-11-08
+
+SDN-43-60-Minutes-04-Elite
+
+- https://rentry.co/dmzvchgg
+
+- 2026-11-08
+
+SDN-43-60-Minutes-05-1Mother
+
+- https://rentry.co/u7sw4zgc
+
+- 2026-11-08
+
+SDN-43-60-Minutes-06-Linea12
+
+- https://rentry.co/25xsxpyc
+
+- 2026-11-08
 
 SDN-13-Legal-53-Investigate-01-Epstein-Network
 
@@ -201,75 +330,27 @@ SDN-13-Legal-53-Investigate-01-Epstein-Network
 
 - 2026-11-06
 
-SDN-13-Legal-53-Investigate-02-Military-Operations
+SDN-42-Modeling-Agencies-01-Analysis
 
-- https://rentry.co/iw393vy9
+- https://rentry.co/wt77wdkv
 
-- 2026-11-05
+- 2026-11-06
 
-SDN-13-Legal-53-Investigate-03-War-in-Iran
+SDN-42-Modeling-Agencies-02-Phonebook
 
-- https://rentry.co/eymbsw4u
+- https://rentry.co/2ifyaoa3
 
-- 2026-11-05
+- 2026-11-06
 
-SDN-13-Legal-53-Investigate-04-Cryptocurrency
+SDN-42-Modeling-Agencies-03-Narrative
 
-- https://rentry.co/avh8tpp4
+- https://rentry.co/mh9igtbk
 
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-05-International-Crimes
-
-- https://rentry.co/36cxssak
-
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-06-Federal-Agency-Favoritism
-
-- https://rentry.co/xkv7sca4
-
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-07-Defense-Contracting-Conflicts
-
-- https://rentry.co/evk2tu47
-
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-08-Donations-and-Land-Leasing
-
-- https://rentry.co/6ersh7ei
-
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-09-Fossil-Fuel-Industry-Favoritism
-
-- https://rentry.co/wuma4i2c
-
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-10-Dark-Money
-
-- https://rentry.co/7265efti
-
-- 2026-11-05
-
-SDN-SDN-13-Legal-53-NM-20261026
-
-- https://rentry.co/a8itxbga
-
-- 2026-10-26
+- 2026-11-06
 
 SDN-18-Miss-Teen-Pageants-02
 
 - https://rentry.co/y6aq3oew
-
-- 2026-10-26omnts-02
-
-SDN-18-Miss-Teen-Pagents-02
-
- - https://rentry.co/y6aq3oew
 
  - 2026-10-27
 
@@ -303,7 +384,7 @@ SDN-27-Chain-Reaction-2010
 
 - Originally published 2026-02
 
-DOJ DEA OCDETF
+## DOJ DEA OCDETF
 
 > It worked with partners across federal agencies to conduct sophisticated investigations into transnational organized crime and money laundering.
 
@@ -325,7 +406,7 @@ SDN-13-Legal-51-Phang-2026-10-05
 
 - https://rentry.co/464w3yit
 
-Katie Phang
+## Katie Phang
 
 > The October 1 dispute has developed beyond the question of whether DOJ missed the certified administrative-record deadline.
 
@@ -339,208 +420,11 @@ Journalist and trial attorney Katie Phang released a legal update confirming tha
 
 ...
 
-SDN-41-Fellow-rhowardstone
-
-- https://rentry.co/fieb659w
-
-SDN-13-Legal-50-Judge-Kollar-Kotelly
-
-- https://rentry.co/yznhpw43
-
-SDN-14-Financial-05-Bear-Stearns-Spreadsheets
-
-- https://rentry.co/dmpb3vp7
-
-SDN-40-Epstein-Suicide
-
-- https://rentry.co/svqdtu3b
-
-SDN-13-Legal-48-Wyden-Analysis-20261001
-
-- https://rentry.co/iefaszi5
-
-Wyden Acusations
-
-Concealing An FBI FD-302
-
-2026-10-01
-
-- Wyden accused the Justice Department and FBI of concealing an FBI FD-302 witness-interview report involving a banker connected to Epstein
-
-- Wyden said the missing report suggested that the FBI may possess additional related 302 reports that have not been released
-
-- He demanded all 302 reports from investigations involving Epstein and his associates, including interviews with employees of JPMorgan Chase, Deutsche Bank, and Bank of America
-
-...
-
------
-
-SDN-13-Legal-41-Inherent-Contempt
-
-- 2026-09-27 Article Update
-
-- https://rentry.co/hc7mmuqy
-
-Thus:
-
-   - Maxwell conviction establishes certain adjudicated criminal conduct.
-   - That establishes a potential predicate factual foundation.
-   - It does not automatically establish that every Epstein offshore transaction involved criminal proceeds.
-   - A prosecutor would still need to establish the financial nexus.
-
-...
-
-SDN-13-Legal-46-Massie-Discharge-Query
-
-- https://rentry.co/8xp26eeb
-
-SDN-13-Legal-47-Massie-Discharge-218-Votes
-
-- https://rentry.co/d7ziyz5n
-
-SDN-13-Legal-45-Phang-vs-Blanche-2026-09-25
-
-- https://rentry.co/yhbwbg4o
-
-SDN-13-Legal-44-Massie-EFTA-End-Game
-
-- https://rentry.co/s6rpyw6c
-
------
-
-SDN-38-Panama-Papers-1970s-2020s
-
-- https://rentry.co/mztie6wi
-
-The Panama Papers leak remains one of the largest financial exposés in history, laying bare the inner workings of a secretive offshore financial system.
-
-See: EFTA Bear Stearns, 1970s-2020s, off-shoring
-
-Retrospective
-
-The Panama Papers data trove dated back to the 1970s, cataloging nearly 40 years of records from Mossack Fonseca.
-
-Others?
-
-EFTA 2026
-
-See: Bear Stearns, EFTA spreadsheets...
-
-> a "hold my drink" moment
-
-Network-Theory
-
-The EU network-theory research takes a fundamentally different approach and is significant in light of EFTA.
-
-Panama Data As A Network
-
-Instead of treating the Panama Papers as a collection of individual scandals, it treats the _data as a network._
-
-Offshore financial entities are modeled as links connecting jurisdictions.
-
-- The source jurisdiction is where the beneficial owner is located,
-
-- the host jurisdiction is where the offshore entity is registered.
-
-EFTA Data As A Network
-
-Instead of treating the EFTA documents as a collection of individual scandals, treat the _data as a network._
-
-Model Offshore financial entities as links connecting jurisdictions.
-
-- The source jurisdiction is where the beneficial owner is located,
-
-- the host jurisdiction is where the offshore entity is registered.
-
- Yin-Yang
-
-...
-
-- https://rentry.co/mztie6wi
-
-SDN-38-Panama-Papers-01-LLM-Query
-
-- https://rentry.co/7raq5c6x
-
-SDN-38-Panama-Papers-02-Master-Strategy
-
-- https://rentry.co/raav7yrw
-
 ----
 
-SDN-14-Financial-04-Bank-SARs-CapitolOne
+.
 
-- https://rentry.co/ausoq7ds
-
-Capital One Closes Accounts
-
-100+ Trump Bank Accounts
-
-March 2021
-
-Timeline
-
-...
-
-2026 - 07 - 31
-
-- Capital One files a federal court motion to dismiss the latest amended version of the Trump Organization's lawsuit.
-
-- The bank's response publicly reveals that an internal anti-money laundering (AML) review, rather than politics, drove the account closures.
-
-...
-
------
-
-SDN-13-Legal-14-Perps-LLM
-
-- https://rentry.co/bfuppbc4 - Query
-
-- https://rentry.co/txx3yftp - Perplexity Steps
-
-- https://rentry.co/audyoemi - Duck-AI Steps
-
-- https://rentry.co/5gayihtd - ChatGPT Steps
-
-...
-
------
-
-SDN-13-Legal-21-Trumps-1970s-Mafia
-
-- https://rentry.co/dkt4emff
-
-Covering
-
-- Investigating Ties to the Gambino Family
-
-- The Colombo Family’s Expansion
-
-- Trial of the Lucchese Family
-
-- Commission Trial: The Five Families
-
-NY Daily News
-
-1970s-1990s
-
-1976-08-31
-
-- (Cover)
-
-Donald Trump Takes On NYC Real Estate
-
-...
-
------
-
-> See sub-directories for "Fellow Travelers" content and references.
-
-> Create an "Issue" to get your data processed, listed, referenced.
-
-> See "Sent" for email distribution campaign history and lists
-
-- https://github.com/sdnproject2026/Shadow-Diplomacy-Network
+----
 
 # RE: Forget Epstein
 
@@ -550,37 +434,27 @@ Donald Trump Takes On NYC Real Estate
 
 ----
 
-# Elevator Pitch
+## Elevator Pitch
 
 SDN-00-04-List-Of-Names
 
 - anon ASCII text-only file in Markdown
+
 - grouped by occupation
+
 - https://rentry.co/at4v3s75
-- https://pastes.io/sdn-00-04-/
 
 SDN-00-00-FOMO-Dist-List-CC
 
 - anon ASCII text-only file in Markdown
+
 - CSV / CC formatted email recipient lists
-- https://pastebin.com/raw/pkZTzzZU
+
 - https://rentry.co/ea9q6f4z
 
 _Type-A file naming, guaranteed_
 
-### Download all Markdown text files
-
-SDN-00-06-Dozens-Of-Chapters
-
-_ZIP archive, 10 folders, 150+ files - no redactions_
-
- - https://github.com/sdnproject2026/Shadow-Diplomacy-Network
-
-_one-and-done_
-
-- https://sdnproject2026.github.io/Shadow-Diplomacy-Network
-
-_The Elevator Pitch, redux_
+### The Elevator Pitch, redux
 
 > the product of a deep nerdy dive into LLM data
 
@@ -588,29 +462,51 @@ _The Elevator Pitch, redux_
 
 > the "map", to the "terrain", that is forever there
 
-### Breaking-News
+## Download All Files
+
+SDN-00-06-Dozens-Of-Chapters
+
+_ZIP archive, 10 folders, 200+ files - no redactions_
+
+_one-and-done_
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network/SDN-Chapters.zip
 
-_International Cascading Acountability_
+ - https://github.com/sdnproject2026/Shadow-Diplomacy-Network
+
+## Breaking-News
+
+- https://rentry.co/3aqhtvtm
+
+### International Cascading Accountability
 
 Proverbial F'ing House of Proverbial F'ing Cards
 
 It all started with the 2026 Unsealed Bear Sterns “_Special Products”_ files
+
+- https://rentry.co/dmpb3vp7
 
 > International Shadow Diplomacy Network
 
 > 80 years, and still going strong
 
 No POTUS may pardon State felony convictions
+
 - New York, Florida?
+
 - There are 50 States
+
 - _hint hint hint_
 
 Foreign Sovereign Nations have "files" dibs, too
+
 - France?
+
 - There are Dozens of Nations
+
 - _hint hint hint_
+
+# The 5 Questions
 
 ## Who
 
@@ -618,51 +514,49 @@ Dozens of perps / pedos / associates / mentions
 
 (PPAMs <sup>TM</sup>)
 
-- Shadows
+### Shadows
 
-    - https://pastebin.com/raw/cSTnyCrv
+- https://rentry.co/w9nwhkwv
 
-- 2010 DEA "Operation Chain Reaction"
+### 2010 DEA "Operation Chain Reaction"
 
-    - https://rentry.co/uz4dfb87
+- https://rentry.co/uz4dfb87
 
-- 2017 & 2025 ProPublica Financial Disclosures
-    - NEXT ! 1,500 _SLUGS_ (names)
-
-Hundreds of composite familials listed
+### Hundreds of composite familials listed
 
 - Wikis - Composite
+
     - Nine (9) websites
-    - https://pastee.dev/p/m2VjEHOS
+
     - https://rentry.co/xfuyt2a8
 
 - Shadow - Composite
-    - https://pastes.io/4ugxLqA7
+
     - https://rentry.co/rpnfrqop
+
     - Twenty-five (25)+ Chapters, LLM files
 
 - List Of Names
+
     - One (1) List, composited from:
+
     - "2019 Email" + "Wikis" + "Shadow"
+
         - "How To..." LLM, no extra charge
+
     - https://rentry.co/at4v3s75
-    - https://pastes.io/sdn-00-04-/
 
-Hundreds of email addressed recipients
+### Hundreds of Email Recipients
 
-- https://pastebin.com/raw/LdmpArVa
-- https://rentry.co/fkuyha2q
-    - mailto formatted
-
-- https://pastebin.com/raw/pkZTzzZU
-- https://rentry.co/ea9q6f4z
-    - CSV / CC formatted in batches
+- https://rentry.co/zooy64hd
 
 Untold thousands of international victims
 
 ## Where and What
 
 International Networks
+
+- https://rentry.co/w9nwhkwv
 
 ## When
 
@@ -673,19 +567,25 @@ Spanning 80+ years
 Spanning 400+ years
 
 - Caribbean Human Trafficking
-- Sephardic Diaspora
 
+- Sephardic Diaspora
 
 ## Why
 
 Why not?
 
 - Regime Change(s) - Nations, States, & Local !
+
     - Done Right, Legal-like, with Voting !!
+    
+    - 2026 USA Mid-term Elections???
+
 - Not Only One Time, for decades to come !!!
 
 Note:
+
   - Not in a bad way
+
   - Oxford Commas :--}
 
 ## How
@@ -716,6 +616,8 @@ Qs' not even going to like it, neither.
 
 "Cover-ups" made the US (not individual perp's...) subject to International Cascading Accountability.
 
+- https://rentry.co/qqgwoecq
+
 _C'est la vie._
 
 Since February 14th, 2026 - the US is no longer in the legal driver's seat - the new _French Connection_.
@@ -725,6 +627,10 @@ _Tres Bien !_
 Thus, vacating existing US (FL) Non-Prosecution Agreements (NPAs)
 
 _Mon Dieu !!_
+
+Prior convictions are admissable evidence going forward...
+
+> cascading 
 
 ### The RICO "Complications" List
 
@@ -762,4 +668,23 @@ Too (F'ing) Long; Didn't (won't) Read
 
 ...
 
+----
+
+.
+
+----
+
+See the many GitHub clone requests
+
+- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/graphs/traffic
+
+All 'spikes' correlate to same-day email sent to the distribution list - ~100/day ~1,000/cycle  ~10 days/cycle ~3 cycles/month.
+
+No email 'blasts' due to server 'throttling'.
+
+----
+
+.
+
+----
 
