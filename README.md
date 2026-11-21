@@ -1,3 +1,7 @@
+README.md
+
+- https://rentry.co/a37fxogc
+
 Public site
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network/
