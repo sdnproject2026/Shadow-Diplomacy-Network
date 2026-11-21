@@ -1,0 +1,165 @@
+name: Build and Deploy Markdown to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Replace with your branch name if different (e.g., master)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Markdown renderer
+        run: pip install markdown
+
+      - name: Convert Markdown and copy ZIP/PDF assets to _site
+        env:
+          SITE_TITLE: "reponame"
+        run: |
+          python3 - << 'EOF'
+          import os
+          import re
+          import html
+          import shutil
+          import markdown
+
+          SRC_DIR = "."
+          OUT_DIR = "_site"
+          SITE_TITLE = os.environ.get("SITE_TITLE", "reponame")
+
+          TEMPLATE = """<!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>{title}</title>
+            <style>
+              body {{
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+                line-height: 1.6;
+                max-width: 860px;
+                margin: 2rem auto;
+                padding: 0 1.25rem;
+                color: #1f2328;
+              }}
+              pre, code {{
+                background: #f6f8fa;
+                border-radius: 6px;
+                font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+              }}
+              pre {{ padding: 1rem; overflow-x: auto; }}
+              code {{ padding: 0.2em 0.4em; }}
+              pre code {{ padding: 0; }}
+              a {{ color: #0969da; text-decoration: none; }}
+              a:hover {{ text-decoration: underline; }}
+              table {{ border-collapse: collapse; width: 100%; margin: 1rem 0; }}
+              th, td {{ border: 1px solid #d0d7de; padding: 0.5rem 0.75rem; text-align: left; }}
+              th {{ background: #f6f8fa; }}
+              blockquote {{
+                border-left: 4px solid #d0d7de;
+                margin: 1rem 0;
+                padding: 0.25rem 1rem;
+                color: #656d76;
+              }}
+            </style>
+          </head>
+          <body>
+          {body}
+          </body>
+          </html>
+          """
+
+          def rewrite_md_links(html_text):
+              def repl(match):
+                  prefix, target, anchor = match.group(1), match.group(2), match.group(3) or ""
+                  if re.match(r"^(https?:|mailto:|#)", target, re.IGNORECASE):
+                      return match.group(0)
+                  if re.search(r"(^|/)README\.md$", target, re.IGNORECASE):
+                      new_target = re.sub(r"README\.md$", "", target, flags=re.IGNORECASE) or "./"
+                  else:
+                      new_target = re.sub(r"\.md$", ".html", target, flags=re.IGNORECASE)
+                  return f'{prefix}{new_target}{anchor}"'
+
+              return re.sub(r'(href=")([^"#]+?\.md)(#[^"]*)?"', repl, html_text, flags=re.IGNORECASE)
+
+          for root, dirs, files in os.walk(SRC_DIR):
+              dirs[:] = [d for d in dirs if not d.startswith(".") and d != OUT_DIR]
+
+              rel_dir = os.path.relpath(root, SRC_DIR)
+              out_subdir = OUT_DIR if rel_dir == "." else os.path.join(OUT_DIR, rel_dir)
+
+              for filename in files:
+                  lower_name = filename.lower()
+                  src_path = os.path.join(root, filename)
+
+                  if lower_name.endswith(".md"):
+                      os.makedirs(out_subdir, exist_ok=True)
+
+                      with open(src_path, "r", encoding="utf-8") as f:
+                          md_text = f.read()
+
+                      rendered_body = markdown.markdown(
+                          md_text,
+                          extensions=["fenced_code", "tables", "toc", "sane_lists"]
+                      )
+                      rendered_body = rewrite_md_links(rendered_body)
+
+                      page_name = os.path.splitext(filename)[0]
+                      if lower_name == "readme.md":
+                          display_name = SITE_TITLE if rel_dir == "." else os.path.basename(rel_dir)
+                          out_files = ["index.html", "README.html"]
+                      else:
+                          display_name = page_name
+                          out_files = [f"{page_name}.html"]
+
+                      full_html = TEMPLATE.format(
+                          title=html.escape(f"{display_name} - {SITE_TITLE}"),
+                          body=rendered_body
+                      )
+
+                      for out_name in out_files:
+                          with open(os.path.join(out_subdir, out_name), "w", encoding="utf-8") as out_f:
+                              out_f.write(full_html)
+
+                  elif lower_name.endswith((".zip", ".pdf")):
+                      os.makedirs(out_subdir, exist_ok=True)
+                      shutil.copy2(src_path, os.path.join(out_subdir, filename))
+          EOF
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site"
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        
