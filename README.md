@@ -90,11 +90,27 @@ All plain-text Markdown-formatted Chapters
 
 Skip past USA DOJ, FBI, DEA, Treasury
 
-- https://rentry.co/sspwy4rx 
-
 - Go Direct to sources
 
 - Foreign Language Docs
+
+- SDN-44-Countries-01-Profiles
+
+   - https://rentry.co/sspwy4rx
+
+    - 2026-11-13
+
+- SDN-44-Countries-02-Legal-Cooperation
+
+   - https://rentry.co/qowb7pem
+
+    - 2026-11-13
+
+- SDN-44-Countries-03-Epstein-Places
+
+   - https://rentry.co/8r2krdn3
+
+    - 2026-11-13
 
 ### Scour the 2014 Panama Papers 2T+ data trove
 
