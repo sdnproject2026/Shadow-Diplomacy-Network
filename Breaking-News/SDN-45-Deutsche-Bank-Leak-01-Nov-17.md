@@ -1,4 +1,4 @@
-# Deutsche Bank Leak  
+# Deutsche Bank Leak 
 
 ## November 17, 2026
 
@@ -216,7 +216,7 @@ I cannot confirm the existence of publicly accessible raw copies of the alleged 
 
 I will not invent download links or label reporting articles as leaked-data dumps.
 
-## Major Findings 
+## Major Findings
 
 ###  Real Investigative Project
 

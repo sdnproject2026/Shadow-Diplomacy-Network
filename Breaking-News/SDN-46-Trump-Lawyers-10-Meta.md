@@ -3,7 +3,7 @@
 ## Metadata
 
 - PB
-- PI
+- https://pastes.io/dKzI9O9M
 - CC
 - https://rentry.co/bqtpmhqs 
 
@@ -14,4 +14,3 @@
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network
 
 - 2026-11-20
-
