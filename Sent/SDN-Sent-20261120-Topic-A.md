@@ -4,17 +4,19 @@ Forget Epstein - 1920s-2020s - Trump Lawyers Epstein - D. Barr - Bear - Khashogg
 
 ## SDN
 
+International Shadow Diplomacy Network
+
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network/
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network/SDN-Chapters.zip
 
-90+ years > "Shadow Diplomacy Network"
+80+ years > "Shadow Diplomacy Network"
 
 ### SDN Introduction
 
 - README.md
 
-- https://rentry.co/f5mry753
+- https://rentry.co/vpukipf2
 
 ## SDN Publicity Campaign
 
@@ -46,6 +48,8 @@ too!
 
 ----
 
+.
+
 ----
 
 ## SDN Special Edition
@@ -76,11 +80,7 @@ USA State Investigators
 
 9. _Epstein_ Lago - FL - Trump
 
-10
-
-11
-
-12. _Epstein_ Pied - FR - Paris
+10. _Epstein_ Pied - FR - Paris
 
 ## Geographic Presence by State
 
@@ -334,8 +334,6 @@ What documentation exists regarding corporate links in foreign real estate regis
 
 - These documents tracked properties held briefly or leased during specific timeframes in international regions.
 
-----
-
 # Private Jet
 
 ### Synopsis and analysis of travel
@@ -578,6 +576,8 @@ What role did regional transit staging points play in connecting secondary hubs 
 
 -----
 
+.
+
 -----
 
 ## SDN Newest Chapters
@@ -651,6 +651,10 @@ SDN-46-Trump-Lawyers-09-NDAs
 - 2026-11-20
 
 SDN-46-Trump-Lawyers-10-Predicates
+
+- https://pastes.io/dKzI9O9M
+
+BLOCKED
 
 - https://rentry.co/bqtpmhqs 
 
@@ -764,9 +768,16 @@ SDN-42-Modeling-Agencies-03-Narrative
 
 - 2026-11-06
 
+----
+
+.
+
+----
+
 SDN-18-Miss-Teen-Pageants-02
 
 - https://rentry.co/y6aq3oew
+
 
 - 2026-10-27
 
@@ -806,6 +817,13 @@ SDN-13-Legal-14-Perps-LLM
 
 - https://rentry.co/5gayihtd - ChatGPT Steps
 
+
+-----
+
+=== Ancient History ===
+
+-----
+
 ## SDN 00 Origin Efforts
 
 SDN-00-01-Elevator-Pitch
@@ -815,157 +833,9 @@ SDN-00-01-Elevator-Pitch
 SDN-00-06-Dozens-Of-Chapters
 
 - https://rentry.co/iv6ohyz4
-
-=== Chapters Preview ===
-
------
-
-## SDN-14-Financial-07-Banks-Analysis
-
-- https://rentry.co/2gqcpkfu
-
-October 15, 2026
-
-Names in The Guardian article, "US lawmakers unveil bill to hold Wall Street's 'Epstein-connected' bosses to account,"
-
-Jes Staley
-
-Former Barclays chief executive and JPMorgan executive.
-
-The article concerns his professional and personal relationship with Jeffrey Epstein, Barclays' executive recruitment and vetting procedures, regulatory scrutiny, and Staley's subsequent departure from Barclays.
-
-A GitHub investigation identifies Staley in emails, financial records, calendars, and other EFTA documents.
-
-A separate dataset-specific report lists 14 mentions in its Dataset 10 comprehensive-name-search analysis.
-
-...
-
-## SDN-41-Fellow-rhowardstone
-
-- https://rentry.co/fieb659w
-
-- Statistical and biographical aggregate reports on all 216Gig of Epstein EFTA file contents.
-
-## SDN-14-Financial-05-Bear-Stearns-Spreadsheets
-
-- https://rentry.co/dmpb3vp7
-SDN-14-Financial-05-Bear-Stearns-Spreadsheets
-
-- https://rentry.co/dmpb3vp7
-
-### Special Products Division
-
-Structured / Tabular Record Search
-
-This broader search, vs XLSX files, produces a much stronger set of records.
-
-The EFTA collection contains large Bear Stearns PDF statement bundles that function as structured financial datasets:
-
-- portfolio holdings
-
-- quantities
-
-- prices
-
-- values
-
-...
-
-## SDN-13-Legal-41-Inherent-Contempt
-
-- https://rentry.co/hc7mmuqy
-
-- 2026-09-27 Article Update
-
-...
-
-Thus:
-
-1. Maxwell conviction establishes certain adjudicated criminal conduct.
-
-2. That establishes a potential predicate factual foundation.
-
-3. It does not automatically establish that every Epstein offshore transaction involved criminal proceeds.
-
-4. A prosecutor would still need to establish the financial nexus.
-
-...
-
-The Resolution of Inherent Contempt is a constitutional authority that allows the House of Representatives to act as its own judicial body to enforce subpoenas or laws without the assistance of the executive or judicial branches.
-
-Unlike "criminal contempt," which requires the Department of Justice to prosecute its own officials, or "civil contempt," which relies on federal courts, inherent contempt allows the House to directly detain or fine individuals.
-
-### Epstein Files Transparency Act
-
-...
-
-## SDN-38-Panama-Papers-1970s-2020s
-
-- https://rentry.co/mztie6wi
-
-SDN-38-Panama-Papers-01-LLM-Query
-
-- https://rentry.co/7raq5c6x
-
-SDN-38-Panama-Papers-02-Master-Strategy
-
-- https://rentry.co/raav7yrw
-
-The Panama Papers leak remains one of the largest financial exposés in history, laying bare the inner workings of a secretive offshore financial system.
-
-See: EFTA Bear Stearns, 1970s-2020s, off-shoring
-
-### Retrospective
-
-The Panama Papers data trove dated back to the 1970s, cataloging nearly 40 years of records from Mossack Fonseca.
-
-Others?
-
-### EFTA 2026
-
-See: Bear Stearns, EFTA spreadsheets...
-
-> a "hold my drink" moment
-
-### Network-Theory
-
-The EU network-theory research takes a fundamentally different approach and is significant in light of EFTA.
-
-### Panama Data As A Network
-
-Instead of treating the Panama Papers as a collection of individual scandals, it treats the _data as a network._
-
-Offshore financial entities are modeled as links connecting jurisdictions.
-
-- The source jurisdiction is where the beneficial owner is located,
-
-- the host jurisdiction is where the offshore entity is registered.
-
-### EFTA Data As A Network
-
-Instead of treating the EFTA documents as a collection of individual scandals, treat the _data as a network._
-
-Model Offshore financial entities as links connecting jurisdictions.
-
-- The source jurisdiction is where the beneficial owner is located,
-
-- the host jurisdiction is where the offshore entity is registered.
-
-### Yin-Yang
-
-...
-
------
-
-=== Ancient History ===
-
------
-
 ## SDN-00-01-Elevator-Pitch
 
 - https://rentry.co/o2hkaid5
-
-International Shadow Diplomacy Network
 
 ### Epstein's Friends
 

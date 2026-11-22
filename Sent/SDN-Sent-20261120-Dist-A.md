@@ -30,13 +30,13 @@ sdnproject2026@onionmail.org
 
 ### SDN Distributon List
 
-- SDN-Sent-021-Email-To
+- SDN-Sent-022-Email-To
 
 - https://rentry.co/g83zwumr
 
 ### 1000+ > Email History
 
-- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/tree/main/Sent
+- https://rentry.co/zooy64hd
 
 ### Your Email Address
 
@@ -50,7 +50,7 @@ too!
 
 ### 220+ > Chapters
 
-- https://github.com/sdnproject2026/Shadow-Diplomacy-Network/blob/main/SDN-Chapters.zip
+- https://sdnproject2026.github.io/Shadow-Diplomacy-Network/SDN-Chapters.zip
 
 ## SDN Newest Chapters
 
@@ -124,7 +124,11 @@ SDN-46-Trump-Lawyers-09-NDAs
 
 SDN-46-Trump-Lawyers-10-Predicates
 
-- https://rentry.co/bqtpmhqs 
+- https://pastes.io/dKzI9O9M
+
+BLOCKED
+
+- https://rentry.co/vhrzcgue
 
 - 2026-11-20
 
@@ -226,7 +230,7 @@ SDN-42-Modeling-Agencies-01-Analysis
 
 SDN-42-Modeling-Agencies-02-Phonebook
 
-- https://rentry.co/2ifyaoa3
+- https://rentry.co/cs2vcxtd
 
 - 2026-11-06
 
