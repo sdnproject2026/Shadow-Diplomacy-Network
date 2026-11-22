@@ -4,6 +4,10 @@ README.md
 
 - https://rentry.co/vpukipf2
 
+CATALOGUE.md
+
+- [CATALOGUE](./CATALOGUE.md)
+
 Public site
 
 - https://sdnproject2026.github.io/Shadow-Diplomacy-Network/
