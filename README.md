@@ -1,3 +1,5 @@
+International Shadow Diplomacy Network
+
 README.md
 
 - https://rentry.co/vpukipf2
