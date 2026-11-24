@@ -1,20 +1,20 @@
 # Sent
 
-Total files: 151
+Total files: 157
 
 ## Folders
 Folders: 0
 
 
 ## Chapters
-Files: 150
+Files: 156
 
 ### SDN Sent 022 Email To
 - [SDN-Sent-022-Email-To.md](./SDN-Sent-022-Email-To.md)
 - 2026-11-22
 ### SDN Sent 022 Meta
 - [SDN-Sent-022-Meta.md](./SDN-Sent-022-Meta.md)
-- 2026-11-21
+- 2026-11-23
 ### SDN Sent 20261001 Dist A
 - [SDN-Sent-20261001-Dist-A.md](./SDN-Sent-20261001-Dist-A.md)
 - 2026-10-01
@@ -438,9 +438,6 @@ Files: 150
 ### SDN Sent 20261120 Dist C
 - [SDN-Sent-20261120-Dist-C.md](./SDN-Sent-20261120-Dist-C.md)
 - 2026-11-21
-### SDN Sent 20261120 Dist D
-- [SDN-Sent-20261120-Dist-D.md](./SDN-Sent-20261120-Dist-D.md)
-- 2026-11-21
 ### SDN Sent 20261120 Topic A
 - [SDN-Sent-20261120-Topic-A.md](./SDN-Sent-20261120-Topic-A.md)
 - 2026-11-21
@@ -450,9 +447,30 @@ Files: 150
 ### SDN Sent 20261120 Topic C
 - [SDN-Sent-20261120-Topic-C.md](./SDN-Sent-20261120-Topic-C.md)
 - 2026-11-21
-### SDN Sent 20261120 Topic D
-- [SDN-Sent-20261120-Topic-D.md](./SDN-Sent-20261120-Topic-D.md)
-- 2026-11-21
+### SDN Sent 20261123 Dist A
+- [SDN-Sent-20261123-Dist-A.md](./SDN-Sent-20261123-Dist-A.md)
+- 2026-11-24
+### SDN Sent 20261123 Dist B
+- [SDN-Sent-20261123-Dist-B.md](./SDN-Sent-20261123-Dist-B.md)
+- 2026-11-23
+### SDN Sent 20261123 Dist C
+- [SDN-Sent-20261123-Dist-C.md](./SDN-Sent-20261123-Dist-C.md)
+- 2026-11-24
+### SDN Sent 20261123 Dist D
+- [SDN-Sent-20261123-Dist-D.md](./SDN-Sent-20261123-Dist-D.md)
+- 2026-11-24
+### SDN Sent 20261123 Topic A
+- [SDN-Sent-20261123-Topic-A.md](./SDN-Sent-20261123-Topic-A.md)
+- 2026-11-23
+### SDN Sent 20261123 Topic B
+- [SDN-Sent-20261123-Topic-B.md](./SDN-Sent-20261123-Topic-B.md)
+- 2026-11-23
+### SDN Sent 20261124 Topic C
+- [SDN-Sent-20261124-Topic-C.md](./SDN-Sent-20261124-Topic-C.md)
+- 2026-11-24
+### SDN Sent 20261124 Topic D
+- [SDN-Sent-20261124-Topic-D.md](./SDN-Sent-20261124-Topic-D.md)
+- 2026-11-24
 ### SDN Sent Email Blurb
 - [SDN-Sent-Email-Blurb.md](./SDN-Sent-Email-Blurb.md)
 - 2026-08-30
