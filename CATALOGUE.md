@@ -1,31 +1,38 @@
-### International Shadow Diplomacy Network
+# Epstein
 
-Total files: 10
+Total files: 4
 
 ## Folders
-Folders: 17
+Folders: 18
 
-- [Bear-Stearns](./Bear-Stearns/README.md)
 - [Breaking-News](./Breaking-News/README.md)
-- [EFTA-Index](./EFTA-Index/README.md)
-- [FancyComma](./FancyComma/README.md)
-- [Funky](./Funky/README.md)
-- [LLM](./LLM/README.md)
-- [PACs](./PACs/README.md)
-- [Rye](./Rye/README.md)
-- [SDN-Explore](./SDN-Explore/README.md)
-- [SDN-Fellows](./SDN-Fellows/README.md)
-- [SDN-Group](./SDN-Group/README.md)
-- [SDN-Lead-Up](./SDN-Lead-Up/README.md)
-- [SDN-News-Archive](./SDN-News-Archive/README.md)
-- [SDN-PDFs-Archive](./SDN-PDFs-Archive/README.md)
-- [SDN-Sent-Archive](./SDN-Sent-Archive/README.md)
-- [SDN-Zip-Archive](./SDN-Zip-Archive/README.md)
 - [Sent](./Sent/README.md)
+- [SDN-Sent-Archive](./SDN-Sent-Archive/README.md)
+- [SDN-PDFs-Archive](./SDN-PDFs-Archive/README.md)
+- [SDN-Group](./SDN-Group/README.md)
+- [LLM](./LLM/README.md)
+- [SDN-News-Archive](./SDN-News-Archive/README.md)
+- [SDN-Lead-Up](./SDN-Lead-Up/README.md)
+- [SDN-Fellows](./SDN-Fellows/README.md)
+- [SDN-Explore](./SDN-Explore/README.md)
+- [Rye](./Rye/README.md)
+- [PACs](./PACs/README.md)
+- [Funky](./Funky/README.md)
+- [EFTA-Index](./EFTA-Index/README.md)
+- [Bear-Stearns](./Bear-Stearns/README.md)
+- [rhowardstone](./rhowardstone/README.md)
+- [SDN-Zip-Archive](./SDN-Zip-Archive/README.md)
+- [FancyComma](./FancyComma/README.md)
 
 ## Chapters
-Files: 0
+Files: 2
 
+### README
+- [README.md](./README.md)
+- 2026-11-22
+### GET PDF
+- [GET-PDF.md](./GET-PDF.md)
+- 2026-11-22
 
 ## Documents
 Files: 0
