@@ -1,11 +1,11 @@
-### SDN-13-Legal-57-Phang-1121-01-Next-Steps
+### SDN-13-Legal-57-Phang-1121-02-Midterms
 
 ## Metadata
 
 - PB
 - PI
 - CC
-- https://rentry.co/saa3hxh5 
+- https://rentry.co/fawnavnp 
 
 > HASH
 

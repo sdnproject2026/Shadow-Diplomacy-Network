@@ -1,14 +1,32 @@
 # Breaking News
 
-Total files: 136
+Total files: 138
 
 ## Folders
 Folders: 0
 
 
 ## Chapters
-Files: 134
+Files: 137
 
+### SDN 13 Legal 57 Phang 1121 02 Meta
+- [SDN-13-Legal-57-Phang-1121-02-Meta.md](./SDN-13-Legal-57-Phang-1121-02-Meta.md)
+- 2026-11-27
+### SDN 00 Breaking News List
+- [SDN-00-Breaking-News-List.md](./SDN-00-Breaking-News-List.md)
+- 2026-11-27
+### SDN 13 Legal 57 Phang 1121 01 Meta
+- [SDN-13-Legal-57-Phang-1121-01-Meta.md](./SDN-13-Legal-57-Phang-1121-01-Meta.md)
+- 2026-11-27
+### SDN 45 Deutsche Bank Leak 01 Nov 17 Meta
+- [SDN-45-Deutsche-Bank-Leak-01-Nov-17-Meta.md](./SDN-45-Deutsche-Bank-Leak-01-Nov-17-Meta.md)
+- 2026-11-27
+### SDN 13 Legal 57 Phang 1121 01 Next Steps
+- [SDN-13-Legal-57-Phang-1121-01-Next-Steps.md](./SDN-13-Legal-57-Phang-1121-01-Next-Steps.md)
+- 2026-11-27
+### SDN 13 Legal 57 Phang 1121 02 Midterms
+- [SDN-13-Legal-57-Phang-1121-02-Midterms.md](./SDN-13-Legal-57-Phang-1121-02-Midterms.md)
+- 2026-11-27
 ### SDN 45 Deutsche Bank Leak 02 Emails Synop Meta
 - [SDN-45-Deutsche-Bank-Leak-02-Emails-Synop-Meta.md](./SDN-45-Deutsche-Bank-Leak-02-Emails-Synop-Meta.md)
 - 2026-11-27
@@ -21,20 +39,11 @@ Files: 134
 ### SDN 45 Deutsche Bank Leak 02 Emails Synop
 - [SDN-45-Deutsche-Bank-Leak-02-Emails-Synop.md](./SDN-45-Deutsche-Bank-Leak-02-Emails-Synop.md)
 - 2026-11-27
-### SDN 00 Breaking News List
-- [SDN-00-Breaking-News-List.md](./SDN-00-Breaking-News-List.md)
-- 2026-11-26
 ### SDN 46 Trump Lawyers 10 Meta
 - [SDN-46-Trump-Lawyers-10-Meta.md](./SDN-46-Trump-Lawyers-10-Meta.md)
 - 2026-11-21
 ### SDN 45 Deutsche Bank Leak 01 Nov 17
 - [SDN-45-Deutsche-Bank-Leak-01-Nov-17.md](./SDN-45-Deutsche-Bank-Leak-01-Nov-17.md)
-- 2026-11-21
-### SDN 13 Legal 57 Phang 1121 02 Midterms
-- [SDN-13-Legal-57-Phang-1121-02-Midterms.md](./SDN-13-Legal-57-Phang-1121-02-Midterms.md)
-- 2026-11-21
-### SDN 13 Legal 57 Phang 1121 01 Next Steps
-- [SDN-13-Legal-57-Phang-1121-01-Next-Steps.md](./SDN-13-Legal-57-Phang-1121-01-Next-Steps.md)
 - 2026-11-21
 ### SDN 46 Trump Lawyers 11 Meta
 - [SDN-46-Trump-Lawyers-11-Meta.md](./SDN-46-Trump-Lawyers-11-Meta.md)

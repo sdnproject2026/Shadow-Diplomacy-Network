@@ -1,5 +1,11 @@
 ## SDN 00 Breaking News List
 
+SDN-13-Legal-57-Phang-1121-02-Midterms
+
+- https://rentry.co/fawnavnp 
+
+- 2026-11-20
+
 SDN-13-Legal-57-Phang-1121-01-Next-Steps
 
 - https://rentry.co/saa3hxh5 
@@ -9,12 +15,6 @@ SDN-13-Legal-57-Phang-1121-01-Next-Steps
 SDN-45-Deutsche-Bank-Leak-01-Nov-17
 
 - https://rentry.co/2pwf574n 
-
-- 2026-11-20
-
-SDN-13-Legal-57-Phang-1121-01-Next-Steps
-
-- https://rentry.co/saa3hxh5 
 
 - 2026-11-20
 
