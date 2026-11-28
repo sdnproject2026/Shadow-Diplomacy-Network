@@ -1,56 +1,26 @@
-### SDN-00-Breaking-News-List
+## SDN 00 Breaking News List
 
-SDN-45-DeucheBank-Leak-01-Nov-17
+SDN-45-Deutsche-Bank-Leak-02-Emails-Synop-Meta
 
-- https://rentry.co/2pwf574n 
+- https://rentry.co/b8sdzdny 
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-45-Deutsche-Bank-Leak-02-Emails
+SDN-45-Deutsche-Bank-Leak-01-Nov-17-Synop
 
-- https://rentry.co/fb2u59d2 
+- https://rentry.co/pzerxoc9 
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-01-Epstein
+SDN-46-Trump-Lawyers-10-Predicates
 
-- https://rentry.co/u8ib78d9 
-
-- 2026-11-20
-
-SDN-46-Trump-Lawyers-02-Epstein-Persons 
-
-- https://rentry.co/szutaxwa 
+- https://pastes.io/dKzI9O9M
 
 - 2026-11-20
 
-SDN-46-Trump-Lawyers-03-Intersecting
+SDN-46-Trump-Lawyers-11-Predicates-Persons
 
-- https://rentry.co/xswdk6dm 
-
-- 2026-11-20
-
-SDN-46-Trump-Lawyers-04-Intersecting-Persons
-
-- https://rentry.co/4qxka8mf 
-
-- 2026-11-20
-
-SDN-46-Trump-Lawyers-05-Panama-Papers
-
-- https://rentry.co/2egmxihm 
-
-- 2026-11-20
-
-SDN-46-Trump-Lawyers-06-Panama-Persons
-
-- https://rentry.co/xuzrx74i 
-
-- 2026-11-20
-
-SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak
-
-- https://rentry.co/7c2vizr2 
+- https://rentry.co/tt9w3zyq 
 
 - 2026-11-20
 
@@ -66,15 +36,57 @@ SDN-46-Trump-Lawyers-09-NDAs
 
 - 2026-11-20
 
-SDN-46-Trump-Lawyers-10-Predicates
+SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak
 
-- https://rentry.co/bqtpmhqs 
+- https://rentry.co/7c2vizr2 
 
 - 2026-11-20
 
-SDN-46-Trump-Lawyers-11-Predicates-Persons
+SDN-45-Deutsche-Bank-Leak-02-Emails
 
-- https://rentry.co/tt9w3zyq 
+- https://rentry.co/fb2u59d2 
+
+- 2026-11-20
+
+SDN-45-DeucheBank-Leak-01-Nov-17
+
+- https://rentry.co/2pwf574n 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-06-Panama-Persons
+
+- https://rentry.co/xuzrx74i 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-05-Panama-Papers
+
+- https://rentry.co/2egmxihm 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-03-Intersecting
+
+- https://rentry.co/xswdk6dm 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-04-Intersecting-Persons
+
+- https://rentry.co/4qxka8mf 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-02-Epstein-Persons 
+
+- https://rentry.co/szutaxwa 
+
+- 2026-11-20
+
+SDN-46-Trump-Lawyers-01-Epstein
+
+- https://rentry.co/u8ib78d9 
 
 - 2026-11-20
 
@@ -102,9 +114,9 @@ SDN-13-Legal-56-Phang-20261112
 
 - 2026-11-12
 
-SDN-13-Legal-55-GOP-Report-Nov-10-01
+SDN-13-Legal-55-GOP-Report-Nov-10-03
 
-- https://rentry.co/bymef2zx
+- https://rentry.co/4p2d89nt 
 
 - 2026-11-08
 
@@ -114,33 +126,21 @@ SDN-13-Legal-55-GOP-Report-Nov-10-02
 
 - 2026-11-08
 
-SDN-13-Legal-55-GOP-Report-Nov-10-03
+SDN-13-Legal-55-GOP-Report-Nov-10-01
 
-- https://rentry.co/4p2d89nt 
-
-- 2026-11-08
-
-SDN-43-60-Minutes-01-1988
-
-- https://rentry.co/xqchzeh5
+- https://rentry.co/bymef2zx
 
 - 2026-11-08
 
-SDN-43-60-Minutes-02-Kiran
+SDN-13-Legal-54-House-Vote-01-Nov-11
 
-- https://rentry.co/2id3e8e4
+- https://rentry.co/kas6pxbm 
 
-- 2026-11-08
+- 2026-11-00
 
-SDN-43-60-Minutes-03-MC2
+SDN-43-60-Minutes-06-Linea12
 
-- https://rentry.co/tq92myi3
-
-- 2026-11-08
-
-SDN-43-60-Minutes-04-Elite
-
-- https://rentry.co/dmzvchgg
+- https://rentry.co/25xsxpyc
 
 - 2026-11-08
 
@@ -150,27 +150,33 @@ SDN-43-60-Minutes-05-1Mother
 
 - 2026-11-08
 
-SDN-43-60-Minutes-06-Linea12
+SDN-43-60-Minutes-04-Elite
 
-- https://rentry.co/25xsxpyc
+- https://rentry.co/dmzvchgg
 
 - 2026-11-08
 
-SDN-13-Legal-53-Investigate-01-Epstein-Network
+SDN-43-60-Minutes-03-MC2
 
-- https://rentry.co/8epynwqi
+- https://rentry.co/tq92myi3
 
-- 2026-11-06
+- 2026-11-08
+
+SDN-43-60-Minutes-02-Kiran
+
+- https://rentry.co/2id3e8e4
+
+- 2026-11-08
+
+SDN-43-60-Minutes-01-1988
+
+- https://rentry.co/xqchzeh5
+
+- 2026-11-08
 
 SDN-42-Modeling-Agencies-01-Analysis
 
 - https://rentry.co/wt77wdkv
-
-- 2026-11-06
-
-SDN-42-Modeling-Agencies-02-Phonebook
-
-- https://rentry.co/2ifyaoa3
 
 - 2026-11-06
 
@@ -180,27 +186,15 @@ SDN-42-Modeling-Agencies-03-Narrative
 
 - 2026-11-06
 
-SDN-13-Legal-53-Investigate-02-Military-Operations
+SDN-42-Modeling-Agencies-02-Phonebook
 
-- https://rentry.co/iw393vy9
+- https://rentry.co/2ifyaoa3
 
-- 2026-11-05
+- 2026-11-06
 
-SDN-13-Legal-53-Investigate-03-War-in-Iran
+SDN-13-Legal-53-Investigate-07-Defense-Contracting-Conflicts
 
-- https://rentry.co/eymbsw4u
-
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-04-Cryptocurrency
-
-- https://rentry.co/avh8tpp4
-
-- 2026-11-05
-
-SDN-13-Legal-53-Investigate-05-International-Crimes
-
-- https://rentry.co/36cxssak
+- https://rentry.co/evk2tu47
 
 - 2026-11-05
 
@@ -210,15 +204,33 @@ SDN-13-Legal-53-Investigate-06-Federal-Agency-Favoritism
 
 - 2026-11-05
 
-SDN-13-Legal-53-Investigate-07-Defense-Contracting-Conflicts
+SDN-13-Legal-53-Investigate-01-Epstein-Network
 
-- https://rentry.co/evk2tu47
+- https://rentry.co/8epynwqi
+
+- 2026-11-06
+
+SDN-13-Legal-53-Investigate-02-Military-Operations
+
+- https://rentry.co/iw393vy9
 
 - 2026-11-05
 
-SDN-13-Legal-53-Investigate-08-Donations-and-Land-Leasing
+SDN-13-Legal-53-Investigate-04-Cryptocurrency
 
-- https://rentry.co/6ersh7ei
+- https://rentry.co/avh8tpp4
+
+- 2026-11-05
+
+SDN-98-16-Scientists-Non-EDU
+
+- https://rentry.co/qh6ah7nz
+
+- 2026-10-01
+
+SDN-13-Legal-53-Investigate-03-War-in-Iran
+
+- https://rentry.co/eymbsw4u
 
 - 2026-11-05
 
@@ -234,17 +246,29 @@ SDN-13-Legal-53-Investigate-10-Dark-Money
 
 - 2026-11-05
 
-SDN-14-Financial-08-FinCen-09-Phang-Bessent
+SDN-98-15-Scientists-Field-Affiliations
 
-- https://rentry.co/sh8dzcwu
+- https://rentry.co/t8yzu4a4
 
-- 2026-11-01
+- 2026-09-30
 
-SDN-13-Legal-54-House-Vote-01-Nov-11
+SDN-13-Legal-53-Investigate-05-International-Crimes
 
-- https://rentry.co/kas6pxbm 
+- https://rentry.co/36cxssak
 
-- 2026-11-00
+- 2026-11-05
+
+SDN-13-Legal-53-Investigate-08-Donations-and-Land-Leasing
+
+- https://rentry.co/6ersh7ei
+
+- 2026-11-05
+
+SDN-14-Financial-08-FinCen-06-Lake-Michagin-Yatchs
+
+- https://rentry.co/p6foosvv
+
+- 2026-10-31
 
 SDN-14-Financial-08-FinCen-03-Epstein
 
@@ -252,11 +276,11 @@ SDN-14-Financial-08-FinCen-03-Epstein
 
 - 2026-10-31
 
-SDN-14-Financial-08-FinCen-06-Lake-Michagin-Yatchs
+SDN-14-Financial-08-FinCen-04-Loopholes
 
-- https://rentry.co/p6foosvv
+- https://rentry.co/imzym2zt
 
-- 2026-10-31
+- 2026-10-30
 
 SDN-14-Financial-08-FinCen-07-Interlochen-1967
 
@@ -270,6 +294,18 @@ SDN-14-Financial-08-FinCen-08-Interlochen-1994
 
 - 2026-10-31
 
+SDN-14-Financial-08-FinCen-09-Phang-Bessent
+
+- https://rentry.co/sh8dzcwu
+
+- 2026-11-01
+
+SDN-SDN-13-Legal-53-NM-20261026
+
+- https://rentry.co/a8itxbga
+
+- 2026-10-26
+
 SDN-14-Financial-08-FinCen-01
 
 - https://rentry.co/woiv3h2m
@@ -279,12 +315,6 @@ SDN-14-Financial-08-FinCen-01
 SDN-14-Financial-08-FinCen-02-Banks
 
 - https://rentry.co/bhfyp6ic
-
-- 2026-10-30
-
-SDN-14-Financial-08-FinCen-04-Loopholes
-
-- https://rentry.co/imzym2zt
 
 - 2026-10-30
 
@@ -300,11 +330,11 @@ SDN-18-Miss-Teen-Pageants-02
 
 - 2026-10-27
 
-SDN-SDN-13-Legal-53-NM-20261026
+SDN-13-Legal-52-FBI-Counter-Arguments
 
-- https://rentry.co/a8itxbga
+- https://rentry.co/fch45nk9
 
-- 2026-10-26
+- 2026-10-07
 
 SDN-14-Financial-06-Banks-Article
 
@@ -324,29 +354,13 @@ SDN-41-Fellow-rhowardstone
 
 - 2026-10-08
 
-SDN-13-Legal-52-FBI-Counter-Arguments
-
-- https://rentry.co/fch45nk9
-
-- 2026-10-07
-
-SDN-98-16-Scientists-Non-EDU
-
-- https://rentry.co/qh6ah7nz
-
-- 2026-10-01
-
 SDN-98-14-Scientists
 
 - https://rentry.co/fagcbgcf
 
 - 2026-09-30
 
-SDN-98-15-Scientists-Field-Affiliations
+xyz
 
-- https://rentry.co/t8yzu4a4
+- YYYY-MM-DD
 
-
-----
-
-----
