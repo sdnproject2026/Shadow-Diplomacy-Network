@@ -194,195 +194,269 @@ _Who has been informed_
 
 ## Latest Chapters
 
-SDN-45-DeucheBank-Leak-01-Nov-17
+### SDN 13 Legal 57 Phang 1121 02 Meta
 
-- https://rentry.co/2pwf574n 
+- [SDN-13-Legal-57-Phang-1121-02-Meta.md](./SDN-13-Legal-57-Phang-1121-02-Meta.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-45-Deutsche-Bank-Leak-02-Emails
+### SDN 13 Legal 57 Phang 1121 01 Meta
 
-- https://rentry.co/fb2u59d2 
+- [SDN-13-Legal-57-Phang-1121-01-Meta.md](./SDN-13-Legal-57-Phang-1121-01-Meta.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-01-Epstein
+### SDN 45 Deutsche Bank Leak 01 Nov 17 Meta
 
-- https://rentry.co/u8ib78d9 
+- [SDN-45-Deutsche-Bank-Leak-01-Nov-17-Meta.md](./SDN-45-Deutsche-Bank-Leak-01-Nov-17-Meta.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-02-Epstein-Persons 
+### SDN 13 Legal 57 Phang 1121 01 Next Steps
 
-- https://rentry.co/szutaxwa 
+- [SDN-13-Legal-57-Phang-1121-01-Next-Steps.md](./SDN-13-Legal-57-Phang-1121-01-Next-Steps.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-03-Intersecting
+### SDN 13 Legal 57 Phang 1121 02 Midterms
 
-- https://rentry.co/xswdk6dm 
+- [SDN-13-Legal-57-Phang-1121-02-Midterms.md](./SDN-13-Legal-57-Phang-1121-02-Midterms.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-04-Intersecting-Persons
+### SDN 45 Deutsche Bank Leak 02 Emails Synop Meta
 
-- https://rentry.co/4qxka8mf 
+- [SDN-45-Deutsche-Bank-Leak-02-Emails-Synop-Meta.md](./SDN-45-Deutsche-Bank-Leak-02-Emails-Synop-Meta.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-05-Panama-Papers
+### SDN 45 Deutsche Bank Leak 01 Nov 17 Synop Meta
 
-- https://rentry.co/2egmxihm 
+- [SDN-45-Deutsche-Bank-Leak-01-Nov-17-Synop-Meta.md](./SDN-45-Deutsche-Bank-Leak-01-Nov-17-Synop-Meta.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-06-Panama-Persons
+### SDN 45 Deutsche Bank Leak 01 Nov 17 Synop
 
-- https://rentry.co/xuzrx74i 
+- [SDN-45-Deutsche-Bank-Leak-01-Nov-17-Synop.md](./SDN-45-Deutsche-Bank-Leak-01-Nov-17-Synop.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak
+### SDN 45 Deutsche Bank Leak 02 Emails Synop
 
-- https://rentry.co/7c2vizr2 
+- [SDN-45-Deutsche-Bank-Leak-02-Emails-Synop.md](./SDN-45-Deutsche-Bank-Leak-02-Emails-Synop.md)
 
-- 2026-11-20
+- 2026-11-27
 
-SDN-46-Trump-Lawyers-08-Deutsche-Persons
+### SDN 46 Trump Lawyers 10 Meta
 
-- https://rentry.co/cm7zhw7a 
+- [SDN-46-Trump-Lawyers-10-Meta.md](./SDN-46-Trump-Lawyers-10-Meta.md)
 
-- 2026-11-20
+- 2026-11-21
 
-SDN-46-Trump-Lawyers-09-NDAs
+### SDN 45 Deutsche Bank Leak 01 Nov 17
 
-- https://rentry.co/utbz46uh 
+- [SDN-45-Deutsche-Bank-Leak-01-Nov-17.md](./SDN-45-Deutsche-Bank-Leak-01-Nov-17.md)
 
-- 2026-11-20
+- 2026-11-21
 
-SDN-46-Trump-Lawyers-10-Predicates
+### SDN 46 Trump Lawyers 11 Meta
 
-- https://pastes.io/dKzI9O9M
-
-BLOCKED
- 
-- https://rentry.co/vhrzcgue
+- [SDN-46-Trump-Lawyers-11-Meta.md](./SDN-46-Trump-Lawyers-11-Meta.md)
 
 - 2026-11-20
 
-SDN-46-Trump-Lawyers-11-Predicates-Persons
+### SDN 46 Trump Lawyers 08 Meta
 
-- https://rentry.co/tt9w3zyq 
+- [SDN-46-Trump-Lawyers-08-Meta.md](./SDN-46-Trump-Lawyers-08-Meta.md)
 
 - 2026-11-20
 
-SDN-44-Countries-01-Profiles
+### SDN 46 Trump Lawyers 09 Meta
 
-- https://rentry.co/sspwy4rx 
+- [SDN-46-Trump-Lawyers-09-Meta.md](./SDN-46-Trump-Lawyers-09-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 07 Meta
+
+- [SDN-46-Trump-Lawyers-07-Meta.md](./SDN-46-Trump-Lawyers-07-Meta.md)
+
+- 2026-11-20
+
+### SDN 45 Deutsche Bank Leak 02 Meta
+
+- [SDN-45-Deutsche-Bank-Leak-02-Meta.md](./SDN-45-Deutsche-Bank-Leak-02-Meta.md)
+
+- 2026-11-20
+
+### SDN 45 Deutsche Bank Leak 01 Meta
+
+- [SDN-45-Deutsche-Bank-Leak-01-Meta.md](./SDN-45-Deutsche-Bank-Leak-01-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 06 Meta
+
+- [SDN-46-Trump-Lawyers-06-Meta.md](./SDN-46-Trump-Lawyers-06-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 05 Meta
+
+- [SDN-46-Trump-Lawyers-05-Meta.md](./SDN-46-Trump-Lawyers-05-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 03 Meta
+
+- [SDN-46-Trump-Lawyers-03-Meta.md](./SDN-46-Trump-Lawyers-03-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 04 Meta
+
+- [SDN-46-Trump-Lawyers-04-Meta.md](./SDN-46-Trump-Lawyers-04-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 02 Meta
+
+- [SDN-46-Trump-Lawyers-02-Meta.md](./SDN-46-Trump-Lawyers-02-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 01 Meta
+
+- [SDN-46-Trump-Lawyers-01-Meta.md](./SDN-46-Trump-Lawyers-01-Meta.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 01 Epstein
+
+- [SDN-46-Trump-Lawyers-01-Epstein.md](./SDN-46-Trump-Lawyers-01-Epstein.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 02 Epstein Persons
+
+- [SDN-46-Trump-Lawyers-02-Epstein-Persons.md](./SDN-46-Trump-Lawyers-02-Epstein-Persons.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 03 Intersecting
+
+- [SDN-46-Trump-Lawyers-03-Intersecting.md](./SDN-46-Trump-Lawyers-03-Intersecting.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 04 Intersecting Persons
+
+- [SDN-46-Trump-Lawyers-04-Intersecting-Persons.md](./SDN-46-Trump-Lawyers-04-Intersecting-Persons.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 05 Panama Papers
+
+- [SDN-46-Trump-Lawyers-05-Panama-Papers.md](./SDN-46-Trump-Lawyers-05-Panama-Papers.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 06 Panama Persons
+
+- [SDN-46-Trump-Lawyers-06-Panama-Persons.md](./SDN-46-Trump-Lawyers-06-Panama-Persons.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 07 Deutsche Bank Leak
+
+- [SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak.md](./SDN-46-Trump-Lawyers-07-Deutsche-Bank-Leak.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 08 Deutsche Persons
+
+- [SDN-46-Trump-Lawyers-08-Deutsche-Persons.md](./SDN-46-Trump-Lawyers-08-Deutsche-Persons.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 09 NDAs
+
+- [SDN-46-Trump-Lawyers-09-NDAs.md](./SDN-46-Trump-Lawyers-09-NDAs.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 10 Predicates
+
+- [SDN-46-Trump-Lawyers-10-Predicates.md](./SDN-46-Trump-Lawyers-10-Predicates.md)
+
+- 2026-11-20
+
+### SDN 46 Trump Lawyers 11 Predicates Persons
+
+- [SDN-46-Trump-Lawyers-11-Predicates-Persons.md](./SDN-46-Trump-Lawyers-11-Predicates-Persons.md)
+
+- 2026-11-20
+
+### SDN 45 Deutsche Bank Leak 02 Emails
+
+- [SDN-45-Deutsche-Bank-Leak-02-Emails.md](./SDN-45-Deutsche-Bank-Leak-02-Emails.md)
+
+- 2026-11-20
+
+### SDN 44 Countries 01 Meta
+
+- [SDN-44-Countries-01-Meta.md](./SDN-44-Countries-01-Meta.md)
+
+- 2026-11-16
+
+### SDN 44 Countries 02 Meta
+
+- [SDN-44-Countries-02-Meta.md](./SDN-44-Countries-02-Meta.md)
+
+- 2026-11-16
+
+### SDN 44 Countries 03 Meta
+
+- [SDN-44-Countries-03-Meta.md](./SDN-44-Countries-03-Meta.md)
+
+- 2026-11-16
+
+### SDN 44 Countries 01 Profiles
+
+- [SDN-44-Countries-01-Profiles.md](./SDN-44-Countries-01-Profiles.md)
 
 - 2026-11-13
 
-SDN-44-Countries-02-Legal-Cooperation
+### SDN 13 Legal 56 Meta
 
-- https://rentry.co/qowb7pem 
-
-- 2026-11-13
-
-SDN-44-Countries-03-Epstein-Places
-
-- https://rentry.co/8r2krdn3 
+- [SDN-13-Legal-56-Meta.md](./SDN-13-Legal-56-Meta.md)
 
 - 2026-11-13
 
-SDN-13-Legal-56-Phang-20261112
+### SDN 13 Legal 56 Phang 20261112
 
-- https://rentry.co/knq4xrif 
+- [SDN-13-Legal-56-Phang-20261112.md](./SDN-13-Legal-56-Phang-20261112.md)
 
 - 2026-11-12
 
-SDN-13-Legal-55-GOP-Report-Nov-10-01
+### SDN 44 Countries 03 Epstein Places
 
-- https://rentry.co/bymef2zx
+- [SDN-44-Countries-03-Epstein-Places.md](./SDN-44-Countries-03-Epstein-Places.md)
 
-- 2026-11-08
+- 2026-11-12
 
-SDN-13-Legal-55-GOP-Report-Nov-10-02
+### SDN 44 Countries 02 Legal Cooperation
 
-- https://rentry.co/oq9ox77g
+- [SDN-44-Countries-02-Legal-Cooperation.md](./SDN-44-Countries-02-Legal-Cooperation.md)
 
-- 2026-11-08
+- 2026-11-12
 
-SDN-13-Legal-55-GOP-Report-Nov-10-03
-
-- https://rentry.co/4p2d89nt 
-
-- 2026-11-08
-
-SDN-43-60-Minutes-01-1988
-
-- https://rentry.co/xqchzeh5
-
-- 2026-11-08
-
-SDN-43-60-Minutes-02-Kiran
-
-- https://rentry.co/2id3e8e4
-
-- 2026-11-08
-
-SDN-43-60-Minutes-03-MC2
-
-- https://rentry.co/tq92myi3
-
-- 2026-11-08
-
-SDN-43-60-Minutes-04-Elite
-
-- https://rentry.co/dmzvchgg
-
-- 2026-11-08
-
-SDN-43-60-Minutes-05-1Mother
-
-- https://rentry.co/u7sw4zgc
-
-- 2026-11-08
-
-SDN-43-60-Minutes-06-Linea12
-
-- https://rentry.co/25xsxpyc
-
-- 2026-11-08
-
-SDN-13-Legal-53-Investigate-01-Epstein-Network
-
-- https://rentry.co/8epynwqi
-
-- 2026-11-06
-
-SDN-42-Modeling-Agencies-01-Analysis
-
-- https://rentry.co/wt77wdkv
-
-- 2026-11-06
-
-SDN-42-Modeling-Agencies-02-Phonebook
-
-- https://rentry.co/cs2vcxtd
-
-- 2026-11-06
-
-SDN-42-Modeling-Agencies-03-Narrative
-
-- https://rentry.co/mh9igtbk
-
-- 2026-11-06
-
-SDN-18-Miss-Teen-Pageants-02
+### SDN-18-Miss-Teen-Pageants-02
 
 - https://rentry.co/y6aq3oew
 
- - 2026-10-27
+- 2026-10-27
 
 ## Miss Switzerland Raped in 1993
 
